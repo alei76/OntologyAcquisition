@@ -8,16 +8,20 @@
 ###### Load EHowNet Library and EHowNet Ontology
 * Add `ontologyAcquisition.jar` to classpath
 * Get an instance of the Ontology file `ehownet_ontology.txt`
-    ```java
+
+	```java
     EHowNetTree tree = EHowNetTree.getInstance("./docs/ehownet_ontology.txt");
     ```
 
+
 ###### Search
 * For example, we search for 「開心」
-    ```java
+
+	```java
     List<EHowNetNode> results = tree.searchWord("開心");
     EHowNetNode node = results.get(0);
     ```
+
 * If there's no result, an empty List will be returned
 
 
@@ -46,9 +50,11 @@
 ###### Convert a Text File into CKIP-Tagged Document
 * Add `ontologyAcquisition.jar` and `jsoup-1.9.2.jar` to classpath
 * Set the input/output files and convert
-    ```java
+
+	```java
     Converter.toCKIP("ckip_input.txt", "ckip_output.txt");
     ```
+
 * We can also convert the documents online: http://sunlight.iis.sinica.edu.tw/uwextract/demo.htm
 
 
@@ -56,7 +62,8 @@
 ###### Load the Acquisition Tools
 * Add `ontologyAcquisition.jar` and `jxl.jar` to classpath
 * Initialize and start with root concept, CKIP-documents and EHowNet
-    ```java
+
+	```java
     OntologyAcquisition oa = new OntologyAcquisition("教育", "./docs/ckip", "./docs/ehownet_ontology.txt");
     oa.start();
     ```
@@ -64,9 +71,11 @@
 
 ###### Search for a specific concept
 * For example, we search for 「會議」
-    ```java
+
+	```java
     OntologyNode node = oa.searchConcept("會議");
     ```
+
 * If the concept does not exist, `null` will be returned
 
 
@@ -97,10 +106,11 @@
     * `Makefile` is available
         * `OntologyDemo$ make` to compile, `OntologyDemo$ make run` to run
     * Command to Compile and Run
-        ```
+
+        ```java
         OntologyDemo$ javac -d bin -sourcepath src -encoding utf8 -cp libs/jsoup-1.9.2.jar;libs/jxl.jar;libs/ontologyAcquisition.jar src/Main.java
         
-        OntologyDemo$ java -Dfile.encoding=UTF-8 -cp bin;libs/jsoup-1.9.2.jar;libs/jxl.jar;libs/ontologyAcquisition.jar Main`
+        OntologyDemo$ java -Dfile.encoding=UTF-8 -cp bin;libs/jsoup-1.9.2.jar;libs/jxl.jar;libs/ontologyAcquisition.jar Main
         ```
 
 
