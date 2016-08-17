@@ -1,0 +1,3 @@
+　【(PARENTHESISCATEGORY)　驚(Na)　】(PARENTHESISCATEGORY)　7(Neu)　/(FW)　5(Neu)　的(DE)　全(Neqa)　台(Nc)　串聯(VC)　上街(VA)　行動(VA)　，(COMMACATEGORY)
+　不只(Da)　自由(VH)　、(PAUSECATEGORY)　Taipei(FW)　Times(FW)　刊(Na)　為(VG)　頭版(Na)　，(COMMACATEGORY)
+　居然(D)　連(Cbb)　聯合報(Nb)　也(D)　會(D)　刊(VC)　反(VC)　黑箱(A)　課綱(Na)　的(DE)　新聞(Na)　了(T)　....(ETCCATEGORY)　！(EXCLANATIONCATEGORY)

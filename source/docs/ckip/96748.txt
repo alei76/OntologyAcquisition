@@ -1,0 +1,5 @@
+　大家(Nh)　好(VH)　，(COMMACATEGORY)
+　我們(Nh)　是(SHI)　反(VC)　黑箱(A)　課綱(Na)　高雄(Nc)　新莊(Nc)　高中(Nc)　的(DE)　團隊(Na)　，(COMMACATEGORY)
+　今天(Nd)　開始(VL)　我們(Nh)　將(D)　會(D)　出現(VH)　在(P)　各(Nes)　班(Nf)　宣傳(VC)　我們(Nh)　的(DE)　活動(Na)　，(COMMACATEGORY)
+　如果(Cbb)　看見(VE)　我們(Nh)　請(VF)　不要(D)　吝嗇(VH)　你(Nh)　的(DE)　掌聲(Na)　，(COMMACATEGORY)
+　務必(D)　多多(D)　支持(VC)　我們(Nh)　！(EXCLANATIONCATEGORY)

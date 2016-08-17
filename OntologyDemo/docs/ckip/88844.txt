@@ -1,0 +1,15 @@
+　【(PARENTHESISCATEGORY)　課(Na)　綱(Na)　微調(Na)　首(Nes)　場(Nf)　校園(Nc)　肥皂箱(Na)　短(VH)　講(VE)　，(COMMACATEGORY)
+　就(D)　在(P)　明天(Nd)　！(EXCLANATIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+　於(P)　明日(Nd)　中午(Nd)　12(Neu)　:(COLONCATEGORY)　　15(Neu)　~(FW)　12(Neu)　:(COLONCATEGORY)　　40(Neu)　，(COMMACATEGORY)
+　將(D)　會(D)　在(P)　扇形(Na)　廣場(Nc)　舉行(VC)　有關(VJ)　課綱(Na)　微調(Na)　肥皂箱(Na)　短(VH)　講(VE)　。(PERIODCATEGORY)
+　歡迎(VJ)　大家(Nh)　前來(VCL)　。(PERIODCATEGORY)
+
+　課綱(Na)　關乎(VK)　你我(Na)　，(COMMACATEGORY)
+　程序(Na)　正義(Na)　關乎(VK)　這(Nep)　國家(Na)　。(PERIODCATEGORY)
+
+　希望(VK)　北一(Nb)　的(DE)　同學(Na)　都(D)　能(D)　前來(VCL)　，(COMMACATEGORY)
+　來(D)　了解(VK)　我們(Nh)　為何(D)　反彈(VA)　。(PERIODCATEGORY)
+
+　〈(PARENTHESISCATEGORY)　新增(VJ)　文宣(Na)　〉(PARENTHESISCATEGORY)　

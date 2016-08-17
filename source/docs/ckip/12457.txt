@@ -1,0 +1,25 @@
+　今天(Nd)　下午(Nd)　記者會(Na)　
+
+　反(VC)　洗腦(Nv)　課綱(Na)　學生(Na)　陣線(Na)　聲明(Na)　
+
+
+
+　絕對(D)　和平(VH)　理性(Na)　和平(VH)　理性(Na)　和平(VH)　理性(Na)　
+
+　單純(VH)　說明(VE)　，(COMMACATEGORY)
+　表達(VC)　我們(Nh)　的(DE)　訴求(Na)　
+
+　譴責(VC)　教育部長(Na)　玩弄(VC)　學子(Na)　的(DE)　表現(Na)　
+
+　抨擊(VC)　教育部(Nc)　忘記(VK)　台灣史(Na)　強化(VHC)　中國史(Na)　的(DE)　做法(Na)　
+
+
+
+　外面(Ncd)　誤傳(VD)　我們(Nh)　將(D)　有(V_2)　激烈(VH)　抗爭(Na)　行動(Na)　，(COMMACATEGORY)
+　事實(Na)　上(Ng)　我們(Nh)　只是(D)　在(P)　教育部(Nc)　前(Ncd)　抗議(VE)　部長(Na)　臨陣脫逃(VA)　不(D)　願(VK)　面對(VC)　學子(Na)　的(DE)　行為(Na)　，(COMMACATEGORY)
+　舉辦(VC)　記者會(Na)　以及(Caa)　和(P)　張文隆(Nb)　教師(Na)　一起(D)　說明(VE)　微調(A)　課綱(Na)　修正(VC)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+
+
+
+　再次(D)　聲明(VE)　，(COMMACATEGORY)
+　絕無(VJ)　違法(Nv)　行為(Na)　

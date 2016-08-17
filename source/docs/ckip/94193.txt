@@ -1,0 +1,37 @@
+　((PARENTHESISCATEGORY)　節錄(VC)　)(PARENTHESISCATEGORY)　
+
+　教育部(Nc)　新聞稿(Na)　指(VC)　，(COMMACATEGORY)
+　103年(Nd)　2月(Nd)　10日(Nd)　修正(VC)　發布(VE)　的(DE)　普通(VH)　高級(VH)　中學(Nc)　國文(Na)　及(Caa)　社會(Na)　領域(Na)　課程(Na)　綱要(Na)　，(COMMACATEGORY)
+　係為(VG)　具體(VH)　回應(VC)　教師(Na)　教學(Nv)　與(Caa)　學生(Na)　學習(VC)　之(DE)　需求(Na)　，(COMMACATEGORY)
+　進行(VC)　符合(VJ)　憲法(Na)　、(PAUSECATEGORY)　配合(VC)　國際(Nc)　脈動(Na)　調整(VC)　議題(Na)　，(COMMACATEGORY)
+　並(Cbb)　適當(VH)　精簡(VJ)　內容(Na)　、(PAUSECATEGORY)　錯誤(Na)　勘誤(Nv)　與(Caa)　內容(Na)　補正(Nv)　等(Cab)　面向(Na)　之(DE)　檢核(Nv)　修正(Nv)　，(COMMACATEGORY)
+　國教院(Nc)　並(D)　召開(VC)　諮詢(Nv)　會議(Na)　及(Caa)　北(Ncd)　、(PAUSECATEGORY)　中(Nc)　、(PAUSECATEGORY)　南(Ncd)　3(Neu)　場次(Na)　公聽會(Na)　廣徵(VC)　各界(Na)　意見(Na)　，(COMMACATEGORY)
+　其(Nep)　程序(Na)　合法(VH)　透明(VH)　，(COMMACATEGORY)
+　審議(VC)　過程(Na)　符合(VJ)　審議(Nv)　規定(Na)　及(Caa)　民主(Na)　原則(Na)　，(COMMACATEGORY)
+　且(Cbb)　調整(VC)　後(Ng)　之(DE)　課(Na)　綱(Na)　，(COMMACATEGORY)
+　貼近(VC)　史實(Na)　並(D)　提升(VC)　台灣(Nc)　主體性(Na)　，(COMMACATEGORY)
+　以利(VJ)　接軌(VH)　十二(Neu)　年(Nf)　國民(Na)　基本(A)　教育(Na)　課程(Na)　綱要(Na)　之(DE)　實施(Nv)　。(PERIODCATEGORY)
+
+
+
+　教育部(Nc)　的(DE)　新聞稿(Na)　兩(Neu)　度(Nf)　提到(VE)　要(D)　維持(VJ)　校園(Nc)　安定(VHC)　，(COMMACATEGORY)
+　對(P)　學生(Na)　語帶(Na)　威脅(Na)　。(PERIODCATEGORY)
+　學生(Na)　以(P)　理性(Na)　思辨(VA)　的(DE)　方式(Na)　，(COMMACATEGORY)
+　抗議(VE)　黑箱(A)　課綱(Na)　並(Cbb)　自發性(Na)　地(DE)　發起(VC)　校際(Nc)　串聯(VC)　，(COMMACATEGORY)
+　會(D)　影響(VC)　什麼(Nep)　校園(Nc)　安定(VHC)　？(QUESTIONCATEGORY)
+　教育部(Nc)　這樣(VH)　扣(VC)　學生(Na)　帽子(Na)　，(COMMACATEGORY)
+　根本(D)　是(SHI)　威權(Na)　政府(Na)　的(DE)　作法(Na)　。(PERIODCATEGORY)
+　而且(Cbb)　我(Nh)　已經(D)　接獲(VC)　某(Nes)　高中(Nc)　老師(Na)　反映(VE)　，(COMMACATEGORY)
+　國教署(Nc)　已經(D)　開始(VL)　去電(VC)　學校(Nc)　，(COMMACATEGORY)
+　關切(VJ)　學生(Na)　串聯(VC)　抗議(Nv)　黑箱(A)　課綱(Na)　的(DE)　舉動(Na)　，(COMMACATEGORY)
+　還(D)　希望(VK)　各(Nes)　高中(Nc)　校長(Na)　好好(VH)　處理(VC)　。(PERIODCATEGORY)
+　教育部(Nc)　不(D)　思(VE)　檢討(VE)　撤銷(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　卻(D)　公開(VHC)　要求(Na)　維持(VJ)　校園(Nc)　安定(VHC)　，(COMMACATEGORY)
+　私下(D)　要求(VF)　校方(Na)　處理(Nv)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　教育部(Nc)　還是(Caa)　警備總部(Nc)　？(QUESTIONCATEGORY)
+
+
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1333194(Neu)　

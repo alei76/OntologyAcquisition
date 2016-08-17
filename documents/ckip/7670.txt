@@ -1,0 +1,47 @@
+　全(Neqa)　國(Nc)　高中生(Na)　自發(VH)　反(VC)　黑箱(A)　微調(Na)　課綱(Na)　行動(Na)　，(COMMACATEGORY)
+　迄(P)　今晚(Nd)　至少(Da)　已(D)　有(V_2)　221(Neu)　校(Nc)　參與(VC)　，(COMMACATEGORY)
+　各(Nes)　校(Nc)　設計(Na)　具(VJ)　特色(Na)　的(DE)　臉(Na)　書(Na)　，(COMMACATEGORY)
+　顯示(VK)　高中生(Na)　的(DE)　多(Neqa)　才(Na)　，(COMMACATEGORY)
+　內容(Na)　各(Nes)　有(V_2)　不同(VH)　，(COMMACATEGORY)
+　但(Cbb)　都(D)　有(V_2)　同樣(VH)　的(DE)　目標(Na)　：(COLONCATEGORY)　　反對(VE)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　拒絕(VF)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　要求(VF)　撤回(VC)　黑箱(A)　微調(Na)　課綱(Na)　。(PERIODCATEGORY)
+
+
+
+
+
+　新竹(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　小組(Na)　召開(VC)　校(Nc)　內(Ncd)　第一(Neu)　場(Nf)　公共(A)　論壇(Na)　，(COMMACATEGORY)
+　將(D)　凝聚(VC)　共識(Na)　，(COMMACATEGORY)
+　並(Cbb)　向(P)　教育部(Nc)　提出(VC)　訴求(Na)　。(PERIODCATEGORY)
+　（(PARENTHESISCATEGORY)　記者(Na)　洪美秀(Nb)　攝(VC)　）(PARENTHESISCATEGORY)　
+
+
+
+　對於(P)　武陵(Nc)　高中(Nc)　校長(Na)　開訓(VH)　，(COMMACATEGORY)
+　由(P)　高中(Nc)　老師(Na)　、(PAUSECATEGORY)　大學(Nc)　教授(Na)　和(Caa)　教育(Na)　團體(Na)　成立(VC)　的(DE)　反(VC)　黑箱(A)　課綱(Na)　行動(Na)　聯盟(Na)　，(COMMACATEGORY)
+　今天(Nd)　聲援(VC)　武陵(Nc)　高中(Nc)　學生(Na)　。(PERIODCATEGORY)
+　聯盟(Na)　成員(Na)　之(DE)　一(Neu)　、(PAUSECATEGORY)　人本(A)　基金會(Nc)　執行長(Na)　馮喬蘭(Nb)　表示(VE)　，(COMMACATEGORY)
+　教育部長(Na)　違法亂紀(Nv)　在先(VH)　，(COMMACATEGORY)
+　學生(Na)　出面(VA)　反對(VE)　違法(Nv)　課綱(Na)　是(SHI)　在(P)　搶救(VC)　教育(Na)　，(COMMACATEGORY)
+　校長(Na)　限制(Na)　學生(Na)　言論(Na)　自由(Na)　已(D)　涉(VK)　違憲(VA)　。(PERIODCATEGORY)
+
+
+
+　馮喬蘭(Nb)　呼籲(VE)　校長(Na)　要(D)　選對(VC)　邊(Ncd)　，(COMMACATEGORY)
+　選錯(VC)　邊(D)　是(SHI)　站到(VCL)　與(P)　公理(Na)　作對(VB)　的(DE)　那(Nep)　一(Neu)　邊(Ncd)　，(COMMACATEGORY)
+　學生(Na)　只好(D)　反對(VE)　你(Nh)　，(COMMACATEGORY)
+　反(VC)　黑箱(A)　課綱(Na)　行動(Na)　聯盟(Na)　與(Caa)　公民(Na)　團體(Na)　也(D)　會(D)　反對(VE)　你(Nh)　。(PERIODCATEGORY)
+
+
+
+　馮喬蘭(Nb)　質疑(VE)　，(COMMACATEGORY)
+　武陵(Nc)　高中(Nc)　校長(Na)　限制(Na)　學生(Na)　的(DE)　表達(Nv)　自由(Na)　已(D)　涉(VK)　違憲(VA)　，(COMMACATEGORY)
+　人本(A)　在(P)　檢視(VC)　校規(Na)　時(Ng)　也(D)　都(D)　特別(VH)　標舉(VC)　人(Na)　和(Caa)　校園(Nc)　裡(Ncd)　的(DE)　生活(Na)　公約(Na)　規定(Na)　，(COMMACATEGORY)
+　不得(D)　違法(VA)　違憲(VA)　，(COMMACATEGORY)
+　不得(D)　箝制(VC)　學生(Na)　言論(Na)　表達(VC)　自由(Na)　，(COMMACATEGORY)
+　呼籲(VE)　各(Nes)　學校(Nc)　審慎(VH)　為之(Cbb)　，(COMMACATEGORY)
+　更(D)　呼籲(VE)　教育部(Nc)　懲處(Nv)　校長(Na)　，(COMMACATEGORY)
+　要求(VF)　學校(Nc)　不得(D)　箝制(VC)　憲法(Na)　保障(VC)　學生(Na)　的(DE)　言論(Na)　自由(VH)　。(PERIODCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1339182(Neu)　

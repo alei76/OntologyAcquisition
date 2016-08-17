@@ -1,0 +1,13 @@
+　文學(Na)　來自(VJ)　人性(Na)　，(COMMACATEGORY)
+　來自(VJ)　人群(Na)　，(COMMACATEGORY)
+　來自(VJ)　土地(Na)　，(COMMACATEGORY)
+　來自(VJ)　文化(Na)　，(COMMACATEGORY)
+　來自(VJ)　社會(Na)　。(PERIODCATEGORY)
+　學生(Na)　不應該(D)　只(Da)　學習(VC)　如何(D)　堆砌(VC)　華麗(VH)　的(DE)　詞藻(Na)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　學習(VC)　抒發(VC)　自我(Nh)　真實(VH)　的(DE)　感受(Na)　，(COMMACATEGORY)
+　學生(Na)　不應該(D)　只(Da)　為了(P)　考試(Na)　分數(Na)　汲汲營營(VA)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　回首(VJ)　欣賞(VJ)　養育(VC)　我們(Nh)　的(DE)　土地(Na)　。(PERIODCATEGORY)
+
+
+
+　學生(Na)　不應該(D)　被(P)　奪去(VC)　認識(VJ)　自我(Nh)　進而(Cbb)　認識(VJ)　這(Nep)　個(Nf)　世界(Nc)　的(DE)　權利(Na)　。(PERIODCATEGORY)

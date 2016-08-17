@@ -1,0 +1,13 @@
+　參加(VC)　社會(Na)　運動(Na)　是(SHI)　一(Neu)　個(Nf)　浪費(Nv)　時間(Na)　的(DE)　事情(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+　在(P)　武陵(Nc)　高中(Nc)　就(D)　不能(D)　參加(VC)　社會(Na)　運動(Na)　?(QUESTIONCATEGORY)
+
+　難道(D)　高中生(Na)　的(DE)　社會(Na)　運動(Na)　就(D)　是(SHI)　對(P)　事件(Na)　的(DE)　不(D)　了解(VK)　嗎(T)　?(QUESTIONCATEGORY)
+
+
+
+
+
+
+
+　沒有(VJ)　社會(Na)　運動(Na)　這(Nep)　個(Nf)　社會(Na)　根本(D)　就(D)　不會(D)　更(D)　好(VH)　.(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　「(PARENTHESISCATEGORY)　我們(Nh)　都(D)　是(SHI)　未(D)　成年(VH)　手無寸鐵(VH)　的(DE)　中學生(Na)　，(COMMACATEGORY)
+　只(Da)　為了(P)　追求(VC)　教育(Na)　正義(Na)　，(COMMACATEGORY)
+　被(P)　政府(Na)　逼(VF)　得(D)　走上(VCL)　街頭(Nc)　，(COMMACATEGORY)
+　教育部(Nc)　用(P)　鐵門(Na)　和(Caa)　蛇龍(Na)　對付(VC)　我們(Nh)　，(COMMACATEGORY)
+　但(Cbb)　我們(Nh)　會(D)　用(P)　紙(Na)　飛機(Na)　、(PAUSECATEGORY)　黑傘(Na)　行動(Na)　回應(Nv)　，(COMMACATEGORY)
+　平和(VH)　理性(Na)　地(DE)　表達(Nv)　，(COMMACATEGORY)
+　堅決(VH)　要求(VF)　退回(VC)　微調(A)　課綱(Na)　的(DE)　訴求(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　

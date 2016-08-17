@@ -1,0 +1,15 @@
+　我們(Nh)　邀請到(VC)　「(PARENTHESISCATEGORY)　臺灣(Nc)　大學(Nc)　歷史系(Nc)　陳翠蓮(Nb)　教授(Na)　」(PARENTHESISCATEGORY)　來(VA)　中崙(Nc)　高中(Nc)　演講(Na)　。(PERIODCATEGORY)
+　教授(Na)　將(D)　會(D)　針對(P)　新課綱(Na)　「(PARENTHESISCATEGORY)　內容(Na)　」(PARENTHESISCATEGORY)　中(Ng)　具有(VJ)　爭議(Na)　的(DE)　地方(Na)　進行(VC)　解說(Na)　與(Caa)　討論(Nv)　，(COMMACATEGORY)
+　歡迎(VJ)　不管(Cbb)　是(SHI)　在校生(Na)　、(PAUSECATEGORY)　校友(Na)　或是(Caa)　外校(Na)　生(VC)　，(COMMACATEGORY)
+　都(D)　可以(D)　前來(VCL)　參加(VC)　。(PERIODCATEGORY)
+
+　P.S(FW)　.(PERIODCATEGORY)　只要(Cbb)　來(D)　參加(VC)　都(D)　可以(D)　來(D)　拿(VC)　反(VC)　課綱(Na)　貼紙(Na)
+
+　1(Neu)　.(PERIODCATEGORY)　時間(Na)　：(COLONCATEGORY)
+　西元(Nd)　2015年(Nd)　6月(Nd)　16日(Nd)　下午(Nd)　5時(Nd)　30(Neu)　分(Nf)　至(P)　7時(Nd)　30(Neu)　分(Nf)　止(Ng)　
+
+　2(Neu)　.(PERIODCATEGORY)　地點(Na)　：(COLONCATEGORY)
+　中崙(Nc)　高中(Nc)　三樓(Nc)　會議室(Nc)　
+
+　3(Neu)　.(PERIODCATEGORY)　主講(VE)　者(Na)　：(COLONCATEGORY)
+　臺灣(Nc)　大學(Nc)　歷史系(Nc)　陳翠蓮(Nb)　教授(Na)　

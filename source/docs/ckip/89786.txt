@@ -1,0 +1,18 @@
+　請(VF)　立委(Na)　大人(Na)　，(COMMACATEGORY)
+　在(P)　指控(Na)　學生(Na)　之前(Ng)　，(COMMACATEGORY)
+　先(D)　拿出(VC)　證據(Na)　!(EXCLANATIONCATEGORY)
+　?(QUESTIONCATEGORY)
+
+　如果(Cbb)　沒(D)　拿出(VC)　足夠(VH)　的(DE)　證據(Na)　證明(VE)　,(COMMACATEGORY)
+　在(P)　單純(VH)　的(DE)　學生(Na)　們(Na)　聽來(D)　
+
+　會(D)　如同(VG)　「(PARENTHESISCATEGORY)　胡說八道(VA)　」(PARENTHESISCATEGORY)　一般(D)　不(D)　被(P)　接受(VC)　!(EXCLANATIONCATEGORY)
+
+　另外(Cbb)　，(COMMACATEGORY)
+　如果(Cbb)　教育部(Nc)　官員(Na)　或(Caa)　特定(A)　立委(Na)　，(COMMACATEGORY)
+　總(D)　用(P)　政治力(Na)　介入(VC)　來(D)　汙衊(VC)　學生(Na)　，(COMMACATEGORY)
+　那(Dk)　你們(Nh)　提出(VC)　的(DE)　政策(Na)　或(Caa)　回應(Nv)　，(COMMACATEGORY)
+　將(D)　無法(D)　得到(VJ)　認同(Nv)　，(COMMACATEGORY)
+　因為(Cbb)　學生(Na)　永遠(D)　看不起(VJ)　你們(Nh)　!(EXCLANATIONCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.ltn.com.tw/news/politics/breakingnews(FW)　/(FW)　1346808(Neu)　

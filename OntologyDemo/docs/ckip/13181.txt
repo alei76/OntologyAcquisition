@@ -1,0 +1,51 @@
+　〔(PARENTHESISCATEGORY)　記者(Na)　蘇孟娟(Nb)　／(FW)　台中(Nc)　報導(Na)　〕(PARENTHESISCATEGORY)　全(Neqa)　國(Nc)　高中生(Na)　反(VC)　黑箱(A)　課綱(Na)　遍(Neqa)　地(DE)　開花(VH)　，(COMMACATEGORY)
+　開出(VC)　反抗(VC)　第一(Neu)　槍(Nf)　的(DE)　台中一中(Nc)　學生(Na)　晚間(Nd)　舉行(VC)　中區(Nc)　學生(Na)　反(VC)　黑箱(A)　課綱(Na)　會議(Na)　，(COMMACATEGORY)
+　近(Nes)　20(Neu)　所(Nf)　高中(Nc)　百(Neu)　名(Nf)　學生(Na)　參與(VC)　，(COMMACATEGORY)
+　會(Na)　中(Ng)　並(D)　達成(VC)　共識(Na)　將(D)　籌組(VC)　「(PARENTHESISCATEGORY)　中區(Nc)　反(VC)　黑箱(A)　課綱(Na)　學生(Na)　聯盟(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　建立(VC)　聯繫(Nv)　討論(Nv)　平台(Na)　，(COMMACATEGORY)
+　助(VF)　各(Nes)　校(Nc)　學生(Na)　行動(Na)　投入(VC)　「(PARENTHESISCATEGORY)　自己(Nh)　的(DE)　課綱(Na)　、(PAUSECATEGORY)　自己(Nh)　的(DE)　教育(Na)　自己(Nh)　救(VC)　」(PARENTHESISCATEGORY)　運動(Na)　，(COMMACATEGORY)
+　更(D)　籲(VE)　教育部(Nc)　儘速(D)　與(P)　學生(Na)　對話(Na)　。(PERIODCATEGORY)
+
+
+
+　晚間(Nd)　會議(Na)　除(P)　中彰投(Na)　地區(Nc)　高中(Nc)　參與(VC)　外(Ng)　，(COMMACATEGORY)
+　甚至(D)　有(V_2)　學生(Na)　遠(VH)　自(P)　桃園(Nc)　、(PAUSECATEGORY)　新竹(Nc)　趕來(VA)　響應(VC)　；(SEMICOLONCATEGORY)　　多數(Neqa)　學生(Na)　表達(VC)　反對(Nv)　程序(Na)　黑箱(A)　或(Caa)　主觀(VH)　史觀(Na)　的(DE)　課(Na)　綱(Na)　，(COMMACATEGORY)
+　讓(VL)　教育(Na)　淪為(VG)　政治(Na)　的(DE)　工具(Na)　，(COMMACATEGORY)
+　學生(Na)　更(D)　行動(VA)　表態(VA)　「(PARENTHESISCATEGORY)　自己(Nh)　的(DE)　教育(Na)　自己(Nh)　救(VC)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　中(Ncd)　一(Neu)　中學生(Na)　高浩凱(Nb)　說(VE)　，(COMMACATEGORY)
+　現今(Nd)　教育(Na)　政策(Na)　企圖(Na)　「(PARENTHESISCATEGORY)　讓(VL)　十萬(Neu)　個(Nf)　青年(Na)　只有(D)　一(Neu)　個(Nf)　腦袋(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　學生(Na)　更(D)　要(D)　學習(VC)　有(V_2)　獨立(VH)　思辨(Nv)　及(Caa)　理性(Na)　批判(VC)　的(DE)　能力(Na)　，(COMMACATEGORY)
+　當(P)　有(V_2)　人(Na)　企圖(VF)　用(P)　教育(Na)　洗腦(VB)　時(Ng)　，(COMMACATEGORY)
+　學生(Na)　仍(D)　可以(D)　是(SHI)　「(PARENTHESISCATEGORY)　十萬(Neu)　青年(Na)　有(V_2)　十(Neu)　個(Nf)　腦袋(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　來自(VJ)　桃園(Nc)　治平(VC)　高中(Nc)　學生(Na)　許彰祐(Nb)　指出(VE)　，(COMMACATEGORY)
+　他(Nh)　憂心(VH)　台灣(Nc)　地位(Na)　在(P)　國際(Nc)　間(Ncd)　已(D)　如此(Dfa)　模糊(VH)　，(COMMACATEGORY)
+　新課綱(Na)　卻(D)　忽略(VJ)　台灣(Nc)　本位(Na)　地位(Na)　，(COMMACATEGORY)
+　連(Cbb)　自己(Nh)　都(D)　不(D)　重視(VJ)　，(COMMACATEGORY)
+　要(D)　如何(D)　國際(Nc)　立足(VA)　，(COMMACATEGORY)
+　學生(Na)　不能(D)　「(PARENTHESISCATEGORY)　連(Cbb)　自己(Nh)　國家(Na)　的(DE)　歷史(Na)　都(D)　不(D)　知道(VK)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　台中一中(Nc)　歷史(Na)　教師(Na)　許全義(Nb)　也(D)　聲援(VC)　學生(Na)　活動(Na)　，(COMMACATEGORY)
+　他(Nh)　強調(VE)　，(COMMACATEGORY)
+　學生(Na)　起(Ng)　而(Cbb)　行(VA)　拒絕(VF)　不(D)　符合(VJ)　程序(Na)　正義(Na)　、(PAUSECATEGORY)　由(P)　上(Ncd)　而(Cbb)　下(Ncd)　的(DE)　洗腦(Nv)　課綱(Na)　行動(Na)　，(COMMACATEGORY)
+　教會(VC)　大眾(Nh)　什麼(Nep)　是(SHI)　自由(VH)　的(DE)　靈魂(Na)　；(SEMICOLONCATEGORY)　　台中一中(Nc)　校友會(Na)　理事(Na)　劉國隆(Nb)　強調(VE)　，(COMMACATEGORY)
+　各界(Na)　正在(D)　推動(VC)　修正(Nv)　憲法(Na)　下(Ng)　修(VC)　投票(Nv)　年齡(Na)　到(P)　18(Neu)　歲(Nf)　，(COMMACATEGORY)
+　教育(Na)　是(SHI)　百(Neu)　年(Nf)　大計(Na)　，(COMMACATEGORY)
+　台灣(Nc)　要(D)　教(VC)　高中生(Na)　「(PARENTHESISCATEGORY)　學習(VC)　扛(VC)　起(Di)　台灣(Nc)　的(DE)　重責(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　全力(D)　支持(VC)　學生(Na)　自覺(VK)　行動(Na)　。(PERIODCATEGORY)
+
+
+
+　發起(VC)　會議(Na)　的(DE)　中(Ncd)　一(Neu)　中學生(Na)　社團(Na)　蘋果樹(Na)　公社(Nc)　發言人(Na)　廖崇倫(Nb)　指出(VE)　，(COMMACATEGORY)
+　會(D)　中(Ncd)　達成(VC)　共識(Na)　將(D)　成立(VC)　「(PARENTHESISCATEGORY)　中區(Nc)　反(VC)　黑箱(A)　課綱(Na)　學生(Na)　聯盟(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　建立(VC)　聯繫(Nv)　討論(Nv)　及(Caa)　資源(Na)　共享(VJ)　平台(Na)　，(COMMACATEGORY)
+　盼(VK)　有(V_2)　更多(Neqa)　師生(Na)　正視(VC)　黑箱(A)　課綱(Na)　的(DE)　議題(Na)　，(COMMACATEGORY)
+　更(D)　籲(VE)　教育部(Nc)　儘速(D)　與(P)　學生(Na)　對話(Na)　。(PERIODCATEGORY)
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1335810(Neu)　

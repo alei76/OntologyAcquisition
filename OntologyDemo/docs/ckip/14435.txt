@@ -1,0 +1,7 @@
+　有(V_2)　朋友(Na)　關心(VK)　中國史(Na)　的(DE)　部份(Neqa)　，(COMMACATEGORY)
+　請(VF)　先(D)　參考(VC)　金仕(Nb)　起(VC)　老師(Na)　這(Nep)　篇(Nf)　文章(Na)　。(PERIODCATEGORY)
+
+
+
+　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.dropbox.com/s/7tdjn133uvj8rrl/%E9%AB%98%E4%B8%AD%E6%AD%B7%E5%8F%B2%E8%AA%B(FW)　　2%(b)　E7%A8%8B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9C%8B%E5%8F%B2.pdf(FW)　?(QUESTIONCATEGORY)
+　dl(FW)　=(FW)　0(Neu)　

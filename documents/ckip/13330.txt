@@ -1,0 +1,12 @@
+　【(PARENTHESISCATEGORY)　宣傳(Na)　】(PARENTHESISCATEGORY)　
+
+
+
+　蘋果樹(Na)　公社(Nc)　於(P)　6(Neu)　/(FW)　5(Neu)　((PARENTHESISCATEGORY)　五(Neu)　)(PARENTHESISCATEGORY)　協助(VC)　舉辦(VC)　講座(Na)　
+
+　主講(VE)　者(Na)　為(P)　台灣(Nc)　大學花(Na)　亦(D)　芬(b)　教授(Na)　以及(Caa)　台中一中(Nc)　歷史(Na)　科(Nc)　許(VC)　全(Neqa)　義(Na)　老師(Na)　
+
+　歡迎(VJ)　有(V_2)　興趣(Na)　的(DE)　人(Na)　來(D)　了解(VK)　
+
+　入場(Nv)　成員(Na)　沒有(D)　限定(VK)　，(COMMACATEGORY)
+　皆(D)　可(D)　參與(VC)　

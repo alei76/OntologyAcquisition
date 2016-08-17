@@ -1,0 +1,10 @@
+　摘(VC)　：(COLONCATEGORY)　　教育部長(Na)　吳思華(Nb)　前天(Nd)　在(P)　台中一中(Nc)　舉辦(VC)　首(Nes)　場(Nf)　課綱(Na)　座談會(Na)　，(COMMACATEGORY)
+　未(D)　正面(D)　回應(VC)　學生(Na)　質疑(VE)　，(COMMACATEGORY)
+　引發(VC)　學生(Na)　不滿(Nv)　，(COMMACATEGORY)
+　昨天(Nd)　又(D)　呼籲(VE)　「(PARENTHESISCATEGORY)　希望(VK)　政治力(Na)　不要(D)　介入(VC)　校園(Nc)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　進一步(D)　引發(VC)　參與(VC)　老師(Na)　不滿(Nv)　，(COMMACATEGORY)
+　痛批(Na)　「(PARENTHESISCATEGORY)　部長(Na)　不要(D)　抹黑(VC)　我們(Nh)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　因為(Cbb)　現在(Nd)　最(Dfa)　大(VH)　問題(Na)　就是(Cbb)　政治力(Na)　介入(VC)　學校(Nc)　，(COMMACATEGORY)
+　箝制(VC)　教育(Na)　。(PERIODCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/focus/paper(FW)　/(FW)　888377(Neu)　

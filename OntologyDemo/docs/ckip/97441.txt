@@ -1,0 +1,24 @@
+　[(PARENTHESISCATEGORY)　黑箱(A)　課綱(Na)　知(VK)　多少(Neqa)　?(QUESTIONCATEGORY)
+　](PARENTHESISCATEGORY)　
+
+　→(FW)　課綱(Na)　微調(Na)　關(VC)　我(Nh)　啥(Nep)　事(Na)　?(QUESTIONCATEGORY)
+
+　→(FW)　到底(D)　黑箱(A)　在(P)　哪(Nep)　?(QUESTIONCATEGORY)
+
+　→(FW)　到底(D)　微調(Na)　了(T)　什麼(Nep)　?(QUESTIONCATEGORY)
+
+
+
+　六月(Nd)　十(Neu)　號(Nf)　((PARENTHESISCATEGORY)　三(Neu)　)(PARENTHESISCATEGORY)　5(Neu)　:(COLONCATEGORY)　　20(Neu)　~(FW)　6(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　建功(VA)　正門(Na)　出來(VA)　後(Ng)　左邊(Ncd)　有(V_2)　個(Nf)　小小(VH)　的(DE)　公園(Nc)　，(COMMACATEGORY)
+　大家(Nh)　一起(D)　來(D)　聽聽(VE)　究竟(D)　發生(VJ)　了(Di)　什麼(Nep)　事(Na)　?(QUESTIONCATEGORY)
+
+　我們(Nh)　邀請到(VC)　了(Di)　香山(Nc)　蝴蝶(Na)　君(Na)　-(DASHCATEGORY)　黃彥儒(Nb)　來(D)　陪(VC)　大家(Nh)　聊聊(VE)　這(Nep)　個(Nf)　議題(Na)　
+
+　講(VE)　說完(VC)　後(Ng)　，(COMMACATEGORY)
+　還(D)　有(V_2)　個(Nf)　小小(VH)　的(DE)　問答(Na)　時間(Na)　呦(b)　~(FW)　
+
+
+
+　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.facebook.com/pages/%E9%A6%99%E5%B1%B1%E8%9D%B4%E8%9D%B6%E5%90%9B%E9%BB%83%E(FW)　5(Neu)　　%(Nf)　BD%A5%E5%84%92%E5%85%A5%E6%94%BF(FW)　/(FW)　654937237925412(Neu)　

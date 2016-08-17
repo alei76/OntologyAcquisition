@@ -1,0 +1,12 @@
+　我們(Nh)　客座(VA)　短(VH)　講(VE)　現在(Nd)　為(P)　基進(Na)　側翼(Nc)　成員(Na)　─(FW)　黃若桓(Nb)　喔(T)　！(EXCLANATIONCATEGORY)
+
+　現場(Nc)　民眾(Na)　、(PAUSECATEGORY)　同學(Na)　聚集(VAC)　約(Da)　已(D)　快(D)　到(P)　三百(Neu)　人(Na)　，(COMMACATEGORY)
+　還(D)　沒(D)　到場(VA)　的(DE)　你(Nh)　～(FW)　趕快(D)　來(VA)　吧(T)　，(COMMACATEGORY)
+　若(Cbb)　不能(D)　到場(VA)　，(COMMACATEGORY)
+　我們(Nh)　也(D)　有(V_2)　現場(Nc)　直播(VC)　喔(T)　。(PERIODCATEGORY)
+
+
+
+　直播(VC)　（(PARENTHESISCATEGORY)　Masaru(FW)　黃若桓(Nb)　）(PARENTHESISCATEGORY)　
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　livestre.am/584fg(FW)　

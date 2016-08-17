@@ -1,0 +1,62 @@
+　各(Nes)　位(Nf)　好(VH)　，(COMMACATEGORY)
+　昨天(Nd)　晚上(Nd)　兩(Neu)　位(Nf)　【(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　景美(Nc)　女中(Nc)　站出來(VA)　】(PARENTHESISCATEGORY)　的(DE)　組員(Na)　，(COMMACATEGORY)
+　參加(VC)　了(Di)　由(P)　臺灣(Nc)　大學(Nc)　濁水溪社(Nc)　主辦(VC)　的(DE)　【(PARENTHESISCATEGORY)　濁(VH)　派(VF)　論壇(Na)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　昨晚(Nd)　很(Dfa)　高興(VK)　能夠(D)　與(P)　諸(Nes)　位(Nf)　社會(Na)　人士(Na)　、(PAUSECATEGORY)　學生(Na)　一起(D)　關心(VK)　、(PAUSECATEGORY)　討論(Nv)　課綱(Na)　微調(Na)　的(DE)　議題(Na)　。(PERIODCATEGORY)
+　由於(Cbb)　準備(VF)　不周(VH)　及(Caa)　緊張(VH)　，(COMMACATEGORY)
+　還(D)　請(VF)　各(Nes)　位(Nf)　多多(D)　指教(VA)　。(PERIODCATEGORY)
+
+　首先(Cbb)　我們(Nh)　以(P)　學生(Na)　的(DE)　角度(Na)　闡述(VE)　何謂(VG)　教育(Na)　？(QUESTIONCATEGORY)
+
+　如同(P)　我們(Nh)　粉絲(Na)　專頁(Na)　上(Ng)　所(D)　言(VE)　
+
+　「(PARENTHESISCATEGORY)　教育(Na)　讓(VL)　我們(Nh)　能夠(D)　認識(VJ)　自己(Nh)　。(PERIODCATEGORY)
+　我們(Nh)　將(D)　知道(VK)　自己(Nh)　從(P)　何(Nb)　而(Cbb)　來(VA)　、(PAUSECATEGORY)　為何(D)　而(Cbb)　來(VA)　；(SEMICOLONCATEGORY)　　我們(Nh)　將(D)　知道(VK)　自己(Nh)　站(VA)　在(P)　何處(Nc)　、(PAUSECATEGORY)　與(Caa)　誰(Nh)　共舞(VA)　；(SEMICOLONCATEGORY)　　我們(Nh)　將(D)　知道(VK)　自己(Nh)　被(P)　賦予(VD)　了(Di)　什麼(Nep)　使命(Na)　，(COMMACATEGORY)
+　該(D)　前往(VCL)　何處(Nc)　。(PERIODCATEGORY)
+　如果(Cbb)　教育(Na)　不能夠(D)　讓(VL)　我們(Nh)　擁有(VJ)　學習(VC)　的(DE)　自主(Nv)　與(Caa)　自由(Na)　，(COMMACATEGORY)
+　不能夠(D)　讓(VL)　我們(Nh)　學會(VC)　認識(VJ)　自己(Nh)　與(Caa)　土地(Na)　，(COMMACATEGORY)
+　那麼(Dk)　又(D)　該(D)　如何(D)　孕育出(VC)　耕耘(Nv)　社會(Na)　、(PAUSECATEGORY)　奉獻(Nv)　土地(Na)　的(DE)　優秀(VH)　人才(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+　所以(Cbb)　我們(Nh)　希望(VK)　教育部(Nc)　能夠(D)　在(P)　編寫(VC)　課綱(Na)　時(Ng)　給予(VD)　學生(Na)　及(Caa)　教師(Na)　充分(VH)　的(DE)　自由(Na)　與(Caa)　自主(VH)　，(COMMACATEGORY)
+　讓(VL)　彼此(Nh)　在(P)　史實(Na)　的(DE)　基礎(Na)　上(Ng)　透過(P)　自由(VH)　的(DE)　思考(Nv)　建立(VC)　自己(Nh)　的(DE)　價值觀(Na)　、(PAUSECATEGORY)　與(Caa)　土地(Na)　的(DE)　連結(Nv)　。(PERIODCATEGORY)
+
+　而(Cbb)　不(D)　是(SHI)　利用(VC)　黑箱(A)　強渡(Na)　關山(Nc)　；(SEMICOLONCATEGORY)　　利用(VC)　考試(Na)　綁架(VC)　教學(Nv)　；(SEMICOLONCATEGORY)　　利用(VC)　官威(Nb)　壓制(VC)　教師(Na)　；(SEMICOLONCATEGORY)　　利用(VC)　政治(Na)　力量(Na)　禁錮(Nv)　學生(Na)　的(DE)　思維(Na)　。(PERIODCATEGORY)
+
+　我們(Nh)　爭取(VC)　的(DE)　是(SHI)　學習(VC)　的(DE)　自主(Nv)　與(Caa)　自由(Na)　，(COMMACATEGORY)
+　我們(Nh)　爭取(VC)　的(DE)　是(SHI)　自己(Nh)　與(Caa)　學弟妹(Na)　往後(Nd)　貢獻(VC)　社會(Na)　的(DE)　機會(Na)　！(EXCLANATIONCATEGORY)
+
+　有鑑於(Cbb)　前面(Ncd)　諸(Nes)　位(Nf)　優秀(VH)　的(DE)　講(VE)　者(Na)　皆(D)　有(V_2)　詳細(VH)　說明(VE)　歷史(Na)　科課綱(Na)　微調(Na)　內容(Na)　的(DE)　爭議(Na)　，(COMMACATEGORY)
+　因此(Cbb)　我們(Nh)　選擇(VC)　談(VE)　國文(Na)　科課綱(Na)　微調(Na)　內容(Na)　的(DE)　部分(Neqa)　。(PERIODCATEGORY)
+
+　通才(Na)　教育(Na)　該(D)　是(SHI)　讓(VL)　每(Nes)　一(Neu)　個(Nf)　人(Na)　都(D)　能(D)　有(V_2)　基礎(A)　的(DE)　知識(Na)　與(Caa)　能力(Na)　，(COMMACATEGORY)
+　並且(Cbb)　使(VL)　學生(Na)　在(P)　日後(Nd)　跟(P)　社會(Na)　有所(VJ)　連結(Nv)　。(PERIODCATEGORY)
+
+　不(D)　是(SHI)　每(Nes)　一(Neu)　位(Nf)　學生(Na)　在(P)　經過(VCL)　十二(Neu)　年(Nf)　的(DE)　中小學(Nc)　教育(Na)　後(Ng)　都(D)　會(D)　成為(VG)　文字(Na)　工作者(Na)　，(COMMACATEGORY)
+　但(Cbb)　每(Nes)　一(Neu)　位(Nf)　都(D)　將(D)　成為(VG)　讀者(Na)　。(PERIODCATEGORY)
+
+　透過(P)　文字(Na)　在(P)　日常(A)　生活(Na)　中(Ncd)　一點一滴(Na)　地(DE)　認識(VJ)　我們(Nh)　生長(VH)　的(DE)　這(Nep)　塊(Nf)　土地(Na)　，(COMMACATEGORY)
+　認識(VJ)　我們(Nh)　生活(VA)　的(DE)　這(Nep)　個(Nf)　社會(Na)　。(PERIODCATEGORY)
+
+　所以(Cbb)　我們(Nh)　認為(VE)　在(P)　國文科(Nc)　的(DE)　教育(Na)　中(Ng)　培育(VC)　學生(Na)　成為(VG)　一(Neu)　名(Nf)　好(VH)　的(DE)　讀者(Na)　，(COMMACATEGORY)
+　是(SHI)　非常(Dfa)　重要(VH)　的(T)　。(PERIODCATEGORY)
+　但是(Cbb)　教育部(Nc)　選用(VC)　了(Di)　什麼(Nep)　樣(Nf)　的(DE)　標準(Na)　來(D)　培育(VC)　我們(Nh)　呢(T)　？(QUESTIONCATEGORY)
+
+　舊(VH)　課綱(Na)　中(Ncd)　教育部(Nc)　明確(VH)　建議(Na)　應該(D)　在(P)　國文(Na)　課本(Na)　的(DE)　選文(Nb)　上(Ng)　，(COMMACATEGORY)
+　加入(VC)　當代(Nd)　社會(Na)　議題(Na)　的(DE)　文章(Na)　，(COMMACATEGORY)
+　舉凡(Cbb)　人權(Na)　促進(Nv)　、(PAUSECATEGORY)　性別(Na)　平權(VH)　、(PAUSECATEGORY)　永續(VH)　發展(Na)　、(PAUSECATEGORY)　多元(A)　文化(Na)　等(Cab)　，(COMMACATEGORY)
+　但是(Cbb)　新(VH)　課綱(Na)　連(Cbb)　調(Na)　都(D)　沒(D)　調(VC)　，(COMMACATEGORY)
+　一(Neu)　筆(Nf)　刪去(VC)　了(Di)　此(Nep)　項(Nf)　建議(Na)　。(PERIODCATEGORY)
+　在(P)　有限(VH)　的(DE)　選擇(Na)　下(Ng)　還要(Dfa)　配合(VC)　大考(Na)　，(COMMACATEGORY)
+　那些(Neqa)　讓(VL)　學生(Na)　們(Na)　透過(P)　文學(Na)　認識(VJ)　社會(Na)　、(PAUSECATEGORY)　觸摸(VC)　社會(Na)　的(DE)　機會(Na)　被(P)　教育部(Nc)　硬生生(D)　奪去(VC)　！(EXCLANATIONCATEGORY)
+
+　文學(Na)　來自(VJ)　人性(Na)　，(COMMACATEGORY)
+　來自(VJ)　人群(Na)　，(COMMACATEGORY)
+　來自(VJ)　土地(Na)　，(COMMACATEGORY)
+　來自(VJ)　文化(Na)　，(COMMACATEGORY)
+　來自(VJ)　社會(Na)　。(PERIODCATEGORY)
+　學生(Na)　不應該(D)　只(Da)　學習(VC)　如何(D)　堆砌(VC)　華麗(VH)　的(DE)　詞藻(Na)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　學習(VC)　抒發(VC)　自我(Nh)　真實(VH)　的(DE)　感受(Na)　，(COMMACATEGORY)
+　學生(Na)　不應該(D)　只(Da)　為了(P)　考試(Na)　分數(Na)　汲汲營營(VA)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　回首(VJ)　欣賞(VJ)　養育(VC)　我們(Nh)　的(DE)　土地(Na)　。(PERIODCATEGORY)
+
+　學生(Na)　不應該(D)　被(P)　奪去(VC)　認識(VJ)　自我(Nh)　進而(Cbb)　認識(VJ)　這(Nep)　個(Nf)　世界(Nc)　的(DE)　權利(Na)　。(PERIODCATEGORY)

@@ -1,0 +1,61 @@
+　你(Nh)　覺得(VK)　他們(Nh)　該(D)　被(P)　抹滅(VC)　嗎(T)　?(QUESTIONCATEGORY)
+
+　-(DASHCATEGORY)　
+
+　六四(Nb)　
+
+　六四(Nb)　事件(Na)　又(D)　被(P)　稱為(VG)　天安門(Nc)　事件(Na)　、(PAUSECATEGORY)　八九(Neu)　民運(Na)　或者(Caa)　是(SHI)　八九(Neu)　學運(Na)　，(COMMACATEGORY)
+　狹義(Na)　的(DE)　六四(Nb)　事件(Na)　是(SHI)　指(VG)　1989年(Nd)　6月(Nd)　3日(Nd)　晚間(Nd)　至(P)　6月(Nd)　4日(Nd)　凌晨(Nd)　，(COMMACATEGORY)
+　中華(Nc)　人民(Na)　共和國(Na)　政府(Na)　派遣(VF)　的(DE)　中國(Nc)　人民(Na)　解放軍(Na)　與(Caa)　試圖(VF)　阻止(VC)　部隊(Na)　行進(VA)　的(DE)　民眾(Na)　在(P)　北京市(Nc)　天安門(Nc)　廣場(Nc)　附近(Nc)　地區(Nc)　爆發(VJ)　流血(Nv)　衝突(Na)　，(COMMACATEGORY)
+　也(D)　由於(Cbb)　中國(Nc)　政府(Na)　始終(D)　沒有(D)　提供(VD)　更多(Neqa)　資料(Na)　，(COMMACATEGORY)
+　使得(VL)　許多(Neqa)　事件(Na)　發生(VJ)　經過(Na)　仍然(D)　未知(VJ)　或者(Caa)　未(D)　經(P)　證實(VE)　，(COMMACATEGORY)
+　其中(Nep)　光(Da)　是(SHI)　死亡(VH)　人數(Na)　的(DE)　估計(Nv)　便(D)　從(P)　數百(Nb)　人(Na)　到(P)　數千(Neu)　人(Na)　。(PERIODCATEGORY)
+
+　二二八(DM)　
+
+　二二八(DM)　事件(Na)　是(SHI)　臺灣(Nc)　於(P)　1947年(Nd)　2月(Nd)　底(Ng)　發生(VJ)　的(DE)　大規模(Na)　民眾(Na)　反抗(VC)　政府(Na)　事件(Na)　，(COMMACATEGORY)
+　以及(Caa)　3月(Nd)　至(P)　5月(Nd)　間(Ng)　國民(Na)　政府(Na)　派遣(VF)　軍隊(Na)　鎮壓(VC)　屠殺(VC)　臺灣(Nc)　人民(Na)　、(PAUSECATEGORY)　捕殺(VC)　臺籍(Na)　菁英(Na)　事件(Na)　。(PERIODCATEGORY)
+　此(Nep)　事件(Na)　造成(VG)　許多(Neqa)　傷亡(Na)　，(COMMACATEGORY)
+　數字(Na)　眾說紛紜(VH)　，(COMMACATEGORY)
+　而(Cbb)　各(Nes)　方(Nf)　統計(Na)　的(DE)　死亡(Nv)　人數(Na)　，(COMMACATEGORY)
+　由(P)　數百人(Nb)　、(PAUSECATEGORY)　數千人(Nb)　、(PAUSECATEGORY)　一萬餘(Neu)　人(Na)　，(COMMACATEGORY)
+　至(P)　數萬(Nb)　人(Na)　不等(Ng)　。(PERIODCATEGORY)
+
+　鄭南榕(Nb)　
+
+　解除(VC)　戒嚴(VH)　後(Ng)　，(COMMACATEGORY)
+　鄭南榕(Nb)　仍(D)　反對(VE)　當時(Nd)　以(P)　中國(Nc)　國民黨(Nb)　為首(VI)　的(DE)　政府(Na)　對於(P)　自由(Na)　思想(Na)　訴求(Na)　的(DE)　壓制(Nv)　，(COMMACATEGORY)
+　並且(Cbb)　多(Neqa)　次(Nf)　公開(VHC)　支持(VC)　臺灣(Nc)　獨立(VH)　運動(Na)　。(PERIODCATEGORY)
+　鄭南榕(Nb)　為(P)　表達(VC)　「(PARENTHESISCATEGORY)　百分之百(Neqa)　的(DE)　言論(Na)　自由(Na)　」(PARENTHESISCATEGORY)　而(Cbb)　拒絕(VF)　被(P)　警方(Na)　拘捕(VC)　。(PERIODCATEGORY)
+　其中(Nep)　鄭南榕(Nb)　認為(VE)　即便(Cbb)　是(SHI)　臺灣(Nc)　獨立(VH)　主張(Na)　也(D)　是(SHI)　言論(Na)　自由(VH)　的(DE)　一(Neu)　部分(Neqa)　，(COMMACATEGORY)
+　甚至(D)　宣布(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　國民黨(Nb)　不能(D)　逮捕到(VC)　我(Nh)　，(COMMACATEGORY)
+　只(Da)　能夠(D)　抓到(VC)　我(Nh)　的(DE)　屍體(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+　1989年(Nd)　4月(Nd)　7日(Nd)　清晨(Nd)　，(COMMACATEGORY)
+　警方(Na)　向(P)　雜誌社(Nc)　發動(VC)　攻堅(VA)　行動(VA)　時(Ng)　，(COMMACATEGORY)
+　不(D)　願意(VK)　遭到(P)　逮捕(VC)　的(DE)　鄭南榕(Nb)　進入(VCL)　自己(Nh)　辦公室(Nc)　點燃(VC)　汽油(Na)　，(COMMACATEGORY)
+　最終(D)　自焚(VA)　身亡(VH)　。(PERIODCATEGORY)
+
+　三二四(Neu)　
+
+　太陽(Na)　花(VC)　學運(Na)　，(COMMACATEGORY)
+　又(D)　稱(VG)　318(Neu)　學運(Na)　、(PAUSECATEGORY)　太陽(Na)　花(VC)　運動(Na)　、(PAUSECATEGORY)　佔領(VC)　國會(Nc)　事件(Na)　，(COMMACATEGORY)
+　是(SHI)　指(VG)　2014年(Nd)　3月(Nd)　18日(Nd)　至(P)　4月(Nd)　10(Neu)　日(Nf)　間(Ng)　，(COMMACATEGORY)
+　臺灣(Nc)　的(DE)　大學生(Na)　與(Caa)　公民(Na)　團體(Na)　共同(A)　發起(VC)　佔領(VC)　立法院(Nc)　所(D)　引起(VC)　的(DE)　社會(Na)　運動(Na)　事件(Na)　。(PERIODCATEGORY)
+　3月(Nd)　17日(Nd)　下午(Nd)　內政(Na)　委員會(Nc)　中(Ng)　，(COMMACATEGORY)
+　中國(Nc)　國民黨(Nb)　立法(Nv)　委員(Na)　張慶忠(Nb)　以(P)　30(Neu)　秒(Nf)　時間(Na)　宣布(VE)　完成(VC)　《(PARENTHESISCATEGORY)　海峽(Na)　兩岸(Nc)　服務(Nv)　貿易(Na)　協議(Na)　》(PARENTHESISCATEGORY)　的(DE)　委員會(Nc)　審查(Nv)　，(COMMACATEGORY)
+　引發(VC)　一(Neu)　群(Nf)　大學(Nc)　與(Caa)　研究所(Nc)　學生(Na)　的(DE)　反對(Nv)　，(COMMACATEGORY)
+　並(Cbb)　於(P)　18日(Nd)　18時(Nd)　在(P)　立法院(Nc)　外(Ncd)　舉行(VC)　「(PARENTHESISCATEGORY)　守護(VC)　民主(Na)　之(DE)　夜(Nd)　」(PARENTHESISCATEGORY)　晚會(Na)　，(COMMACATEGORY)
+　抗議(VE)　輕率(VH)　的(DE)　審查(Nv)　程序(Na)　。(PERIODCATEGORY)
+　3月(Nd)　23日(Nd)　晚間(Nd)　19時(Nd)　，(COMMACATEGORY)
+　另(Nes)　一(Neu)　群(Nf)　示威(Nv)　者(Na)　衝(VA)　至(P)　鄰近(VJ)　的(DE)　行政院(Nc)　大樓(Na)　，(COMMACATEGORY)
+　破(VHC)　窗(Na)　而(Cbb)　入(VCL)　，(COMMACATEGORY)
+　24日(Nd)　零時(Nd)　起(Ng)　陸續(D)　遭(P)　警方(Na)　強制(D)　驅離(VC)　，(COMMACATEGORY)
+　造成(VG)　嚴重(VH)　的(DE)　流血(Nv)　衝突(Na)　，(COMMACATEGORY)
+　造成(VG)　警民(Na)　共(Da)　180(Neu)　名(Nf)　掛彩(VH)　送醫(VB)　
+
+　-(DASHCATEGORY)　
+
+　但(Cbb)　這些(Neqa)　事情(Na)　，(COMMACATEGORY)
+　你(Nh)　知道(VK)　嗎(T)　?(QUESTIONCATEGORY)

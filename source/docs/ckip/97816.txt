@@ -1,0 +1,128 @@
+　【(PARENTHESISCATEGORY)　日記(Na)　三一八(Neu)　＜(FW)　U+FF(FW)　65(Neu)　＞(FW)　台南(Nc)　女中(Nc)　】(PARENTHESISCATEGORY)　
+
+　我們(Nh)　從來(D)　沒有(VJ)　，(COMMACATEGORY)
+　離(P)　歷史(Na)　那麼(D)　近(VJ)　過(Di)　。(PERIODCATEGORY)
+　我們(Nh)　從來(D)　沒有(D)　想(VE)　過(Di)　，(COMMACATEGORY)
+　有(V_2)　一(Neu)　天(Nf)　必須(D)　寫下(VC)　一(Neu)　個(Nf)　我們(Nh)　也(D)　參與(VC)　其中(Nep)　的(DE)　事件(Na)　。(PERIODCATEGORY)
+　真正(D)　寫下(VC)　的(DE)　時候(Na)　才(Da)　發現(VE)　，(COMMACATEGORY)
+　事件(Na)　裡面(Ncd)　有(V_2)　著(Di)　這麼多(Neqa)　的(DE)　不甘(Nv)　、(PAUSECATEGORY)　吶喊(VA)　、(PAUSECATEGORY)　憤怒(VH)　、(PAUSECATEGORY)　悲傷(VH)　。(PERIODCATEGORY)
+　想起(VE)　那天(Nd)　晚上(Nd)　，(COMMACATEGORY)
+　誰(Nh)　能(D)　安睡(VA)　？(QUESTIONCATEGORY)
+
+
+
+　「(PARENTHESISCATEGORY)　一(Neu)　覺(Na)　醒來(VH)　，(COMMACATEGORY)
+　台灣(Nc)　就(D)　不(D)　一樣(VH)　了(T)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+　電影(Na)　女朋友(Na)　男朋友(Na)　的(DE)　台詞(Na)　，(COMMACATEGORY)
+　在(P)　3月(Nd)　18日(Nd)　的(DE)　台南(Nc)　女中(Nc)　校園(Nc)　裡面(Ncd)　流竄(VCL)　著(Di)　。(PERIODCATEGORY)
+　有(V_2)　好多(Neqa)　的(DE)　人(Na)　，(COMMACATEGORY)
+　或(Caa)　帶(VC)　著(Di)　黑(VH)　眼圈(Na)　、(PAUSECATEGORY)　或(Caa)　紅(VH)　著(Di)　眼眶(Na)　到(VCL)　學校(Nc)　，(COMMACATEGORY)
+　校園(Nc)　裡面(Ncd)　，(COMMACATEGORY)
+　有(V_2)　一些(Neqa)　浮動(VA)　的(DE)　、(PAUSECATEGORY)　說(VE)　不(D)　出(VC)　來(VA)　的(DE)　情緒(Na)　。(PERIODCATEGORY)
+　有(V_2)　人(Na)　問(VE)　說(VE)　，(COMMACATEGORY)
+　你(Nh)　有(V_2)　看到(VE)　新聞(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　有(V_2)　人(Na)　問(VE)　說(VE)　，(COMMACATEGORY)
+　現在(Nd)　裡面(Ncd)　到底(D)　怎樣(VH)　？(QUESTIONCATEGORY)
+　有(V_2)　人(Na)　問(VE)　說(VE)　，(COMMACATEGORY)
+　警察(Na)　會(D)　攻進(VC)　去(T)　嗎(T)　？(QUESTIONCATEGORY)
+　什麼(Nep)　時候(Na)　要(D)　清場(VA)　？(QUESTIONCATEGORY)
+　身(Na)　在(P)　遙遠(VH)　南方(Ncd)　的(DE)　我們(Nh)　、(PAUSECATEGORY)　作為(Na)　還(D)　不能(D)　負擔(VC)　法律(Na)　責任(Na)　的(DE)　高中生(Na)　，(COMMACATEGORY)
+　帶(VC)　著(Di)　無法(D)　掌握(VC)　狀況(Na)　的(DE)　擔憂(Nv)　、(PAUSECATEGORY)　帶(VC)　著(Di)　無能為力(VH)　的(DE)　自責(Nv)　，(COMMACATEGORY)
+　竟然(D)　也(D)　渾渾噩噩(VH)　的(DE)　上完(VC)　了(Di)　一(Neu)　天(Nf)　的(DE)　課程(Na)　。(PERIODCATEGORY)
+
+
+
+　這(Nep)　一(Neu)　天(Nf)　中(Ng)　，(COMMACATEGORY)
+　有(V_2)　些(Nf)　人(Na)　，(COMMACATEGORY)
+　打電話(VB)　給(VD)　自己(Nh)　的(DE)　朋友(Na)　，(COMMACATEGORY)
+　急切(VH)　的(DE)　想(VE)　知道(VK)　在(P)　立法院(Nc)　的(DE)　人(Na)　還好(VH)　嗎(T)　，(COMMACATEGORY)
+　現場(Nc)　狀況(Na)　怎麼樣(VH)　。(PERIODCATEGORY)
+　有(V_2)　些(Nf)　人(Na)　，(COMMACATEGORY)
+　在(P)　一(Neu)　天(Nf)　之內(Ng)　轉貼(VC)　了(Di)　自己(Nh)　從來(D)　沒有(D)　想(VE)　過(Di)　的(DE)　數量(Na)　的(DE)　文章(Na)　和(Caa)　圖片(Na)　。(PERIODCATEGORY)
+　有(V_2)　些(Nf)　人(Na)　，(COMMACATEGORY)
+　開始(VL)　思考(VE)　到底(D)　在(P)　南方(Ncd)　的(DE)　高中(Nc)　校園(Nc)　裡面(Ncd)　，(COMMACATEGORY)
+　到底(D)　能夠(D)　做(VC)　什麼(Nep)　?(QUESTIONCATEGORY)
+
+
+
+　在(P)　茫然(VH)　手足無措(VH)　中(Ng)　過(VCL)　了(Di)　一(Neu)　日(Nf)　，(COMMACATEGORY)
+　開始(VL)　有(V_2)　人(Na)　動(VAC)　了(Di)　起來(Di)　。(PERIODCATEGORY)
+
+
+
+　3月(Nd)　19日(Nd)　晚上(Nd)　，(COMMACATEGORY)
+　在(P)　臉(Na)　書(Na)　上(Ncd)　的(DE)　活動(Na)　「(PARENTHESISCATEGORY)　南(Ncd)　女人(Na)　、(PAUSECATEGORY)　反(VC)　黑箱(A)　服貿(Na)　、(PAUSECATEGORY)　自己(Nh)　的(DE)　國家(Na)　自己(Nh)　救(VC)　」(PARENTHESISCATEGORY)　設立(VC)　了(Di)　，(COMMACATEGORY)
+　發起(VC)　了(Di)　拍照(VB)　聲援(VC)　的(DE)　活動(Na)　。(PERIODCATEGORY)
+　據說(Dk)　，(COMMACATEGORY)
+　台南(Nc)　女中(Nc)　是(SHI)　當時(Nd)　第一(Neu)　個(Nf)　有(V_2)　學生(Na)　發起(VC)　校園(Nc)　聲援(VC)　活動(Na)　的(DE)　高中(Nc)　。(PERIODCATEGORY)
+　他們(Nh)　說(VE)　，(COMMACATEGORY)
+　3月(Nd)　20日(Nd)　的(DE)　中午(Nd)　，(COMMACATEGORY)
+　我們(Nh)　來(D)　拍照(VB)　吧(T)　。(PERIODCATEGORY)
+　「(PARENTHESISCATEGORY)　我們(Nh)　不(D)　裝傻(VA)　，(COMMACATEGORY)
+　不裝(Na)　死(VH)　，(COMMACATEGORY)
+　請(VF)　台南(Nc)　女中(Nc)　願意(VK)　聲援(VC)　的(DE)　同學(Na)　一起(D)　來(D)　拍照(VB)　」(PARENTHESISCATEGORY)　於是(Cbb)　在(P)　3月(Nd)　20日(Nd)　這天(Nd)　，(COMMACATEGORY)
+　說不定(D)　有(V_2)　一百(Neu)　個(Nf)　人(Na)　吧(T)　，(COMMACATEGORY)
+　聚集(VAC)　在校(A)　門口(Nc)　拍(VC)　了(Di)　聲援(VC)　照(VC)　，(COMMACATEGORY)
+　甚至(Cbb)　因為(Cbb)　人(Na)　太多(VH)　，(COMMACATEGORY)
+　準備好(VC)　的(DE)　標語(Na)　文字(Na)　瞬間(Nd)　顯得(VK)　太(Dfa)　小(VH)　了(T)　。(PERIODCATEGORY)
+　總之(Dk)　，(COMMACATEGORY)
+　透過(P)　行動(Na)　，(COMMACATEGORY)
+　我們(Nh)　控訴(VC)　著(Di)　政府(Na)　的(DE)　蠻橫(VH)　、(PAUSECATEGORY)　爭取(VC)　真正(A)　的(DE)　民主(Na)　。(PERIODCATEGORY)
+　我們(Nh)　想(VE)　說(VE)　的(DE)　不只(Da)　是(SHI)　支持(VC)　在(P)　立法院(Nc)　的(DE)　台灣人(Na)　，(COMMACATEGORY)
+　還(D)　有(V_2)　我們(Nh)　想(VE)　說(VE)　雖然(Cbb)　我們(Nh)　是(SHI)　高中生(Na)　，(COMMACATEGORY)
+　但(Cbb)　我們(Nh)　也(D)　是(SHI)　台灣(Nc)　社會(Na)　的(DE)　一(Neu)　份子(Na)　，(COMMACATEGORY)
+　我們(Nh)　既有(A)　權利(Na)　也(D)　有(V_2)　義務(Na)　為了(P)　台灣(Nc)　更(D)　好(VH)　的(DE)　未來(Nd)　發聲(VA)　、(PAUSECATEGORY)　行動(Na)　。(PERIODCATEGORY)
+
+
+
+　再(D)　然後(D)　，(COMMACATEGORY)
+　有(V_2)　些(Nf)　人(Na)　發起(VC)　了(Di)　不同(VH)　的(DE)　聲援(VC)　照(P)　活動(Na)　，(COMMACATEGORY)
+　讓(VL)　每(Nes)　個(Nf)　、(PAUSECATEGORY)　每(Nes)　個(Nf)　人手(Na)　拿(VC)　標語(Na)　更(D)　清晰(VH)　地(DE)　說出(VE)　自己(Nh)　的(DE)　訴求(Na)　，(COMMACATEGORY)
+　勇敢(VH)　地(DE)　尋找(VC)　自己(Nh)　在(P)　每(Nes)　個(Nf)　班(Na)　中(Ng)　認識(VJ)　的(DE)　人(Na)　請(VF)　他們(Nh)　問問看(VE)　自己(Nh)　的(DE)　班(Na)　上(Ng)　有沒有(D)　人(Na)　願意(VK)　支持(VC)　。(PERIODCATEGORY)
+　還(D)　有(V_2)　人(Na)　設計(VC)　了(Di)　衣服(Na)　，(COMMACATEGORY)
+　黑色(Na)　為(P)　底(Ncd)　的(DE)　衣服(Na)　，(COMMACATEGORY)
+　正面(Na)　寫(VC)　著(Di)　「(PARENTHESISCATEGORY)　勇敢(VH)　的(DE)　台灣人(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　不同(VH)　的(DE)　組織(Na)　發行(VC)　的(DE)　刊物(Na)　、(PAUSECATEGORY)　議題(Na)　宣傳單(Na)　流傳(VK)　在(P)　校園(Nc)　，(COMMACATEGORY)
+　甚至(D)　有(V_2)　了(Di)　台南(Nc)　女中(Nc)　學生(Na)　自己(Nh)　做(VC)　的(DE)　刊物(Na)　，(COMMACATEGORY)
+　質量(Na)　完全(D)　不(D)　輸(VD)　各(Nes)　大(VH)　NGO(FW)　。(PERIODCATEGORY)
+
+
+
+　每(Nes)　個人(Nh)　為了(P)　不同(VH)　的(DE)　原因(Na)　站出來(VA)　，(COMMACATEGORY)
+　縱使(Cbb)　有(V_2)　人(Na)　反對(VE)　，(COMMACATEGORY)
+　縱使(Cbb)　有(V_2)　來自(VJ)　學校(Nc)　或(Caa)　大(VH)　或(Caa)　小(VH)　的(DE)　壓力(Na)　，(COMMACATEGORY)
+　縱使(Cbb)　我們(Nh)　的(DE)　校長(Na)　說(VE)　南女(Nb)　的(DE)　學生(Na)　不(D)　懂(VK)　經濟(Na)　議題(Na)　，(COMMACATEGORY)
+　但(Cbb)　那(Nep)　段(Nf)　多數(Neqa)　人(Na)　都(D)　願意(VK)　去(D)　思考(VE)　、(PAUSECATEGORY)　討論(Nv)　議題(Na)　，(COMMACATEGORY)
+　去(D)　參與(VC)　公共(A)　事務(Na)　，(COMMACATEGORY)
+　去(D)　支持(VC)　或(Caa)　反對(VE)　某些(Neqa)　主張(Na)　的(DE)　日子(Na)　，(COMMACATEGORY)
+　真的(D)　是(SHI)　台南(Nc)　女中(Nc)　最(Dfa)　民主(VH)　、(PAUSECATEGORY)　最(Dfa)　自由(VH)　的(DE)　時光(Na)　之(DE)　一(Neu)　。(PERIODCATEGORY)
+
+
+
+　如今(Nd)　，(COMMACATEGORY)
+　過(VCL)　了(Di)　一(Neu)　年(Nf)　，(COMMACATEGORY)
+　有(V_2)　些(Nf)　人(Na)　上(VCL)　了(Di)　大學(Nc)　，(COMMACATEGORY)
+　有(V_2)　些(Nf)　人(Na)　考完(VC)　了(Di)　學測(VC)　，(COMMACATEGORY)
+　有(V_2)　些(Nf)　人(Na)　依然(D)　思考(VE)　著(Di)　可以(D)　在(P)　台南(Nc)　女中(Nc)　做(VC)　些(Dfb)　什麼(Nep)　改變(Na)　。(PERIODCATEGORY)
+　事實(Na)　上(Ng)　，(COMMACATEGORY)
+　我們(Nh)　曾經(D)　一(Neu)　次(Nf)　又(D)　一(Neu)　次(Nf)　的(DE)　後悔(Nv)　，(COMMACATEGORY)
+　後悔(VL)　自己(Nh)　應該(D)　在(P)　那(Nep)　段(Nf)　日子(Na)　裡面(Ncd)　做(VC)　的(DE)　更多(Neqa)　；(SEMICOLONCATEGORY)　　事實(Na)　上(Ng)　，(COMMACATEGORY)
+　我們(Nh)　曾經(D)　一(Neu)　次(Nf)　又(D)　一(Neu)　次(Nf)　的(DE)　自責(Nv)　，(COMMACATEGORY)
+　自責(VA)　自己(Nh)　沒有(VJ)　更多(Neqa)　的(DE)　學識(Na)　和(Caa)　能力(Na)　來(D)　把(P)　這(Nep)　個(Nf)　議題(Na)　說好(VE)　。(PERIODCATEGORY)
+　但(Cbb)　無論如何(Dk)　，(COMMACATEGORY)
+　我們(Nh)　都(D)　在(P)　這(Nep)　場(Nf)　運動(Na)　裡面(Ncd)　成長(VH)　。(PERIODCATEGORY)
+　雖然(Cbb)　我們(Nh)　在(P)　遙遠(VH)　的(DE)　南方(Ncd)　，(COMMACATEGORY)
+　但(Cbb)　我們(Nh)　在(P)　台南(Nc)　的(DE)　各(Nes)　個(Nf)　晚會(Na)　裡面(Ncd)　遇見(VC)　同學(Na)　，(COMMACATEGORY)
+　在(P)　台南(Nc)　的(DE)　各(Nes)　個(Nf)　講座(Na)　裡面(Ncd)　碰見(VC)　朋友(Na)　，(COMMACATEGORY)
+　在(P)　台南(Nc)　的(DE)　校園(Nc)　裡面(Ncd)　開啟(VC)　了(Di)　一些(Neqa)　可能(Na)　。(PERIODCATEGORY)
+
+
+
+　這(Nep)　就是(Cbb)　我們(Nh)　的(DE)　三一八(Neu)　。(PERIODCATEGORY)
+
+
+
+　你(Nh)　呢(T)　？(QUESTIONCATEGORY)
+　你(Nh)　的(DE)　三一八(Neu)　是(SHI)　什麼(Nep)　樣子(Na)　？(QUESTIONCATEGORY)

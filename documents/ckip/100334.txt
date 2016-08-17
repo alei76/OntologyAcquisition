@@ -1,0 +1,160 @@
+　黑箱(A)　綁(VC)　不(D)　住(VC)　年輕人(Na)　奔放(VH)　的(DE)　心靈(Na)　
+
+　新新聞(Nb)　1477(Neu)　期(Nf)　，(COMMACATEGORY)
+　2015.0(Neu)　6.25(Neu)　-(DASHCATEGORY)　07.01(Neu)　，(COMMACATEGORY)
+　頁(Na)　60(Neu)　-(DASHCATEGORY)　61(Neu)　。(PERIODCATEGORY)
+
+　陳翠蓮(Nb)　((PARENTHESISCATEGORY)　台灣(Nc)　大學(Nc)　歷史(Na)　學系(Na)　教授(Na)　、(PAUSECATEGORY)　台灣(Nc)　守護(VC)　民主(Na)　平台(Na)　理事(Na)　)(PARENTHESISCATEGORY)　
+
+
+
+　6月(Nd)　17日(Nd)　傍晚(Nd)　，(COMMACATEGORY)
+　位在(VJ)　仁愛路(Nc)　、(PAUSECATEGORY)　建國南路(Nc)　口(Ncd)　黃金(Na)　地段(Nc)　的(DE)　延平(Nc)　高中(Nc)　氣氛(Na)　不(D)　太(Dfa)　尋常(VH)　，(COMMACATEGORY)
+　五(Neu)　、(PAUSECATEGORY)　六十(Neu)　位(Nf)　學生(Na)　擠爆(VC)　小小(VH)　的(DE)　演講(Na)　教室(Nc)　。(PERIODCATEGORY)
+　在(P)　這(Nep)　所以(Cbb)　升學(VA)　出名(VH)　的(DE)　私立(A)　學校(Nc)　，(COMMACATEGORY)
+　要(D)　舉辦(VC)　這(Nep)　種(Nf)　與(Caa)　時事(Na)　密切(VH)　關連(Nv)　的(DE)　演講(Na)　不(D)　容易(VH)　，(COMMACATEGORY)
+　校方(Na)　以(P)　「(PARENTHESISCATEGORY)　不要(D)　把(P)　藍綠(Nb)　帶進(VC)　校園(Nc)　」(PARENTHESISCATEGORY)　為由(VI)　拒絕(VF)　，(COMMACATEGORY)
+　申請(VF)　過程(Na)　有(V_2)　些(Nf)　波折(Na)　。(PERIODCATEGORY)
+　多虧(D)　主辦(VC)　的(DE)　學生(Na)　寧可(VK)　挨罵(VB)　、(PAUSECATEGORY)　鍥而不捨(VH)　；(SEMICOLONCATEGORY)　　為了(P)　順利(VH)　通過(VC)　校方(Na)　的(DE)　審查(Nv)　，(COMMACATEGORY)
+　我(Nh)　也(D)　把(P)　演講(Na)　題目(Na)　做(VC)　了(Di)　調整(VC)　。(PERIODCATEGORY)
+
+
+
+　出乎意料(VH)　之外(Ng)　，(COMMACATEGORY)
+　演講(Na)　大(VH)　受(P)　歡迎(VJ)　。(PERIODCATEGORY)
+　一張張(Neqa)　青春(Na)　稚氣(VH)　的(DE)　臉龐(Na)　上(Ncd)　滿(Neqa)　是(SHI)　熱切(VH)　，(COMMACATEGORY)
+　專注(VH)　的(DE)　眼神(Na)　發出(VC)　亮光(Na)　，(COMMACATEGORY)
+　演講(Na)　之後(Ng)　，(COMMACATEGORY)
+　一(Neu)　個(Nf)　接(VC)　一(Neu)　個(Nf)　讓(VL)　人(Na)　應接不暇(VH)　的(DE)　提問(VC)　，(COMMACATEGORY)
+　欲罷不能(VH)　。(PERIODCATEGORY)
+
+
+
+　我(Nh)　只是(D)　個(Nf)　歷史(Na)　研究(Nv)　者(Na)　，(COMMACATEGORY)
+　居然(D)　有朝一日(D)　必須(D)　到(P)　各(Nes)　高中(Nc)　去(D)　講課(VA)　綱(Na)　問題(Na)　？(QUESTIONCATEGORY)
+　如果(Cbb)　不(D)　是(SHI)　因為(Cbb)　去年(Nd)　教育部長(Na)　蔣偉寧(Nb)　以(P)　極(Dfa)　粗暴(VH)　手段(Na)　通過(VC)　課綱(Na)　微調案(Na)　，(COMMACATEGORY)
+　我(Nh)　又(D)　怎會(D)　開始(VL)　關心(VK)　這些(Neqa)　問題(Na)　？(QUESTIONCATEGORY)
+
+
+
+　去年(Nd)　過年(VA)　前夕(Nd)　、(PAUSECATEGORY)　也(D)　就是(Cbb)　1月(Nd)　27日(Nd)　當天(Nd)　，(COMMACATEGORY)
+　我(Nh)　與(P)　台大(Nc)　歷史系(Nc)　同事(Na)　周婉窈(Nb)　教授(Na)　都(D)　自動自發(VH)　前往(VCL)　教(VC)　教育部(Nc)　抗議(Nv)　。(PERIODCATEGORY)
+　周(Nb)　教授(Na)　曾(D)　參與(VC)　課綱(Na)　訂定(VC)　，(COMMACATEGORY)
+　長期(Nd)　關心(VK)　歷史(Na)　教育(Na)　問題(Na)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　微(A)　」(PARENTHESISCATEGORY)　調(VC)　內容(Na)　公布(VE)　後(Ng)　，(COMMACATEGORY)
+　她(Nh)　帶領(VF)　幾(Neu)　位(Nf)　學生(Na)　徹夜(D)　不休(VH)　、(PAUSECATEGORY)　比對(VC)　台灣史(Na)　課綱(Na)　調整(VC)　內容(Na)　，(COMMACATEGORY)
+　發現(VE)　調整(VC)　幅度(Na)　高達(VJ)　60.4(Neu)　%(Nf)　，(COMMACATEGORY)
+　於是(Cbb)　製作(VC)　了(Di)　字數(Na)　比例(Na)　統計(Na)　、(PAUSECATEGORY)　課綱(Na)　調整(VC)　對照表(Na)　，(COMMACATEGORY)
+　在(P)　網路(Na)　上(Ng)　公布(VE)　。(PERIODCATEGORY)
+　我們(Nh)　都(D)　認為(VE)　茲事體大(VH)　，(COMMACATEGORY)
+　要(D)　有(V_2)　長期(Nd)　抗戰(VA)　的(DE)　準備(Nv)　，(COMMACATEGORY)
+　於是(Cbb)　糾合(VC)　有(V_2)　興趣(Na)　的(DE)　學生(Na)　，(COMMACATEGORY)
+　希望(VK)　進一步(D)　研究(VE)　。(PERIODCATEGORY)
+　我們(Nh)　的(DE)　研究(Nv)　小組(Na)　果真(D)　組織(VC)　起來(Di)　，(COMMACATEGORY)
+　成員(Na)　中(Ng)　從(P)　最(Dfa)　年長(VH)　的(DE)　博士班(Nc)　學生(Na)　到(P)　最(Dfa)　年輕(VH)　的(DE)　大二(Na)　學生(Na)　，(COMMACATEGORY)
+　共有(VJ)　十(Neu)　人(Na)　，(COMMACATEGORY)
+　再(D)　加上(VC)　周婉窈(Nb)　教授(Na)　與(Caa)　我(Nh)　，(COMMACATEGORY)
+　開始(VL)　了(Di)　為期(VH)　半(Neqa)　年(Nf)　的(DE)　密集(VH)　討論(VE)　。(PERIODCATEGORY)
+
+
+
+　這(Nep)　個(Nf)　無償(VH)　的(DE)　研究(Nv)　小組(Na)　，(COMMACATEGORY)
+　定期(D)　開會(VA)　、(PAUSECATEGORY)　經常(D)　討論到(VE)　深夜(Nd)　。(PERIODCATEGORY)
+　青年(Na)　們(Na)　將(D)　擅長(VL)　使用(VC)　的(DE)　網路(Na)　科技(Na)　，(COMMACATEGORY)
+　發揮(VJ)　得(DE)　淋漓盡致(VH)　。(PERIODCATEGORY)
+　他們(Nh)　梳理(VC)　部編版(Na)　教科書(Na)　到(P)　一(Neu)　綱(Na)　多(Neqa)　本(Nf)　教科書(Na)　的(DE)　來龍去脈(Na)　、(PAUSECATEGORY)　98(Neu)　課綱(Na)　與(Caa)　101(Neu)　課綱(Na)　的(DE)　差別(Na)　、(PAUSECATEGORY)　104(Neu)　微調(Na)　課綱(Na)　與(Caa)　史記版(Na)　教科書(Na)　中(Ng)　的(DE)　意識(Na)　形態(Na)　，(COMMACATEGORY)
+　又(D)　進一步(D)　分析(VC)　檢核(Nv)　小組(Na)　的(DE)　人脈(Na)　網絡(Na)　、(PAUSECATEGORY)　追蹤(VC)　他們(Nh)　長期(Nd)　以來(Ng)　的(DE)　倡議(Nv)　主張(Na)　，(COMMACATEGORY)
+　甚至(D)　挖掘出(VC)　兩岸(Nc)　統合(VC)　學會(Nc)　拍攝(VC)　的(DE)　歷史(Na)　影片(Na)　與(Caa)　背後(Nc)　資源(Na)　。(PERIODCATEGORY)
+
+
+
+　2014年(Nd)　8月(Nd)　31日(Nd)　，(COMMACATEGORY)
+　研究(Nv)　小組(Na)　與(Caa)　台灣(Nc)　守護(VC)　民主(Na)　平台(Na)　合作(VH)　，(COMMACATEGORY)
+　邀請(VC)　多(Neqa)　位(Nf)　學者(Na)　專家(Na)　召開(VC)　了(Di)　一(Neu)　場(Nf)　閉門(VA)　的(DE)　「(PARENTHESISCATEGORY)　歷史(Na)　教育(Na)　與(Caa)　課綱(Na)　『(PARENTHESISCATEGORY)　微(A)　』(PARENTHESISCATEGORY)　調(VCL)　工作坊(Nc)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　十(Neu)　位(Nf)　學生(Na)　分工(VA)　發表(VC)　了(Di)　八(Neu)　篇(Nf)　論文(Na)　，(COMMACATEGORY)
+　對(P)　課綱(Na)　微調(Na)　問題(Na)　中(Ng)　的(DE)　人脈(Na)　、(PAUSECATEGORY)　金脈(Nb)　、(PAUSECATEGORY)　論述(Na)　與(Caa)　目標(Na)　做(VC)　了(Di)　深入(VH)　的(DE)　分析(Na)　。(PERIODCATEGORY)
+　與會者(Na)　對於(P)　年輕人(Na)　的(DE)　能力(Na)　與(Caa)　幹勁(Na)　，(COMMACATEGORY)
+　稱讚(VE)　不已(VH)　。(PERIODCATEGORY)
+
+
+
+　今年(Nd)　2月(Nd)　，(COMMACATEGORY)
+　台北(Nc)　高等(A)　行政(Na)　法院(Nc)　判決(Nv)　教育部(Nc)　敗訴(VH)　、(PAUSECATEGORY)　應(D)　公開(VHC)　課審會(Na)　會議(Na)　紀錄(Na)　，(COMMACATEGORY)
+　課綱(Na)　問題(Na)　重新(D)　引起(VC)　注意(Nv)　，(COMMACATEGORY)
+　4月(Nd)　20日(Nd)　眾多(VH)　公民(Na)　團體(Na)　組成(VG)　「(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　行動(Na)　聯盟(Na)　」(PARENTHESISCATEGORY)　展開(VC)　抗議(Nv)　行動(Na)　，(COMMACATEGORY)
+　接著(D)　，(COMMACATEGORY)
+　5月(Nd)　初(Ng)　台中一中(Nc)　蘋果樹(Na)　公社(Nc)　的(DE)　抗議(Nv)　行動(Na)　點燃(VC)　戰火(Na)　，(COMMACATEGORY)
+　課綱(Na)　問題(Na)　延燒(VC)　全(Neqa)　台(Nc)　。(PERIODCATEGORY)
+　高中生(Na)　主動(VH)　與(P)　我(Nh)　聯繫(VC)　，(COMMACATEGORY)
+　邀請到(VC)　校(Nc)　演講(Na)　，(COMMACATEGORY)
+　我(Nh)　的(DE)　演講(Na)　內容(Na)　，(COMMACATEGORY)
+　就是(Cbb)　以(P)　台大(Nc)　學生(Na)　的(DE)　研究(Nv)　成果(Na)　作為(VG)　基礎(Na)　，(COMMACATEGORY)
+　說明(VE)　課綱(Na)　微調(Na)　為何(D)　「(PARENTHESISCATEGORY)　黑箱(A)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　誰(Nh)　在(P)　調整(VC)　課綱(Na)　、(PAUSECATEGORY)　及(Caa)　課綱(Na)　調整(VC)　的(DE)　內容(Na)　分析(Na)　。(PERIODCATEGORY)
+
+
+
+　在(P)　高中(Nc)　各(Nes)　校(Nc)　演講(Na)　中(Ng)　，(COMMACATEGORY)
+　最(Dfa)　直接(VH)　感受到(VK)　的(DE)　是(SHI)　年輕人(Na)　的(DE)　義憤(Na)　。(PERIODCATEGORY)
+　不同於(VJ)　父母(Na)　、(PAUSECATEGORY)　師長(Na)　所(D)　受(VJ)　的(DE)　威權(Na)　教育(Na)　、(PAUSECATEGORY)　服從(VC)　至上(VH)　，(COMMACATEGORY)
+　青年(Na)　世代(Na)　接受(VC)　現代(VH)　法治(Na)　、(PAUSECATEGORY)　公民(Na)　教育(Na)　，(COMMACATEGORY)
+　將(P)　程序(Na)　正義(Na)　視為(VG)　理所當然(VH)　。(PERIODCATEGORY)
+　課綱(Na)　微調(Na)　過程(Na)　的(DE)　粗暴(VH)　與(Caa)　黑箱(A)　，(COMMACATEGORY)
+　讓(VL)　他們(Nh)　無法(D)　置信(VI)　、(PAUSECATEGORY)　難以(D)　容忍(VK)　。(PERIODCATEGORY)
+　各(Nes)　校(Nc)　學生(Na)　都(D)　發出(VC)　同樣(VH)　的(DE)　疑問(Na)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　法院(Nc)　判決(Nv)　教育部(Nc)　敗訴(VH)　，(COMMACATEGORY)
+　教育部(Nc)　為什麼(D)　可以(D)　強制(D)　貫徹(VJ)　這(Nep)　套(Nf)　課綱(Na)　呢(T)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　教育部(Nc)　這樣(VH)　惡(Na)　搞(VC)　，(COMMACATEGORY)
+　難道(D)　沒有(VJ)　人(Na)　該(D)　下台(VA)　負責(VL)　嗎(T)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　青年(Na)　學生(Na)　不僅(Cbb)　對(P)　違法(VA)　的(DE)　政府(Na)　感到(VK)　生氣(VH)　，(COMMACATEGORY)
+　也(D)　對(P)　老一輩(Na)　所(D)　受(VJ)　的(DE)　思想(Na)　綑綁(VC)　表達(Nv)　同情(Nv)　。(PERIODCATEGORY)
+　新竹(Nc)　高中(Nc)　的(DE)　學生(Na)　問(VE)　我(Nh)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　請問(VE)　老師(Na)　花(VC)　多(Dfa)　久(VH)　時間(Na)　重新(D)　認識(VJ)　台灣史(Na)　，(COMMACATEGORY)
+　擺脫(VC)　原先(D)　那(Nep)　套(Nf)　觀點(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　還(D)　有(V_2)　學生(Na)　問(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　國民黨(Nb)　以前(Nd)　說(VE)　要(D)　反共(VH)　，(COMMACATEGORY)
+　現在(Nd)　卻(D)　要(VE)　聯共(Nb)　，(COMMACATEGORY)
+　難道(D)　大人(Na)　都(D)　不(D)　覺得(VK)　矛盾(VH)　嗎(T)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　當(P)　我(Nh)　分析(VC)　課綱(Na)　微調(Na)　內容(Na)　如何(D)　刻意(D)　與(P)　大(VH)　中國(Nc)　史觀(Na)　連結(VC)　時(Ng)　，(COMMACATEGORY)
+　學生(Na)　驚呼(VE)　連連(VH)　、(PAUSECATEGORY)　笑成(VG)　一(Neu)　片(Nf)　。(PERIODCATEGORY)
+
+
+
+　「(PARENTHESISCATEGORY)　政府(Na)　行使(VC)　公權力(Na)　出(VC)　問題(Na)　，(COMMACATEGORY)
+　我們(Nh)　可以(D)　做(VC)　甚麼(Nep)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　教育部(Nc)　冷(VH)　處理(VC)　，(COMMACATEGORY)
+　我們(Nh)　怎樣(D)　可以(D)　讓(VL)　大眾(Nh)　持續(VL)　關注(VJ)　熱度(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　傳統(VH)　媒體(Na)　不(D)　報導(VE)　課綱(Na)　問題(Na)　，(COMMACATEGORY)
+　我們(Nh)　該(D)　如何(D)　取得(VC)　主動(VH)　地位(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　熱血(Na)　青年(Na)　馬上(D)　想到(VE)　如何(D)　行動(VA)　。(PERIODCATEGORY)
+　教育部長(Na)　吳思華(Nb)　自(P)　台中一中(Nc)　座談會(Na)　落荒而逃(VA)　後(Ng)　，(COMMACATEGORY)
+　意指(VG)　政治力(Na)　介入(VC)　校園(Nc)　，(COMMACATEGORY)
+　真是(D)　太(Dfa)　小看(VJ)　年輕人(Na)　，(COMMACATEGORY)
+　他們(Nh)　早已(D)　想到(VE)　要(D)　如何(D)　吸納(VC)　各(Nes)　種(Nf)　勢力(Na)　、(PAUSECATEGORY)　擴大(VC)　影響力(Na)　，(COMMACATEGORY)
+　並(Cbb)　能(D)　維持(VJ)　學生(Na)　運動(Na)　的(DE)　自主性(Na)　。(PERIODCATEGORY)
+　中山(Nb)　女(Na)　高(VH)　的(DE)　同學(Na)　提出(VC)　的(DE)　問題(Na)　更(D)　有趣(VH)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　長期(Nd)　來(D)　說(VE)　，(COMMACATEGORY)
+　阻止(VC)　課綱(Na)　微調(Na)　對(P)　民進黨(Nb)　執政(VA)　有利(VK)　，(COMMACATEGORY)
+　他們(Nh)　為什麼(D)　不(D)　積極(VH)　協助(VC)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　直指(VC)　反對黨(Na)　的(DE)　怠惰(Nv)　與(Caa)　短視(VH)　。(PERIODCATEGORY)
+
+
+
+　幾(Neu)　場(Nf)　演講(Na)　下來(Ng)　，(COMMACATEGORY)
+　十分(Dfa)　驚訝(VK)　於(P)　學生(Na)　們(Na)　都(D)　不約而同(D)　地(DE)　反思(Nv)　當前(Nd)　的(DE)　教育(Na)　問題(Na)　。(PERIODCATEGORY)
+　中崙(Nc)　高中(Nc)　學生(Na)　質疑(VE)　「(PARENTHESISCATEGORY)　真的(D)　可以(D)　有(V_2)　超越(VC)　國家(Na)　認同(VJ)　的(DE)　課(Na)　綱(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　也(D)　有(V_2)　學生(Na)　疑惑(Nv)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　歷史(Na)　思維(Na)　的(DE)　核心(Na)　能力(Na)　如何(D)　達成(VC)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　目前(Nd)　的(DE)　歷史(Na)　教育(Na)　以(P)　漢人(Na)　為主(VI)　，(COMMACATEGORY)
+　原住民(Na)　的(DE)　觀點(Na)　要(D)　如何(D)　呈現(VJ)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　為何(D)　不能(D)　把(P)　多(Neqa)　種(Nf)　看法(Na)　充分(VH)　提供(VD)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　選擇(VC)　、(PAUSECATEGORY)　形成(VG)　自己(Nh)　的(DE)　觀點(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　最終(A)　，(COMMACATEGORY)
+　這些(Neqa)　小(VH)　大人(Na)　們(Na)　竟(D)　追根究底(VA)　地(DE)　問道(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　考試(Na)　方式(Na)　沒有(VJ)　跟(P)　著(Di)　時代(Na)　進步(VH)　的(DE)　話(Na)　，(COMMACATEGORY)
+　教育(Na)　如何(D)　翻轉(VAC)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　年輕(VH)　一(Neu)　代(Na)　率真(Nv)　熱情(Na)　、(PAUSECATEGORY)　勇於(VL)　思考(VE)　，(COMMACATEGORY)
+　對(P)　哺育(VC)　的(DE)　土地(Na)　有(V_2)　深厚(VH)　感情(Na)　。(PERIODCATEGORY)
+　老一輩(Na)　卻(D)　以(P)　十八世紀(Nd)　的(DE)　教育(Na)　觀(VC)　、(PAUSECATEGORY)　企圖(VF)　綑綁(VC)　奔放(VH)　的(DE)　心靈(Na)　，(COMMACATEGORY)
+　豈不(D)　荒謬(VH)　？(QUESTIONCATEGORY)

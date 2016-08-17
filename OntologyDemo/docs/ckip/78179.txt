@@ -1,0 +1,9 @@
+　「(PARENTHESISCATEGORY)　台南(Nc)　中學生(Na)　反(VC)　課綱(Na)　微調(Na)　陣線(Na)　聯盟(Na)　」(PARENTHESISCATEGORY)　今日(Nd)　早上(Nd)　10(Neu)　點(Nf)　在(P)　台南(Nc)　火車站(Nc)　聚集(VAC)　，(COMMACATEGORY)
+　高喊(VE)　教育部(Nc)　重視(VJ)　南部(Ncd)　學生(Na)　權益(Na)　，(COMMACATEGORY)
+　重啟(VC)　南部(Ncd)　座談會(Na)　，(COMMACATEGORY)
+　拒絕(VF)　將(P)　中國(Nc)　思想(Na)　加入(VC)　課綱(Na)　，(COMMACATEGORY)
+　對(P)　學生(Na)　洗腦(VB)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1369479(Neu)　

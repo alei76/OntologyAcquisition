@@ -1,0 +1,3 @@
+　周婉窈(Nb)　教授(Na)　提到(VE)　一(Neu)　個(Nf)　值得(VH)　深思(VE)　的(DE)　點(Na)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　如果(Cbb)　促(VF)　統派(Na)　一直(D)　以(P)　憲法(Na)　挾制(VC)　我們(Nh)　，(COMMACATEGORY)
+　我們(Nh)　是否(D)　應該(D)　來(D)　思考(VE)　要不要(D)　這(Nep)　個(Nf)　憲法(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　

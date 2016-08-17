@@ -1,0 +1,13 @@
+　反(VC)　黑箱(A)　課綱(Na)　刻不容緩(VH)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　我們(Nh)　想(VE)　請問(VE)　教育部(Nc)　，(COMMACATEGORY)
+　誠實(VH)　面對(VC)　問題(Na)　是(SHI)　不(D)　是(SHI)　很(Dfa)　困難(VH)　?(QUESTIONCATEGORY)
+　請(VF)　教育部(Nc)　不要(D)　冷(VH)　處理(VC)　，(COMMACATEGORY)
+　正面(Na)　回應(Nv)　學生(Na)　反對(VE)　黑箱(A)　課綱(Na)　的(DE)　訴求(Na)　。(PERIODCATEGORY)
+
+
+
+　如果(Cbb)　教育部(Nc)　遲(VH)　續(D)　打壓(VC)　我們(Nh)　學生(Na)　，(COMMACATEGORY)
+　這(Nep)　將(D)　會(D)　是(SHI)　另(Nes)　一(Neu)　場(Nf)　校園(Nc)　白色恐怖(Nb)　，(COMMACATEGORY)
+　但(Cbb)　諷刺(VC)　的(DE)　是(SHI)　未來(Nd)　新課綱(Na)　不會(D)　再(D)　有(V_2)　白色恐怖(Nb)　。(PERIODCATEGORY)

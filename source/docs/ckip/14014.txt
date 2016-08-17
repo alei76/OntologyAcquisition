@@ -1,0 +1,7 @@
+　「(PARENTHESISCATEGORY)　反(VC)　洗腦(Nv)　課綱(Na)　遊行(VA)　」(PARENTHESISCATEGORY)　週日(Nd)　下午(Nd)　於(P)　台鐵(Nc)　桃園(Nc)　中壢(Nc)　車站(Nc)　前(Nes)　廣場(Nc)　展開(VC)　，(COMMACATEGORY)
+　參與(VC)　的(DE)　高中生(Na)　、(PAUSECATEGORY)　聲援(VC)　團體(Na)　共(Da)　近(Da)　百(Neu)　人(Na)　，(COMMACATEGORY)
+　沿著(P)　中壢區(Nc)　中正路(Nc)　途經(P)　中壢(Nc)　警分局(Nc)　抵(VCL)　終點(Na)　中壢(Nc)　高商(Nc)　，(COMMACATEGORY)
+　全程(D)　約(Da)　2(Neu)　公里(Nf)　，(COMMACATEGORY)
+　訴求(Na)　教育部(Nc)　撤回(VC)　新(VH)　課綱(Na)　，(COMMACATEGORY)
+　並(Cbb)　要求(VF)　桃園(Nc)　6(Neu)　名(Nf)　區域(Na)　立委(Na)　回應(Nv)　，(COMMACATEGORY)
+　否則(Cbb)　將(D)　升級(VH)　抗爭(Na)　行動(Na)　。(PERIODCATEGORY)

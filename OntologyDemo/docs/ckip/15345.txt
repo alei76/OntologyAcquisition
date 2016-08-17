@@ -1,0 +1,71 @@
+　【(PARENTHESISCATEGORY)　學生(Na)　談談(VE)　—(DASHCATEGORY)　為什麼(D)　要(D)　反對(VE)　課綱(Na)　微調(Na)　？(QUESTIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+
+
+　台灣(Nc)　從(P)　威權(Na)　統治(VC)　到(P)　民主(Na)　自由(VH)　，(COMMACATEGORY)
+　花(VC)　了(Di)　近(Da)　半(Neqa)　個(Nf)　世紀(Na)　的(DE)　時間(Na)　，(COMMACATEGORY)
+　歷史(Na)　課本(Na)　教授(Na)　台灣史(Na)　，(COMMACATEGORY)
+　也(D)　是(SHI)　近(Nes)　十(Neu)　年(Nf)　來(Ng)　才(Da)　有(V_2)　的(DE)　。(PERIODCATEGORY)
+　我們(Nh)　這(Nep)　一(Neu)　輩(Na)　何其(Dfa)　有幸(VH)　，(COMMACATEGORY)
+　出生(VA)　以後(Ng)　就(D)　擁有(VJ)　民主(Na)　自由(VH)　，(COMMACATEGORY)
+　學校(Nc)　會(D)　教授(VC)　台灣史(Na)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　得以(D)　認識(VJ)　台灣(Nc)　這(Nep)　片(Nf)　土地(Na)　上(Ncd)　的(DE)　各(Nes)　民族(Na)　與(Caa)　先民(Na)　的(DE)　生活(Na)　與(Caa)　文化(Na)　。(PERIODCATEGORY)
+
+
+
+　如今(Nd)　高中(Nc)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　對於(P)　數(Neu)　理科(Na)　可能(D)　只是(D)　教學(VA)　先後(Nd)　順序(Na)　的(DE)　改變(Na)　，(COMMACATEGORY)
+　但(Cbb)　在(P)　歷史(Na)　等(Cab)　人文(Na)　學科(Na)　，(COMMACATEGORY)
+　尤其(D)　台灣史(Na)　，(COMMACATEGORY)
+　遭受到(VJ)　的(DE)　是(SHI)　劇烈(VH)　的(DE)　變動(Nv)　，(COMMACATEGORY)
+　大幅度(A)　刪改(Nv)　近(Da)　四成(Neqa)　，(COMMACATEGORY)
+　早期(Nd)　原住民(Na)　對(P)　外(Ncd)　的(DE)　接觸(Nv)　，(COMMACATEGORY)
+　刪(VC)　了(Di)　，(COMMACATEGORY)
+　並且(Cbb)　扭曲(VC)　史實(Na)　將(P)　鄭氏(Nb)　政權(Na)　改稱(VG)　明鄭(Nc)　，(COMMACATEGORY)
+　並(Cbb)　刪除(VC)　鄭氏(Nb)　對(P)　外(Ncd)　的(DE)　貿易(Na)　條(Nf)　與(Caa)　以及(Caa)　對(P)　清(Nd)　帝國(Na)　的(DE)　談判(Na)　，(COMMACATEGORY)
+　並(Cbb)　將(P)　中國(Nc)　改稱(VG)　中國(Nc)　大陸(Nc)　，(COMMACATEGORY)
+　削足適履(VA)　，(COMMACATEGORY)
+　好(Dfa)　符合(VJ)　早已(D)　不合時宜(VH)　的(DE)　憲法(Na)　，(COMMACATEGORY)
+　抹殺(VC)　了(Di)　台灣(Nc)　主體性(Na)　。(PERIODCATEGORY)
+　刪改(VC)　了(Di)　這(Nep)　個(Nf)　多(Neqb)　，(COMMACATEGORY)
+　取而代之(VB)　的(DE)　是(SHI)　，(COMMACATEGORY)
+　不斷(D)　誇耀(VE)　國民黨(Nb)　在(P)　威權(Na)　統治(Nv)　時代(Na)　的(DE)　經濟(Na)　成果(Na)　，(COMMACATEGORY)
+　有(V_2)　為(P)　黨國(Na)　體制(Na)　歌功頌德(VB)　之(DE)　嫌(Na)　。(PERIODCATEGORY)
+
+
+
+　為什麼(D)　會(D)　有(V_2)　如此(Dfa)　荒腔走板(VH)　的(DE)　微調(Na)　課綱(Na)　？(QUESTIONCATEGORY)
+　除了(P)　程序(Na)　上(Ncd)　有(V_2)　瑕疵(Na)　之外(Ng)　，(COMMACATEGORY)
+　更(D)　重要(VH)　的(DE)　是(SHI)　，(COMMACATEGORY)
+　十(Neu)　人(Na)　檢核(Nv)　小組(Na)　之中(Ng)　，(COMMACATEGORY)
+　沒有(VJ)　一(Neu)　位(Nf)　的(DE)　專長(Na)　在(P)　台灣史(Na)　，(COMMACATEGORY)
+　而且(Cbb)　部分(Neqa)　人(Na)　等(Cab)　的(DE)　言行(Na)　與(Caa)　經歷(Nv)　，(COMMACATEGORY)
+　是(SHI)　帶有(VJ)　支持(Nv)　兩岸(Nc)　統一(VHC)　的(DE)　意識(Na)　形態(Na)　的(T)　，(COMMACATEGORY)
+　譬如(P)　檢核(Nv)　小組(Na)　成員(Na)　之(DE)　一(Neu)　的(DE)　王曉波(Nb)　，(COMMACATEGORY)
+　連日(Nd)　來(D)　其(Nep)　言行(Na)　已(D)　顯示(VK)　對(P)　台灣(Nc)　歷史(Na)　上(Ncd)　發生(VJ)　的(DE)　大事(Na)　毫無(VJ)　同理心(Na)　，(COMMACATEGORY)
+　這樣(VH)　的(DE)　人(Na)　，(COMMACATEGORY)
+　能(D)　為(P)　我們(Nh)　的(DE)　下一代(Na)　編撰(VC)　歷史(Na)　課本(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　教育(Na)　不能(D)　走(VA)　回頭路(Na)　，(COMMACATEGORY)
+　馬(Na)　政府(Na)　是(SHI)　一(Neu)　個(Nf)　麻木不仁(VH)　的(DE)　政府(Na)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　總統(Na)　，(COMMACATEGORY)
+　是(SHI)　說出(VE)　「(PARENTHESISCATEGORY)　學費(Na)　漲久(VH)　了(Di)　就(D)　會(D)　習慣(VL)　」(PARENTHESISCATEGORY)　這樣(VH)　一(Neu)　番(Nf)　言論(Na)　的(DE)　人(Na)　，(COMMACATEGORY)
+　所以(Cbb)　我們(Nh)　絕對(D)　不能(D)　默不作聲(VH)　，(COMMACATEGORY)
+　在(P)　此(Nep)　呼籲(VE)　全(Neqa)　國(Nc)　大專院校(Na)　學生(Na)　，(COMMACATEGORY)
+　以及(Caa)　關心(Nv)　課綱(Na)　微調(Na)　的(DE)　社會(Na)　大眾(Nh)　們(Na)　，(COMMACATEGORY)
+　歡迎(VJ)　您(Nh)　加入(VC)　我們(Nh)　，(COMMACATEGORY)
+　在(P)　這(Nep)　個(Nf)　關鍵(Na)　的(DE)　時刻(Na)　，(COMMACATEGORY)
+　站出來(VA)　，(COMMACATEGORY)
+　告訴(VE)　馬(Na)　政府(Na)　，(COMMACATEGORY)
+　我們(Nh)　對於(P)　帶有(VJ)　特定(A)　意識(Na)　形態(Na)　的(DE)　洗腦(Nv)　課綱(Na)　，(COMMACATEGORY)
+　我們(Nh)　絕對(D)　不會(D)　習慣(VL)　，(COMMACATEGORY)
+　更(D)　不會(D)　妥協(VA)　。(PERIODCATEGORY)
+
+
+
+　反(VC)　洗腦(Nv)　課綱(Na)　學生(Na)　陣線(Na)　
+
+　輔大(Nc)　分(VC)　會長(Na)　輔大(Nc)　歷史(Na)　學系(Na)　侯宗穎(Nb)　

@@ -1,0 +1,17 @@
+　【(PARENTHESISCATEGORY)　課本(Na)　上(Ng)　沒(D)　教(VC)　的(DE)　事(Na)　】(PARENTHESISCATEGORY)　
+
+
+
+　1945年(Nd)　5月(Nd)　31日(Nd)　上午(Nd)　十時(Nd)　至(P)　下午(Nd)　一時(Nd)　，(COMMACATEGORY)
+　美軍(Na)　對(P)　台北(Nc)　實施(VC)　無(VJ)　間斷(VHC)　轟炸(Nv)　，(COMMACATEGORY)
+　造成(VG)　三千多(Neu)　人(Na)　當場(D)　死亡(VH)　，(COMMACATEGORY)
+　被(P)　稱為(VG)　台北(Nc)　大(VH)　空襲(VC)　，(COMMACATEGORY)
+　今天(Nd)　正好(Da)　是(SHI)　七十(Neu)　周年(Nf)　，(COMMACATEGORY)
+　妳(Nh)　知道(VK)　這(Nep)　件(Nf)　事(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　還是(D)　因為(Cbb)　歷史(Na)　課本(Na)　從未(D)　提(VE)　過(Di)　而(Cbb)　感到(VK)　陌生(VI)　呢(T)　？(QUESTIONCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.mplus.com.tw/article(FW)　/(FW)　427(Neu)　
+
+　轟炸(VC)　台灣(Nc)　：(COLONCATEGORY)　　1945年(Nd)　的(DE)　空襲(Nv)　記憶(Na)　

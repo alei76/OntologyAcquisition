@@ -1,0 +1,13 @@
+　今日(Nd)　下午(Nd)　在(P)　中央(Nc)　公園(Nc)　舉行(VC)　的(DE)　高雄市(Nc)　聯合(D)　反(VC)　黑箱(A)　課綱(Na)　活動(Na)　，(COMMACATEGORY)
+　在(P)　大家(Nh)　的(DE)　掌聲(Na)　跟(P)　參與(VC)　中(Ng)　圓滿(VH)　完成(VC)　!(EXCLANATIONCATEGORY)
+
+　一(Neu)　場(Nf)　活動(Na)　的(DE)　成功(VH)　，(COMMACATEGORY)
+　除了(P)　主辦(VC)　單位(Na)　的(DE)　用心(VH)　籌備(Nv)　之外(Ng)　，(COMMACATEGORY)
+　更多(Neqa)　的(DE)　是(SHI)　需要(VK)　廣大(VH)　群眾(Na)　的(DE)　支持(Nv)　，(COMMACATEGORY)
+　無論(Cbb)　是(SHI)　，(COMMACATEGORY)
+　學生(Na)　、(PAUSECATEGORY)　師長(Na)　、(PAUSECATEGORY)　路過(VCL)　的(DE)　民眾(Na)　......(ETCCATEGORY)　
+
+　今後(Nd)　的(DE)　路(Na)　還(D)　很(Dfa)　漫長(VH)　，(COMMACATEGORY)
+　希望(VK)　能(D)　有(V_2)　你們(Nh)　的(DE)　相伴(VA)　，(COMMACATEGORY)
+　共同(A)　對(P)　政府(Na)　表達(VC)　我們(Nh)　的(DE)　不滿(Nv)　跟(Caa)　訴求(Na)　，(COMMACATEGORY)
+　謝謝(VJ)　大家(Nh)　。(PERIODCATEGORY)

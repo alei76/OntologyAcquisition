@@ -1,0 +1,47 @@
+　課綱(Na)　微調(Na)　反(VC)　什麼(Nep)　？(QUESTIONCATEGORY)
+　向(P)　自主(VH)　與(Caa)　自由(Na)　起航(VCL)　！(EXCLANATIONCATEGORY)
+
+
+
+　大家(Nh)　好(VH)　，(COMMACATEGORY)
+　這(Nep)　一(Neu)　週(Nf)　以來(Ng)　紛紛(D)　成立(VC)　的(DE)　粉絲(Na)　專頁(Na)　─(FW)　─(FW)　高中生(Na)　反對(Nv)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　是否(D)　令(VL)　在(P)　社團(Na)　與(Caa)　學業(Na)　間(Ng)　焦頭爛額(VH)　，(COMMACATEGORY)
+　無暇(VH)　關心(VK)　社會(Na)　議題(Na)　的(DE)　妳(Nh)　相當(Dfa)　困惑(VH)　呢(T)　？(QUESTIONCATEGORY)
+　妳(Nh)　是否(D)　也(D)　對於(P)　跟(P)　身為(VG)　學生(Na)　的(DE)　自己(Nh)　切身(A)　相關(VH)　的(DE)　「(PARENTHESISCATEGORY)　教育(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　課綱(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　相當(Dfa)　好奇(VH)　但(Cbb)　又(D)　不(D)　知(VK)　從(P)　何(Nb)　瞭解(VK)　起(Di)　呢(T)　？(QUESTIONCATEGORY)
+
+
+
+　過多(VH)　的(DE)　資訊(Na)　與(Caa)　主張(Na)　，(COMMACATEGORY)
+　像(P)　迷霧(Na)　般(Ng)　讓(VL)　人(Na)　看(VC)　不(D)　清(VH)　方向(Na)　。(PERIODCATEGORY)
+　為什麼(D)　反對(VE)　？(QUESTIONCATEGORY)
+　什麼(Nep)　是(SHI)　黑箱(A)　？(QUESTIONCATEGORY)
+　什麼(Nep)　是(SHI)　去(D)　台灣化(VHC)　？(QUESTIONCATEGORY)
+　為什麼(D)　反(VC)　黑箱(A)　？(QUESTIONCATEGORY)
+　為什麼(D)　反(D)　去(D)　台灣化(VHC)　？(QUESTIONCATEGORY)
+　為什麼(D)　教育部(Nc)　強推新課綱(Na)　？(QUESTIONCATEGORY)
+　身為(VG)　學生(Na)　，(COMMACATEGORY)
+　我們(Nh)　能(D)　做(VC)　什麼(Nep)　？(QUESTIONCATEGORY)
+　我們(Nh)　想(VE)　做(VC)　什麼(Nep)　？(QUESTIONCATEGORY)
+　我們(Nh)　該(D)　做(VC)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+
+
+　在(P)　此(Nep)　次(Nf)　的(DE)　短(VH)　講(VE)　中(Ng)　，(COMMACATEGORY)
+　歡迎(VJ)　學生(Na)　攜帶(VC)　午餐(Na)　，(COMMACATEGORY)
+　圍繞(VC)　即將(D)　引領(VC)　太陽神(Na)　的(DE)　女兒(Na)　向(P)　自由(Na)　與(Caa)　自主(VH)　啟航(VA)　的(DE)　心(Na)　之(DE)　舵(Na)　，(COMMACATEGORY)
+　隨地(D)　而(Cbb)　坐(VA)　，(COMMACATEGORY)
+　輕鬆(VH)　自在(VH)　地(DE)　與(P)　我們(Nh)　一起(D)　思辯(VE)　、(PAUSECATEGORY)　討論(VE)　有關於(P)　課綱(Na)　微調(Na)　的(DE)　議題(Na)　。(PERIODCATEGORY)
+　謝謝(VJ)　大家(Nh)　！(EXCLANATIONCATEGORY)
+
+
+
+　短(VH)　講(VE)　主題(Na)　：(COLONCATEGORY)　　課綱(Na)　微調(Na)　反(VC)　什麼(Nep)　？(QUESTIONCATEGORY)
+　向(P)　自由(Na)　與(Caa)　自主(VH)　起航(VCL)　！(EXCLANATIONCATEGORY)
+
+　地點(Na)　：(COLONCATEGORY)　　科學館(Nc)　前方(Ncd)　心(Na)　之(DE)　舵(Na)　
+
+　時間(Na)　：(COLONCATEGORY)　　２０１５(Neu)　．(PERIODCATEGORY)　６／５(Neqa)　中午(Nd)　１２(Neu)　：(COLONCATEGORY)
+　００(Neu)　～(FW)　１２(Neu)　：(COLONCATEGORY)　　３０(Neu)　
+
+　主講人(Na)　：(COLONCATEGORY)　　反(VC)　黑箱(A)　課綱(Na)　景美(Nc)　女中(Nc)　站出來(VA)　

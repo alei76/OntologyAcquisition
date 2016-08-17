@@ -1,0 +1,34 @@
+　老師(Na)　投搞處(Nc)　:(COLONCATEGORY)　
+
+　沈(Nb)　老師(Na)　:(COLONCATEGORY)　
+
+　教育(Na)　將(D)　影響(VC)　下(Nes)　一(Neu)　整(Neqa)　個(Nf)　世代(Na)　的(DE)　意識(Na)　型態(Na)　與(Caa)　價值觀(Na)　
+
+　教育(Na)　不(D)　是(SHI)　灌輸(VD)　,(COMMACATEGORY)
+　教育(Na)　應(D)　是(SHI)　要(D)　培養(VC)　孩子(Na)　
+
+　1(Neu)　.(PERIODCATEGORY)　孩子(Na)　對(P)　事實(Na)　的(DE)　判斷力(Na)
+
+　2(Neu)　.(PERIODCATEGORY)　對(P)　議題(Na)　的(DE)　反(VC)　界力(Na)
+
+　3(Neu)　.(PERIODCATEGORY)　對(P)　公義(Na)　的(DE)　察覺(VK)　力(Na)
+
+　4(Neu)　.(PERIODCATEGORY)　對(P)　政府(Na)　的(DE)　監督力(Na)
+
+　若(Cbb)　我們(Nh)　老是(D)　把(P)　孩子(Na)　當(VG)　孩子(Na)　,(COMMACATEGORY)
+　那(Nep)　又(D)　何必(D)　期待(VK)　他們(Nh)　不會(D)　成為(VG)　幼稚(VH)　的(DE)　大人(Na)　呢(T)　?(QUESTIONCATEGORY)
+
+　故(Cbb)　:(COLONCATEGORY)　
+
+　在(P)　此(Nep)　呼籲(VE)　政府(Na)　別(D)　在(P)　開(VC)　哪些(Neqa)　徒具(VJ)　形式(Na)　而已(T)　的(DE)　公聽會(Na)　
+
+　請(VF)　開放(VC)　學者(Na)　與(Caa)　基層(A)　教師(Na)　,(COMMACATEGORY)
+　參與(VC)　課綱(Na)　制定(VC)　過程(Na)　
+
+　屏除(VC)　黑箱(A)　,(COMMACATEGORY)
+　權威式(A)　表決(Nv)　,(COMMACATEGORY)
+
+　開放(VC)　透明(VH)　,(COMMACATEGORY)
+　民主式(Na)　議程(Na)　
+
+　.(PERIODCATEGORY)

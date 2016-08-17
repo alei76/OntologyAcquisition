@@ -1,0 +1,12 @@
+　【(PARENTHESISCATEGORY)　你(Nh)　不(D)　來(VA)　？(QUESTIONCATEGORY)
+　那(Dk)　我(Nh)　去(VCL)　囉(T)　！(EXCLANATIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+
+
+　PS(FW)　：(COLONCATEGORY)　　最近(Nd)　分享(VJ)　的(DE)　許多(Neqa)　資訊(Na)　都(D)　是(SHI)　來自(VJ)　自由時報(Nb)　。(PERIODCATEGORY)
+　其實(D)　不(D)　是(SHI)　我們(Nh)　偏愛(VJ)　這(Nep)　個(Nf)　媒體(Na)　，(COMMACATEGORY)
+　而是(Cbb)　因為(Cbb)　其他(Neqa)　新聞(Na)　媒體(Na)　對(P)　這(Nep)　議題(Na)　都(D)　刻意(D)　冷(VH)　處理(VC)　，(COMMACATEGORY)
+　大家(Nh)　可以(D)　思考(VE)　一下(Nd)　為什麼(D)　會(D)　這樣(VH)　。(PERIODCATEGORY)
+　為什麼(D)　課綱(Na)　微調(Na)　這(Nep)　個(Nf)　重大(VH)　的(DE)　全國性(Na)　議題(Na)　只(D)　有(V_2)　大眾(Nh)　普遍(VH)　認知(Na)　上(Ncd)　偏(VJ)　特定(A)　陣營(Na)　的(DE)　媒體(Na)　才(Da)　會(D)　報導(VE)　？(QUESTIONCATEGORY)
+　這(Nep)　是(SHI)　不(D)　是(SHI)　執政(Nv)　者(Na)　為了(P)　「(PARENTHESISCATEGORY)　證明(Na)　」(PARENTHESISCATEGORY)　高中職(Nc)　生(VC)　反(VC)　課綱(Na)　微調(Na)　的(DE)　行動(Na)　是(SHI)　「(PARENTHESISCATEGORY)　受(P)　政治(Na)　勢力(Na)　操控(VC)　的(DE)　愚昧(Nv)　行為(Na)　」(PARENTHESISCATEGORY)　所(D)　刻意(D)　進行(VC)　的(DE)　的(DE)　媒體(Na)　操作(VC)　？(QUESTIONCATEGORY)

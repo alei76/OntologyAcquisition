@@ -1,0 +1,9 @@
+　邀請到(VC)　陳翠蓮(Nb)　教授(Na)　主講(VE)　-(DASHCATEGORY)　黑手(Na)　、(PAUSECATEGORY)　課綱(Na)　與(Caa)　歷史(Na)　教育(Na)　
+
+
+
+　時間(Na)　:(COLONCATEGORY)　　7(Neu)　/(FW)　23(Neu)　星期四(Nd)　晚間(Nd)　七(Neu)　點(Nf)　半(Neqa)　~(FW)　九(Neu)　點(Nf)　
+
+　地點(Na)　:(COLONCATEGORY)　　忠孝東路(Nc)　一段(Nc)　152(Neu)　號(Nf)　八樓(Nc)　-(DASHCATEGORY)　1(Neu)　
+
+　快(D)　來(D)　報名(VA)　

@@ -1,0 +1,22 @@
+　昨(Nd)　參加(VC)　集會(VA)　的(DE)　高中(Nc)　有(V_2)　建中(Nc)　、(PAUSECATEGORY)　北一女(Nc)　、(PAUSECATEGORY)　師大附中(Nc)　、(PAUSECATEGORY)　松山(Nc)　高中(Nc)　、(PAUSECATEGORY)　景美(Nc)　女中(Nc)　、(PAUSECATEGORY)　中崙(Nc)　高中(Nc)　、(PAUSECATEGORY)　新(VH)　北市(Nc)　中和(Nc)　高中(Nc)　、(PAUSECATEGORY)　新竹市(Nc)　建功(VA)　高中(Nc)　等(Cab)　，(COMMACATEGORY)
+　還(D)　有(V_2)　松山(Nc)　工農(Na)　、(PAUSECATEGORY)　南港(Nc)　高工(Nc)　、(PAUSECATEGORY)　內湖(Nc)　高工(Nc)　、(PAUSECATEGORY)　新北(Nc)　復興(Nc)　商工(Nc)　等(Cab)　高職(Nc)　。(PERIODCATEGORY)
+　松山(Nc)　工農(Na)　代表(Na)　吳念璞(Nb)　表示(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　這(Nep)　個(Nf)　議題(Na)　是(SHI)　大家(Nh)　都(D)　要(D)　關心(VK)　的(T)　，(COMMACATEGORY)
+　不(D)　是(SHI)　為了(P)　自己(Nh)　，(COMMACATEGORY)
+　而是(Cbb)　為了(P)　下一代(Na)　得到(VJ)　正確(VH)　知識(Na)　的(DE)　權利(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　建中(Nc)　五月(Nd)　十日(Nd)　已(D)　召開(VC)　書評(Na)　會(D)　，(COMMACATEGORY)
+　公民(Na)　、(PAUSECATEGORY)　歷史(Na)　科(Na)　都(D)　將(D)　選用(VC)　新版(Na)　，(COMMACATEGORY)
+　莊珮柔(Nb)　對(P)　此(Nep)　表示(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　這(Nep)　代表(Na)　教(VC)　高(VH)　一(Neu)　的(DE)　老師(Na)　贊成(VK)　新版(Na)　課綱(Na)　，(COMMACATEGORY)
+　我們(Nh)　教(VC)　高二(Na)　、(PAUSECATEGORY)　高三(Na)　的(DE)　老師(Na)　都(D)　反對(VE)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　莊珮柔(Nb)　並(D)　說(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　真誠(VH)　面對(VC)　歷史(Na)　，(COMMACATEGORY)
+　在(P)　台灣(Nc)　談何容易(VH)　？(QUESTIONCATEGORY)
+　歷史課(Na)　綱(Na)　難以(D)　取得(VC)　共識(Na)　，(COMMACATEGORY)
+　不能(D)　多(VH)　面向(Na)　談(VE)　，(COMMACATEGORY)
+　只(Da)　能(D)　單一(A)　面向(Na)　談(VE)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/focus/paper(FW)　/(FW)　887219(Neu)　

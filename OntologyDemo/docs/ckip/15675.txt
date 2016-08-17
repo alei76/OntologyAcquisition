@@ -1,0 +1,11 @@
+　1(Neu)　.(PERIODCATEGORY)　課審會(Na)　程序(Na)　「(PARENTHESISCATEGORY)　作弊(VA)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　鼓掌(VA)　通過(VC)　？(QUESTIONCATEGORY)
+　帶回(VC)　家(Nc)　表決(VE)　？(QUESTIONCATEGORY)
+
+
+
+　2(Neu)　.(PERIODCATEGORY)　自己(Nh)　寫(VC)　的(DE)　微調(Na)　課綱(Na)　竟(D)　自己(Nh)　審(VC)　？(QUESTIONCATEGORY)
+
+
+
+　3(Neu)　.(PERIODCATEGORY)　課綱(Na)　爭議(Na)　內容(Na)　恐(VK)　入(VCL)　大考(Na)　考題(Na)　！(EXCLANATIONCATEGORY)

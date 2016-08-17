@@ -1,0 +1,5 @@
+　各(Nes)　位(Nf)　學長(Na)　姊(Na)　有(V_2)　拿到(VC)　涼扇(Na)　嗎(T)　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)
+
+　各(Nes)　位(Nf)　政府(Na)　官員(Na)　有(V_2)　找回(VC)　良善(VH)　嗎(T)　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)

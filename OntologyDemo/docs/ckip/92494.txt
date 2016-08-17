@@ -1,0 +1,17 @@
+　教改(Na)　一直(D)　不(D)　成功(VH)　，(COMMACATEGORY)
+　就是(Cbb)　由於(Cbb)　教育(Na)　現場(Nc)　仍(D)　難以(D)　落實(VHC)　內部(Ncd)　民主(Na)　。(PERIODCATEGORY)
+　從(P)　反(VC)　微調(A)　課綱(Na)　運動(Na)　來(D)　看(VC)　，(COMMACATEGORY)
+　基層(A)　教師(Na)　的(DE)　反彈(Nv)　聲浪(Na)　依然(D)　不(D)　受(VJ)　重視(Nv)　，(COMMACATEGORY)
+　如何(D)　將(P)　教育(Na)　從(P)　黨國(Na)　及(Caa)　專家(Na)　思維(Na)　中(Ng)　解放(VC)　？(QUESTIONCATEGORY)
+　這(Nep)　次(Nf)　的(DE)　課綱(Na)　微調(Na)　爭議(Na)　，(COMMACATEGORY)
+　除了(P)　在(P)　程序(Na)　上(Ncd)　的(DE)　不(D)　正當(VH)　，(COMMACATEGORY)
+　以及(Caa)　刪去(VC)　模糊(VH)　台灣(Nc)　主體性(Na)　的(DE)　內容(Na)　，(COMMACATEGORY)
+　同時(Nd)　也(D)　再度(D)　收束(VA)　了(Di)　教師(Na)　專業(VH)　自主性(Na)　及(Caa)　學生(Na)　學習(VC)　自主性(Na)　。(PERIODCATEGORY)
+　輔以(VC)　日前(Nd)　台東(Nc)　女中(Nc)　教官(Na)　看似(VG)　以(P)　「(PARENTHESISCATEGORY)　校安(Nb)　通報(VE)　」(PARENTHESISCATEGORY)　舉動(Na)　做為(VG)　對(P)　當局(Na)　的(DE)　表態(Na)　，(COMMACATEGORY)
+　國民黨(Nb)　政府(Na)　二十(Neu)　年(Nf)　來(D)　仍(D)　不(D)　改(VC)　其(Nep)　獨裁(VH)　本色(Na)　，(COMMACATEGORY)
+　在(P)　這(Nep)　歷史(Na)　時刻(Na)　，(COMMACATEGORY)
+　也(D)　僅(Da)　能(D)　再度(D)　呼籲(VE)　「(PARENTHESISCATEGORY)　反(VC)　微調(A)　課綱(Na)　就(D)　是(SHI)　反(VC)　獨裁(VH)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　talk.ltn.com.tw/article/paper(FW)　/(FW)　886647(Neu)　

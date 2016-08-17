@@ -1,0 +1,13 @@
+　不(D)　知(VK)　為何(D)　，(COMMACATEGORY)
+　台北(Nc)　的(DE)　晚上(Nd)　一點(Neqa)　都(D)　不(D)　冷(VH)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　學長(Na)　羽(Na)　爸(Na)　帶(VC)　著(Di)　白芯羽(Nb)　一起(D)　唱(VC)　著(Di)　歌(Na)　，(COMMACATEGORY)
+　地上(Nc)　排(VC)　著(Di)　傘形(Na)　的(DE)　蠟燭(Na)　，(COMMACATEGORY)
+　來自(VJ)　各(Nes)　方(Nf)　的(DE)　朋友(Na)　們(Na)　一起(D)　來(D)　幫忙(VC)　，(COMMACATEGORY)
+　警察(Na)　大哥(Na)　大姊(Na)　們(Na)　也(D)　很(Dfa)　和善(VH)　，(COMMACATEGORY)
+　分局長(Na)　也(D)　承諾(VE)　不會(D)　驅離(VC)　，(COMMACATEGORY)
+　反(VC)　黑箱(A)　課綱(Na)　至(P)　此(Nep)　一切(Neqa)　順利(VH)　。(PERIODCATEGORY)
+
+　今夜(Nd)　的(DE)　教育部(Nc)　，(COMMACATEGORY)
+　我們(Nh)　不會(D)　跟(P)　你(Nh)　說(VE)　晚安(VH)　，(COMMACATEGORY)
+　因為(Cbb)　我們(Nh)　會(D)　一直(D)　醒(VA)　著(Di)　，(COMMACATEGORY)
+　直到(P)　看見(VE)　明天(Nd)　的(DE)　天光(Na)　。(PERIODCATEGORY)

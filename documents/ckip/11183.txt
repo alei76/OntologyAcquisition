@@ -1,0 +1,5 @@
+　全(Neqa)　台(Nc)　高中(Nc)　大(VH)　串聯(VC)　，(COMMACATEGORY)
+　泰北(Nc)　的(DE)　老師(Na)　們(Na)　，(COMMACATEGORY)
+　你們(Nh)　還(D)　在(P)　猶豫(VK)　嗎(T)　?(QUESTIONCATEGORY)
+　同學(Na)　們(Na)　，(COMMACATEGORY)
+　你們(Nh)　站出來(VA)　了(Di)　嗎(T)　?(QUESTIONCATEGORY)

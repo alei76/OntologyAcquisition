@@ -1,0 +1,53 @@
+　「(PARENTHESISCATEGORY)　你(Nh)　可以(D)　有(V_2)　立場(Na)　，(COMMACATEGORY)
+　但(Cbb)　一定(D)　要(D)　先(D)　了解(VK)　，(COMMACATEGORY)
+　因為(Cbb)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　我們(Nh)　的(DE)　事(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　—(DASHCATEGORY)　———(DASHCATEGORY)　———(DASHCATEGORY)　
+
+
+
+　花女課綱(Na)　微調(Na)　相關(VH)　講座(Na)　資訊(Na)　：(COLONCATEGORY)　
+
+
+
+　一(Neu)　、(PAUSECATEGORY)　
+
+　時間(Na)　：(COLONCATEGORY)　　6(Neu)　/(FW)　08(Neu)　((PARENTHESISCATEGORY)　一(Neu)　)(PARENTHESISCATEGORY)　15(Neu)　:(COLONCATEGORY)　　00(Neu)　（(PARENTHESISCATEGORY)　第7(Neu)　節(Nf)　）(PARENTHESISCATEGORY)　
+
+　講(VE)　者(Na)　：(COLONCATEGORY)　　吳一晉(Nb)　老師(Na)　（(PARENTHESISCATEGORY)　花蓮(Nc)　女中(Nc)　）(PARENTHESISCATEGORY)　
+
+　地點(Na)　：(COLONCATEGORY)　　圖書館(Nc)　3(Neu)　F(FW)　視聽(A)　教室(Nc)　
+
+
+
+　二(Neu)　、(PAUSECATEGORY)　
+
+　時間(Na)　：(COLONCATEGORY)　　6(Neu)　/(FW)　11(Neu)　((PARENTHESISCATEGORY)　四(Neu)　)(PARENTHESISCATEGORY)　15(Neu)　:(COLONCATEGORY)　　00(Neu)　—(DASHCATEGORY)　17(Neu)　:(COLONCATEGORY)　　00(Neu)　（(PARENTHESISCATEGORY)　第7－8(Neu)　節(Nf)　）(PARENTHESISCATEGORY)　
+
+　講(VE)　者(Na)　：(COLONCATEGORY)　　陳進金(Nb)　老師(Na)　（(PARENTHESISCATEGORY)　東華(Nb)　大學(Nc)　歷史系(Nc)　）(PARENTHESISCATEGORY)　
+
+　講題(Na)　：(COLONCATEGORY)　　教科書(Na)　應該(D)　為(VG)　政治(Na)　服務(Nv)　嗎(T)　？(QUESTIONCATEGORY)
+　談(VE)　課綱(Na)　微調(Na)　與(Caa)　歷史(Na)　教育(Na)　
+
+　地點(Na)　：(COLONCATEGORY)　　階梯(Na)　教室(Nc)　
+
+
+
+　—(DASHCATEGORY)　———(DASHCATEGORY)　———(DASHCATEGORY)　
+
+
+
+　花(VC)　女校(Nc)　內(Ncd)　同學(Na)　將(D)　統一(VHC)　辦理(VC)　公假(Na)　，(COMMACATEGORY)
+
+　敬請(VF)　踴躍(VH)　參加(VC)　。(PERIODCATEGORY)
+
+
+
+　是否(D)　開放(VC)　外(Ng)　校(Nc)　朋友(Na)　入(VCL)　校(Nc)　參加(VC)　講座(Na)　，(COMMACATEGORY)
+
+　禮拜(Na)　一會(Nd)　申請(VF)　看看(VC)　，(COMMACATEGORY)
+　再(D)　另行(D)　公告(VE)　哦(T)　。(PERIODCATEGORY)

@@ -1,0 +1,45 @@
+　[(PARENTHESISCATEGORY)　今日(Nd)　聲明(Na)　](PARENTHESISCATEGORY)　
+
+
+
+　針對(P)　昨日(Nd)　（(PARENTHESISCATEGORY)　０７／０６(Neqa)　）(PARENTHESISCATEGORY)　學生(Na)　之(DE)　陳情(Nv)　，(COMMACATEGORY)
+　教育部(Nc)　竟(D)　以(P)　蛇籠(Na)　拒馬(Na)　和(Caa)　大批(Neqa)　警力(Na)　回應(Nv)　教育(Na)　的(DE)　主體(Na)　─(FW)　─(FW)　學生(Na)　，(COMMACATEGORY)
+　將(P)　我們(Nh)　阻擋(VC)　在(P)　國家(Na)　機器(Na)　的(DE)　高(VH)　牆(Na)　外(Ncd)　。(PERIODCATEGORY)
+　並且(Cbb)　事(Na)　後(Ng)　再次(D)　以(P)　「(PARENTHESISCATEGORY)　自己(Nh)　課綱(Na)　自己(Nh)　寫(VC)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　包容(VJ)　不同(VH)　意見(Na)　」(PARENTHESISCATEGORY)　聊表(VC)　回應(Nv)　，(COMMACATEGORY)
+　我們(Nh)　對(P)　教育部(Nc)　如此(VH)　對待(VC)　手無寸鐵(VH)　的(DE)　學生(Na)　、(PAUSECATEGORY)　輕視(VJ)　學生(Na)　意見(Na)　，(COMMACATEGORY)
+　感到(VK)　非常(Dfa)　憤慨(VH)　與(Caa)　失望(VH)　。(PERIODCATEGORY)
+
+
+
+　課綱(Na)　對(P)　眾多(VH)　不(D)　特定(A)　人民(Na)　發生(VJ)　法律(Na)　效果(Na)　，(COMMACATEGORY)
+　為(P)　關係(Na)　眾人(Na)　權益(Na)　之(DE)　事(Na)　，(COMMACATEGORY)
+　我們(Nh)　嚴正(VH)　抗議(VE)　教育部(Nc)　以(P)　「(PARENTHESISCATEGORY)　自己(Nh)　課綱(Na)　自己(Nh)　寫(VC)　」(PARENTHESISCATEGORY)　和(Caa)　「(PARENTHESISCATEGORY)　包容(VJ)　不同(VH)　意見(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　將(P)　此(Nep)　次(Nf)　課綱(Na)　爭議(Na)　的(DE)　癥結(Na)　，(COMMACATEGORY)
+　化約(Na)　、(PAUSECATEGORY)　誤導(VC)　為(P)　雙方(Nh)　「(PARENTHESISCATEGORY)　史觀(Na)　不同(VH)　」(PARENTHESISCATEGORY)　或(Caa)　「(PARENTHESISCATEGORY)　價值觀(Na)　不同(VH)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　掩蓋(VC)　課綱(Na)　本質(Na)　上(Ng)　須(D)　注重(VJ)　程序(Na)　嚴謹(VH)　，(COMMACATEGORY)
+　不(D)　適合(VH)　以(P)　行政(Na)　規則(Na)　辦理(VC)　，(COMMACATEGORY)
+　內容(Na)　高度(Na)　要求(VF)　專業性(Na)　，(COMMACATEGORY)
+　以及(Caa)　必須(D)　符合(VJ)　簡要(VH)　、(PAUSECATEGORY)　不(D)　做(VC)　價值(Na)　論斷(Nv)　等(Cab)　原則(Na)　。(PERIODCATEGORY)
+　課綱(Na)　應(D)　以(P)　尊重(VJ)　多元(A)　、(PAUSECATEGORY)　自由(Na)　、(PAUSECATEGORY)　民主(Na)　為(P)　出發點(Nc)　，(COMMACATEGORY)
+　使(VL)　學生(Na)　了解(Nv)　與(Caa)　認同(VJ)　自己(Nh)　生長(VH)　的(DE)　土地(Na)　，(COMMACATEGORY)
+　不僅(Cbb)　是(SHI)　符合(VJ)　「(PARENTHESISCATEGORY)　由(P)　近(VH)　至(Caa)　遠(VH)　」(PARENTHESISCATEGORY)　的(DE)　教育(Na)　理論(Na)　，(COMMACATEGORY)
+　提升(VC)　學習(Nv)　實用性(Na)　，(COMMACATEGORY)
+　更(D)　是(SHI)　呼應(VC)　了(Di)　臺灣(Nc)　社會(Na)　的(DE)　核心(Na)　價值(Na)　。(PERIODCATEGORY)
+　如今(Nd)　微調(Na)　後(Ng)　的(DE)　103(Neu)　課綱(Na)　，(COMMACATEGORY)
+　卻(D)　是(SHI)　程序(Na)　不(D)　正當(VH)　、(PAUSECATEGORY)　專業性(Na)　不足(VH)　、(PAUSECATEGORY)　以(P)　中華(Nc)　為(VG)　本位(Na)　、(PAUSECATEGORY)　蔑視(VJ)　多元(A)　價值(Na)　與(Caa)　人權(Na)　教育(Na)　，(COMMACATEGORY)
+　做出(VC)　許多(Neqa)　出於(VJ)　自身(Nh)　政治(Na)　立場(Na)　或(Caa)　意識(Na)　型態(Na)　之(DE)　價值(Na)　論斷(VE)　，(COMMACATEGORY)
+　意圖(VF)　以(P)　課綱(Na)　作為(VG)　強化(VHC)　統治(Nv)　正當性(Na)　的(DE)　工具(Na)　。(PERIODCATEGORY)
+　因此(Cbb)　我們(Nh)　再次(D)　強調(VE)　，(COMMACATEGORY)
+　教育部(Nc)　必須(D)　退回(VC)　課綱(Na)　，(COMMACATEGORY)
+　以(P)　公開(VHC)　民主(Na)　、(PAUSECATEGORY)　符合(VJ)　課綱(Na)　制定(VC)　原則(Na)　之(DE)　方式(Na)　重新(D)　擬定(VC)　。(PERIODCATEGORY)
+
+
+
+　最後(Nd)　我們(Nh)　想要(VE)　向(P)　2016(Neu)　兩(Nf)　大(VH)　黨(Na)　總統(Na)　候選人(Na)　提問(VC)　：(COLONCATEGORY)　　請問(VE)　蔡英文(Nb)　女士(Na)　與(Caa)　洪秀柱(Nb)　女士(Na)　，(COMMACATEGORY)
+　請問(VE)　您(Nh)　是否(D)　同意(VK)　台灣(Nc)　的(DE)　學生(Na)　使用(VC)　一(Neu)　份(Nf)　「(PARENTHESISCATEGORY)　不(D)　專業(VH)　、(PAUSECATEGORY)　不(D)　多元(VH)　、(PAUSECATEGORY)　違反(VJ)　程序(Na)　正義(Na)　」(PARENTHESISCATEGORY)　的(DE)　課綱(Na)　？(QUESTIONCATEGORY)
+　是否(D)　支持(VC)　課綱(Na)　內涵(Na)　本土化(VHC)　、(PAUSECATEGORY)　修訂(Nv)　法制化(Nv)　？(QUESTIONCATEGORY)
+　雖然(Cbb)　我們(Nh)　只是(D)　一(Neu)　群(Nf)　沒有(VJ)　選票(Na)　的(DE)　學生(Na)　，(COMMACATEGORY)
+　但(Cbb)　我們(Nh)　看見(VE)　了(Di)　執政黨(Na)　的(DE)　橫行(VA)　、(PAUSECATEGORY)　在野黨(Na)　的(DE)　監督(Nv)　不力(Nv)　；(SEMICOLONCATEGORY)　　因為(Cbb)　我們(Nh)　只是(D)　一(Neu)　群(Nf)　沒有(VJ)　選票(Na)　的(DE)　學生(Na)　，(COMMACATEGORY)
+　面對(VC)　國家(Na)　未來(Nd)　可能(VH)　的(DE)　領導人(Na)　，(COMMACATEGORY)
+　提問(VC)　是(SHI)　我們(Nh)　唯一(A)　能(D)　做(VC)　的(DE)　事(Na)　。(PERIODCATEGORY)
+　懇請(VF)　兩(Neu)　位(Nf)　候選人(Na)　正式(VH)　表態(VA)　。(PERIODCATEGORY)

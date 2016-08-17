@@ -1,0 +1,30 @@
+　全(Neqa)　國(Nc)　家長(Na)　團體(Na)　聯盟(Na)　等(Cab)　家長(Na)　團體(Na)　加入(VC)　「(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　行動(Na)　聯盟(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　今天(Nd)　到(VCL)　教育部(Nc)　抗議(VE)　，(COMMACATEGORY)
+　主張(VE)　教育部(Nc)　撤回(VC)　去年(Nd)　微調(Na)　過(VCL)　的(DE)　高中(Nc)　國文(Na)　、(PAUSECATEGORY)　社會(Na)　課程(Na)　綱要(Na)　，(COMMACATEGORY)
+　並(Cbb)　立即(D)　公開(VHC)　微調案(Na)　與(Caa)　12(Neu)　年(Nf)　國教(Na)　領域(Na)　綱要(Na)　的(DE)　相關(VH)　資訊(Na)　、(PAUSECATEGORY)　建立(VC)　課綱(Na)　審定(VC)　的(DE)　公共(A)　參與(VC)　程序(Na)　。(PERIODCATEGORY)
+　全(Neqa)　國高中(Nc)　高職(Nc)　家長(Na)　會長(Na)　協會(Nc)　理事長(Na)　陳鐵虎(Nb)　批評(Na)　，(COMMACATEGORY)
+　教育部(Nc)　在(P)　課綱(Na)　微調案(Na)　中(Ng)　先(D)　違法(VA)　，(COMMACATEGORY)
+　卻(D)　要(VC)　縣市政府(Nc)　不能(D)　違法(VA)　用(P)　舊(VH)　課綱(Na)　，(COMMACATEGORY)
+　未來(Nd)　可能(D)　以(P)　大學(Nc)　入學(Nv)　考試(Na)　綁住(VC)　新(VH)　課綱(Na)　，(COMMACATEGORY)
+　呼籲(VE)　教育部(Nc)　部長(Na)　吳思華(Nb)　「(PARENTHESISCATEGORY)　懸崖勒馬(VA)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+ 
+
+　全(Neqa)　國(Nc)　家長(Na)　團體(Na)　聯盟(Na)　副理事長(Na)　謝國清(Nb)　質疑(VE)　，(COMMACATEGORY)
+　課綱(Na)　衍生(VC)　這麼(Dfa)　大(VH)　爭議(Na)　，(COMMACATEGORY)
+　另外(Cbb)　明年(Nd)　選舉(Na)　很(Dfa)　可能(VH)　又(Caa)　政黨(Na)　輪替(VA)　，(COMMACATEGORY)
+　屆時(D)　是否(D)　又(D)　要(D)　改(VC)　內容(Na)　？(QUESTIONCATEGORY)
+　謝國清(Nb)　說(VE)　，(COMMACATEGORY)
+　他(Nh)　長期(Nd)　參與(VC)　教育部(Nc)　的(DE)　課程(Na)　綱要(Na)　審議(VC)　委員會(Nc)　，(COMMACATEGORY)
+　但(Cbb)　在(P)　課綱(Na)　制定(VC)　好(VH)　後(Ng)　，(COMMACATEGORY)
+　卻(D)　多出(VJ)　一(Neu)　個(Nf)　「(PARENTHESISCATEGORY)　檢核(Nv)　小組(Na)　」(PARENTHESISCATEGORY)　主導(VC)　課綱(Na)　方向(Na)　。(PERIODCATEGORY)
+　各(Nes)　級(Na)　學校(Nc)　家長(Na)　協會(Nc)　祕書長(Na)　陳啟利(Nb)　說(VE)　，(COMMACATEGORY)
+　違法(Nv)　課綱(Na)　將(D)　使(VL)　學生(Na)　在(P)　學校(Nc)　所(D)　學(VC)　和(Caa)　社會(Na)　現實(Na)　矛盾(VH)　，(COMMACATEGORY)
+　以後(Nd)　可能(D)　再(D)　引發(VC)　學運(Na)　。(PERIODCATEGORY)
+
+ 
+
+　人本(A)　教育(Na)　基金會(Nc)　執行長(Na)　馮喬蘭(Nb)　說(VE)　，(COMMACATEGORY)
+　昨天(Nd)　吳思華(Nb)　在(P)　立法院(Nc)　說(VE)　要(D)　發文(VA)　要求(VF)　學校(Nc)　用(VC)　新(VH)　課綱(Na)　，(COMMACATEGORY)
+　呼籲(VE)　各(Nes)　縣市(Nc)　教育局處(Nc)　也(D)　應該(D)　發文(VA)　支持(VC)　教師(Na)　拒(VF)　用(VC)　違法(Nv)　課綱(Na)　。(PERIODCATEGORY)
+　（(PARENTHESISCATEGORY)　蔡永彬(Nb)　／(FW)　台北(Nc)　報導(Na)　）(PARENTHESISCATEGORY)　

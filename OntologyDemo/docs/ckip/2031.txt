@@ -1,0 +1,11 @@
+　不(D)　讓(VL)　課綱(Na)　倒退(VA)　，(COMMACATEGORY)
+　學生(Na)　站出來(VA)　！(EXCLANATIONCATEGORY)
+
+
+
+　順便(D)　再次(D)　宣傳(VC)　：(COLONCATEGORY)　
+
+　6(Neu)　/(FW)　13(Neu)　早上(Nd)　10(Neu)　：(COLONCATEGORY)　　00(Neu)　～(FW)　11(Neu)　：(COLONCATEGORY)　　30(Neu)　
+
+　教育部(Nc)　會(D)　在(P)　台南(Nc)　一(Neu)　中(Ncd)　舉辦(VC)　關於(P)　此(Nep)　次(Nf)　高中(Nc)　微調(A)　課綱(Na)　的(DE)　座談會(Na)　，(COMMACATEGORY)
+　歡迎(VJ)　高(VH)　一(Neu)　至(Caa)　高三(Na)　的(DE)　學生(Na)　前往(VCL)　參加(VC)　！(EXCLANATIONCATEGORY)

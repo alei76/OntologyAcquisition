@@ -1,0 +1,38 @@
+　各(Nes)　位(Nf)　清水(Na)　的(DE)　同學(Na)　大家(Nh)　好(VH)　，(COMMACATEGORY)
+　我(Nh)　是(SHI)　編輯(VC)　Kevin(FW)　
+
+　身為(VG)　學生(Na)　的(DE)　我們(Nh)　，(COMMACATEGORY)
+　每(Nes)　天(Nf)　都(D)　在(P)　努力(VH)　地(DE)　念書(VA)　
+
+　為(VG)　的(DE)　不過(Cbb)　就(D)　是(SHI)　能(D)　考到(VC)　一(Neu)　間(Nf)　好(VH)　大學(Nc)　
+
+　但是(Cbb)　，(COMMACATEGORY)
+　我們(Nh)　是否(D)　曾經(D)　去(D)　思考(VE)　過(Di)　
+
+　我們(Nh)　學(VC)　的(DE)　內容(Na)　是(SHI)　怎麼(D)　來(VA)　的(DE)　?(QUESTIONCATEGORY)
+
+　書(Na)　，(COMMACATEGORY)
+　是(SHI)　人(Na)　編出(VC)　來(VA)　的(DE)　，(COMMACATEGORY)
+　每(Nes)　一(Neu)　本(Nf)　書(Na)　的(DE)　內容(Na)　
+
+　會(D)　因為(Cbb)　編輯(VC)　的(DE)　人(Na)　不同(VH)　，(COMMACATEGORY)
+　而(Cbb)　有所(VJ)　差異(Na)　，(COMMACATEGORY)
+
+　我們(Nh)　所(D)　學到(VC)　的(T)　，(COMMACATEGORY)
+　到底(D)　甚麼(Nep)　是(SHI)　真的(D)　?(QUESTIONCATEGORY)
+　甚麼(Nep)　是(SHI)　假(VH)　的(T)　?(QUESTIONCATEGORY)
+
+　不論(Cbb)　是(SHI)　因為(Cbb)　黑箱(A)　作業(Na)　，(COMMACATEGORY)
+　又(D)　或者(Caa)　是(SHI)　課綱(Na)　微調(Na)　的(DE)　內容(Na)　
+
+　已經(D)　讓(VL)　很多(Neqa)　人(Na)　起身(VA)　抗議(VE)　了(Di)　
+
+　我們(Nh)　也(D)　該(D)　盡(VJ)　自己(Nh)　的(DE)　力量(Na)　，(COMMACATEGORY)
+　挺身而出(VA)　。(PERIODCATEGORY)
+
+　不要(D)　去(D)　害怕(VK)　反應(Na)　，(COMMACATEGORY)
+　還(D)　有(V_2)　我們(Nh)　陪(VC)　著(Di)　你(Nh)　
+
+　有(V_2)　些(Nf)　時候(Na)　，(COMMACATEGORY)
+　一(D)　但(Cbb)　成(VG)　定局(Na)　了(T)　，(COMMACATEGORY)
+　便(D)　來不及(VH)　了(T)　。(PERIODCATEGORY)

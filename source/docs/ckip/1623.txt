@@ -1,0 +1,23 @@
+　曾幾何時(Dk)　，(COMMACATEGORY)
+　訂定(VC)　課綱(Na)　竟(D)　需要(VK)　偷偷摸摸(VH)　的(T)　來(T)　?(QUESTIONCATEGORY)
+
+　曾幾何時(Dk)　，(COMMACATEGORY)
+　教育部(Nc)　竟(D)　成(VG)　了(Di)　教育(Na)　的(DE)　最(Dfa)　大(VH)　敵人(Na)　?(QUESTIONCATEGORY)
+
+　曾幾何時(Dk)　，(COMMACATEGORY)
+　公民(Na)　力量(Na)　的(DE)　覺醒(Nv)　能(D)　帶(VC)　起(Di)　超過(VJ)　230(Neu)　所(Nf)　高中職(Nc)　來(D)　反對(VE)　惡劣(VH)　的(DE)　政策(Na)　?(QUESTIONCATEGORY)
+
+　曾幾何時(Dk)　，(COMMACATEGORY)
+　包圍(VC)　在(P)　部長(Na)　座車(Na)　周圍(Nc)　的(DE)　，(COMMACATEGORY)
+　不(D)　是(SHI)　大學生(Na)　，(COMMACATEGORY)
+　不(D)　是(SHI)　社會(Na)　人士(Na)　，(COMMACATEGORY)
+　而是(Cbb)　一(Neu)　群(Nf)　高中生(Na)　?(QUESTIONCATEGORY)
+
+　曾幾何時(Dk)　，(COMMACATEGORY)
+　堂堂(VH)　一(Neu)　部(Nf)　之(DE)　長(VH)　竟然(D)　淪落到(VC)　要(D)　用(P)　一連串(A)　的(DE)　煙霧彈(Na)　和(Caa)　擦(VC)　邊球(Na)　來(D)　回應(VC)　學生(Na)　的(DE)　問題(Na)　?(QUESTIONCATEGORY)
+
+
+
+　校園(Nc)　民主(Na)　
+
+　Keep(FW)　waking(FW)　....(ETCCATEGORY)　

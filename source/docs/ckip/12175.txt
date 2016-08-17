@@ -1,0 +1,31 @@
+　關於(P)　我們(Nh)　的(DE)　簡介(Na)　：(COLONCATEGORY)　
+
+
+
+　Who(FW)　controls(FW)　the(FW)　past(FW)　controls(FW)　the(FW)　future(FW)　.(PERIODCATEGORY)　Who(FW)　controls(FW)　the(FW)　present(FW)　controls(FW)
+　the(FW)　past(FW)　.(PERIODCATEGORY)　。(PERIODCATEGORY)
+　--(DASHCATEGORY)　George(FW)　Orwell(FW)　
+
+　教育(Na)　讓(VL)　我們(Nh)　能夠(D)　認識(VJ)　自己(Nh)　。(PERIODCATEGORY)
+　我們(Nh)　將(D)　知道(VK)　自己(Nh)　從(P)　何(Nb)　而(Cbb)　來(VA)　、(PAUSECATEGORY)　為何(D)　而(Cbb)　來(VA)　；(SEMICOLONCATEGORY)　　我們(Nh)　將(D)　知道(VK)　自己(Nh)　站(VA)　在(P)　何處(Nc)　、(PAUSECATEGORY)　與(Caa)　誰(Nh)　共舞(VA)　；(SEMICOLONCATEGORY)　　我們(Nh)　將(D)　知道(VK)　自己(Nh)　被(P)　賦予(VD)　了(Di)　什麼(Nep)　使命(Na)　，(COMMACATEGORY)
+　該(D)　前往(VCL)　何處(Nc)　。(PERIODCATEGORY)
+
+　如果(Cbb)　教育(Na)　不能夠(D)　讓(VL)　我們(Nh)　擁有(VJ)　學習(VC)　的(DE)　自主(Nv)　與(Caa)　自由(Na)　，(COMMACATEGORY)
+　不能夠(D)　讓(VL)　我們(Nh)　學會(VC)　認識(VJ)　自己(Nh)　與(Caa)　土地(Na)　，(COMMACATEGORY)
+　那麼(Dk)　又(D)　該(D)　如何(D)　孕育出(VC)　耕耘(Nv)　社會(Na)　、(PAUSECATEGORY)　奉獻(Nv)　土地(Na)　的(DE)　優秀(VH)　人才(Na)　？(QUESTIONCATEGORY)
+
+　我們(Nh)　是(SHI)　景美(Nc)　女中(Nc)　的(DE)　學生(Na)　，(COMMACATEGORY)
+　希望(VK)　能夠(D)　與(P)　諸(Nes)　位(Nf)　同學(Na)　、(PAUSECATEGORY)　校友(Na)　、(PAUSECATEGORY)　師長(Na)　一同(D)　認識(VJ)　台灣(Nc)　、(PAUSECATEGORY)　認識(VJ)　自我(Nh)　。(PERIODCATEGORY)
+　並且(Cbb)　以(P)　多元(A)　的(DE)　聲音(Na)　討論(VE)　彼此(Nh)　的(DE)　意見(Na)　，(COMMACATEGORY)
+　讓(VL)　校園(Nc)　中(Ncd)　每(Nes)　個(Nf)　角落(Nc)　的(DE)　聲音(Na)　都(D)　能(D)　被(P)　傾聽(VC)　與(Caa)　包容(Nv)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　一起(D)　找回(VC)　屬於(VG)　黃衫客(Nb)　的(DE)　驕傲(Nv)　。(PERIODCATEGORY)
+
+　景美(Nc)　女中(Nc)　，(COMMACATEGORY)
+　氣勢(Na)　如(P)　虹(Na)　，(COMMACATEGORY)
+　太陽(Na)　神采(Na)　，(COMMACATEGORY)
+　誰(Nh)　與(P)　爭鋒(VB)　！(EXCLANATIONCATEGORY)
+
+　我們(Nh)　將(D)　成就(VC)　自己(Nh)　學習(VC)　的(DE)　選擇權(Na)　，(COMMACATEGORY)
+　讓(VL)　景美(Nc)　女中(Nc)　，(COMMACATEGORY)
+　成為(VG)　全(Neqa)　台(Nf)　反對(Nv)　課綱(Na)　微調(Na)　這(Nep)　個(Nf)　龐大(VH)　集合(VAC)　的(DE)　元素(Na)　之(DE)　一(Neu)　。(PERIODCATEGORY)
+　謝謝(VJ)　大家(Nh)　！(EXCLANATIONCATEGORY)

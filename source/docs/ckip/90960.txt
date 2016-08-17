@@ -1,0 +1,14 @@
+　高校(Nc)　生(VC)　為何(D)　站出來(VA)　反(VC)　黑箱(A)　課綱(Na)　？(QUESTIONCATEGORY)
+
+　明天(Nd)　晚上(Nd)　17(Neu)　:(COLONCATEGORY)　　00(Neu)　~(FW)　18(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　FM(FW)　89.3(Neu)　『(PARENTHESISCATEGORY)　綠色(Na)　逗陣(Na)　島國(Na)　前進(VA)　』(PARENTHESISCATEGORY)　
+
+　由(P)　黃國昌(Nb)　主持(VC)　專訪(Nv)　竹中(Nc)　．(PERIODCATEGORY)　中和(Nc)　．(PERIODCATEGORY)　建中(Nc)　共同(A)　發言人(Na)
+
+　請(VF)　大家(Nh)　多多(D)　支持(VC)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+
+
+
+　6(Neu)　/(FW)　4(Neu)　直撥(VC)　網址(Nc)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.happyradio.com.tw/stream/stream_taipei.php(FW)　

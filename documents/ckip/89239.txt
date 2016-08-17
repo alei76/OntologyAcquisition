@@ -1,0 +1,22 @@
+　嗯(I)　，(COMMACATEGORY)
+　新(VH)　課綱(Na)　八月(Nd)　照常(VH)　上路(VA)　、(PAUSECATEGORY)　尊重(VJ)　學校(Nc)　可(D)　選用(VC)　舊(VH)　課綱(Na)　所(D)　編輯(VC)　的(DE)　教科書(Na)　的(DE)　權力(Na)　。(PERIODCATEGORY)
+
+　但(Cbb)　要求(VF)　學校(Nc)　使用(VC)　新版(Na)　與(Caa)　要求(VF)　出版商(Na)　銷毀(VC)　舊版(Na)　教科書(Na)　的(DE)　兩(Neu)　張(Nf)　白紙(Na)　黑字(Na)　的(DE)　公文(Na)　依然(D)　存在(VA)　不(D)　作廢(VH)　。(PERIODCATEGORY)
+
+
+
+　X(FW)　，(COMMACATEGORY)
+　你(Nh)　現在(Nd)　當(P)　老師(Na)　與(Caa)　學生(Na)　都(D)　王八蛋(Na)　就是了(VH)　？(QUESTIONCATEGORY)
+
+
+
+　吳思華(Nb)　部長(Na)　，(COMMACATEGORY)
+　我(Nh)　知道(VK)　您(Nh)　思慕(VJ)　華夏(Nc)　的(DE)　心(Na)　急切(VH)　，(COMMACATEGORY)
+　無視(VJ)　違法(Nv)　也(D)　要(D)　讓(VL)　新(VH)　課綱(Na)　在(P)　八月(Nd)　上路(VA)　。(PERIODCATEGORY)
+
+
+
+　天(Nc)　啊(T)　，(COMMACATEGORY)
+　作為(VG)　國家(Na)　最(Dfa)　高(VH)　教育(Na)　機構(Na)　部長(Na)　，(COMMACATEGORY)
+　您(Nh)　這麼(D)　濫用(VC)　職權(Na)　且(Cbb)　無視(VJ)　法院(Nc)　的(DE)　判決(Nv)　，(COMMACATEGORY)
+　難道(D)　不(D)　怕(VK)　未來(Nd)　學子(Na)　們(Na)　也(D)　有樣學樣(VA)　？(QUESTIONCATEGORY)

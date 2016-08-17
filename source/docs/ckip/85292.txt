@@ -1,0 +1,5 @@
+　這(Nep)　款(Nf)　教育部(Nc)　？(QUESTIONCATEGORY)
+　我們(Nh)　還(D)　不(D)　反(VC)　？(QUESTIONCATEGORY)
+
+　等(P)　什麼(Nep)　？(QUESTIONCATEGORY)
+　等到(P)　他(Nh)　把(P)　你(Nh)　賣(VD)　了(T)　？(QUESTIONCATEGORY)

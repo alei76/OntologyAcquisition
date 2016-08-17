@@ -1,0 +1,52 @@
+　小草(Na)　聚(VA)　＠(FW)　新竹(Nc)　】(PARENTHESISCATEGORY)　第四(Neu)　場(Nf)　來(VA)　了(Di)　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+
+　講題(Na)　：(COLONCATEGORY)　　為什麼(D)　要(D)　反(VC)　課綱(Na)　？(QUESTIONCATEGORY)
+　兼論(Na)　新竹(Nc)　高中生(Na)　的(DE)　在(P)　地(Na)　抗爭(VA)　
+
+　（(PARENTHESISCATEGORY)　報名(VA)　網址(Nc)　：(COLONCATEGORY)　　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/forms/HG8j2AXhMY(FW)　）(PARENTHESISCATEGORY)　
+
+　講(VE)　者(Na)　：(COLONCATEGORY)　
+
+　陳冠華(Nb)　（(PARENTHESISCATEGORY)　新竹(Nc)　實驗(Na)　中學(Nc)　歷史(Na)　老師(Na)　、(PAUSECATEGORY)　歷史(Na)　老師(Na)　深耕(Nv)　聯盟(Na)　成員(Na)　）(PARENTHESISCATEGORY)　
+
+
+
+　地點(Na)　：(COLONCATEGORY)　　傑克(Nb)　潘(Nb)　咖啡廳(Nc)　（(PARENTHESISCATEGORY)　竹北市(Nc)　光明一路(Nc)　422(Neu)　號(Nf)　）(PARENTHESISCATEGORY)　
+
+　時間(Na)　：(COLONCATEGORY)　　6(Neu)　/(FW)　12(Neu)　（(PARENTHESISCATEGORY)　五(Neu)　）(PARENTHESISCATEGORY)　晚上(Nd)　7(Neu)　：(COLONCATEGORY)　　30(Neu)　
+
+
+
+　簡介(Na)　：(COLONCATEGORY)　
+
+　目前(Nd)　全(Neqa)　國(Nc)　已(D)　有(V_2)　154(Neu)　所(Nf)　高中職(Nc)　學生(Na)　站出來(VA)　反(VC)　黑箱(A)　微調(Na)　課綱(Na)　，(COMMACATEGORY)
+　教育部長(Na)　吳思華(Nb)　也(D)　開(VC)　記者會(Na)　回應(Nv)　，(COMMACATEGORY)
+　教育部(Nc)　不會(D)　撤回(VC)　微調(A)　課綱(Na)　，(COMMACATEGORY)
+　在(P)　今年(Nd)　8月(Nd)　會(D)　如期(D)　實施(VC)　。(PERIODCATEGORY)
+　這(Nep)　讓(VL)　人(Na)　覺得(VK)　，(COMMACATEGORY)
+　經過(VCL)　318(Neu)　學運(Na)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　政府(Na)　仍然(D)　覺得(VK)　人民(Na)　的(DE)　聲音(Na)　不(D)　需要(VK)　受到(VJ)　重視(Nv)　。(PERIODCATEGORY)
+　可是(Cbb)　，(COMMACATEGORY)
+　人民(Na)　反對(VE)　總是(D)　有(V_2)　原因(Na)　，(COMMACATEGORY)
+　不(D)　反對(VE)　的(DE)　人(Na)　不(D)　是(SHI)　贊同(VJ)　政府(Na)　這樣(VH)　的(DE)　政策(Na)　，(COMMACATEGORY)
+　而是(Cbb)　不(D)　知道(VK)　問題(Na)　在(P)　哪(Nep)　？(QUESTIONCATEGORY)
+　所以(Cbb)　，(COMMACATEGORY)
+　我們(Nh)　需要(VK)　知道(VK)　我們(Nh)　為什麼(D)　而(Cbb)　反對(VE)　課綱(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　在(P)　新竹(Nc)　，(COMMACATEGORY)
+　由(P)　新竹(Nc)　高中(Nc)　的(DE)　學生(Na)　發起(VC)　的(DE)　反(VC)　黑箱(A)　課綱(Na)　活動(Na)　，(COMMACATEGORY)
+　再度(D)　證明(VE)　「(PARENTHESISCATEGORY)　政府(Na)　硬幹(Nv)　、(PAUSECATEGORY)　人民(Na)　迎戰(VC)　」(PARENTHESISCATEGORY)　的(DE)　正當性(Na)　，(COMMACATEGORY)
+　也(D)　讓(VL)　我們(Nh)　感佩(VJ)　這(Nep)　群(Nf)　高中生(Na)　的(DE)　行動力(Na)　。(PERIODCATEGORY)
+　我們(Nh)　邀請(VC)　了(Di)　歷史(Na)　教師(Na)　深根(Na)　聯盟(Na)　成員(Na)　、(PAUSECATEGORY)　新竹(Nc)　實驗(Na)　中學(Nc)　的(DE)　歷史(Na)　老師(Na)　陳冠華(Nb)　來(D)　跟(P)　我們(Nh)　談談(VE)　反對(VE)　歷史課(Na)　綱(Na)　的(DE)　主題(Na)　。(PERIODCATEGORY)
+　歡迎(VJ)　大家(Nh)　到場(VA)　來(D)　了解(VK)　！(EXCLANATIONCATEGORY)
+
+
+
+　（(PARENTHESISCATEGORY)　活動(Na)　全(Neqa)　額(Na)　免費(VH)　）(PARENTHESISCATEGORY)　

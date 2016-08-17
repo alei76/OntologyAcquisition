@@ -1,0 +1,18 @@
+　摘(VC)　：(COLONCATEGORY)　　有(V_2)　人(Na)　或許(D)　寄望(VK)　二○一六年(Nd)　政黨(Na)　輪替(VA)　後(Ng)　再(D)　把(P)　課綱(Na)　調回(VC)　來(Ng)　，(COMMACATEGORY)
+　但(Cbb)　我(Nh)　很(Dfa)　期望(VK)　今年(Nd)　就(D)　能(D)　把(P)　這(Nep)　個(Nf)　違法(Nv)　課綱(Na)　擋(VC)　下來(Di)　，(COMMACATEGORY)
+　這樣(VH)　才(D)　能(D)　避免(VE)　明年(Nd)　選(VC)　後(Ng)　又(D)　開始(VL)　沒完沒了(VH)　的(DE)　社會(Na)　消耗戰(Na)　。(PERIODCATEGORY)
+　我(Nh)　尤其(D)　希望(VK)　基層(A)　教師(Na)　、(PAUSECATEGORY)　學生(Na)　和(Caa)　家長(Na)　都(D)　發揮(VJ)　力量(Na)　，(COMMACATEGORY)
+　一起(D)　捍衛(VC)　台灣(Nc)　社會(Na)　好不容易(D)　建立起(VC)　來(VA)　的(DE)　價值(Na)　。(PERIODCATEGORY)
+
+
+
+　更(D)　重要(VH)　的(DE)　是(SHI)　，(COMMACATEGORY)
+　這(Nep)　次(Nf)　黑箱(A)　微調(Na)　課綱(Na)　事件(Na)　，(COMMACATEGORY)
+　顯示(VK)　台灣(Nc)　的(DE)　教育(Na)　很(Dfa)　難(VH)　避免(VE)　政治力(Na)　的(DE)　干涉(Nv)　，(COMMACATEGORY)
+　必須(D)　致力(VL)　於(P)　建立(VC)　一(Neu)　個(Nf)　獨立(VH)　的(DE)　課綱(Na)　制定(VC)　機制(Na)　，(COMMACATEGORY)
+　以(P)　透明(VH)　、(PAUSECATEGORY)　公開(VHC)　為(P)　原則(Na)　，(COMMACATEGORY)
+　兼顧(VC)　專業(VH)　與(Caa)　民主(Na)　參與(VC)　，(COMMACATEGORY)
+　課綱(Na)　委員(Na)　的(DE)　聘任(Nv)　方式(Na)　和(Caa)　任期(Na)　，(COMMACATEGORY)
+　不(D)　受(VJ)　政黨(Na)　輪替(VA)　的(DE)　影響(Na)　，(COMMACATEGORY)
+　這(Nep)　才(Da)　是(SHI)　長久(VH)　之(DE)　計(Na)　，(COMMACATEGORY)
+　才(Da)　是(SHI)　教育(Na)　之(DE)　道(Na)　。(PERIODCATEGORY)

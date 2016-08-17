@@ -1,0 +1,4 @@
+　早上(Nd)　在(P)　火車站(Nc)　的(DE)　活動(Na)　
+
+　你(Nh)　，(COMMACATEGORY)
+　有(V_2)　來(D)　參加(VC)　嗎(T)　？(QUESTIONCATEGORY)

@@ -1,0 +1,17 @@
+　王曉波(Nb)　，(COMMACATEGORY)
+　微調(A)　課綱(Na)　檢核(Nv)　小組(Na)　的(DE)　成員(Na)　，(COMMACATEGORY)
+　是(SHI)　這樣(VH)　主張(VE)　台灣(Nc)　教育(Na)　政策(Na)　的(T)　。(PERIODCATEGORY)
+
+
+
+　「(PARENTHESISCATEGORY)　王(Nb)　＜(FW)　U(FW)　+(FW)　6653(Neu)　＞(FW)　波(Na)　表示(VE)　，(COMMACATEGORY)
+　“(FW)　根(Na)　据(P)　教(VC)　＜(FW)　U+5B(FW)　66(Neu)　＞(FW)　自由(Na)　，(COMMACATEGORY)
+　只要(Cbb)　＜(FW)　U+5B(FW)　66(Neu)　＞(FW)　生(VC)　同意(Nv)　，(COMMACATEGORY)
+　你(Nh)　不用(D)　最(Dfa)　新(VH)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　可以(D)　，(COMMACATEGORY)
+　但(Cbb)　全(Neqa)　台(Nf)　性(Na)　的(DE)　指考(Na)　（(PARENTHESISCATEGORY)　相(Na)　＜(FW)　U+5F(FW)　53(Neu)　＞(FW)　于(P)　大(VH)　＜(FW)　U(FW)　+(FW)　9646(Neu)　＞(FW)　的(DE)　高考(Na)　）(PARENTHESISCATEGORY)　必(D)　＜(FW)　U+987B(FW)　＞(FW)　按(P)　新(VH)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　出(VC)　＜(FW)　U(FW)　+(FW)　9898(Neu)　＞(FW)　，(COMMACATEGORY)
+　到(P)　＜(FW)　U+65F(FW)　6(Neu)　＞(FW)　，(COMMACATEGORY)
+　不(D)　采用(VC)　新(VH)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　的(DE)　＜(FW)　U+5B(FW)　66(Neu)　＞(FW)　生考(Nb)　＜(FW)　U+8BD(FW)　5(Neu)　＞(FW)　怎(D)　么(b)　＜(FW)　U+529E(FW)　＞(FW)　？(QUESTIONCATEGORY)
+　”(FW)　他(Nh)　＜(FW)　U+8BA4＞＜U+4E3A(FW)　＞(FW)　，(COMMACATEGORY)
+　家(Nc)　＜(FW)　U+957F＞＜U+5C4A＞＜U+65F(FW)　6(Neu)　＞(FW)　“(FW)　一定(A)　＜(FW)　U+4F1A＞＜U+95F(FW)　9(Neu)　＞(FW)　”(FW)　，(COMMACATEGORY)
+　＜(FW)　U+8FD(FW)　9(Neu)　＞(FW)　些(Nf)　拒(VF)　＜(FW)　U+7EDD(FW)　＞(FW)　采用(VC)　新(VH)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　的(DE)　＜(FW)　U+53BF(FW)　＞(FW)　市(Nc)　＜(FW)　U+957F＞＜U+4F1A(FW)　＞(FW)　有(V_2)　苦(Na)　＜(FW)　U(FW)　+(FW)　5934(Neu)　＞(FW)　吃(VC)　的(T)　。(PERIODCATEGORY)
+　（(PARENTHESISCATEGORY)　海(Na)　＜(FW)　U+5CE1＞＜U+5BFC＞＜U+62A5＞＜U+8BB(FW)　0(Neu)　＞(FW)　者(Na)　＜(FW)　U(FW)　+(FW)　5434(Neu)　＞(FW)　生林文(Nb)　/(FW)　＜(FW)　U+8D(FW)　44(Neu)　＞(FW)　料(Na)　＜(FW)　U+56FE(FW)　＞(FW)　）(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　

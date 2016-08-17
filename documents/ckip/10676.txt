@@ -1,0 +1,45 @@
+　熊熊(Nb)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　妳(Nh)　知道(VK)　課綱(Na)　微調(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　還(D)　在(P)　迷惘(VH)　的(DE)　人(Na)　就(D)　來(D)　參加(VC)　我們(Nh)　的(DE)　短(VH)　講(VE)　吧(T)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　什麼(Nep)　是(SHI)　課綱(Na)　微調(Na)　？(QUESTIONCATEGORY)
+　課綱(Na)　微調(Na)　與(Caa)　我(Nh)　何干(VI)　？(QUESTIONCATEGORY)
+　什麼(Nep)　是(SHI)　程序(Na)　不(D)　正義(VH)　？(QUESTIONCATEGORY)
+　程序(Na)　不(D)　正義(Na)　又(D)　如何(VH)　？(QUESTIONCATEGORY)
+
+　明天(Nd)　的(DE)　短(VH)　講為(VE)　妳(Nh)　解答(VC)　！(EXCLANATIONCATEGORY)
+
+
+
+　妳(Nh)　瞭解(VK)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　希望(VK)　能(D)　與(P)　同學(Na)　暢談(VE)　卻(D)　苦(VH)　無(VJ)　舞臺(Nc)　嗎(T)　？(QUESTIONCATEGORY)
+　妳(Nh)　瞭解(VK)　程序(Na)　不(D)　正義(Na)　，(COMMACATEGORY)
+　希望(VK)　能(D)　向(P)　同學(Na)　揭密(VC)　卻(D)　沒有(VJ)　鎂光燈(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+　明天(Nd)　的(DE)　短(VH)　講(VE)　讓(VL)　妳(Nh)　發光(VH)　發熱(VH)　！(EXCLANATIONCATEGORY)
+
+
+
+　明天(Nd)　中午(Nd)　12(Neu)　：(COLONCATEGORY)　　00(Neu)　～(FW)　12(Neu)　：(COLONCATEGORY)　　30(Neu)　，(COMMACATEGORY)
+
+　我們(Nh)　在(P)　科學館(Nc)　前(Ncd)　心(Na)　之(DE)　舵(Na)　，(COMMACATEGORY)
+
+　與(P)　妳(Nh)　一起(D)　航向(VCL)　自由(Na)　與(Caa)　自主(VH)　的(DE)　偉大(VH)　航路(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　我們(Nh)　有(V_2)　充分(VH)　的(DE)　Q＆A(FW)　時間(Na)　，(COMMACATEGORY)
+　有(V_2)　任何(Neqa)　問題(Na)　歡迎(VJ)　發問(VA)　，(COMMACATEGORY)
+　也(D)　歡迎(VJ)　聆聽(VC)　的(DE)　同學(Na)　互相(D)　討論(VE)　、(PAUSECATEGORY)　解答(Na)　。(PERIODCATEGORY)
+
+　短(VH)　講(VE)　結束(VHC)　後(Ng)　我們(Nh)　也(D)　歡迎(VJ)　有(V_2)　意願(Na)　成為(VG)　幹部(Na)　或(Caa)　志工(Na)　的(DE)　同學(Na)　前來(VCL)　報名(VA)　！(EXCLANATIONCATEGORY)
+
+　請(VF)　大家(Nh)　一起(D)　圍繞(VC)　心(Na)　之(DE)　舵(Na)　而(Cbb)　坐(VA)　，(COMMACATEGORY)
+　帶上(VC)　午餐(Na)　和(Caa)　太陽神(Na)　女兒(Na)　的(DE)　燦爛(VH)　，(COMMACATEGORY)
+　共同(A)　瞭解(Nv)　、(PAUSECATEGORY)　思辨(Nv)　、(PAUSECATEGORY)　討論(Nv)　與(Caa)　我們(Nh)　切身(A)　相關(VH)　的(DE)　《(PARENTHESISCATEGORY)　課(Na)　綱(Na)　微調(Na)　》(PARENTHESISCATEGORY)　！(EXCLANATIONCATEGORY)
+
+
+
+　謝謝(VJ)　大家(Nh)　！(EXCLANATIONCATEGORY)

@@ -1,0 +1,7 @@
+　高中生(Na)　自發(VH)　反(VC)　黑箱(A)　微調(Na)　課綱(Na)　行動(Na)　，(COMMACATEGORY)
+　迄(P)　今晚(Nd)　已(D)　有(V_2)　204(Neu)　校(Nc)　在(P)　臉書(Na)　上(Ncd)　成立(VC)　專頁(Na)　參與(VC)　，(COMMACATEGORY)
+　各(Nes)　校(Nc)　設計(Na)　多樣(VH)　的(DE)　臉書(Na)　主照(Na)　顯示(VK)　高中生(Na)　的(DE)　多(Neqa)　才(Na)　，(COMMACATEGORY)
+　臉書(Na)　內容(Na)　各(Nes)　有(V_2)　不同(VH)　，(COMMACATEGORY)
+　但(Cbb)　都(D)　有(V_2)　同樣(VH)　的(DE)　目標(Na)　：(COLONCATEGORY)　　反對(VE)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　拒絕(VF)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　要求(VF)　撤回(VC)　黑箱(A)　微調(Na)　課綱(Na)　。(PERIODCATEGORY)

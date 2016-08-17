@@ -1,0 +1,12 @@
+　又(D)　來(VA)　了(Di)　一(Neu)　位(Nf)　不(D)　理性(VH)　的(DE)　先生(Na)　留言(Na)　。(PERIODCATEGORY)
+
+　他們(Nh)　都(D)　有(V_2)　一(Neu)　個(Nf)　共通點(Na)　，(COMMACATEGORY)
+　先(D)　說(VE)　你(Nh)　搞(VC)　台獨(Na)　，(COMMACATEGORY)
+　再(D)　把(P)　人(Na)　打成(VG)　皇民(Nb)　。(PERIODCATEGORY)
+
+　但是(Cbb)　我(Nh)　覺得(VK)　很(Dfa)　奇怪(VK)　啊(T)　，(COMMACATEGORY)
+　台灣(Nc)　獨立(VH)　是(SHI)　台灣人(Na)　享有(VJ)　國家(Na)　主權(Na)　，(COMMACATEGORY)
+　當(Nes)　個(Nf)　皇民(Nb)　是(SHI)　歸屬(VJ)　日本(Nc)　，(COMMACATEGORY)
+　這(Nep)　不(D)　是(SHI)　兩相(D)　矛盾(VH)　嗎(T)　？(QUESTIONCATEGORY)
+
+　#(FW)　你們(Nh)　搞(VC)　得(DE)　我(Nh)　好(Dfa)　混亂(VH)　阿(Nc)　

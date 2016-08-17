@@ -1,0 +1,5 @@
+　淡江(Nb)　大學(Nc)　的(DE)　同學(Na)　給(VD)　的(DE)　貼紙(Na)　文宣(Na)　，(COMMACATEGORY)
+
+　淡江(Nb)　中學(Nc)　的(DE)　老師(Na)　或(Caa)　學生(Na)　如果(Cbb)　有(V_2)　要(D)　索取(VD)　，(COMMACATEGORY)
+　歡迎(VJ)　來(D)　私(D)　訊(VC)　我(Nh)　喔(T)　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)

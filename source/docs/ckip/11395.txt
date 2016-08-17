@@ -1,0 +1,14 @@
+　校長(Na)　你(Nh)　在(P)　質疑(VE)　我們(Nh)　的(DE)　團隊(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+　背後(Nc)　沒有(VJ)　甚麼(Nep)　人(Na)　操作(Nv)　,(COMMACATEGORY)
+　只(Da)　有(V_2)　學生(Na)　
+
+　在(P)　此(Nep)　強烈(VH)　邀請(VC)　校長(Na)　對於(P)　武陵(Nc)　高中(Nc)　反(VC)　課綱(Na)　團隊(Na)　公開(VHC)　道歉(VB)　
+
+　我(Nh)　理解(VK)　你(Nh)　不(D)　願意(VK)　使用(VC)　朝會(Na)　時間(Na)　讓(VL)　他們(Nh)　演講(VA)　
+
+　但(Cbb)　絕不(D)　應該(D)　質疑(VE)　他們(Nh)　的(DE)　背景(Na)　
+
+　若(Cbb)　校長(Na)　不(D)　願(VK)　公開(VHC)　道歉(VB)　
+
+　我們(Nh)　不(D)　排除(VC)　採取(VC)　任何(Neqa)　合法(VH)　抗爭(Na)　活動(Na)　

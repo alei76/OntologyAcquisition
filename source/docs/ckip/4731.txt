@@ -1,0 +1,27 @@
+　在(P)　此(Nep)　邀請(VC)　桃竹苗(Nc)　的(DE)　同學(Na)　們(Na)　串聯(VC)　參加(VC)　
+
+　希望(VK)　與會(VA)　的(DE)　同學(Na)　都(D)　能(D)　穿(VC)　著(Di)　制服(Na)　，(COMMACATEGORY)
+　方便(VH)　當日(Nd)　工作(Na)　人員(Na)　維持(VJ)　秩序(Na)　。(PERIODCATEGORY)
+
+
+
+　對於(P)　教育部(Nc)　不(D)　負責任(VH)　的(DE)　行為(Na)　讓(VL)　我們(Nh)　這(Nep)　一(Neu)　群(Nf)　學生(Na)　感到(VK)　相當(Dfa)　失望(VH)　。(PERIODCATEGORY)
+　所以(Cbb)　我們(Nh)　會(D)　在(P)　竹中(Nc)　前(Ncd)　舉行(VC)　記者會(Na)　，(COMMACATEGORY)
+　邀請(VC)　桃竹苗(Nc)　地區(Nc)　的(DE)　學生(Na)　們(Na)　一起(D)　參與(VC)　。(PERIODCATEGORY)
+　以(P)　『(PARENTHESISCATEGORY)　思華(Nb)　蹺課(VA)　我(Nh)　難過(VK)　，(COMMACATEGORY)
+　清山(Nc)　請假(VA)　我(Nh)　痛心(VK)　。(PERIODCATEGORY)
+　』(PARENTHESISCATEGORY)　為(VG)　口號(Na)　，(COMMACATEGORY)
+　再(D)　加上(VC)　提出(VC)　我們(Nh)　桃竹苗(Nc)　反(VC)　黑箱(A)　的(DE)　小組(Na)　們(Na)　共同(A)　發問(VA)　，(COMMACATEGORY)
+　邀請(VC)　桃竹苗(Nc)　的(DE)　學生(Na)　們(Na)　一起(D)　提問(VC)　：(COLONCATEGORY)　
+
+　１(Neu)　教育部(Nc)　對(P)　程序(Na)　不(D)　完美(VH)　道歉(VB)　有無(VJ)　後續(A)　處理(Nv)　？(QUESTIONCATEGORY)
+
+　２(Neu)　教育部(Nc)　為何(D)　在(P)　課(Na)　綱(Na)　爭議(Na)　一(Neu)　年(Nf)　多(Neqb)　之後(Ng)　才(Da)　召開(VC)　座談會(Na)　？(QUESTIONCATEGORY)
+
+　３(Neu)　如果(Cbb)　這(Nep)　份(Nf)　課綱(Na)　真的(D)　有(V_2)　徵詢(VE)　教師(Na)　意見(Na)　，(COMMACATEGORY)
+　為何(D)　會(D)　引起(VC)　那麼多(Neqa)　專業(VH)　教授(Na)　的(DE)　反彈(Nv)　？(QUESTIONCATEGORY)
+
+　４(Neu)　教育部(Nc)　何時(Nd)　要(D)　舉辦(VC)　實質(Na)　座談會(Na)　？(QUESTIONCATEGORY)
+
+　歡迎(VJ)　各(Nes)　方(Nf)　學子(Na)　的(DE)　參與(Nv)　。(PERIODCATEGORY)
+　當日(Nd)　亦(D)　會(D)　發放(VD)　口號(Na)　即(VG)　問題(Na)　的(DE)　紙本(Na)　。(PERIODCATEGORY)

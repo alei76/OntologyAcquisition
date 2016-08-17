@@ -1,0 +1,12 @@
+　在(P)　本(Nes)　次(Nf)　議題(Na)　當中(Ng)　有(V_2)　許多(Neqa)　的(DE)　重要(VH)　文件(Na)　。(PERIODCATEGORY)
+　其中(Nep)　，(COMMACATEGORY)
+　教育部(Nc)　在(P)　法庭(Nc)　的(DE)　敗訴(VH)　最(Dfa)　受(VJ)　社會(Na)　大眾(Nh)　討論(VE)　。(PERIODCATEGORY)
+
+　由於(Cbb)　台北(Nc)　高等(A)　行政(Na)　法院(Nc)　103年度(Nd)　訴字(Na)　第1627(Neu)　號(Nf)　判決文(Na)　內文(Na)　將近(Da)　一萬五千(Neu)　字(Na)　，(COMMACATEGORY)
+　又(D)　包含(VJ)　許多(Neqa)　晦澀(VH)　的(DE)　法律(Na)　用語(Na)　。(PERIODCATEGORY)
+　所以(Cbb)　竹中(Nc)　反(VC)　黑箱(A)　課綱(Na)　小組(Na)　這(Nep)　次(Nf)　為(P)　大家(Nh)　作(VC)　了(Di)　一(Neu)　份(Nf)　解釋(VE)　本(Nes)　次(Nf)　判決書(Na)　內容(Na)　的(DE)　ＰＰＴ(FW)　簡報(Na)　（(PARENTHESISCATEGORY)　懶人(Na)　包(VC)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　內容(Na)　在(P)　經過(VCL)　多(Neqa)　位(Nf)　公民(Na)　老師(Na)　與(Caa)　歷史(Na)　老師(Na)　的(DE)　建議(Na)　之後(Ng)　，(COMMACATEGORY)
+　我們(Nh)　用(P)　２２(Neu)　張(Nf)　圖片(Na)　解釋(VE)　本(Nes)　次(Nf)　判決文(Na)　的(DE)　重點(Na)　。(PERIODCATEGORY)
+
+　歡迎(VJ)　各(Nes)　位(Nf)　轉載(VC)　，(COMMACATEGORY)
+　讓(VL)　這些(Neqa)　資訊(Na)　可以(D)　更(D)　快速(VH)　的(DE)　流通(Nv)　。(PERIODCATEGORY)

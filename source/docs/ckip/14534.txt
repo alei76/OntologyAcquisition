@@ -1,0 +1,5 @@
+　要求(VF)　教育部(Nc)　取消(VC)　課綱(Na)　微調(Na)　。(PERIODCATEGORY)
+　高中生(Na)　並非(D)　政府(Na)　所(D)　想(VE)　的(DE)　盲目(VH)　，(COMMACATEGORY)
+　自己(Nh)　的(DE)　課綱(Na)　自己(Nh)　救(VC)　。(PERIODCATEGORY)
+
+　#(FW)　衛道(Nv)　人士(Na)　站出來(VA)　

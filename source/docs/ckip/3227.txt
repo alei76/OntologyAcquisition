@@ -1,0 +1,5 @@
+　洪(Nb)　老師(Na)　的(DE)　投書(Na)　，(COMMACATEGORY)
+　是(SHI)　目前(Nd)　檯面(Nc)　上(Ncd)　對於(P)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　後(Ng)　的(DE)　課(Na)　綱(Na)　送出(VD)　國教院(Nc)　後(Ng)　所(D)　遭遇(VJ)　的(DE)　荒謬(Nv)　處遇(Na)　，(COMMACATEGORY)
+　最(Dfa)　清楚(VH)　的(DE)　描述(VC)　了(Di)　。(PERIODCATEGORY)
+　這(Nep)　種(Nf)　程序(Na)　上(Ncd)　的(DE)　嚴重(VH)　瑕疵(Na)　，(COMMACATEGORY)
+　是(SHI)　教育部(Nc)　用(VC)　再(D)　多(VH)　的(DE)　公文(Na)　、(PAUSECATEGORY)　政策(Na)　宣導(Nv)　所(D)　能(D)　補正(VC)　的(T)　嗎(T)　？(QUESTIONCATEGORY)

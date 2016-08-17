@@ -1,0 +1,5 @@
+　今天(Nd)　我們(Nh)　來到(VCL)　高雄(Nc)　火車站(Nc)　宣傳(Na)　，(COMMACATEGORY)
+　就算(Cbb)　有(V_2)　風(Na)　有(V_2)　雨(Na)　，(COMMACATEGORY)
+　也(D)　沒法(D)　阻擋(VC)　我們(Nh)　對於(P)　新(VH)　課綱(Na)　的(DE)　憤怒(Nv)　，(COMMACATEGORY)
+　我們(Nh)　呼籲(VE)　大家(Nh)　與(P)　我們(Nh)　一起(D)　站出來(VA)　，(COMMACATEGORY)
+　讓(VL)　教育部(Nc)　聽到(VE)　學生(Na)　的(DE)　怒吼(Nv)　!(EXCLANATIONCATEGORY)

@@ -1,0 +1,38 @@
+　教育部(Nc)　不要(D)　再(D)　煽動(VC)　民眾(Na)　了(T)　，(COMMACATEGORY)
+　趕快(D)　撤回(VC)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　課(Na)　綱(Na)　！(EXCLANATIONCATEGORY)
+
+　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　_(FW)　
+
+　轉貼(VC)　自(P)　全(Neqa)　國(Nc)　高級(VH)　中等(A)　學校(Nc)　教育(Na)　產業(Na)　工會(Nc)　（(PARENTHESISCATEGORY)　簡稱(VG)　全中(Na)　教(VC)　）(PARENTHESISCATEGORY)　新聞稿(Na)　104.0(Neu)　6.02(Neu)　
+
+　「(PARENTHESISCATEGORY)　微調(A)　課綱(Na)　」(PARENTHESISCATEGORY)　程序(Na)　違法(VA)　，(COMMACATEGORY)
+　應(D)　即(D)　撤回(VC)　！(EXCLANATIONCATEGORY)
+
+　還給(VD)　校園(Nc)　一(Neu)　個(Nf)　清境(Na)　安寧(VH)　的(DE)　學習(Nv)　空間(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　本(Nes)　會(Na)　（(PARENTHESISCATEGORY)　全中(Na)　教(VC)　）(PARENTHESISCATEGORY)　呼籲(VE)　：(COLONCATEGORY)　
+
+　一(Neu)　、(PAUSECATEGORY)　為了(P)　止亂(VH)　解紛(VB)　，(COMMACATEGORY)
+　教育部(Nc)　應(D)　立即(D)　撤回(VC)　「(PARENTHESISCATEGORY)　微調(A)　課綱(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　還給(VD)　校園(Nc)　一(Neu)　個(Nf)　清境(Na)　安寧(VH)　的(DE)　學習(Nv)　空間(Na)　。(PERIODCATEGORY)
+
+
+
+　二(Neu)　、(PAUSECATEGORY)　公告(Na)　確認(VE)　「(PARENTHESISCATEGORY)　舊版(Na)　教科書(Na)　」(PARENTHESISCATEGORY)　繼續(VF)　使用(VC)　，(COMMACATEGORY)
+　且(Cbb)　要求(VF)　「(PARENTHESISCATEGORY)　爭議(Na)　觀點(Na)　，(COMMACATEGORY)
+　不(D)　列入(VJ)　大學(Nc)　入學(Nv)　考試(Na)　命題(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　教育部(Nc)　並(D)　應(D)　立即(D)　以(P)　「(PARENTHESISCATEGORY)　最(Dfa)　速(VH)　件(Nf)　」(PARENTHESISCATEGORY)　發出(VC)　正式(VH)　公文(Na)　，(COMMACATEGORY)
+　廢止(VC)　先前(Nd)　公文(Na)　所(D)　做(VC)　「(PARENTHESISCATEGORY)　學校(Nc)　應(D)　選用(VC)　新版(Na)　課綱(Na)　教科書(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　出版商(Na)　舊版(Na)　教科書(Na)　不得(D)　再行(D)　出版(VC)　銷售(Nv)　」(PARENTHESISCATEGORY)　之(DE)　要求(Na)　。(PERIODCATEGORY)
+　並(Cbb)　使(VL)　各(Nes)　校(Nc)　教師(Na)　可以(D)　啟動(VC)　重新(D)　選書(Na)　的(DE)　程序(Na)　，(COMMACATEGORY)
+　以(P)　補救(VC)　先前(Nd)　因(Cbb)　受(P)　公文(Na)　壓力(Na)　所(D)　作出(VC)　的(DE)　非(A)　自願(Nv)　性(Na)　選書(Na)　決定(VE)　。(PERIODCATEGORY)
+
+
+
+　三(Neu)　、(PAUSECATEGORY)　教育部(Nc)　、(PAUSECATEGORY)　國教院(Nc)　應(D)　立即(D)　公開(VHC)　刻正(D)　進行(VC)　的(DE)　十二(Neu)　年(Nf)　國教(Na)　各(D)　領(VC)　綱(Na)　參與者(Na)　之(DE)　名單(Na)　，(COMMACATEGORY)
+　以(Cbb)　昭(VE)　公信(Na)　，(COMMACATEGORY)
+　完善(VH)　現行(A)　十二(Neu)　年(Nf)　國教(Na)　課綱(Na)　制定(VC)　程序(Na)　，(COMMACATEGORY)
+　將(P)　先前(Nd)　之(DE)　會議(Na)　紀錄(Na)　公開(VHC)　，(COMMACATEGORY)
+　同時(Nd)　廣邀(VF)　社會(Na)　各界(Na)　及(Caa)　教育(Na)　團體(Na)　，(COMMACATEGORY)
+　針對(P)　十二(Neu)　年(Nf)　國教課(Na)　綱領(Na)　綱(Na)　之(DE)　相關(VH)　內容(Na)　深入(VH)　研議(VE)　。(PERIODCATEGORY)

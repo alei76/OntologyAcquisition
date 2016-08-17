@@ -1,0 +1,6 @@
+　忠明(Nb)　高中(Nc)　學生(Na)　的(DE)　社論(Na)　，(COMMACATEGORY)
+　寫(VC)　得(DE)　真(D)　好(VH)　！(EXCLANATIONCATEGORY)
+
+　（(PARENTHESISCATEGORY)　濕(VH)　滑(VH)　部長(Na)　小心(VK)　，(COMMACATEGORY)
+　若(Cbb)　再(D)　不(D)　願(VK)　面對(VC)　事實(Na)　，(COMMACATEGORY)
+　歷史(Na)　就(D)　會(D)　輾過(VC)　你(Nh)　傲慢(VH)　的(DE)　身軀(Na)　）(PARENTHESISCATEGORY)　

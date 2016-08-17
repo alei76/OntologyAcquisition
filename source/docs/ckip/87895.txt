@@ -1,0 +1,8 @@
+　「(PARENTHESISCATEGORY)　我(Nh)　要(D)　知識(Na)　不要(D)　洗腦(VB)　」(PARENTHESISCATEGORY)　
+
+　「(PARENTHESISCATEGORY)　我(Nh)　要(D)　程序(Na)　不要(D)　黑箱(A)　」(PARENTHESISCATEGORY)　
+
+　「(PARENTHESISCATEGORY)　捍衛(VC)　教育(Na)　尊嚴(Na)　退回(VC)　黑箱(A)　課綱(Na)　」(PARENTHESISCATEGORY)　
+
+　謝謝(VJ)　你們(Nh)　，(COMMACATEGORY)
+　願意(VK)　站出來(VA)　與(P)　我們(Nh)　同(D)　在(P)　！(EXCLANATIONCATEGORY)

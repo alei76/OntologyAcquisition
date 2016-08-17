@@ -1,0 +1,5 @@
+　《(PARENTHESISCATEGORY)　Formosa(FW)　Betrayed(FW)　（(PARENTHESISCATEGORY)　被(P)　出賣(VC)　的(DE)　台灣(Nc)　）(PARENTHESISCATEGORY)　》(PARENTHESISCATEGORY)　是(SHI)　第一(Neu)　本(Nf)　詳細(VH)　記錄(Na)　臺灣(Nc)　戰後史(Na)　與(Caa)　二二八(DM)　事件(Na)　前因後果(Na)　的(DE)　書籍(Na)　。(PERIODCATEGORY)
+　這(Nep)　不只(Da)　是(SHI)　外國人(Na)　對(P)　戰後(Nd)　臺灣(Nc)　發展(VC)　的(DE)　觀察(Nv)　，(COMMACATEGORY)
+　更(D)　是(SHI)　當事者(Na)　戲劇性(Na)　人生(Na)　的(DE)　紀錄(Na)　。(PERIODCATEGORY)
+　加上(Cbb)　直接(VH)　描述(VC)　當時(Nd)　國民黨(Nb)　政府(Na)　的(DE)　腐敗(Nv)　與(Caa)　暴行(Na)　，(COMMACATEGORY)
+　往往(D)　帶給(VD)　讀者(Na)　二二八(DM)　事件(Na)　鮮明(VH)　事實(Na)　的(DE)　震撼(Nv)　。(PERIODCATEGORY)

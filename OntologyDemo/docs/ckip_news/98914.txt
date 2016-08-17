@@ -1,0 +1,4 @@
+　【(PARENTHESISCATEGORY)　動(VAC)　新聞(Na)　╱(FW)　台北(Nc)　報導(VE)　】(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　學生(Na)　持續(VL)　在(P)　教育部(Nc)　面前(Nc)　抗議(VE)　，(COMMACATEGORY)
+　在(P)　教育部長(Na)　吳思華(Nb)　與(Caa)　學生(Na)　對話(Na)　破(VHC)　局(Nc)　後(Ng)　，(COMMACATEGORY)
+　台北市長(Na)　柯(Nb)　文哲(Na)　也(D)　到(VCL)　現場(Nc)　，(COMMACATEGORY)
+　向(P)　學生(Na)　喊話(VA)　。(PERIODCATEGORY)

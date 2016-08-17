@@ -1,0 +1,13 @@
+　「(PARENTHESISCATEGORY)　我(Nh)　是(SHI)　建中(Nc)　生(VC)　我(Nh)　反(VC)　課綱(Na)　微調(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　我(Nh)　是(SHI)　新莊人(Na)　，(COMMACATEGORY)
+　我(Nh)　反(VC)　課綱(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　嘉(Nc)　中(Ncd)　不(D)　缺席(VH)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　你(Nh)　反(VC)　黑箱(A)　課綱(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　我們(Nh)　要(D)　的(DE)　就是(Cbb)　你(Nh)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　繼(P)　台中一中(Nc)　、(PAUSECATEGORY)　新竹(Nc)　高中(Nc)　學生(Na)　公開(VHC)　反(VC)　黑箱(A)　課綱(Na)　後(Ng)　，(COMMACATEGORY)
+　建國(VA)　中學(Nc)　、(PAUSECATEGORY)　新(VH)　北(Ncd)　中和(Nc)　高中(Nc)　、(PAUSECATEGORY)　三民(Nc)　高中(Nc)　、(PAUSECATEGORY)　竹北(Nc)　高中(Nc)　、(PAUSECATEGORY)　雲林(Nc)　虎尾(Nc)　高中(Nc)　、(PAUSECATEGORY)　嘉義(Nc)　高中(Nc)　和(Caa)　高雄(Nc)　新莊(Nc)　高中(Nc)　相繼(D)　響應(VC)　，(COMMACATEGORY)
+　並(Cbb)　在(P)　校園(Nc)　舉辦(VC)　活動(Na)　，(COMMACATEGORY)
+　探討(VE)　黑箱(A)　課綱(Na)　缺失(Na)　，(COMMACATEGORY)
+　一(Neu)　場(Nf)　新(VH)　學運(Na)　正(D)　延燒(VC)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/focus/paper(FW)　/(FW)　884575(Neu)　

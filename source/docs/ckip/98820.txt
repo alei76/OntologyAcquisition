@@ -1,0 +1,68 @@
+　越來越(Dfa)　多(VH)　學校(Nc)　跳出來(VA)　支持(VC)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　也(D)　成立(VC)　粉絲(Na)　專頁(Na)　做對(VC)　外(Ncd)　發言(VA)　及(Caa)　推廣(VC)　的(DE)　基礎(Na)　，(COMMACATEGORY)
+　表達(VC)　意見(Na)　也(D)　展現(VC)　高中生(Na)　們(Na)　的(DE)　力量(Na)　。(PERIODCATEGORY)
+　不過(Cbb)　在(P)　這邊(Ncd)　提出(VC)　一(Neu)　個(Nf)　問題(Na)　希望(VK)　各(Nes)　學校(Nc)　粉絲(Na)　專頁(Na)　管理員(Na)　或是(Caa)　活動(Na)　發起人(Na)　可以(D)　思考(VE)　。(PERIODCATEGORY)
+
+
+
+　我們(Nh)　的(DE)　目標(Na)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+　我們(Nh)　自己(Nh)　的(DE)　訴求(Na)　呢(T)　？(QUESTIONCATEGORY)
+　我們(Nh)　該(D)　用(P)　什麼(Nep)　方式(Na)　去(D)　爭取(VC)　我們(Nh)　所(D)　該(D)　擁有(VJ)　的(DE)　權益(Na)　？(QUESTIONCATEGORY)
+
+
+
+　不(D)　知道(VK)　各(Nes)　校(Nc)　校(Nc)　內(Ncd)　如何(D)　運作(VA)　？(QUESTIONCATEGORY)
+　竹中(Nc)　方面(Na)　，(COMMACATEGORY)
+　我們(Nh)　號召(VF)　了(Di)　數位(A)　對(P)　黑箱(A)　課綱(Na)　有(V_2)　想法(Na)　學生(Na)　並(D)　成立(VC)　學生(Na)　小組(Na)　對(P)　此(Nep)　事件(Na)　做(VC)　行動(Na)　，(COMMACATEGORY)
+　並(Cbb)　確認(VE)　每(Nes)　個人(Nh)　的(DE)　工作(Na)　是(SHI)　什麼(Nep)　。(PERIODCATEGORY)
+　在(P)　開會(VA)　時(Ng)　，(COMMACATEGORY)
+　先(D)　決定(VE)　了(Di)　自己(Nh)　的(DE)　訴求(Na)　是(SHI)　什麼(Nep)　，(COMMACATEGORY)
+　這(Nep)　也(D)　是(SHI)　最(Dfa)　重要(VH)　的(T)　，(COMMACATEGORY)
+　而後(D)　在(P)　討論(VE)　該(D)　如何(D)　串連(VC)　並(D)　與(P)　其他(Neqa)　學校(Nc)　溝通(VC)　，(COMMACATEGORY)
+　以及(Caa)　我們(Nh)　該(D)　做(VC)　什麼(Nep)　行動(Na)　。(PERIODCATEGORY)
+
+
+
+　粉專(Na)　發言(VA)　方面(Na)　，(COMMACATEGORY)
+　我們(Nh)　將(P)　小組(Na)　內(Ncd)　每(Nes)　個人(Nh)　的(DE)　想法(Na)　、(PAUSECATEGORY)　蒐集(VC)　匯聚(VAC)　並(D)　整理(VC)　的(DE)　資料(Na)　，(COMMACATEGORY)
+　以及(Caa)　開會(Nv)　結果(Na)　整理(VC)　後(Ng)　並(D)　由(P)　撰寫(VC)　人(Na)　構成(VG)　文章(Na)　才(Da)　對(P)　外(Ncd)　發佈(VE)　。(PERIODCATEGORY)
+　同時(Nd)　，(COMMACATEGORY)
+　也(D)　分享(VJ)　一些(Neqa)　相關(VH)　的(DE)　新聞(Na)　或是(Caa)　資料(Na)　給(VD)　各(Nes)　位(Nf)　參考(Na)　。(PERIODCATEGORY)
+　另外(Cbb)　，(COMMACATEGORY)
+　這(Nep)　儼然(D)　成為(VG)　一(Neu)　個(Nf)　代表(Na)　學校(Nc)　的(DE)　聲音(Na)　，(COMMACATEGORY)
+　因此(Cbb)　希望(VK)　各(Nes)　粉專(Na)　管理人(Na)　在(P)　發文(VA)　內容(Na)　的(DE)　措辭(Na)　可以(D)　更加(Dfa)　謹慎(VH)　！(EXCLANATIONCATEGORY)
+
+
+
+　這(Nep)　是(SHI)　竹中(Nc)　內部(Ncd)　的(DE)　運作(Nv)　，(COMMACATEGORY)
+　希望(VK)　還(D)　沒有(VJ)　太多(Neqa)　想法(Na)　或是(Caa)　明確(VH)　方向(Na)　的(DE)　學校(Nc)　們(Na)　可以(D)　做(VC)　參考(Na)　或(Caa)　詢問(VE)　！(EXCLANATIONCATEGORY)
+　我們(Nh)　樂意(VL)　分享(VJ)　！(EXCLANATIONCATEGORY)
+　也(D)　希望(VK)　我們(Nh)　可以(D)　得到(VJ)　更多(Neqa)　來自(VJ)　不同(VH)　學校(Nc)　的(DE)　建議(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　粉絲(Na)　頁(Na)　是(SHI)　初步(A)　的(DE)　舉動(Na)　，(COMMACATEGORY)
+　有(V_2)　起頭(Nv)　動作(Na)　值得(VH)　鼓勵(Nv)　，(COMMACATEGORY)
+　而後(D)　的(DE)　校(Nc)　內(Ncd)　宣導(Nv)　等(Cab)　是(SHI)　更(D)　大(VH)　的(DE)　挑戰(Na)　！(EXCLANATIONCATEGORY)
+　各(Nes)　位(Nf)　加油(VB)　！(EXCLANATIONCATEGORY)
+
+
+
+　黑箱(A)　課綱(Na)　影響到(VJ)　的(DE)　是(SHI)　與(P)　你我(Na)　切身(A)　相關(VH)　的(DE)　「(PARENTHESISCATEGORY)　教育(Na)　」(PARENTHESISCATEGORY)　一(Neu)　事(Na)　，(COMMACATEGORY)
+　希望(VK)　學生(Na)　們(Na)　能(D)　更(D)　重視(VJ)　這(Nep)　個(Nf)　議題(Na)　並(D)　提出(VC)　想法(Na)　。(PERIODCATEGORY)
+　學生(Na)　的(DE)　本分(Na)　不(D)　該(D)　是(SHI)　只有(D)　坐(VA)　在(P)　書桌(Na)　前(Ng)　乖乖(VH)　地(DE)　唸書(VA)　，(COMMACATEGORY)
+　我們(Nh)　跳出來(VA)　反應給(VD)　大眾(Nh)　的(DE)　即(D)　是(SHI)　要求(VF)　學生(Na)　及(Caa)　老師(Na)　應(D)　有的(Neqa)　權益(Na)　。(PERIODCATEGORY)
+
+
+
+　我們(Nh)　被(P)　政治(Na)　操弄(VC)　了(Di)　嗎(T)　？(QUESTIONCATEGORY)
+　我們(Nh)　被(P)　在野黨(Na)　洗腦(VB)　嗎(T)　？(QUESTIONCATEGORY)
+　對於(P)　外界(Ncd)　存疑(VI)　的(DE)　聲音(Na)　，(COMMACATEGORY)
+　我(Nh)　想(VE)　說(VE)　的(DE)　是(SHI)　：(COLONCATEGORY)　　教育(Na)　是(SHI)　我們(Nh)　切身(A)　相關(VH)　的(T)　，(COMMACATEGORY)
+　此(Nep)　舉(Na)　無(D)　關乎(VK)　藍綠(Nb)　，(COMMACATEGORY)
+　也(D)　不(D)　是(SHI)　盲從(VJ)　趕流行(VH)　，(COMMACATEGORY)
+　更(D)　不(D)　是(SHI)　沒有(VJ)　想法(Na)　的(DE)　胡亂(D)　衝撞(VC)　。(PERIODCATEGORY)
+　我們(Nh)　是(SHI)　學生(Na)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　我們(Nh)　的(DE)　骨氣(Na)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　力量(Na)　，(COMMACATEGORY)
+　也(D)　是(SHI)　我們(Nh)　的(DE)　聲音(Na)　！(EXCLANATIONCATEGORY)

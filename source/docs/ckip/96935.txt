@@ -1,0 +1,94 @@
+　反(VC)　「(PARENTHESISCATEGORY)　黑箱(A)　」(PARENTHESISCATEGORY)　課(Na)　綱(Na)　，(COMMACATEGORY)
+　反(VC)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+　-(DASHCATEGORY)　
+
+　黑箱(A)　，(COMMACATEGORY)
+　你們(Nh)　有(V_2)　看過(VC)　出席(VC)　人員(Na)　都(D)　是(SHI)　ooooooo(FW)　的(DE)　嗎(T)　？(QUESTIONCATEGORY)
+
+　吳思華(Nb)　表示(VE)　說(VE)　是(SHI)　因為(Cbb)　課綱(Na)　調整(VC)　不(D)　公開(VHC)　，(COMMACATEGORY)
+　但(Cbb)　前(Nes)　幾(Neu)　次(Nf)　課綱(Na)　調整(VC)　的(DE)　會議(Na)　紀錄(Na)　委員(Na)　沒有(D)　公開(VHC)　嗎(T)　？(QUESTIONCATEGORY)
+　不(D)　公開(VHC)　是(SHI)　心虛(VH)　嗎(T)　？(QUESTIONCATEGORY)
+
+　-(DASHCATEGORY)　
+
+　黑箱(A)　，(COMMACATEGORY)
+　在於(VK)　黑箱(A)　投票(Nv)　，(COMMACATEGORY)
+　檢核(Nv)　小組(Na)　投票(VA)　時(Ng)　並(D)　沒有(D)　當場(D)　開票(VA)　，(COMMACATEGORY)
+　而是(Cbb)　之後(Nd)　才(Da)　另行(D)　開票(VA)　，(COMMACATEGORY)
+　而(Cbb)　未(D)　明確(VH)　支持(Nv)　、(PAUSECATEGORY)　反對(Nv)　者(Na)　均(D)　算(VG)　入(VCL)　同意(Nv)　。(PERIODCATEGORY)
+
+　參見(VC)　立委(Na)　鄭麗君(Nb)　質詢(VE)　吳思華(Nb)　：(COLONCATEGORY)　　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=sUSBdAM9zDU(FW)　
+
+　-(DASHCATEGORY)　
+
+　-(DASHCATEGORY)　
+
+　只(Da)　有(V_2)　黑箱(A)　？(QUESTIONCATEGORY)
+　不(D)　，(COMMACATEGORY)
+　整體(Na)　來(D)　看(VC)　，(COMMACATEGORY)
+　課綱(Na)　問題(Na)　共有(VJ)　多(Neqa)　個(Nf)　層次(Na)　
+
+　1(Neu)　.(PERIODCATEGORY)　課綱(Na)　調整(VC)　委員(Na)　背景(Na)
+
+　2(Neu)　.(PERIODCATEGORY)　黑箱(A)　投票(Nv)
+
+　3(Neu)　.(PERIODCATEGORY)　課綱(Na)　調整(VC)　內容(Na)
+
+　-(DASHCATEGORY)　
+
+　-(DASHCATEGORY)　
+
+　1(Neu)　.(PERIODCATEGORY)　先(D)　舉出(VC)　幾(Neu)　位(Nf)　委員(Na)　的(DE)　背景(Na)　來(D)　看(VC)　，(COMMACATEGORY)
+　基本(Na)　上(Ng)　多(D)　為(VG)　統派(Na)　人士(Na)　，(COMMACATEGORY)
+　在(P)　台灣(Nc)　這(Nep)　多元(A)　文化(Na)　並存(VH)　之(DE)　地(Na)　，(COMMACATEGORY)
+　強(VH)　加上(VC)　大中華(Nb)　文化(Na)　思想(Na)　，(COMMACATEGORY)
+　豈不(D)　怪哉(D)　？(QUESTIONCATEGORY)
+
+　王曉波(Nb)　中國(Nc)　統一(VHC)　聯盟(Na)　副主席(Na)　
+
+　謝大寧(Nb)　兩岸(Nc)　統合(VC)　學會(Nc)　秘書長(Na)　
+
+　張亞(Nb)　中(Nc)　兩岸(Nc)　統合(VC)　學會(Nc)　理事長(Na)　
+
+　孫若怡(Nb)　中華(Nc)　兩岸(Nc)　和平(Nv)　發展(Nv)　聯合會(Na)　
+
+　-(DASHCATEGORY)　
+
+　2(Neu)　.(PERIODCATEGORY)　上方(Ncd)　已(D)　闡述(VE)
+
+　-(DASHCATEGORY)　
+
+　3(Neu)　.(PERIODCATEGORY)　課綱(Na)　調整(VC)　內容(Na)　，(COMMACATEGORY)
+　以(P)　歷史(Na)　來(D)　說(VE)　，(COMMACATEGORY)
+　對於(P)　外來(A)　統治(Nv)　政權(Na)　多(D)　加上(VC)　「(PARENTHESISCATEGORY)　殖民(Nv)　」(PARENTHESISCATEGORY)　統治(VC)　，(COMMACATEGORY)
+　並且(Cbb)　加強(VC)　漢人(Na)　來(VA)　台(Nc)　之(DE)　重要性(Na)　，(COMMACATEGORY)
+　當然(D)　公民(Na)　、(PAUSECATEGORY)　地理(Na)　、(PAUSECATEGORY)　國文(Na)　等(Cab)　部分(Neqa)　也(D)　有(V_2)　大幅(D)　調整(VC)　，(COMMACATEGORY)
+　教育部(Nc)　辯稱(VE)　課綱(Na)　僅(Da)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　23(Neu)　%(Nf)　，(COMMACATEGORY)
+　何以(D)　「(PARENTHESISCATEGORY)　微(A)　」(PARENTHESISCATEGORY)　調(VC)　之(DE)　？(QUESTIONCATEGORY)
+
+　參見(VC)　課綱(Na)　調整(VC)　內容(Na)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.k12ea.gov.tw/ap/news_view.aspx(FW)　?(QUESTIONCATEGORY)
+　sn=324aa1ef-22c2-40a5-9f1d-86b3fd5f1f6e(FW)　
+
+　-(DASHCATEGORY)　
+
+　-(DASHCATEGORY)　
+
+　當然(D)　現今(Nd)　政府(Na)　之(DE)　不當(VH)　的(DE)　作為(Na)　經常(D)　會(D)　讓(VL)　人(Na)　將(P)　議題(Na)　無限(VH)　延伸(VH)　（(PARENTHESISCATEGORY)　例如(P)　會(D)　講到(VE)　統獨(Na)　、(PAUSECATEGORY)　中華民國(Nc)　的(DE)　統治(Nv)　合法性(Na)　等(Cab)　）(PARENTHESISCATEGORY)　但(Cbb)　純粹(D)　就事論事(VA)　來(D)　說(VE)　，(COMMACATEGORY)
+　希望(VK)　嘉(Nc)　中(Ncd)　的(DE)　你我(Na)　，(COMMACATEGORY)
+　不要(D)　忘記(VK)　初衷(Na)　，(COMMACATEGORY)
+　不要(D)　像(VG)　服貿(Na)　般(Ng)　的(DE)　盲從(VJ)　
+
+　，(COMMACATEGORY)
+　而是(Cbb)　更(D)　深入(VH)　的(DE)　理解(Nv)　課綱(Na)　調整(VC)　的(DE)　議題(Na)　。(PERIODCATEGORY)
+
+　-(DASHCATEGORY)　
+
+　-(DASHCATEGORY)　
+
+　-(DASHCATEGORY)　
+
+　＃(FW)　徵求(VC)　嘉(Nc)　中(Ncd)　反(VC)　課綱(Na)　行動(Na)　工作(Na)　人員(Na)　
+
+　＃(FW)　意者(Na)　請(VF)　私訊(Na)　

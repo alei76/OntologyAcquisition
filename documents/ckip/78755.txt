@@ -1,0 +1,10 @@
+　【(PARENTHESISCATEGORY)　史記(Nb)　出版社(Nc)　是(SHI)　為了(P)　配合(VC)　微調(A)　課綱(Na)　「(PARENTHESISCATEGORY)　撥亂反正(VA)　」(PARENTHESISCATEGORY)　而(Cbb)　成立(VC)　的(DE)　】(PARENTHESISCATEGORY)　
+
+　史記(Nb)　出版社(Nc)　代表人(Na)　鄭旗(Nb)　生(Na)　是(SHI)　兩岸(Nc)　統合(VC)　學會(Nc)　執行長(Na)　。(PERIODCATEGORY)
+
+　　
+
+　兩岸(Nc)　統合(VC)　學會(Nc)　是(SHI)　甚麼(Nep)　？(QUESTIONCATEGORY)
+　其實(D)　就(Da)　是(SHI)　在(P)　研究(Nv)　如何(D)　統一(VHC)　的(DE)　組織(Na)　。(PERIODCATEGORY)
+
+　前課綱(Na)　審定(Nv)　委員(Na)　張亞(Nb)　中(Ng)　是(SHI)　該(Nes)　學會(Nc)　的(DE)　秘書長(Na)　。(PERIODCATEGORY)

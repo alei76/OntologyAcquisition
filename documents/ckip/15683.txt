@@ -1,0 +1,41 @@
+　課綱(Na)　微調(Na)　爭議(Na)　未(D)　解(VC)　，(COMMACATEGORY)
+　10多(Neu)　名(Nf)　台灣(Nc)　作家(Na)　、(PAUSECATEGORY)　學者(Na)　今(Nd)　赴(VCL)　立法院(Nc)　大門(Na)　，(COMMACATEGORY)
+　抗議(VE)　新版(Na)　的(DE)　國文課(Na)　綱(Na)　古文(Na)　比例(Na)　太(Dfa)　高(VH)　，(COMMACATEGORY)
+　恐(VK)　阻礙(VC)　台灣(Nc)　文學(Na)　發展(Nv)　，(COMMACATEGORY)
+　建議(VE)　增加(VHC)　白話文(Na)　比例(Na)　，(COMMACATEGORY)
+　深化(VHC)　台灣(Nc)　文學(Na)　教育(Na)　。(PERIODCATEGORY)
+　捍衛(VC)　台灣(Nc)　文史(Na)　青年(Na)　組合(Nv)　發起人(Na)　藍士博(Nb)　指出(VE)　，(COMMACATEGORY)
+　相較(VB)　公民(Na)　和(Caa)　歷史(Na)　科目(Na)　屢(D)　掀(VC)　爭議(Na)　，(COMMACATEGORY)
+　國文(Na)　新(VH)　課綱(Na)　雖(Cbb)　無(VJ)　反對(Nv)　聲浪(Na)　，(COMMACATEGORY)
+　但(Cbb)　不(D)　代表(VK)　沒有(VJ)　問題(Na)　，(COMMACATEGORY)
+　反倒(Cbb)　是(SHI)　「(PARENTHESISCATEGORY)　太(Dfa)　嚴重(VH)　，(COMMACATEGORY)
+　人(Na)　已經(D)　躺(VA)　在(P)　加護(A)　病房(Nc)　裡(Ncd)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　作家(Na)　朱宥勳(Nb)　表示(VE)　，(COMMACATEGORY)
+　新版(Na)　課綱(Na)　中(Ng)　將(D)　古文(Na)　比例(Na)　調到(VC)　65(Neu)　%(Nf)　，(COMMACATEGORY)
+　甚至(D)　把(P)　「(PARENTHESISCATEGORY)　中國(Nc)　文化(Na)　基本(A)　教材(Na)　」(PARENTHESISCATEGORY)　獨立(VH)　成(VG)　一(Neu)　科(Nf)　，(COMMACATEGORY)
+　古文(Na)　比例(Na)　將(D)　高達(VJ)　72％(Neqa)　，(COMMACATEGORY)
+　學生(Na)　被迫(VL)　從(P)　古(VH)　文學(Na)　起(Ng)　，(COMMACATEGORY)
+　影響(Na)　學習(VC)　成效(Na)　。(PERIODCATEGORY)
+　他(Nh)　認為(VE)　，(COMMACATEGORY)
+　教育(Na)　應該(D)　由(P)　近(Nes)　到(P)　遠(VH)　、(PAUSECATEGORY)　由淺入深(D)　，(COMMACATEGORY)
+　適度(A)　提高(VC)　台灣(Nc)　文學(Na)　與(Caa)　當代(Nd)　文學(Na)　的(DE)　比例(Na)　，(COMMACATEGORY)
+　讓(VL)　老師(Na)　教(VC)　得(DE)　容易(VH)　，(COMMACATEGORY)
+　學生(Na)　學習(VC)　效果(Na)　也(D)　會(D)　更(D)　好(VH)　。(PERIODCATEGORY)
+
+
+
+　作家(Na)　鴻鴻(Nb)　則(D)　認為(VE)　，(COMMACATEGORY)
+　國文課(Na)　綱(Na)　文言(VH)　比例(Na)　增加(VHC)　是(SHI)　「(PARENTHESISCATEGORY)　很(Dfa)　不(D)　健康(VH)　的(DE)　行為(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　教育(Na)　應(D)　培養(VC)　對(P)　這(Nep)　塊(Nf)　土地(Na)　有(V_2)　貢獻(Na)　的(DE)　科目(Na)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　是(SHI)　回到(VCL)　過去(Nd)　，(COMMACATEGORY)
+　產生(VHC)　「(PARENTHESISCATEGORY)　返祖(Nb)　」(PARENTHESISCATEGORY)　現象(Na)　。(PERIODCATEGORY)
+
+
+
+　記者會(Na)　最後(Nd)　，(COMMACATEGORY)
+　學者(Na)　、(PAUSECATEGORY)　作家(Na)　們(Na)　將(P)　種子(Na)　灑進(VC)　盆栽(Na)　中(Ng)　，(COMMACATEGORY)
+　象徵(VK)　種(Nf)　入(VCL)　台灣(Nc)　文學(Na)　的(DE)　種子(Na)　，(COMMACATEGORY)
+　也(D)　承諾(VE)　會(D)　持續(VL)　關注(VJ)　此(Nep)　議題(Na)　。(PERIODCATEGORY)

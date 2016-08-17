@@ -1,0 +1,151 @@
+　城市(Na)　記憶(Na)　—(DASHCATEGORY)　湯德章(Nb)　
+
+
+
+　【(PARENTHESISCATEGORY)　城市(Na)　記憶(Na)　—(DASHCATEGORY)　封塵(Na)　的(DE)　相(Na)　本(Nes)　】(PARENTHESISCATEGORY)　
+
+　1997年(Nd)　，(COMMACATEGORY)
+　台南(Nc)　剛(D)　換(VC)　執政黨(Na)　，(COMMACATEGORY)
+　社會(Na)　氛圍(Na)　終於(D)　容許(VE)　我們(Nh)　談論(VE)　過去(Nd)　。(PERIODCATEGORY)
+　受(P)　新任(Nv)　市長(Na)　委託(VF)　，(COMMACATEGORY)
+　建龍(Nb)　開始(VL)　做(VC)　較(P)　大規模(Na)　的(DE)　口述(Nv)　歷史(Na)　，(COMMACATEGORY)
+　企圖(VF)　重建(VC)　台南(Nc)　的(DE)　城市(Na)　記憶(Na)　。(PERIODCATEGORY)
+　他(Nh)　說(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　當時(Nd)　民生(Na)　綠園(Nc)　要(D)　改成(VG)　湯德章(Nb)　紀念(VJ)　公園(Nc)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　其實(D)　找(VC)　不(D)　到(VC)　他(Nh)　的(DE)　家人(Na)　，(COMMACATEGORY)
+　找(VC)　不(D)　到(VC)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　因為(Cbb)　湯德章(Nb)　沒有(D)　生(VC)　兒子(Na)　，(COMMACATEGORY)
+　所以(Cbb)　他(Nh)　兒子(Na)　是(SHI)　姐姐(Na)　那邊(Ncd)　過養(VC)　給(VD)　他(Nh)　的(T)　。(PERIODCATEGORY)
+
+　解嚴(VA)　了(Di)　，(COMMACATEGORY)
+　真的(D)　就(D)　能(D)　暢所欲言(VA)　的(DE)　談論(VE)　過去(Nd)　被(P)　視為(VG)　禁忌(Na)　的(DE)　歷史(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　建龍(Nb)　說(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　從(P)　二二八(DM)　開始(Ng)　有(V_2)　補償(Na)　以來(Ng)　，(COMMACATEGORY)
+　他(Nh)　的(DE)　家人(Na)　從來(D)　沒有(VJ)　出現(VH)　過(Di)　，(COMMACATEGORY)
+　所以(Cbb)　沒有(VJ)　人(Na)　知道(VK)　他(Nh)　在(P)　哪裡(Ncd)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　他(Nh)　分享(VJ)　了(Di)　他(Nh)　追尋(VC)　的(DE)　過程(Na)　:(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　剛好(VH)　我(Nh)　很(Dfa)　幸運(VH)　，(COMMACATEGORY)
+　間接(D)　找到(VC)　了(Di)　他(Nh)　兒子(Na)　的(DE)　親生(VH)　哥哥(Na)　，(COMMACATEGORY)
+　他(Nh)　家(Nc)　住(VCL)　在(P)　開山路(Na)　的(DE)　巷子(Na)　裡面(Ncd)　，(COMMACATEGORY)
+　我(Nh)　也(D)　不(D)　知道(VK)　要(D)　去(D)　做(VC)　什麼(Nep)　，(COMMACATEGORY)
+　因為(Cbb)　我(Nh)　的(DE)　辦公室(Nc)　在(P)　附近(Nc)　，(COMMACATEGORY)
+　然後(D)　我(Nh)　去(D)　到(VCL)　後面(Ncd)　，(COMMACATEGORY)
+　鄰居(Na)　就(D)　跟(P)　我(Nh)　說(VE)　:(COLONCATEGORY)　　『(PARENTHESISCATEGORY)　啊(I)　那(Nep)　間(Nf)　就(D)　那(Nep)　個(Nf)　啊(T)　((PARENTHESISCATEGORY)　台(Nc)　)(PARENTHESISCATEGORY)　…(ETCCATEGORY)　』(PARENTHESISCATEGORY)　於是(Cbb)　我(Nh)　就(D)　進去(VA)　拜訪(VC)　他(Nh)　。(PERIODCATEGORY)
+　因為(Cbb)　這樣子(Dk)　他(Nh)　就(D)　從(P)　家(Nc)　裡(Ncd)　的(DE)　閣樓(Na)　拿(VC)　了(Di)　兩(Neu)　包(Nf)　用(P)　油紙(Na)　、(PAUSECATEGORY)　然後(D)　用(P)　繩子(Na)　捆(VC)　起來(Di)　的(DE)　相本(Na)　給(VD)　我(Nh)　。(PERIODCATEGORY)
+　那(Nep)　個(Nf)　相本(Na)　是(SHI)　湯德章(Nb)　留下來(VA)　的(T)　，(COMMACATEGORY)
+　他(Nh)　把(P)　它(Nh)　藏(VC)　在(P)　閣樓(Na)　，(COMMACATEGORY)
+　怕(VK)　被(P)　人(Na)　發現(VE)　後(Nd)　會遭(Nd)　清算(VC)　。(PERIODCATEGORY)
+　他(Nh)　就(D)　把(P)　那(Nep)　個(Nf)　拿出來(VB)　、(PAUSECATEGORY)　翻開(VC)　以後(Ng)　裡面(Ncd)　都(D)　是(SHI)　湯德章(Nb)　從(P)　出生(VA)　到(P)　死掉(VH)　以前(Ng)　的(DE)　照片(Na)　，(COMMACATEGORY)
+　都(D)　是(SHI)　湯德章(Nb)　自己(Nh)　整理(VC)　的(T)　。(PERIODCATEGORY)
+
+
+
+　【(PARENTHESISCATEGORY)　城市(Na)　記憶(Na)　—(DASHCATEGORY)　湯德章(Nb)　之(DE)　死(VH)　】(PARENTHESISCATEGORY)　
+
+　建龍(Nb)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　當時(Nd)　二二八(DM)　發生(VJ)　以後(Ng)　，(COMMACATEGORY)
+　地方(Na)　仕紳(Na)　怕(VK)　當地(Nc)　會(D)　有(V_2)　一些(Neqa)　燒殺(VC)　擄掠(VC)　的(DE)　事情(Na)　，(COMMACATEGORY)
+　所以(Cbb)　就(D)　成立(VC)　了(Di)　二二八(DM)　事件(Na)　處理(VC)　委員會(Nc)　台南(Nc)　分會(Nc)　維持(VJ)　治安(Na)　，(COMMACATEGORY)
+　湯德章(Nb)　是(SHI)　當時(Nd)　這(Nep)　個(Nf)　委員會(Nc)　的(DE)　主委(Na)　，(COMMACATEGORY)
+　因為(Cbb)　他(Nh)　曾經(D)　當(P)　過(Di)　日本(Nc)　警察(Na)　。(PERIODCATEGORY)
+　當時(Nd)　他(Nh)　先(D)　去(VCL)　成大(Nc)　工學院(Nc)　的(DE)　宿舍(Nc)　找(VC)　他們(Nh)　的(DE)　宿舍(Nc)　長(VH)　，(COMMACATEGORY)
+　請(VF)　他們(Nh)　出來(VA)　維持(VJ)　治安(Na)　，(COMMACATEGORY)
+　還(D)　去(VCL)　警察局(Nc)　領(VC)　了(Di)　一(Neu)　批(Nf)　槍械(Na)　交給(VD)　他們(Nh)　。(PERIODCATEGORY)
+　那時(Nd)　政府(Na)　其實(D)　是(SHI)　想要(VE)　抓(VC)　這(Nep)　批(Nf)　學生(Na)　，(COMMACATEGORY)
+　但(Cbb)　因為(Cbb)　湯德章(Nb)　不(D)　願(VK)　把(P)　名單(Na)　交出來(VC)　，(COMMACATEGORY)
+　所以(Cbb)　政府(Na)　找(VC)　不(D)　到(VC)　餘犯(Na)　，(COMMACATEGORY)
+　後來(Nd)　就(D)　只有(D)　他(Nh)　被(P)　槍斃(VC)　。(PERIODCATEGORY)
+　所以(Cbb)　當(P)　時候(Na)　在(P)　台南(Nc)　因為(Cbb)　二二八(DM)　死亡(VH)　的(DE)　人(Na)　大概(D)　只有(D)　他(Nh)　。(PERIODCATEGORY)
+　當然(D)　之後(Ng)　的(DE)　清鄉(Nc)　運動(Na)　就(D)　不(D)　止(VH)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+　湯德章(Nb)　不(D)　願(VK)　交出(VC)　名單(Na)　，(COMMACATEGORY)
+　救(VC)　了(Di)　這些(Neqa)　學生(Na)　，(COMMACATEGORY)
+　但(Cbb)　他們(Nh)　之後(Ng)　又(D)　到(VCL)　嘉義(Nc)　的(DE)　水(Na)　上(Ncd)　機場(Nc)　和(Caa)　二七(Neu)　部隊(Na)　會合(VA)　，(COMMACATEGORY)
+　繼續(VF)　武裝(Nv)　抗爭(Na)　，(COMMACATEGORY)
+　皆(D)　難逃(VJ)　被(P)　逮捕(VC)　、(PAUSECATEGORY)　判刑(VB)　的(DE)　命運(Na)　，(COMMACATEGORY)
+　最後(Nd)　是(SHI)　成大(Nc)　的(DE)　校長(Na)　出面(VA)　向(P)　蔣介石(Nb)　求情(VA)　，(COMMACATEGORY)
+　才(Da)　得以(D)　「(PARENTHESISCATEGORY)　從寬(VH)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　由(P)　學校(Nc)　「(PARENTHESISCATEGORY)　重新(D)　教育(VC)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+　有(V_2)　另外(Da)　一(Neu)　個(Nf)　故事(Na)　：(COLONCATEGORY)　　紀錄片(Na)　《(PARENTHESISCATEGORY)　牽(VC)　阮(Nh)　的(DE)　手(Na)　》(PARENTHESISCATEGORY)　主角(Na)　田(Na)　媽媽(Na)　孟淑(Nb)　提到(VE)　，(COMMACATEGORY)
+　田(Na)　爸爸(Na)　朝(P)　明(Nd)　年輕(VH)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　也(D)　跑去(VCL)　跟(P)　人家(Nh)　參加(VC)　二二八(DM)　，(COMMACATEGORY)
+　卻(D)　被(P)　湯德章(Nb)　趕(VC)　了(Di)　回來(VA)　，(COMMACATEGORY)
+　因為(Cbb)　湯德章(Nb)　考量(VE)　到(VCL)　，(COMMACATEGORY)
+　田(Na)　爸爸(Na)　是(SHI)　獨子(Na)　，(COMMACATEGORY)
+　又(D)　是(SHI)　他們(Nh)　庄頭(Na)　唯(Da)　二(Neu)　的(DE)　醫師(Na)　，(COMMACATEGORY)
+　不(D)　願(VK)　讓(VL)　他(Nh)　冒險(VA)　。(PERIODCATEGORY)
+
+  
+
+　湯德章(Nb)　的(DE)　不(D)　屈服(VI)　即使(Cbb)　沒有(D)　立即(D)　改變(VC)　當時(Nd)　的(DE)　社會(Na)　，(COMMACATEGORY)
+　也(D)　啟發(VC)　了(Di)　後代(Na)　。(PERIODCATEGORY)
+
+ 
+
+　大多數(Neqa)　人(Na)　在(P)　恐懼(VK)　當(P)　會(D)　屈服(VI)　，(COMMACATEGORY)
+　可是(Cbb)　有(V_2)　些(Nf)　人(Na)　不會(D)　......(ETCCATEGORY)　人道(Na)　上(Ncd)　的(DE)　教訓(Na)　則(D)　是(SHI)　:(COLONCATEGORY)　　我們(Nh)　無須(D)　要求(VF)　更多(Neqa)　，(COMMACATEGORY)
+　光(Da)　是(SHI)　如此(VH)　，(COMMACATEGORY)
+　就(D)　足以(VL)　讓(VL)　地球(Na)　適合(VH)　人類(Na)　居住(Nv)　—(DASHCATEGORY)　漢娜．鄂蘭(Nb)　。(PERIODCATEGORY)
+
+   
+
+　【(PARENTHESISCATEGORY)　城市(Na)　記憶(Na)　—(DASHCATEGORY)　原來(D)　你(Nh)　從未(D)　離開(VC)　】(PARENTHESISCATEGORY)　
+
+　你(Nh)　知道(VK)　嗎(T)　，(COMMACATEGORY)
+　每(Nes)　天(Nf)　習以為常(VI)　的(DE)　路(Na)　旁(Ncd)　景致(Na)　，(COMMACATEGORY)
+　可能(D)　都(D)　藏(VC)　著(Di)　一段(Nc)　故事(Na)　。(PERIODCATEGORY)
+　當(P)　人們(Na)　自然(VH)　的(DE)　說出(VE)　自己(Nh)　是(SHI)　哪裡(Ncd)　人(Na)　時(Ng)　，(COMMACATEGORY)
+　這(Nep)　座(Nf)　城市(Na)　便(D)　以(P)　各(Nes)　種(Nf)　不同(VH)　的(DE)　記憶(Na)　和(Caa)　情感(Na)　融入(VC)　了(Di)　肌理(Na)　，(COMMACATEGORY)
+　建構(VC)　了(Di)　這(Nep)　座(Nf)　城市(Na)　多元(A)　的(DE)　樣貌(Na)　。(PERIODCATEGORY)
+　所以(Cbb)　，(COMMACATEGORY)
+　當(P)　你(Nh)　想到(VE)　台南(Nc)　，(COMMACATEGORY)
+　你(Nh)　會(D)　想到(VE)　什麼(Nep)　？(QUESTIONCATEGORY)
+　古蹟(Na)　、(PAUSECATEGORY)　小吃(Na)　……(ETCCATEGORY)　城市(Na)　的(DE)　認同(Nv)　與(Caa)　凝固(VH)　，(COMMACATEGORY)
+　共同(A)　的(DE)　歷史(Na)　記憶(Na)　是(SHI)　一(Neu)　個(Nf)　重要(VH)　的(DE)　基礎(Na)　，(COMMACATEGORY)
+　那(Dk)　，(COMMACATEGORY)
+　我們(Nh)　共通(VH)　的(DE)　歷史(Na)　記憶(Na)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+　建龍(Nb)　說(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　湯德章(Nb)　的(DE)　律師(Na)　事務所(Nc)　跟(P)　他(Nh)　的(DE)　住家(Na)　還(D)　在(P)　，(COMMACATEGORY)
+　穿過(VCL)　友愛(VJ)　街(Na)　的(DE)　菜市場(Nc)　走到(VCL)　後面(Ncd)　去(T)　，(COMMACATEGORY)
+　有(V_2)　一(Neu)　個(Nf)　小(VH)　公園(Nc)　，(COMMACATEGORY)
+　就(D)　在(P)　小(VH)　公園(Nc)　的(DE)　『(PARENTHESISCATEGORY)　路沖(Na)　』(PARENTHESISCATEGORY)　那(Nep)　間(Nf)　厝(Na)　，(COMMACATEGORY)
+　門口(Nc)　的(DE)　牌子(Na)　有(V_2)　寫(VC)　『(PARENTHESISCATEGORY)　湯德章(Nb)　辯(VE)　護士(Na)　』(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　不過(Cbb)　被(P)　水泥(Na)　塗掉(VC)　了(Di)　。(PERIODCATEGORY)
+　兩(Neu)　間(Nf)　房子(Na)　，(COMMACATEGORY)
+　一(Neu)　間(Nf)　是(SHI)　他(Nh)　的(DE)　事務所(Nc)　、(PAUSECATEGORY)　一(Neu)　間(Nf)　是(SHI)　他(Nh)　的(DE)　住家(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　他(Nh)　還(D)　提到(VE)　了(Di)　一(Neu)　件(Nf)　令(VL)　我們(Nh)　相當(Dfa)　驚訝(VK)　的(DE)　事(Na)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　他(Nh)　日本(Nc)　時代(Na)　當(VG)　警察(Na)　的(DE)　時候(Na)　是(SHI)　在(P)　哪裡(Ncd)　上班(VA)　呢(T)　？(QUESTIONCATEGORY)
+　就(D)　在(P)　你們(Nh)　學校(Nc)　((PARENTHESISCATEGORY)　台南(Nc)　女中(Nc)　)(PARENTHESISCATEGORY)　前面(Ncd)　這裡(Ncd)　有(V_2)　一(Neu)　個(Nf)　開山(Nv)　派出所(Nc)　，(COMMACATEGORY)
+　就是(Cbb)　現在(Nd)　放(VC)　鄭成功(Nb)　騎(VC)　馬(Na)　雕像(Na)　的(DE)　那(Nep)　個(Nf)　地方(Na)　。(PERIODCATEGORY)
+　原本(D)　湯德章(Nb)　當(P)　警察(Na)　的(DE)　時候(Na)　就是(Cbb)　那(Nep)　間(Nf)　派出所(Nc)　的(DE)　所長(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+　建龍(Nb)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　以(P)　我(Nh)　自己(Nh)　住(VCL)　在(P)　歐洲(Nc)　的(DE)　經驗(Na)　，(COMMACATEGORY)
+　像(P)　這樣子(VH)　的(DE)　地點(Na)　，(COMMACATEGORY)
+　前面(Ncd)　一定(D)　會(D)　有(V_2)　被(P)　鑄(VC)　在(P)　地上(Nc)　或(Caa)　牆(Na)　上(Ncd)　的(DE)　銅牌(Na)　，(COMMACATEGORY)
+　告訴(VE)　你(Nh)　它(Nh)　發生(VJ)　的(DE)　一(Neu)　件(Nf)　很(Dfa)　重要(VH)　的(DE)　歷史(Na)　事件(Na)　，(COMMACATEGORY)
+　我(Nh)　稱(VE)　這(Nep)　個(Nf)　東西(Na)　叫(VG)　『(PARENTHESISCATEGORY)　城市(Na)　記憶(Na)　』(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　城市(Na)　裡面(Ncd)　一些(Neqa)　地點(Na)　發生(VJ)　的(DE)　一些(Neqa)　事情(Na)　，(COMMACATEGORY)
+　必須(D)　讓(VL)　住(VCL)　在(P)　那邊(Ncd)　的(DE)　人(Na)　知道(VK)　，(COMMACATEGORY)
+　其實(D)　是(SHI)　很(Dfa)　重要(VH)　的(T)　，(COMMACATEGORY)
+　當然(D)　我們(Nh)　台灣(Nc)　並(D)　沒有(VJ)　這樣(VH)　做(VC)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+　時值(P)　2012(Neu)　，(COMMACATEGORY)
+　當時(Nd)　的(DE)　湯德章(Nb)　故居(Nc)　因為(Cbb)　都市(Na)　更新(VC)　而(Cbb)　面臨(VK)　被(P)　拆除(VC)　的(DE)　命運(Na)　，(COMMACATEGORY)
+　經(P)　各界(Na)　人士(Na)　搶救(VC)　而(Cbb)　得以(D)　保存(VC)　。(PERIODCATEGORY)
+　政府(Na)　對待(VC)　這些(Neqa)　承載(VC)　了(Di)　深厚(VH)　記憶(Na)　與(Caa)　意義(Na)　的(DE)　建物(Na)　，(COMMACATEGORY)
+　手法(Na)　相當(Dfa)　粗暴(VH)　，(COMMACATEGORY)
+　也(D)　缺乏(VJ)　歷史(Na)　縱深(VH)　角度(Na)　的(DE)　經營(Nv)　，(COMMACATEGORY)
+　不外乎(VK)　以(P)　商業(Na)　導向(Na)　發展(Nv)　觀光(Nv)　或(Caa)　因為(Cbb)　開發(Nv)　等(Cab)　各(Nes)　種(Nf)　理由(Na)　拆除(VC)　，(COMMACATEGORY)
+　但(Cbb)　，(COMMACATEGORY)
+　這些(Neqa)　「(PARENTHESISCATEGORY)　符號(Na)　」(PARENTHESISCATEGORY)　卻(D)　是(SHI)　建構(VC)　當地(Nc)　歷史(Na)　記憶(Na)　最(Dfa)　直接(VH)　、(PAUSECATEGORY)　也(D)　最(Dfa)　有力(VH)　的(DE)　述說者(Na)　。(PERIODCATEGORY)
+
+　湯德章(Nb)　雖(Cbb)　已(D)　死去(VH)　，(COMMACATEGORY)
+　但(Cbb)　他(Nh)　的(DE)　精神(Na)　，(COMMACATEGORY)
+　卻(D)　是(SHI)　我們(Nh)　在(P)　追溯(VC)　那(Nep)　段(Nf)　歷史(Na)　，(COMMACATEGORY)
+　以及(Caa)　往(P)　前(Ncd)　走(VA)　在(P)　轉型(VH)　正義(Na)　的(DE)　道路(Na)　上(Ng)　，(COMMACATEGORY)
+　所(D)　依恃(VJ)　的(DE)　重要(VH)　價值(Na)　。(PERIODCATEGORY)
+
+
+
+　．(PERIODCATEGORY)　整理(VC)　自(P)　2.26(Neu)　黃建龍(Nb)　講師(Na)　【(PARENTHESISCATEGORY)　二二八(DM)　知識分子(Na)　與(Caa)　轉型(Nv)　正義(Na)　的(DE)　城市(Na)　記(VC)
+
+　憶(VK)　】(PARENTHESISCATEGORY)　

@@ -1,0 +1,341 @@
+　【(PARENTHESISCATEGORY)　地圖(Na)　支援(VC)　】(PARENTHESISCATEGORY)　全(Neqa)　國(Nc)　高中職(Nc)　參與(VC)　反(VC)　黑箱(A)　課綱(Na)　活動(Na)　分布圖(Na)　
+
+　本(Nes)　圖(Na)　會(D)　不(D)　定時(VH)　更新(VC)　～(FW)　:(COLONCATEGORY)　　D(FW)　
+
+
+
+　1(Neu)　	(FW)　基隆市(Nc)　國立(A)　基隆(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/z9mwta(FW)　
+
+　2(Neu)　	(FW)　基隆市(Nc)　私立(A)　二信(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/rp2W3P(FW)　
+
+　3(Neu)　	(FW)　基隆市(Nc)　市立(A)　中山(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/iNrwWO(FW)　
+
+　4(Neu)　	(FW)　南投縣(Nc)　國立(A)　南投(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/vQIBfc(FW)　
+
+　5(Neu)　	(FW)　南投縣(Nc)　國立(A)　埔里(Nc)　高工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/uSM9hx(FW)　
+
+　6(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　宜蘭(Nc)　高級(VH)　商業(Na)　職業(Na)　學校(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Q1cMMm(FW)　
+
+　7(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　羅東(Nc)　高級(VH)　工業(Na)　職業(Na)　學校(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/rd0wES(FW)　
+
+　8(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　羅東(Nc)　高級(VH)　商業(Na)　職業(Na)　學校(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ualklo(FW)　
+
+　9(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　蘇澳(Nc)　高級(VH)　海事(Na)　水產(Na)　職業(Na)　學校(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/IsfVv(FW)　0(Neu)　
+
+　10(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　蘭陽(Nc)　女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Qc8Zxx(FW)　
+
+　11(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　宜蘭(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/c954Nz(FW)　
+
+　12(Neu)　	(FW)　宜蘭縣(Nc)　國立(A)　羅東(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/qlUz(FW)　22(Neu)　
+
+　13(Neu)　	(FW)　宜蘭縣(Nc)　私立(A)　慧燈(Na)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/PhZ5qo(FW)　
+
+　14(Neu)　	(FW)　屏東縣(Nc)　國立(A)　屏東(Nc)　女中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/wfY4Qk(FW)　
+
+　15(Neu)　	(FW)　屏東縣(Nc)　國立(A)　屏東(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　tinyurl.com/oulkroc(FW)　
+
+　16(Neu)　	(FW)　屏東縣(Nc)　國立(A)　潮州(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/C5TmPs(FW)　
+
+　17(Neu)　	(FW)　屏東縣(Nc)　財團(Na)　法人(Na)　屏榮(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/OcN3JS(FW)　
+
+　18(Neu)　	(FW)　彰化縣(Nc)　國立(A)　彰化(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/LMStod(FW)　
+
+　19(Neu)　	(FW)　彰化縣(Nc)　國立(A)　鹿港(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/nr68X(FW)　9(Neu)　
+
+　20(Neu)　	(FW)　彰化縣(Nc)　國立(A)　溪湖(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/3UpjQU(FW)　
+
+　21(Neu)　	(FW)　彰化縣(Nc)　私立(A)　精誠(Na)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/UgLn5i(FW)　
+
+　22(Neu)　	(FW)　彰化縣(Nc)　私立(A)　文興(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/bmPFRQ(FW)　
+
+　23(Neu)　	(FW)　彰化縣(Nc)　國立(A)　員林(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Y8RwGI(FW)　
+
+　24(Neu)　	(FW)　嘉義市(Nc)　國立(A)　嘉義(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/xPjIH(FW)　5(Neu)　
+
+　25(Neu)　	(FW)　嘉義市(Nc)　私立(A)　嘉華(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/DFUZJK(FW)　
+
+　26(Neu)　	(FW)　嘉義市(Nc)　國立(A)　嘉義(Nc)　高商(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/0PV6nx(FW)　
+
+　27(Neu)　	(FW)　嘉義市(Nc)　國立(A)　華南(Nc)　高商(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Wz2PMp(FW)　
+
+　28(Neu)　	(FW)　嘉義縣(Nc)　國立(A)　東石(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/OWVB(FW)　87(Neu)　
+
+　29(Neu)　	(FW)　嘉義縣(Nc)　私立(A)　協同(A)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/9BSsnp(FW)　
+
+　30(Neu)　	(FW)　高雄市(Nc)　國立(A)　旗山(Nc)　高級(VH)　農工(Nc)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/7qOueC(FW)　
+
+　31(Neu)　	(FW)　高雄市(Nc)　市立(A)　三民(Nc)　高級(VH)　家事(Na)　商業(Na)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/9h2g5m(FW)　
+
+　32(Neu)　	(FW)　高雄市(Nc)　私立(A)　中山(Nb)　工商(Na)　高級(VH)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Lm7Qy(FW)　0(Neu)　
+
+　33(Neu)　	(FW)　高雄市(Nc)　市立(A)　高雄(Nc)　高工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/NDcfW(FW)　3(Neu)　
+
+　34(Neu)　	(FW)　高雄市(Nc)　國立(A)　鳳山(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/tt3SvP(FW)　
+
+　35(Neu)　	(FW)　高雄市(Nc)　國立(A)　岡山(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/VZn7ou(FW)　
+
+　36(Neu)　	(FW)　高雄市(Nc)　國立(A)　鳳新(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/2lICxe(FW)　
+
+　37(Neu)　	(FW)　高雄市(Nc)　市立(A)　仁武(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/OGdgTp(FW)　
+
+　38(Neu)　	(FW)　高雄市(Nc)　市立(A)　左營(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/sQhrtn(FW)　
+
+　39(Neu)　	(FW)　高雄市(Nc)　市立(A)　新莊(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/wkTLL(FW)　5(Neu)　
+
+　40(Neu)　	(FW)　高雄市(Nc)　國立(A)　中山(Nb)　大學(Nc)　附屬國光(Na)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/NWXXGZ(FW)　
+
+　41(Neu)　	(FW)　高雄市(Nc)　市立(A)　楠梓(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/dPEoq(FW)　7(Neu)　
+
+　42(Neu)　	(FW)　高雄市(Nc)　市立(A)　高雄(Nc)　中學(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/o32zMF(FW)　
+
+　43(Neu)　	(FW)　高雄市(Nc)　市立(A)　新興(A)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/56uG7e(FW)　
+
+　44(Neu)　	(FW)　高雄市(Nc)　市立(A)　高雄(Nc)　女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/SzkhSJ(FW)　
+
+　45(Neu)　	(FW)　高雄市(Nc)　國立(A)　高(VH)　師大附中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/m2BJur(FW)　
+
+　46(Neu)　	(FW)　高雄市(Nc)　私立(A)　復華(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/FNqAPN(FW)　
+
+　47(Neu)　	(FW)　高雄市(Nc)　市立(A)　中正(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/MzSb2R(FW)　
+
+　48(Neu)　	(FW)　高雄市(Nc)　市立(A)　前鎮(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/cE25yl(FW)　
+
+　49(Neu)　	(FW)　高雄市(Nc)　市立(A)　瑞祥(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/mZPhov(FW)　
+
+　50(Neu)　	(FW)　高雄市(Nc)　市立(A)　小港(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/vKW9Ol(FW)　
+
+　51(Neu)　	(FW)　臺南市(Nc)　國立(A)　臺南(Nc)　高工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/fEfpwu(FW)　
+
+　52(Neu)　	(FW)　臺南市(Nc)　國立(A)　曾文(Nb)　家商(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/7GJ8zg(FW)　
+
+　53(Neu)　	(FW)　臺南市(Nc)　國立(A)　北門(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/yEQSYV(FW)　
+
+　54(Neu)　	(FW)　臺南市(Nc)　國立(A)　新營(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/70o3mg(FW)　
+
+　55(Neu)　	(FW)　臺南市(Nc)　國立(A)　善化(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/L3oyFz(FW)　
+
+　56(Neu)　	(FW)　臺南市(Nc)　國立(A)　新化(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/8xkaFl(FW)　
+
+　57(Neu)　	(FW)　臺南市(Nc)　國立(A)　南科(Nb)　國際(Nc)　實驗(Na)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/xA6iDM(FW)　
+
+　58(Neu)　	(FW)　臺南市(Nc)　私立(A)　港明(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/rKvBRI(FW)　
+
+　59(Neu)　	(FW)　臺南市(Nc)　私立(A)　興(VC)　國高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/04WpP(FW)　8(Neu)　
+
+　60(Neu)　	(FW)　臺南市(Nc)　私立(A)　黎明(Nd)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/fjZ3TN(FW)　
+
+　61(Neu)　	(FW)　臺南市(Nc)　市立(A)　永仁(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/9mp0rh(FW)　
+
+　62(Neu)　	(FW)　臺南市(Nc)　國立臺(Nc)　南二中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/1R1wdm(FW)　
+
+　63(Neu)　	(FW)　臺南市(Nc)　國立(A)　臺南一中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/NQgWyS(FW)　
+
+　64(Neu)　	(FW)　臺南市(Nc)　國立(A)　臺南(Nc)　女中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/dvjTiD(FW)　
+
+　65(Neu)　	(FW)　臺南市(Nc)　國立(A)　家齊(VH)　女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/V1kWhe(FW)　
+
+　66(Neu)　	(FW)　臺南市(Nc)　私立(A)　長榮(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/HrQ11H(FW)　
+
+　67(Neu)　	(FW)　臺南市(Nc)　私立(A)　光華(Na)　女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/1sGR8U(FW)　
+
+　68(Neu)　	(FW)　臺南市(Nc)　私立(A)　德光(Nd)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/V22kfK(FW)　
+
+　69(Neu)　	(FW)　臺中市(Nc)　國立(A)　大里(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Wvw2yN(FW)　
+
+　70(Neu)　	(FW)　臺中市(Nc)　私立(A)　大明(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Fx0snW(FW)　
+
+　71(Neu)　	(FW)　臺中市(Nc)　私立(A)　明道(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/LL6e2o(FW)　
+
+　72(Neu)　	(FW)　臺中市(Nc)　私立(A)　弘文(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Pfyjo(FW)　0(Neu)　
+
+　73(Neu)　	(FW)　臺中市(Nc)　私立(A)　慈明(Nb)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/6vj7af(FW)　
+
+　74(Neu)　	(FW)　臺中市(Nc)　市立(A)　大里(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/IYZa3D(FW)　
+
+　75(Neu)　	(FW)　臺中市(Nc)　國立(A)　臺中(Nc)　女中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/VfTJcd(FW)　
+
+　76(Neu)　	(FW)　臺中市(Nc)　國立(A)　臺中(Nc)　一(Neu)　中(Ncd)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/BbUX9e(FW)　
+
+　77(Neu)　	(FW)　臺中市(Nc)　國立(A)　臺中(Nc)　二中(Nb)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/xedtJH(FW)　
+
+　78(Neu)　	(FW)　臺中市(Nc)　國立(A)　文華(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/a9ukYi(FW)　
+
+　79(Neu)　	(FW)　臺中市(Nc)　私立(A)　衛道(Nv)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/GGXIxj(FW)　
+
+　80(Neu)　	(FW)　臺中市(Nc)　私立(A)　曉明(Nb)　女中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/2sXHdz(FW)　
+
+　81(Neu)　	(FW)　臺中市(Nc)　市立(A)　西苑(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/60oWZc(FW)　
+
+　82(Neu)　	(FW)　臺中市(Nc)　市立(A)　東山(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/xyC5lz(FW)　
+
+　83(Neu)　	(FW)　臺中市(Nc)　市立(A)　惠文(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/aOigm(FW)　5(Neu)　
+
+　84(Neu)　	(FW)　臺北市(Nc)　市立(A)　中崙(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/K9IqBb(FW)　
+
+　85(Neu)　	(FW)　臺北市(Nc)　私立(A)　祐德(VA)　中學(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/RMlecA(FW)　
+
+　86(Neu)　	(FW)　臺北市(Nc)　市立(A)　松山(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/HkKGZ(FW)　7(Neu)　
+
+　87(Neu)　	(FW)　臺北市(Nc)　國立(A)　師大附中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/KIwRU(FW)　9(Neu)　
+
+　88(Neu)　	(FW)　臺北市(Nc)　私立(A)　延平(Nc)　中學(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/9YnZSZ(FW)　
+
+　89(Neu)　	(FW)　臺北市(Nc)　市立(A)　和平(Nv)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/cocr5S(FW)　
+
+　90(Neu)　	(FW)　臺北市(Nc)　市立(A)　中山(Nb)　女中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/dhBBxV(FW)　
+
+　91(Neu)　	(FW)　臺北市(Nc)　市立(A)　大同(Nb)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/hKWOU(FW)　1(Neu)　
+
+　92(Neu)　	(FW)　臺北市(Nc)　市立(A)　大直(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/f7zi9F(FW)　
+
+　93(Neu)　	(FW)　臺北市(Nc)　市立(A)　建國(Nv)　中學(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/E8zlg(FW)　0(Neu)　
+
+　94(Neu)　	(FW)　臺北市(Nc)　市立(A)　成功(Nv)　中學(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/pXeFSr(FW)　
+
+　95(Neu)　	(FW)　臺北市(Nc)　市立(A)　北一女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/rtgMGG(FW)　
+
+　96(Neu)　	(FW)　臺北市(Nc)　市立(A)　華江(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/JpZ6Rb(FW)　
+
+　97(Neu)　	(FW)　臺北市(Nc)　市立(A)　大理(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/zufCM(FW)　5(Neu)　
+
+　98(Neu)　	(FW)　臺北市(Nc)　國立(A)　政大(Nc)　附中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/beXngI(FW)　
+
+　99(Neu)　	(FW)　臺北市(Nc)　私立(A)　東山(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/dKxrl(FW)　2(Neu)　
+
+　100(Neu)　	(FW)　臺北市(Nc)　市立(A)　景美(Nc)　女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/0dnM9K(FW)　
+
+　101(Neu)　	(FW)　臺北市(Nc)　市立(A)　萬芳(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/IhgHWz(FW)　
+
+　102(Neu)　	(FW)　臺北市(Nc)　市立(A)　育成(Nv)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/tSfqEa(FW)　
+
+　103(Neu)　	(FW)　臺北市(Nc)　市立(A)　內湖(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/vV7Qpw(FW)　
+
+　104(Neu)　	(FW)　臺北市(Nc)　市立(A)　麗山(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ximM8t(FW)　
+
+　105(Neu)　	(FW)　臺北市(Nc)　市立(A)　南湖(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Mcf2c(FW)　6(Neu)　
+
+　106(Neu)　	(FW)　臺北市(Nc)　私立(A)　泰北(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/10eBcw(FW)　
+
+　107(Neu)　	(FW)　臺北市(Nc)　市立(A)　復興(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/EZVbeB(FW)　
+
+　108(Neu)　	(FW)　臺北市(Nc)　市立(A)　中正(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/cKNm2z(FW)　
+
+　109(Neu)　	(FW)　臺北市(Nc)　市立(A)　大安(Nc)　高級(VH)　工業(Na)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/tzu67a(FW)　
+
+　110(Neu)　	(FW)　臺北市(Nc)　市立(A)　士林(Nc)　高級(VH)　商業(Na)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/aWAqXc(FW)　
+
+　111(Neu)　	(FW)　臺北市(Nc)　市立(A)　松山(Nc)　高級(VH)　工農(Na)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/XPNPb(FW)　1(Neu)　
+
+　112(Neu)　	(FW)　臺北市(Nc)　市立(A)　內湖(Nc)　高工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/nPnkpU(FW)　
+
+　113(Neu)　	(FW)　臺北市(Nc)　市立(A)　南港(Nc)　高工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/eZtTtV(FW)　
+
+　114(Neu)　	(FW)　臺北市(Nc)　市立(A)　木柵(Nc)　高工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/efQrHF(FW)　
+
+　115(Neu)　	(FW)　臺東縣(Nc)　國立(A)　臺東(Nc)　女中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/YcBWRE(FW)　
+
+　116(Neu)　	(FW)　苗栗縣(Nc)　國立(A)　苗栗(Nc)　農工(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/CGc25Z(FW)　
+
+　117(Neu)　	(FW)　苗栗縣(Nc)　國立(A)　苗栗(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/I2qef(FW)　8(Neu)　
+
+　118(Neu)　	(FW)　苗栗縣(Nc)　國立(A)　竹南(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/24DIx(FW)　1(Neu)　
+
+　119(Neu)　	(FW)　苗栗縣(Nc)　國立(A)　苑裡(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/m1NKrY(FW)　
+
+　120(Neu)　	(FW)　苗栗縣(Nc)　縣立(A)　興華(Nb)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/EdlhDq(FW)　
+
+　121(Neu)　	(FW)　雲林縣(Nc)　國立(A)　斗六(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/9WtDbp(FW)　
+
+　122(Neu)　	(FW)　雲林縣(Nc)　國立(A)　北港(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/xHtLy(FW)　8(Neu)　
+
+　123(Neu)　	(FW)　雲林縣(Nc)　國立(A)　虎尾(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ldLSzH(FW)　
+
+　124(Neu)　	(FW)　雲林縣(Nc)　私立(A)　正心(VA)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Ou8aNH(FW)　
+
+　125(Neu)　	(FW)　桃園市(Nc)　國立(A)　龍潭(Nc)　高級(VH)　中學(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/HlAclX(FW)　
+
+　126(Neu)　	(FW)　桃園市(Nc)　國立(A)　中壢(Nc)　高商(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/uAwkZ(FW)　6(Neu)　
+
+　127(Neu)　	(FW)　桃園市(Nc)　國立(A)　中壢(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/VMk5oQ(FW)　
+
+　128(Neu)　	(FW)　桃園市(Nc)　國立(A)　武陵(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/U6TZMt(FW)　
+
+　129(Neu)　	(FW)　桃園市(Nc)　國立(A)　陽明(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/GGXIxj(FW)　
+
+　130(Neu)　	(FW)　桃園市(Nc)　國立(A)　內壢(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/rjRS8r(FW)　
+
+　131(Neu)　	(FW)　桃園市(Nc)　私立(A)　復旦(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/L1KNQs(FW)　
+
+　132(Neu)　	(FW)　桃園市(Nc)　市立(A)　大溪(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/Oo0iHY(FW)　
+
+　133(Neu)　	(FW)　桃園市(Nc)　市立(A)　壽山(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/GmK6IS(FW)　
+
+　134(Neu)　	(FW)　桃園市(Nc)　市立(A)　平鎮(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/xbnuu(FW)　6(Neu)　
+
+　135(Neu)　	(FW)　桃園市(Nc)　市立(A)　觀音(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/B8ztyR(FW)　
+
+　136(Neu)　	(FW)　桃園市(Nc)　市立(A)　永豐(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/FHxzMt(FW)　
+
+　137(Neu)　	(FW)　桃園市(Nc)　市立(A)　大園(Nc)　國際(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/zkFUcY(FW)　
+
+　138(Neu)　	(FW)　澎湖縣(Nc)　國立(A)　馬公(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/GkIiKx(FW)　
+
+　139(Neu)　	(FW)　新(VH)　北市(Nc)　國立(A)　華僑(Na)　中學(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/k6CX9s(FW)　
+
+　140(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　板橋(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/MNrWxm(FW)　
+
+　141(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　新店(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/I4qn5j(FW)　
+
+　142(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　中和(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/3tq2xW(FW)　
+
+　143(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　新莊(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/58yt0q(FW)　
+
+　144(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　新(VH)　北(Ncd)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ifBxTn(FW)　
+
+　145(Neu)　	(FW)　新(VH)　北市(Nc)　私立(A)　淡江(Nb)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/JqBSK(FW)　3(Neu)　
+
+　146(Neu)　	(FW)　新(VH)　北市(Nc)　私立(A)　徐匯(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ztz8IV(FW)　
+
+　147(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　海山(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/9hVEza(FW)　
+
+　148(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　三重(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/fj7TdK(FW)　
+
+　149(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　樹林(Na)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/CWB6KF(FW)　
+
+　150(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　秀峰(Na)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/n95vlg(FW)　
+
+　151(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　安康(VH)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/gSiuVB(FW)　
+
+　152(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　石碇(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/vQIBfc(FW)　
+
+　153(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　清水(Nc)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/wI1QHU(FW)　
+
+　154(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　三民(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/vUDhuy(FW)　
+
+　155(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　錦和(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/qkyMIO(FW)　
+
+　156(Neu)　	(FW)　新(VH)　北市(Nc)　私立(A)　復興(VC)　高級(VH)　商工(Nc)　職業(Na)　學校(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/TxoZF(FW)　3(Neu)　
+
+　157(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　淡水(Nc)　高級(VH)　商工(Nc)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/GBJXF(FW)　2(Neu)　
+
+　158(Neu)　	(FW)　新(VH)　北市(Nc)　私立(A)　莊敬(VH)　高級(VH)　工業(Na)　家事(Na)　職業(Na)　學校(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/iMFo0d(FW)　
+
+　159(Neu)　	(FW)　新(VH)　北市(Nc)　市立(A)　北大(Nc)　高級(VH)　中學(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/q5GqRw(FW)　
+
+　160(Neu)　	(FW)　新(VH)　北市(Nc)　私立(A)　時雨(Na)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/13u8ky(FW)　
+
+　161(Neu)　	(FW)　新竹市(Nc)　國立(A)　新竹(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ds0tx(FW)　3(Neu)　
+
+　162(Neu)　	(FW)　新竹市(Nc)　市立(A)　成德(VH)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/ubPqcy(FW)　
+
+　163(Neu)　	(FW)　新竹市(Nc)　市立(A)　建功(VA)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/orZvjm(FW)　
+
+　164(Neu)　	(FW)　新竹縣(Nc)　國立(A)　竹東(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/AeiwF(FW)　4(Neu)　
+
+　165(Neu)　	(FW)　新竹縣(Nc)　國立(A)　竹北(Nc)　高中(Nc)　	(FW)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/U7biVd(FW)　
+
+　166(Neu)　	(FW)　臺北市(Nc)　市立(A)　西松(Nb)　高中(Nc)　	(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/VqeuXN(FW)　
+
+
+
+　陸續(D)　增加(VHC)　中(Ng)　.......(ETCCATEGORY)　

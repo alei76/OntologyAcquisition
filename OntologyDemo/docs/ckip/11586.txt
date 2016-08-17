@@ -1,0 +1,11 @@
+　臺灣人(Na)　在(P)　抵抗(VC)　日本(Nc)　侵略(Nv)　，(COMMACATEGORY)
+　反抗(VC)　日本(Nc)　殖民(Nv)　統治(Nv)　當中(Ng)　也(D)　扮演(VC)　相當(Dfa)　重要(VH)　的(DE)　角色(Na)　。(PERIODCATEGORY)
+　「(PARENTHESISCATEGORY)　李(Nb)　友邦(Nc)　將軍(Na)　是(SHI)　民國(Nd)　初年(Nd)　第一(Neu)　位(Nf)　本籍(Na)　出自(VJ)　臺灣(Nc)　的(DE)　將軍(Na)　。(PERIODCATEGORY)
+　二戰(Na)　期間(Na)　，(COMMACATEGORY)
+　於(P)　大陸(Nc)　戰區(Nc)　創設(VC)　四(Neu)　所(Nf)　臺灣(Nc)　醫院(Nc)　，(COMMACATEGORY)
+　領導(VC)　臺灣(Nc)　義勇隊(Na)　、(PAUSECATEGORY)　臺灣(Nc)　少年團(Na)　、(PAUSECATEGORY)　對(P)　日(Nc)　抗戰(VA)　；(SEMICOLONCATEGORY)　　臺灣(Nc)　義勇隊(Na)　帶回(VC)　象徵(Na)　臺灣(Nc)　光復(VC)　的(DE)　第一(Neu)　面(Nf)　中華民國(Nc)　國旗(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　（(PARENTHESISCATEGORY)　引文(Nb)　摘自(VC)　李(Nb)　友邦(Nc)　將軍(Na)　紀念館(Nc)　）(PARENTHESISCATEGORY)　

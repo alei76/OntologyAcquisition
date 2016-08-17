@@ -1,0 +1,25 @@
+　就是(Cbb)　明天(Nd)　！(EXCLANATIONCATEGORY)
+
+　微調(A)　課綱(Na)　校(Nc)　內(Ncd)　講座(Na)　
+
+　12(Neu)　:(COLONCATEGORY)　　20(Neu)　-(DASHCATEGORY)　1(Neu)　:(COLONCATEGORY)　　05(Neu)　圖書館(Nc)　三樓(Nc)　視聽(A)　教室(Nc)　
+
+　主講(VE)　者(Na)　：(COLONCATEGORY)　
+
+　鳳新(Nb)　高中(Nc)　教務(Na)　主任(Na)　林明(Nb)　南(Ncd)　主任(Na)　
+
+　鳳新(Nb)　高中(Nc)　公民(Na)　科教師(Na)　陳香吟(Nb)　老師(Na)　
+
+
+
+　日前(Nd)　傳出(VC)　有(V_2)　錯誤(Na)　消息(Na)　說(VE)　本(Nes)　活動(Na)　要(D)　報名(VA)　
+
+　實際(VH)　上(Ng)　是(SHI)　不用(D)　報名(VA)　的(DE)　！(EXCLANATIONCATEGORY)
+
+　只要(Cbb)　到(P)　現場(Nc)　簽到(VA)　就(D)　可以(D)　囉(T)　！(EXCLANATIONCATEGORY)
+
+　明天(Nd)　現場(Nc)　會(D)　有(V_2)　反(VC)　黑箱(A)　課綱小(Na)　貼紙(Na)　
+
+　同學(Na)　可以(D)　自由(VH)　索取(VD)　！(EXCLANATIONCATEGORY)
+
+　我們(Nh)　明天(Nd)　見(VE)　！(EXCLANATIONCATEGORY)

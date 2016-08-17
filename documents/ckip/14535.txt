@@ -1,0 +1,82 @@
+　〔(PARENTHESISCATEGORY)　記者(Na)　林曉雲(Nb)　／(FW)　台北(Nc)　報導(Na)　〕(PARENTHESISCATEGORY)　全(Neqa)　國(Nc)　高中生(Na)　自發性(Na)　反(VC)　黑箱(A)　課綱(Na)　微調(Na)　行動(Na)　如火如荼(VH)　，(COMMACATEGORY)
+　在(P)　臉書(Na)　成立(VC)　專頁(Na)　的(DE)　學校(Nc)　持續(VL)　增加(VHC)　中(Ng)　，(COMMACATEGORY)
+　到(P)　今天(Nd)　中午(Nd)　已(D)　有(V_2)　105(Neu)　校(Nc)　學生(Na)　站出來(VA)　成立(VC)　反(VC)　黑箱(A)　課綱(Na)　臉書(Na)　，(COMMACATEGORY)
+　另(Cbb)　也(D)　有(V_2)　成立(VC)　跨(VC)　校(Nc)　的(DE)　分區(Nv)　社團(Na)　，(COMMACATEGORY)
+　臉書(Na)　上(Ng)　可(D)　見到(VE)　學生(Na)　蒐集(Nv)　和(Caa)　研究(Nv)　相關(VH)　資料(Na)　的(DE)　用心(VH)　與(Caa)　反思(Nv)　。(PERIODCATEGORY)
+
+
+
+　台中(Nc)　文華(Nb)　高中(Nc)　學生(Na)　成立(VC)　「(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　文華(Nb)　高中(Nc)　站出來(VA)　」(PARENTHESISCATEGORY)　臉(Na)　書(Na)　，(COMMACATEGORY)
+　貼文(Nb)　內容(Na)　顯示(VK)　學生(Na)　清楚(VH)　的(DE)　思路(Na)　：(COLONCATEGORY)　　我們(Nh)　反對(VE)　的(DE)　是(SHI)　「(PARENTHESISCATEGORY)　黑箱(A)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　僅(Da)　由(P)　法源(Na)　依據(P)　模糊(VH)　，(COMMACATEGORY)
+　專業(VH)　背景(Na)　相違(VH)　組成(VG)　的(DE)　10(Neu)　人(Na)　「(PARENTHESISCATEGORY)　檢核(Nv)　小組(Na)　」(PARENTHESISCATEGORY)　所(D)　通過(VC)　的(DE)　微調案(Na)　。(PERIODCATEGORY)
+　我們(Nh)　質疑(VE)　它(Nh)　的(DE)　「(PARENTHESISCATEGORY)　合法性(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　…(ETCCATEGORY)　我們(Nh)　只是(D)　高中生(Na)　，(COMMACATEGORY)
+　我們(Nh)　仍(D)　可以(D)　微薄(VH)　的(DE)　判斷(Nv)　能力(Na)　，(COMMACATEGORY)
+　識別(VE)　它(Nh)　的(DE)　荒謬(VH)　。(PERIODCATEGORY)
+　雖然(Cbb)　大考(Na)　中心(Nc)　已(D)　強調(VE)　，(COMMACATEGORY)
+　學測(VC)　不會(D)　出現(VH)　爭議性(Na)　內容(Na)　，(COMMACATEGORY)
+　但(Cbb)　我們(Nh)　要(D)　的(T)　，(COMMACATEGORY)
+　只是(D)　能夠(D)　給(VD)　我們(Nh)　正確(VH)　觀念(Na)　的(DE)　課本(Na)　，(COMMACATEGORY)
+　我們(Nh)　要(D)　的(T)　，(COMMACATEGORY)
+　只(Da)　是(SHI)　「(PARENTHESISCATEGORY)　歷史(Na)　真相(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　歷史(Na)　事實(Na)　」(PARENTHESISCATEGORY)　！(EXCLANATIONCATEGORY)
+　…(ETCCATEGORY)　我們(Nh)　的(DE)　聲音(Na)　即使(Cbb)　微小(VH)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　力量(Na)　即使(Cbb)　微薄(VH)　，(COMMACATEGORY)
+　但(Cbb)　星星之火(Na)　可以(D)　燎原(VH)　！(EXCLANATIONCATEGORY)
+
+
+
+　台中市(Nc)　西苑(Nc)　高中生(Na)　在(P)　臉(Na)　書寫(VC)　著(Di)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　孩子(Na)　怕(VK)　黑暗(VH)　情有可原(VH)　，(COMMACATEGORY)
+　人生(Na)　真正(A)　的(DE)　悲劇(Na)　是(SHI)　成人(Na)　怕(VK)　光明(VH)　。(PERIODCATEGORY)
+　我們(Nh)　要(D)　用(P)　光明(VH)　讓(VL)　那些(Neqa)　”(FW)　成人(Na)　”(FW)　害怕(VK)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　台中市(Nc)　慈明(Nb)　高中生(Na)　臉書(Na)　蒐羅(VC)　豐富(VHC)　的(DE)　資訊(Na)　，(COMMACATEGORY)
+　並(Cbb)　寫(VC)　著(Di)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　如果(Cbb)　要(D)　以(P)　少數(Neqa)　人(Na)　掩飾(VC)　過(Di)　多數(Neqa)　人(Na)　的(DE)　聲音(Na)　，(COMMACATEGORY)
+　那(Dk)　這(Nep)　就(D)　幾乎(Da)　等於(VG)　獨裁(VH)　了(T)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　台北市(Nc)　東山(Nc)　高中生(Na)　在(P)　臉(Na)　書(Na)　表示(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　給(VD)　我們(Nh)　知道(VK)　全貌(Na)　的(DE)　權利(Na)　吧(T)　，(COMMACATEGORY)
+　不要(D)　讓(VL)　我們(Nh)　只(Da)　知道(VK)　篩選(VC)　後(Ng)　的(DE)　真相(Na)　。(PERIODCATEGORY)
+　看(VC)　不(D)　見(VE)　真相(Na)　的(DE)　盲目(VH)　，(COMMACATEGORY)
+　只(Da)　會(D)　指引(VF)　向(P)　遺忘(VK)　教訓(Na)　的(DE)　一(Neu)　片(Nf)　漆黑(VH)　。(PERIODCATEGORY)
+　是(SHI)　的(DE)　東山(Nc)　座落(VJ)　在(P)　山區(Nc)　，(COMMACATEGORY)
+　東山(Nc)　常常(D)　冷漠(VH)　，(COMMACATEGORY)
+　但是(Cbb)　我們(Nh)　想(VE)　保留(VC)　雪亮(VH)　的(DE)　眼睛(Na)　，(COMMACATEGORY)
+　看看(VE)　我們(Nh)　的(DE)　這(Nep)　塊(Nf)　地(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　位於(VCL)　屏東(Nc)　的(DE)　屏榮(Nc)　高中生(Na)　在(P)　「(PARENTHESISCATEGORY)　反(VC)　洗腦(Nv)　課綱(Na)　」(PARENTHESISCATEGORY)　臉(Na)　書(Na)　上(Ncd)　寫(VC)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　學生(Na)　教育(Na)　的(DE)　當事人(Na)　，(COMMACATEGORY)
+　我們(Nh)　應當(D)　有(V_2)　權(Na)　選擇(VC)　我們(Nh)　要(D)　學(VC)　什麼(Nep)　。(PERIODCATEGORY)
+　在(P)　台灣(Nc)　生根(VA)　長大(VH)　的(DE)　我們(Nh)　，(COMMACATEGORY)
+　有(V_2)　權利(Na)　知道(VK)　這(Nep)　個(Nf)　母親(Na)　之(DE)　島(Na)　的(DE)　歷史(Na)　，(COMMACATEGORY)
+　而(Cbb)　非(VG)　強灌大(Na)　中國(Nc)　史觀(Na)　逼(VF)　我們(Nh)　吞下(VC)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　站出來(VA)　反(VC)　黑箱(A)　課綱(Na)　微調(Na)　除了(P)　高中生(Na)　，(COMMACATEGORY)
+　也(D)　見到(VE)　高職(Nc)　生(VC)　挺身(VA)　參與(VC)　，(COMMACATEGORY)
+　松山(Nc)　工農(Na)　學生(Na)　在(P)　臉(Na)　書(Na)　表示(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　今天(Nd)　高中生(Na)　被(P)　微調(Na)　後(Ng)　，(COMMACATEGORY)
+　下(Nes)　一(Neu)　個(Nf)　就是(Cbb)　高職(Nc)　生(VC)　了(Di)　，(COMMACATEGORY)
+　我們(Nh)　站(VA)　在一起(VH)　，(COMMACATEGORY)
+　反對(VE)　洗腦(Nv)　課綱(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　台中市(Nc)　大明(Nb)　高中生(Na)　臉(Na)　書寫(VC)　著(Di)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　高職(Nc)　體系(Na)　就(D)　該(D)　忽略(VJ)　歷史(Na)　的(DE)　重要(VH)　嗎(T)　？(QUESTIONCATEGORY)
+　歷史課(Na)　被(P)　拿來(VC)　考試(Na)　已經(D)　夠(Dfa)　愚蠢(VH)　了(T)　！(EXCLANATIONCATEGORY)
+　連(Cbb)　課本(Na)　都(D)　要(D)　被(P)　改(VC)　了(Di)　，(COMMACATEGORY)
+　還(D)　有(V_2)　什麼(Nep)　值得(VH)　相信(VK)　？(QUESTIONCATEGORY)
+　我(Nh)　是(SHI)　大明人(Na)　，(COMMACATEGORY)
+　我(Nh)　反對(VE)　黑箱(A)　課綱(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　台北市(Nc)　復興(Nc)　商工(Nc)　學生(Na)　臉(Na)　書寫(VC)　著(Di)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　拒絕(VF)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　請(VF)　原諒(VJ)　我們(Nh)　有(V_2)　公平(VH)　正義(Na)　的(DE)　夢(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1333721(Neu)　

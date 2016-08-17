@@ -1,0 +1,46 @@
+　【(PARENTHESISCATEGORY)　反(VC)　洗腦(Nv)　違調課綱(Na)　at(FW)　嘉義(Nc)　】(PARENTHESISCATEGORY)　
+
+　【(PARENTHESISCATEGORY)　wake(FW)　up(FW)　音樂(Na)　祭(VC)　X(FW)　蘋果樹(Na)　公社(Nc)　X(FW)　全面(D)　罷免(VC)　Total(FW)　Recall(FW)　】(PARENTHESISCATEGORY)　
+
+　【(PARENTHESISCATEGORY)　覺醒(VH)　！(EXCLANATIONCATEGORY)
+　打卡(VA)　拍照(VB)　聲援(VC)　行動(Na)　！(EXCLANATIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+
+
+　多(Neqa)　組織(Na)　七月(Nd)　十八日(Nd)　於(P)　嘉義(Nc)　Wake(FW)　up(FW)　音樂(Na)　祭(VC)　合作(VH)　，(COMMACATEGORY)
+　進行(VC)　課綱(Na)　議題(Na)　的(DE)　宣傳(Na)　，(COMMACATEGORY)
+　於(P)　NGO(FW)　攤位處(Na)　，(COMMACATEGORY)
+　發放(VD)　貼紙(Na)　、(PAUSECATEGORY)　涼扇(Na)　、(PAUSECATEGORY)　各(Nes)　類(Nf)　文宣品(Na)　，(COMMACATEGORY)
+　也(D)　提供(VD)　版子(Na)　讓(VL)　參加(VC)　音樂(Na)　祭(VC)　朋友(Na)　們(Na)　，(COMMACATEGORY)
+　除了(P)　享受(VJ)　聲音(Na)　的(DE)　藝術(Na)　之外(Ng)　，(COMMACATEGORY)
+　也(D)　可以(D)　透過(P)　行動(Na)　，(COMMACATEGORY)
+　來(D)　表達(VC)　自己(Nh)　的(DE)　想法(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　另外(Cbb)　，(COMMACATEGORY)
+　蘋果樹(Na)　公社(Nc)　的(DE)　嘉義(Nc)　特派員(Na)　也(D)　找(VC)　了(Di)　一些(Neqa)　樂團(Na)　進行(VC)　合作(VH)　，(COMMACATEGORY)
+　希望(VK)　透過(P)　這些(Neqa)　樂團(Na)　的(DE)　支持(Nv)　，(COMMACATEGORY)
+　能夠(D)　引起(VC)　更(D)　大(VH)　的(DE)　共鳴(Na)　，(COMMACATEGORY)
+　社會(Na)　的(DE)　改變(Na)　需要(VK)　你我(Na)　的(DE)　努力(Nv)　，(COMMACATEGORY)
+　每(Nes)　一(Neu)　位(Nf)　朋友(Na)　只(Da)　需要(VK)　透過(P)　一些(Neqa)　小小(VH)　的(DE)　行動(Na)　，(COMMACATEGORY)
+　就(D)　能(D)　凝聚(VC)　起(Di)　力量(Na)　，(COMMACATEGORY)
+　憾動(VHC)　這(Nep)　個(Nf)　讓(VL)　我們(Nh)　不滿(VK)　得(DE)　政府(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　十八(Neu)　號(Nf)　錯過(VJ)　的(DE)　朋友(Na)　，(COMMACATEGORY)
+　也(D)　可以(D)　十九(Neu)　號(Nf)　在(P)　園區(Nc)　內(Ncd)　巧遇(VC)　看看(Di)　四處(D)　奔走(VA)　的(DE)　版子(Na)　，(COMMACATEGORY)
+　拍照(VB)　後(Ng)　打卡(VA)　上傳(VC)　，(COMMACATEGORY)
+　如果(Cbb)　無法(D)　親臨(VCL)　現場(Nc)　的(DE)　朋友(Na)　也(D)　可以(D)　自行(D)　書寫(VC)　後(Ng)　拍照(VB)　上傳(VC)　，(COMMACATEGORY)
+　歡迎(VJ)　各(Nes)　位(Nf)　朋友(Na)　用力(VH)　的(DE)　參與(Nv)　課綱(Na)　議題(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　也(D)　拜託(VC)　各(Nes)　位(Nf)　朋友(Na)　用力(VH)　像(P)　音樂(Na)　祭(VC)　衝撞(Nv)　那樣(Dfa)　分享(VJ)　貼文(Nb)　！(EXCLANATIONCATEGORY)
+
+
+
+　|(FW)　P(FW)　!(EXCLANATIONCATEGORY)
+　SCO(FW)　|(FW)　朱(Nb)　頭皮(Na)　音樂(Na)　pigheadskin(FW)　music(FW)　|(FW)　音(Na)　地(DE)　大帝(Na)　|(FW)　濁水溪(Nc)　公社(Nc)　LTK(FW)　Commune(FW)　|(FW)　滅火器(Na)　Fire(FW)　EX(FW)　.(PERIODCATEGORY)

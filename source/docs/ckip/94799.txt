@@ -1,0 +1,12 @@
+　周威同(Nb)　也(D)　嘲諷(VC)　地(DE)　表示(VE)　，(COMMACATEGORY)
+　當(P)　一(Neu)　個(Nf)　老師(Na)　，(COMMACATEGORY)
+　當(P)　到(P)　連(Nb)　教育部(Nc)　都(D)　會(D)　害怕(VK)　，(COMMACATEGORY)
+　還(D)　被(P)　「(PARENTHESISCATEGORY)　校園(Nc)　安全(Nv)　」(PARENTHESISCATEGORY)　通報(VE)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　這(Nep)　真是(VG)　一(Neu)　件(Nf)　十分(Dfa)　榮幸(VH)　的(DE)　事(Na)　，(COMMACATEGORY)
+　比(P)　得到(VJ)　師鐸獎(Nb)　還(D)　開心(VH)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-----(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　
+
+　教育部(Nc)　:(COLONCATEGORY)　　只是(D)　發文(VA)　關注(VJ)　，(COMMACATEGORY)
+　不會(D)　干涉(VC)　或(Caa)　懲處(Nv)　啦(T)　，(COMMACATEGORY)
+　哈哈(D)　哈哈(D)　哈哈(D)　哈(D)　

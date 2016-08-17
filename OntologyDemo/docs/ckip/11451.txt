@@ -1,0 +1,13 @@
+　「(PARENTHESISCATEGORY)　這(Nep)　是(SHI)　教育部(Nc)　?(QUESTIONCATEGORY)
+　還是(Caa)　警備總部(Nc)　?(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　─(FW)　─(FW)　引(VC)　自(P)　內文(Na)　
+
+　不能(D)　一味(D)　的(DE)　為(VG)　反而(Cbb)　反(VC)　，(COMMACATEGORY)
+　而是(Cbb)　需要(VK)　先(D)　充實(VHC)　自己(Nh)　，(COMMACATEGORY)
+　了解(VK)　事情(Na)　經過(VCL)　。(PERIODCATEGORY)
+
+
+
+　附上(VC)　昨日(Nd)　教育部(Nc)　發表(VC)　的(DE)　聲明(Na)　：(COLONCATEGORY)　
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1333194(Neu)　

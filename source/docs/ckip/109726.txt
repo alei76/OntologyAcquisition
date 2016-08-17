@@ -1,0 +1,37 @@
+　小編(Na)　：(COLONCATEGORY)　　大家(Nh)　不要(D)　被(P)　教育部(Nc)　給(VD)　騙(VC)　了(Di)　！(EXCLANATIONCATEGORY)
+
+
+
+　節錄(VC)　：(COLONCATEGORY)　
+
+　黃益(Nb)　中(Ng)　表示(VE)　，(COMMACATEGORY)
+　教育部(Nc)　說(VE)　白(VH)　賊(Na)　的(DE)　事(Na)　證(Na)　如(P)　山(Na)　，(COMMACATEGORY)
+　根據(P)　課審會(Na)　高中職(Nc)　分組(Nv)　會議(Na)　在(P)　1月(Nd)　25日(Nd)　的(DE)　會議(Na)　紀錄(Na)　，(COMMACATEGORY)
+　會議(Na)　主持人(Na)　是(SHI)　台北市(Nc)　教育局長(Na)　湯志民(Nb)　，(COMMACATEGORY)
+　會議(Na)　原本(D)　有(V_2)　29(Neu)　人(Na)　出席(VC)　，(COMMACATEGORY)
+　後來(Nd)　投票(VA)　時(Ng)　只有(D)　24(Neu)　人(Na)　在場(VA)　，(COMMACATEGORY)
+　贊成票(Na)　15(Neu)　票(Nf)　、(PAUSECATEGORY)　不(D)　同意票(Na)　8(Neu)　票(Nf)　，(COMMACATEGORY)
+　1(Neu)　人(Na)　不(D)　表示(VE)　意見(Na)　，(COMMACATEGORY)
+　但(Cbb)　問題(Na)　在於(VK)　，(COMMACATEGORY)
+　對照(VJ)　教育部長(Na)　吳思華(Nb)　回答(VE)　立委(Na)　鄭麗君(Nb)　及(Caa)　網路(Na)　上(Ng)　所(D)　說(VE)　內容(Na)　，(COMMACATEGORY)
+　主席(Na)　表示(VE)　採(VC)　共識(Na)　決(VE)　，(COMMACATEGORY)
+　那(Dk)　這(Nep)　是(SHI)　誰(Nh)　在(P)　說謊(VA)　？(QUESTIONCATEGORY)
+
+　黃益(Nb)　中(Ng)　表示(VE)　，(COMMACATEGORY)
+　他(Nh)　認為(VE)　那(Nep)　次(Nf)　會議(Na)　紀錄(Na)　造假(VA)　，(COMMACATEGORY)
+　涉及(VK)　偽造(VC)　文書(Na)　，(COMMACATEGORY)
+　根本(D)　沒有(D)　當場(D)　投票(VA)　、(PAUSECATEGORY)　開票(VA)　這(Nep)　件(Nf)　事(Na)　，(COMMACATEGORY)
+　這(Nep)　也(D)　是(SHI)　為什麼(D)　到(P)　現在(Nd)　，(COMMACATEGORY)
+　即使(Cbb)　台北(Nc)　高等(A)　行政(Na)　法院(Nc)　判決(Nv)　教育部(Nc)　敗訴(VH)　，(COMMACATEGORY)
+　教育部(Nc)　卻(D)　仍(D)　遲遲(D)　不(D)　敢(VL)　公開(VHC)　課審(VC)　會(D)　相關(VH)　資訊(Na)　的(DE)　原因(Na)　，(COMMACATEGORY)
+　教育部(Nc)　稱(VG)　新舊(Na)　教科書(Na)　並行(VA)　，(COMMACATEGORY)
+　是(SHI)　在(P)　騙(VC)　大眾(Nh)　、(PAUSECATEGORY)　騙(VC)　學生(Na)　，(COMMACATEGORY)
+　大家(Nh)　不要(D)　被(P)　騙(VC)　了(Di)　。(PERIODCATEGORY)
+
+
+
+
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1385371(Neu)　

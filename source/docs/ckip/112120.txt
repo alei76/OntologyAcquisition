@@ -1,0 +1,25 @@
+　【(PARENTHESISCATEGORY)　蘋果樹(Na)　公社(Nc)　公民(Na)　論壇(Na)　】(PARENTHESISCATEGORY)　
+
+　你(Nh)　對(P)　歷史課(Na)　的(DE)　印象(Na)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+　背(VC)　多(Neqa)　分(Nf)　？(QUESTIONCATEGORY)
+　記(VK)　不(D)　完(VH)　的(DE)　年份(Na)　與(Caa)　戰爭(Na)　？(QUESTIONCATEGORY)
+　瘋狂(VH)　趕(VC)　課(Na)　？(QUESTIONCATEGORY)
+
+　我們(Nh)　的(DE)　教育(Na)　不(D)　該(D)　只是(D)　灌輸(VD)　一(Neu)　種(Nf)　既定(A)　的(DE)　知識(Na)　，(COMMACATEGORY)
+　而是(Cbb)　給(VD)　我們(Nh)　一(Neu)　個(Nf)　可以(D)　想像(VK)　、(PAUSECATEGORY)　思辨(VA)　的(DE)　空間(Na)　。(PERIODCATEGORY)
+
+　改變(VC)　如此(Dfa)　制式化(VHC)　的(DE)　教育(Na)　，(COMMACATEGORY)
+　從(P)　課綱(Na)　開始(VL)　檢討(VC)　；(SEMICOLONCATEGORY)　　而(Cbb)　今日(Nd)　我們(Nh)　的(DE)　政府(Na)　，(COMMACATEGORY)
+　給(VD)　我們(Nh)　的(DE)　甚至(D)　是(SHI)　一(Neu)　套(Nf)　不(D)　中立(VH)　的(DE)　課綱(Na)　。(PERIODCATEGORY)
+
+
+
+　（(PARENTHESISCATEGORY)　摘自(VC)　新聞(Na)　內文(Na)　）(PARENTHESISCATEGORY)　
+
+　為什麼(D)　有(V_2)　一(Neu)　天(Nf)　要(D)　用(P)　衝撞(VC)　方式(Na)　、(PAUSECATEGORY)　弄壞(VC)　鐵門(Na)　？(QUESTIONCATEGORY)
+　是(SHI)　因為(Cbb)　學生(Na)　們(Na)　對(P)　政府(Na)　不(D)　信任(VJ)　，(COMMACATEGORY)
+　從小到大(D)　被(P)　建構(VC)　的(DE)　世界(Nc)　崩壞(VH)　，(COMMACATEGORY)
+　感到(VK)　慌張(VH)　無助(VH)　。(PERIODCATEGORY)
+
+　所有(Neqa)　努力(VH)　，(COMMACATEGORY)
+　一切(Neqa)　只是(D)　要(D)　回復到(VJ)　「(PARENTHESISCATEGORY)　教育(Na)　應該(D)　是(SHI)　什麼(Nep)　樣(Nf)　的(DE)　理想(Na)　」(PARENTHESISCATEGORY)　

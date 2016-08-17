@@ -1,0 +1,33 @@
+　近日(Nd)　課綱(Na)　爭議(Na)　吵(VC)　的(DE)　沸沸(VH)　揚揚(Nb)　，(COMMACATEGORY)
+　全(Neqa)　台(Nc)　已(D)　有(V_2)　百餘(Neu)　所(Nf)　高中職(Nc)　發起(VC)　串連(VB)　，(COMMACATEGORY)
+　你(Nh)　還(D)　不(D)　知道(VK)　發生(VJ)　了(Di)　什麼(Nep)　事(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　我們(Nh)　邀請到(VC)　兩(Neu)　位(Nf)　老師(Na)　與(Caa)　我們(Nh)　分享(VJ)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　一同(D)　了解(VK)　課綱(Na)　議題(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　【(PARENTHESISCATEGORY)　時間(Na)　】(PARENTHESISCATEGORY)　6(Neu)　/(FW)　3(Neu)　、(PAUSECATEGORY)　6(Neu)　/(FW)　4(Neu)　，(COMMACATEGORY)
+　中午(Nd)　12(Neu)　:(COLONCATEGORY)　　20(Neu)　~(FW)　13(Neu)　:(COLONCATEGORY)　　15(Neu)　
+
+　【(PARENTHESISCATEGORY)　地點(Na)　】(PARENTHESISCATEGORY)　科教(Na)　大樓(Na)　地下室(Nc)　試聽(VC)　教室(Nc)　
+
+　【(PARENTHESISCATEGORY)　講(VE)　者(Na)　】(PARENTHESISCATEGORY)　國(Nc)　文科(Na)　林皇德(Nb)　老師(Na)　、(PAUSECATEGORY)　公民(Na)　科郭復齊(Nb)　老師(Na)　
+
+
+
+　※(FW)　主辦人(Na)　會(D)　幫(P)　當天(Nd)　參加(VC)　講座(Na)　同學(Na)　請(VF)　公假(Na)　，(COMMACATEGORY)
+　請(VF)　大家(Nh)　踴躍(VH)　參與(VC)　
+
+　※(FW)　詳(D)　請(VF)　請洽(VC)　：(COLONCATEGORY)　
+
+　302(Neu)　林謙(Nb)　：(COLONCATEGORY)　　0916518540(Neu)　
+
+　302(Neu)　趙振辰(Nb)　：(COLONCATEGORY)　　0970703921(Neu)　
+
+                     
+
+　課綱(Na)　微調(Na)　的(DE)　問題(Na)　到底(D)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+　程序(Na)　究竟(D)　有無(VJ)　黑箱(A)　作業(Na)　？(QUESTIONCATEGORY)
+　不管(Cbb)　你(Nh)　的(DE)　看法(Na)　或(Caa)　立場(Na)　為何(D)　，(COMMACATEGORY)
+　誠摯(VH)　的(DE)　邀請(VC)　各(Nes)　位(Nf)　南(Ncd)　一(Neu)　中(Ncd)　的(DE)　同學(Na)　，(COMMACATEGORY)
+　一起(D)　來(D)　參加(VC)　講座(Na)　了解(VK)　更(D)　多(VH)　資訊(Na)　！(EXCLANATIONCATEGORY)

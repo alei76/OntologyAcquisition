@@ -1,0 +1,14 @@
+　最近(Nd)　有(V_2)　許多(Neqa)　夥伴(Na)　們(Na)　及(Caa)　媒體(Na)　朋友(Na)　詢問(VE)　我們(Nh)　近期(Nd)　有沒有(D)　在(P)　教育部(Nc)　周圍(Nc)　抗議(Nv)　或是(Caa)　佔領(VC)　的(DE)　行動(Na)　？(QUESTIONCATEGORY)
+
+　特此(D)　說明(VE)　，(COMMACATEGORY)
+
+　隨著(P)　教育部(Nc)　的(DE)　回應(Nv)　和(Caa)　誠意(Na)　，(COMMACATEGORY)
+　我們(Nh)　不(D)　排除(VC)　以(P)　不同於(VJ)　現在(Nd)　的(DE)　方式(Na)　行動(Na)　，(COMMACATEGORY)
+　但(Cbb)　目前(Nd)　依然(D)　在(P)　跟(P)　各(Nes)　地(DE)　組織(Na)　串聯(VC)　、(PAUSECATEGORY)　討論(VE)　，(COMMACATEGORY)
+　尋求(VC)　共識(Na)　，(COMMACATEGORY)
+　我們(Nh)　也(D)　希望(VK)　最終(D)　跟(P)　各(Nes)　區(Nc)　能夠(D)　達成(VC)　合作(VH)　。(PERIODCATEGORY)
+
+　而(Cbb)　依(P)　目前(Nd)　的(DE)　情勢(Na)　及(Caa)　初步(A)　共識(Na)　，(COMMACATEGORY)
+　我們(Nh)　將(D)　不會(D)　在(P)　近期(Nd)　有(V_2)　類似(VG)　行動(Na)　。(PERIODCATEGORY)
+
+　最後(Nd)　謝謝(VJ)　各(Nes)　位(Nf)　的(DE)　加油(Nv)　及(Caa)　關注(Nv)　

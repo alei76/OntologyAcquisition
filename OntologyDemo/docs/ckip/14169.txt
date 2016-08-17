@@ -1,0 +1,2 @@
+　那麼多(Neqa)　文言文(Na)　，(COMMACATEGORY)
+　真的(D)　對(P)　學生(Na)　表達(VC)　能力(Na)　有(V_2)　幫助(Na)　嗎(T)　?(QUESTIONCATEGORY)

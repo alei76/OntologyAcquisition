@@ -1,0 +1,78 @@
+　很(Dfa)　小(VH)　很(Dfa)　小(VH)　的(DE)　時候(Na)　
+
+　聽(VE)　過(Di)　一(Neu)　個(Nf)　故事(Na)　
+
+　有(V_2)　個人(Nh)　，(COMMACATEGORY)
+　堅持(VK)　不(D)　流血(VA)　，(COMMACATEGORY)
+　用(P)　拒絕(VF)　購買(VC)　，(COMMACATEGORY)
+　用(P)　絕食(VA)　，(COMMACATEGORY)
+　用(P)　和平(VH)　理性(Na)　，(COMMACATEGORY)
+
+　拄(VC)　著(Di)　他(Nh)　的(DE)　拐杖(Na)　行走(VA)　在(P)　他(Nh)　流動(VA)　著(Di)　文化(Na)　和(Caa)　傳統(VH)　的(DE)　土地(Na)　上(Ncd)　。(PERIODCATEGORY)
+
+　到(P)　現在(Nd)　還(D)　記得(VK)　
+
+　他(Nh)　和(P)　他(Nh)　的(DE)　支持者(Na)　，(COMMACATEGORY)
+　因為(Cbb)　拒買(VC)　英國(Nc)　鹽(Na)　，(COMMACATEGORY)
+　幾乎(Da)　撐(VC)　不(D)　下去(VA)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　他們(Nh)　走到(VCL)　海邊(Nc)　
+
+　他(Nh)　拾起(VC)　了(Di)　他(Nh)　的(DE)　土地(Na)　
+
+　那兒(Ncd)　有(V_2)　鹽(Na)　..(ETCCATEGORY)　
+
+　那時(Nd)　太(Dfa)　小(VH)　，(COMMACATEGORY)
+　只(Da)　記得(VK)　有聲書(Na)　裡(Ncd)　人(Na)　們(Na)　的(DE)　歡呼(Na)　
+
+　然後(D)　我(Nh)　哭(VA)　了(Di)　
+
+　我(Nh)　知道(VK)　很(Dfa)　難(VH)　，(COMMACATEGORY)
+　大家(Nh)　都(D)　知道(VK)　很(Dfa)　難(VH)　
+
+　對於(P)　學生(Na)　的(DE)　質問(Nv)　，(COMMACATEGORY)
+　教育部(Nc)　迴避(VC)　
+
+　#(FW)　對於(P)　明天(Nd)　的(DE)　座談(Na)　教育部(Nc)　取消(VC)　
+
+　以後(Nd)　還(D)　會(D)　有(V_2)　更多(Neqa)　更多(Neqa)　的(DE)　人(Na)　，(COMMACATEGORY)
+　說(VE)　我們(Nh)　不(D)　理性(VH)　，(COMMACATEGORY)
+　說(VE)　我們(Nh)　被(P)　操控(VC)　，(COMMACATEGORY)
+　說(VE)　我們(Nh)　天真(VH)　，(COMMACATEGORY)
+　說(VE)　我們(Nh)　無知(VH)　，(COMMACATEGORY)
+　說(VE)　我們(Nh)　根本(D)　不(D)　懂(VK)　課綱(Na)　是(SHI)　甚麼(Nep)　就(D)　來(D)　反(VC)　課綱(Na)　，(COMMACATEGORY)
+　說(VE)　我們(Nh)　不(D)　足以(VL)　代表(Na)　慧燈(Na)　，(COMMACATEGORY)
+　不可以(D)　用(P)　這(Nep)　個(Nf)　粉絲(Na)　專頁(Na)　名稱(Na)　....(ETCCATEGORY)　
+
+　可是(Cbb)　如果(Cbb)　我們(Nh)　今天(Nd)　不(D)　站出來(VA)　
+
+　可是(Cbb)　如果(Cbb)　我們(Nh)　明天(Nd)　不(D)　站出來(VA)　
+
+　直到(P)　我們(Nh)　老(VH)　了(T)　，(COMMACATEGORY)
+　到(P)　我們(Nh)　累(VHC)　了(Di)　
+
+　或許(D)　就(D)　來不及(VH)　了(T)　
+
+　而(Cbb)　現在(Nd)　是(SHI)　我們(Nh)　的(DE)　時代(Na)　，(COMMACATEGORY)
+　老師(Na)　會(D)　老(VH)　，(COMMACATEGORY)
+　爸媽(Na)　會(D)　老(VH)　，(COMMACATEGORY)
+　將(D)　會(D)　由(P)　我們(Nh)　主導(VC)　下(Nes)　一(Neu)　個(Nf)　時代(Na)　
+
+　那(Nep)　就(D)　讓(VL)　我們(Nh)　來(D)　掌控(VC)　自己(Nh)　的(DE)　時代(Na)　
+
+　站出來(VA)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　讓(VL)　教育部(Nc)　聽到(VE)　我們(Nh)　對(P)　他(Nh)　敷衍(VC)　態度(Na)　的(DE)　怒吼(Nv)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.appledaily.com.tw/realtimenews/article/life(FW)　/(FW)　20150612(Neu)　/(FW)　628123(Neu)　/(FW)　

@@ -1,0 +1,5 @@
+　【(PARENTHESISCATEGORY)　自己(Nh)　的(DE)　課(Na)　綱(Na)　自己(Nh)　救(VC)　】(PARENTHESISCATEGORY)　
+
+　我(Nh)　要(D)　知識(Na)　，(COMMACATEGORY)
+　不要(D)　洗腦(VB)　；(SEMICOLONCATEGORY)　　我(Nh)　要(D)　程序(Na)　，(COMMACATEGORY)
+　不要(D)　黑箱(A)　。(PERIODCATEGORY)

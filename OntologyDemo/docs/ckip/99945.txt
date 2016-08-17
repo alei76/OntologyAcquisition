@@ -1,0 +1,19 @@
+　各(Nes)　位(Nf)　同學(Na)　大家(Nh)　晚安(VH)　，(COMMACATEGORY)
+　明天(Nd)　我們(Nh)　將(D)　舉辦(VC)　第一(Neu)　場(Nf)　公開(VHC)　活動(Na)　：(COLONCATEGORY)　
+
+　’(FW)　’(FW)　竹中(Nc)　街頭(Nc)　民主(Na)　教室(Nc)　－(Neu)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　你(Nh)　懂(VK)　多少(Neqa)　？(QUESTIONCATEGORY)
+　’(FW)　’(FW)　
+
+　我們(Nh)　會(D)　提及(VE)　有關於(P)　課綱(Na)　內容(Na)　爭議點(Na)　與(Caa)　程序(Na)　上(Ncd)　的(DE)　不(D)　正義(Na)　，(COMMACATEGORY)
+
+　希望(VK)　各(Nes)　位(Nf)　竹中(Nc)　公民(Na)　們(Na)　明天(Nd)　都(D)　能(D)　來(D)　明德樓(Nb)　中廊(Nc)　參與(VC)　並(D)　指教(VA)　。(PERIODCATEGORY)
+
+　明日(Nd)　我們(Nh)　會(D)　在(P)　高三(Na)　大樓(Na)　一樓處(Nc)　設置(VC)　專門(VL)　給(VD)　高三(Na)　同學(Na)　連署(VC)　的(DE)　攤位(Na)　，(COMMACATEGORY)
+　希望(VK)　今天(Nd)　來不及(D)　表達(VC)　意見(Na)　的(DE)　同學(Na)　們(Na)　可以(D)　簽署(VC)　表達(VC)　你(Nh)　的(DE)　同意(Nv)　。(PERIODCATEGORY)
+
+　一(Neu)　場(Nf)　好(VH)　的(DE)　活動(Na)　除了(P)　需要(VK)　周全(VH)　的(DE)　籌畫(Nv)　，(COMMACATEGORY)
+　更(D)　需要(VK)　很多(Neqa)　民(Na)　力量(Na)　的(DE)　參與(Nv)　，(COMMACATEGORY)
+　明天(Nd)　我們(Nh)　就(D)　相約(VA)　在(P)　明德樓(Nb)　中廊(Nc)　，(COMMACATEGORY)
+　１２(Neu)　：(COLONCATEGORY)　　１０(Neu)　，(COMMACATEGORY)
+　來(D)　一(Neu)　場(Nf)　民主(Na)　的(DE)　午餐(Na)　吧(T)　！(EXCLANATIONCATEGORY)

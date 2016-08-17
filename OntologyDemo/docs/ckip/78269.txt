@@ -1,0 +1,9 @@
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/focus/paper(FW)　/(FW)　895215(Neu)　
+
+　你(Nh)　今天(Nd)　參加(VC)　活動(Na)　了(T)　嗎(T)　？(QUESTIONCATEGORY)
+　有沒有(D)　什麼(Nep)　不(D)　一樣(VH)　的(DE)　收穫(Na)　呢(T)　？(QUESTIONCATEGORY)
+
+　感謝(VK)　各(Nes)　報社(Nc)　的(DE)　採訪(Nv)　，(COMMACATEGORY)
+　我們(Nh)　不會(D)　放棄(VC)　，(COMMACATEGORY)
+　會(D)　繼續(VF)　堅持(VK)　訴求(Na)　抗爭(VA)　下去(Di)　，(COMMACATEGORY)
+　直到(P)　教育部(Nc)　給出(VC)　讓(VL)　社會(Na)　大眾(Nh)　滿意(VK)　的(DE)　交代(Nv)　。(PERIODCATEGORY)

@@ -1,0 +1,27 @@
+　【(PARENTHESISCATEGORY)　教育部(Nc)　課綱(Na)　微調(Na)　座談會(Na)　第一(Neu)　場(Nf)　@(FW)　台中一中(Nc)　】(PARENTHESISCATEGORY)　
+
+　【(PARENTHESISCATEGORY)　台北場(Nc)　週六(Nd)　就(D)　在(P)　附中(Nc)　！(EXCLANATIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+　教育部(Nc)　為(VG)　課綱(Na)　微調(Na)　爭議(Na)　舉辦(VC)　4(Neu)　場(Nf)　座談會(Na)　，(COMMACATEGORY)
+　被(P)　外界(Ncd)　解讀(VC)　為(P)　“(FW)　滅火(VA)　”(FW)　及(Caa)　“(FW)　摸(VC)　頭(Na)　大會(Na)　”(FW)　，(COMMACATEGORY)
+　昨日(Nd)　首(Nes)　場(Nf)　於(P)　台中一中(Nc)　舉行(VC)　，(COMMACATEGORY)
+　來自(VJ)　中區(Nc)　超過(VJ)　20(Neu)　校(Nc)　600多(Neu)　名(Nf)　學生(Na)　擠爆(VC)　會場(Nc)　，(COMMACATEGORY)
+　甚至(D)　開(VC)　第二(Neu)　現場(Nc)　供(VF)　學生(Na)　入席(VA)　
+
+　為時(VJ)　兩(Neu)　小時(Na)　的(DE)　座談會(Na)　，(COMMACATEGORY)
+　教育部長(Na)　吳思華(Nb)　未(D)　針對(P)　學生(Na)　的(DE)　問題(Na)　正面(Na)　回應(Nv)　，(COMMACATEGORY)
+　甚至(D)　表示(VE)　課綱(Na)　微調(Na)　程序(Na)　問題(Na)　為(VG)　前任(A)　部長(Na)　所(D)　為(VG)　，(COMMACATEGORY)
+　迴避(VC)　責任(Na)　，(COMMACATEGORY)
+　引起(VC)　學生(Na)　不滿(Nv)　，(COMMACATEGORY)
+　不(D)　排除(VC)　以(P)　更(D)　激烈(VH)　的(DE)　方式(Na)　行動(Na)　
+
+
+
+　座談會(Na)　台北場(Nc)　於(P)　
+
+　6(Neu)　/(FW)　13(Neu)　（(PARENTHESISCATEGORY)　六(Neu)　）(PARENTHESISCATEGORY)　15(Neu)　：(COLONCATEGORY)　　30(Neu)　師大附中(Nc)　樂教館(Nc)　
+
+　就(D)　在(P)　我們(Nh)　附中(Nc)　了(T)　，(COMMACATEGORY)
+　無論(Cbb)　同學(Na)　支持(Nv)　或(Caa)　反對(Nv)　微調(Na)　課綱(Na)　，(COMMACATEGORY)
+　都(D)　希望(VK)　大家(Nh)　能(D)　到場(VA)　聆聽(VC)　教育部(Nc)　與(Caa)　學生(Na)　的(DE)　說法(Na)　

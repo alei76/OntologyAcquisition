@@ -1,0 +1,45 @@
+　【(PARENTHESISCATEGORY)　召集令(Na)　】(PARENTHESISCATEGORY)　
+
+　南部(Ncd)　高中(Nc)　大(VH)　集結(VAC)　，(COMMACATEGORY)
+　共同(A)　串聯(VC)　反(VC)　黑箱(A)　課綱(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　台南(Nc)　地區(Nc)　：(COLONCATEGORY)　
+
+　南蠻(Na)　．(PERIODCATEGORY)　記憶(Na)　歷史(Na)　((PARENTHESISCATEGORY)　台南(Nc)　女中(Nc)　)(PARENTHESISCATEGORY)
+
+　我(Nh)　在(P)　竹園(Nc)　岡(b)　我(Nh)　反對(VE)　黑箱(A)　課綱(Na)　((PARENTHESISCATEGORY)　台南(Nc)　一(Neu)　中(Ncd)　)(PARENTHESISCATEGORY)　
+
+　本(Nes)　專頁(Na)　
+
+　反(VC)　黑箱(A)　課綱(Na)　台(Nc)　南二中(Nc)　挺起來(VA)　
+
+　反(VC)　黑箱(A)　課綱(Na)　德光(Nd)　學生(Na)　站出來(VA)　
+
+　反(VC)　黑箱(A)　課綱(Na)　光華(Na)　高中(Nc)　站出來(VA)　
+
+　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　港明(Nb)　高中(Nc)　站出來(VA)　
+
+　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　善化(Nc)　高中(Nc)　站出來(VA)　
+
+　我(Nh)　在(P)　新化(Nc)　高中(Nc)　我(Nh)　反(VC)　黑箱(A)　課綱(Na)　
+
+　反(VC)　黑箱(A)　課綱(Na)　新營(Nc)　高中(Nc)　站出來(VA)　
+
+　反對(VE)　黑箱(A)　課綱(Na)　黎明(Nd)　中學(Nc)　不(D)　缺席(VH)　，(COMMACATEGORY)
+　黎明人(Na)　站出來(VA)　
+
+　反(VC)　黑箱(A)　課綱(Na)　曾文(Nb)　家商(Nc)　站出來(VA)　
+
+　反對(VE)　黑箱(A)　課綱(Na)　長榮(Nb)　中學(Nc)　站出來(VA)　
+
+　我(Nh)　是(SHI)　北(Ncd)　中(Ncd)　人(Na)　，(COMMACATEGORY)
+　我(Nh)　反(VC)　黑箱(A)　課綱(Na)　
+
+　我(Nh)　是(SHI)　南附(VC)　人(Na)　我(Nh)　反(VC)　黑箱(A)　課綱(Na)　
+
+　歡迎(VJ)　有(V_2)　共同(A)　目標(Na)　的(DE)　台南(Nc)　學校(Nc)　私訊(Na)　本(Nes)　專頁(Na)　，(COMMACATEGORY)
+　共同(A)　串聯(VC)　！(EXCLANATIONCATEGORY)

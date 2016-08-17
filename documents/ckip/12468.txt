@@ -1,0 +1,10 @@
+　親民黨(Nb)　主席(Na)　宋楚瑜(Nb)　立場(Na)　偏向(VL)　統一(VHC)　，(COMMACATEGORY)
+　對於(P)　史觀(Na)　改變(VC)　部分(Neqa)　並未(D)　予以(D)　譴責(VC)　，(COMMACATEGORY)
+　但(Cbb)　仍然(D)　對(P)　程序(Na)　與(Caa)　專業性(Na)　不足(VH)　的(DE)　問題(Na)　作出(VC)　批評(Na)　。(PERIODCATEGORY)
+
+　「(PARENTHESISCATEGORY)　『(PARENTHESISCATEGORY)　我(Nh)　從(P)　六(Neu)　、(PAUSECATEGORY)　七(Neu)　歲(Nf)　來(VA)　台(Nc)　至今(D)　，(COMMACATEGORY)
+　從(P)　沒有(VJ)　看過(VC)　高中生(Na)　這樣(VH)　的(DE)　串聯(Nv)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　非常(Dfa)　嚴肅(VH)　且(Cbb)　必須(D)　重視(VJ)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+　』(PARENTHESISCATEGORY)　親民黨(Nb)　主席(Na)　宋楚瑜(Nb)　前晚(Nd)　接受(VC)　政論(Na)　節目(Na)　專訪(Nv)　時(Ng)　，(COMMACATEGORY)
+　對於(P)　兩百多(Neu)　所(Nf)　高中(Nc)　學生(Na)　群起(D)　抗議(VE)　黑箱(A)　課綱(Na)　事件(Na)　提出(VC)　警告(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　

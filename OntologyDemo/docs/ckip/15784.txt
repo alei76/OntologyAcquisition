@@ -1,0 +1,22 @@
+　訊息(Na)　代貼(VC)　
+
+
+
+　永社(Nc)　由(P)　義務(Na)　律師團(Na)　黃帝(Nb)　穎(b)　律師(Na)　、(PAUSECATEGORY)　陳敬人(Nb)　律師(Na)　代表(Na)　，(COMMACATEGORY)
+　會同(VC)　臺(Nc)　左(Ncd)　維新(VA)　代表(VC)　公民(Na)　教師(Na)　林威皓(Nb)　及(Caa)　台灣(Nc)　教授(Na)　協會(Nc)　、(PAUSECATEGORY)　公民(Na)　與(Caa)　法治(Na)　教育(Na)　基金會(Nc)　等(Cab)　聲援(Nv)　團體(Na)　，(COMMACATEGORY)
+　由(P)　黃帝(Nb)　穎(b)　律師(Na)　及(Caa)　台灣(Nc)　教授(Na)　協會(Nc)　擔任(VG)　檢舉人(Na)　，(COMMACATEGORY)
+　4月(Nd)　23日(Nd)　週四(Nd)　上午(Nd)　10(Neu)　:(COLONCATEGORY)　　30(Neu)　赴(VCL)　監察院(Nc)　具(VJ)　狀(Na)　檢舉(VC)　「(PARENTHESISCATEGORY)　台北(Nc)　地檢署(Nc)　包庇(VC)　教育部(Nc)　，(COMMACATEGORY)
+　濫權(VH)　簽結蔣偉寧(Nb)　偽造(VC)　文書案(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　呼籲(VE)　監察院(Nc)　彈劾(VC)　楊治宇(Nb)　檢察長(Na)　及(Caa)　承辦(Nv)　檢察官(Na)　。(PERIODCATEGORY)
+
+
+
+　記者會(Na)　訊息(Na)　如下(VK)　，(COMMACATEGORY)
+　煩請(VF)　分享(VJ)　，(COMMACATEGORY)
+　非常(Dfa)　感謝(VK)　！(EXCLANATIONCATEGORY)
+
+
+
+　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.facebook.com/taiwanforever2012/photos/a(FW)　.(PERIODCATEGORY)　397477603669104.9(Neu)　4139.369149116501(Neu)
+　953(Neu)　/(FW)　805419246208269(Neu)　/(FW)　?(QUESTIONCATEGORY)
+　type(FW)　=(FW)　1(Neu)　

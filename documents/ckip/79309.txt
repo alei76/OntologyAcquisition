@@ -1,0 +1,8 @@
+　7(Neu)　/(FW)　5(Neu)　下午(Nd)　三(Neu)　點將(Nb)　在(P)　教育部(Nc)　旁(Ncd)　遊行(VA)　!(EXCLANATIONCATEGORY)
+　希望(VK)　大家(Nh)　踴躍(VH)　參加(VC)　。(PERIODCATEGORY)
+
+　馬(Na)　政府(Na)　，(COMMACATEGORY)
+　請(VF)　不要(D)　再(D)　把(P)　人民(Na)　的(DE)　聲音(Na)　用(P)　拒馬(Na)　、(PAUSECATEGORY)　用(VC)　鐵門(Na)　阻擋(VC)　在(P)　外(Ncd)　，(COMMACATEGORY)
+　如果(Cbb)　民怨(Na)　潰堤(VA)　，(COMMACATEGORY)
+　會(D)　發生(VJ)　什麼(Nep)　事(Na)　，(COMMACATEGORY)
+　是(SHI)　很(Dfa)　難(VH)　想像(VK)　的(T)　。(PERIODCATEGORY)

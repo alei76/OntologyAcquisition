@@ -1,0 +1,2 @@
+　看到(VE)　沒有(T)　？(QUESTIONCATEGORY)
+　教育部(Nc)　的(DE)　胡亂(D)　作為(VG)　連(Nb)　【(PARENTHESISCATEGORY)　華僑(Na)　高中(Nc)　】(PARENTHESISCATEGORY)　都(D)　看(VC)　不(D)　下去(VA)　了(Di)　！(EXCLANATIONCATEGORY)

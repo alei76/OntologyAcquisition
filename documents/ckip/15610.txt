@@ -1,0 +1,20 @@
+　學生(Na)　強調(VE)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　是(SHI)　！(EXCLANATIONCATEGORY)
+　我們(Nh)　在乎(VK)　學(VC)　測(VC)　，(COMMACATEGORY)
+　但是(Cbb)　我們(Nh)　認為(VE)　讀書(VA)　不用(D)　讀(VC)　得(DE)　這麼(Dfa)　沒骨氣(VH)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　學生(Na)　說(VE)　，(COMMACATEGORY)
+　程序(Na)　錯(VH)　了(T)　就(D)　是(SHI)　錯(VH)　了(T)　，(COMMACATEGORY)
+　隨之(D)　生成(VH)　的(DE)　課本(Na)　也(D)　沒有(D)　選擇(VC)　的(DE)　必要(Na)　。(PERIODCATEGORY)
+　教育部(Nc)　公文(Na)　內(Ncd)　一再(D)　指出(VE)　他們(Nh)　的(DE)　程序(Na)　完全(D)　合法(VH)　合理(VH)　，(COMMACATEGORY)
+　但(Cbb)　錯誤(VH)　的(DE)　證據(Na)　確鑿(VH)　，(COMMACATEGORY)
+　不過(Cbb)　仍(D)　發下(VC)　了(Di)　「(PARENTHESISCATEGORY)　最(Dfa)　速(VH)　件(Nf)　」(PARENTHESISCATEGORY)　公文(Na)　給(VD)　老師(Na)　造成(VG)　壓力(Na)　，(COMMACATEGORY)
+　完全(D)　否定(VC)　了(Di)　舊(VH)　課綱(Na)　。(PERIODCATEGORY)
+
+
+
+　學生(Na)　表示(VE)　，(COMMACATEGORY)
+　當今(Nd)　政府(Na)　運用(VC)　了(Di)　許多(Neqa)　黑箱(A)　的(DE)　手段(Na)　強推(Na)　政策(Na)　，(COMMACATEGORY)
+　如(P)　前(Nes)　陣子(Nd)　的(DE)　服貿(Na)　，(COMMACATEGORY)
+　再(D)　加上(VC)　這(Nep)　次(Nf)　的(DE)　課(Na)　綱(Na)　等等(Cab)　。(PERIODCATEGORY)
+　如果(Cbb)　這(Nep)　次(Nf)　再(D)　被(P)　強行(D)　通過(VC)　了(Di)　，(COMMACATEGORY)
+　難保(D)　政府(Na)　不會(D)　有(V_2)　更(D)　令(VL)　人(Na)　失望(VH)　的(DE)　作為(Na)　。(PERIODCATEGORY)

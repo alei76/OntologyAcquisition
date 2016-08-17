@@ -1,0 +1,58 @@
+　時代(Na)　其實(D)　就(D)　是(SHI)　現在(Nd)　。(PERIODCATEGORY)
+
+
+
+　羅冠聰(Nb)　表示(VE)　，(COMMACATEGORY)
+　香港(Nc)　大學(Nc)　的(DE)　學生會(Na)　在(P)　社會(Na)　運動(Na)　上(Ncd)　有(V_2)　較(Dfa)　高(VH)　抱負(Na)　，(COMMACATEGORY)
+　而(Cbb)　香港(Nc)　歷經(VJ)　九七(Neu)　主權(Na)　移交(VD)　，(COMMACATEGORY)
+　歷經(VJ)　30(Neu)　年(Nf)　民主(Na)　卻(D)　發現(VE)　「(PARENTHESISCATEGORY)　開放(VC)　中國(Nc)　」(PARENTHESISCATEGORY)　的(DE)　想像(Na)　不(D)　存在(VA)　，(COMMACATEGORY)
+　開始(VL)　期待(VK)　新生代(Na)　力量(Na)　，(COMMACATEGORY)
+　而(Cbb)　學生(Na)　運動(Na)　某(Nes)　種(Nf)　程度(Na)　是(SHI)　機運(Na)　、(PAUSECATEGORY)　歷史(Na)　的(DE)　偶然(VH)　，(COMMACATEGORY)
+　因(Cbb)　中產階級(Na)　對(P)　學生(Na)　形象(Na)　正面(Na)　，(COMMACATEGORY)
+　也(D)　有(V_2)　強烈(VH)　加持(VC)　。(PERIODCATEGORY)
+　而(Cbb)　去年(Nd)　雨傘(Na)　運動(Na)　中(Ng)　，(COMMACATEGORY)
+　大學生(Na)　率先(D)　發起(VC)　罷課(VH)　，(COMMACATEGORY)
+　而後(D)　中學生(Na)　也(D)　加入(VC)　，(COMMACATEGORY)
+　大學生(Na)　罷課(VH)　第一(Neu)　天(Nf)　就(D)　聚集(VAC)　1萬3千多(Neu)　名(Nf)　大學生(Na)　，(COMMACATEGORY)
+　而(Cbb)　香港(Nc)　所有(Neqa)　大學生(Na)　總數(Na)　才(Da)　8萬多(Neu)　人(Na)　，(COMMACATEGORY)
+　讓(VL)　港(Nc)　人(Na)　看見(VE)　學生(Na)　力量(Na)　，(COMMACATEGORY)
+　進而(Cbb)　促成(VK)　後續(A)　的(DE)　佔領(Nv)　中環(Nc)　行動(Na)　。(PERIODCATEGORY)
+
+
+
+　而(Cbb)　香港(Nc)　教育局(Nc)　曾(D)　想(VE)　用(P)　教科書(Na)　灌輸(VD)　民族(Na)　主義(Na)　，(COMMACATEGORY)
+　引起(VC)　2012年(Nd)　全民(Na)　反(D)　洗腦(VB)　的(DE)　「(PARENTHESISCATEGORY)　反(VC)　國教(Na)　大(VH)　遊行(VA)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　而(Cbb)　該(Nes)　運動(Na)　幕後(Nc)　推手(VA)　之(DE)　一(Neu)　，(COMMACATEGORY)
+　就是(Cbb)　由(P)　中學生(Na)　組成(VG)　的(DE)　學民(Na)　思潮(Na)　組織(Na)　，(COMMACATEGORY)
+　鍾禮謙(Nb)　認為(VE)　，(COMMACATEGORY)
+　反(VC)　國教(Na)　的(DE)　背後(Nc)　，(COMMACATEGORY)
+　是(SHI)　官員(Na)　的(DE)　政治(Na)　問題(Na)　，(COMMACATEGORY)
+　且(Cbb)　香港(Nc)　不(D)　是(SHI)　透過(P)　普選(Na)　選出來(VC)　的(DE)　政府(Na)　，(COMMACATEGORY)
+　不需(D)　向(P)　700萬(Neu)　港(Nc)　人(Na)　負責(VL)　，(COMMACATEGORY)
+　而(Cbb)　香港(Nc)　社會(Na)　對(P)　中學生(Na)　很(Dfa)　單純(VH)　，(COMMACATEGORY)
+　也(D)　認為(VE)　政治(Na)　事情(Na)　很(Dfa)　髒(VH)　，(COMMACATEGORY)
+　中學生(Na)　不(D)　應(D)　去(D)　干擾(VC)　或(Caa)　接觸(Nv)　，(COMMACATEGORY)
+　甚至(D)　有(V_2)　學生(Na)　的(DE)　家人(Na)　「(PARENTHESISCATEGORY)　親(VJ)　北京(Nc)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　認為(VE)　民主(Na)　不(D)　重要(VH)　，(COMMACATEGORY)
+　故(Cbb)　中學生(Na)　參與(VC)　運動(Na)　的(DE)　壓力(Na)　非常(Dfa)　大(VH)　。(PERIODCATEGORY)
+
+
+
+　張秀賢(Nb)　則(D)　認為(VE)　，(COMMACATEGORY)
+　在(P)　反(VC)　國教(Na)　運動(Na)　中(Ng)　，(COMMACATEGORY)
+　對(P)　自己(Nh)　影響(VC)　最(Dfa)　大(VH)　，(COMMACATEGORY)
+　是(SHI)　要(D)　認清(VK)　對手(Na)　，(COMMACATEGORY)
+　了解(VK)　整(Neqa)　個(Nf)　制度(Na)　裡(Ng)　，(COMMACATEGORY)
+　誰(Nh)　才(Da)　是(SHI)　大哥(Na)　，(COMMACATEGORY)
+　如果(Cbb)　牢牢(VH)　掌握(VC)　大哥(Na)　可能(D)　得到(VJ)　成功(VH)　機會(Na)　比較(Dfa)　多(VH)　，(COMMACATEGORY)
+　特別(VH)　整(Neqa)　個(Nf)　教育(Na)　制度(Na)　學生(Na)　沒有(VJ)　話語權(Na)　，(COMMACATEGORY)
+　而(Cbb)　當初(Nd)　在(P)　反(VC)　國教(Na)　時(Ng)　，(COMMACATEGORY)
+　便(D)　徹底(VH)　研究(Nv)　國教(Na)　進(VCL)　上百(Neu)　頁(Nf)　文件(Na)　，(COMMACATEGORY)
+　察覺(VK)　裡面(Ncd)　有(V_2)　何(Nes)　問題(Na)　，(COMMACATEGORY)
+　最後(Nd)　鎖定(VC)　運動(Na)　目標(Na)　是(SHI)　「(PARENTHESISCATEGORY)　撤回(VC)　國教(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　讓(VL)　論述(Na)　只(Da)　有(V_2)　一(Neu)　個(Nf)　，(COMMACATEGORY)
+　沒有(VJ)　其他(Neqa)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1386628(Neu)　

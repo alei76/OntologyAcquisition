@@ -1,0 +1,7 @@
+　時間(Na)　：(COLONCATEGORY)　　六月(Nd)　十三日(Nd)　星期六(Nd)　下午(Nd)　15(Neu)　:(COLONCATEGORY)　　30(Neu)　~(FW)　17(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　地點(Na)　：(COLONCATEGORY)　　師大附中(Nc)　中(Ncd)　樂教館(Nc)　抗議(VE)　吳思華(Nb)　黑箱(A)　部長(Na)　
+
+　我們(Nh)　希望(VK)　能夠(D)　串連(VC)　全(Neqa)　台(Nc)　高中(Nc)　團體(Na)　以及(Caa)　學運(Na)　團體(Na)　一起(D)　參與(VC)　此(Nep)　活動(Na)　
+
+　集合(VAC)　時間(Na)　下午(Nd)　三點鐘(Nd)　於(P)　師大附中(Nc)　門口(Nc)　集合(VAC)　

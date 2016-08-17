@@ -1,0 +1,30 @@
+　【(PARENTHESISCATEGORY)　會議(Na)　】(PARENTHESISCATEGORY)　
+
+
+
+　今日(Nd)　在(P)　博學(VH)　講堂(Nc)　的(DE)　座談會(Na)　，(COMMACATEGORY)
+　部長(Na)　又(D)　令(VL)　我們(Nh)　失望(VH)　了(Di)　一(Neu)　次(Nf)　。(PERIODCATEGORY)
+
+
+
+　中區(Nc)　聯(Na)　的(DE)　伙伴(Na)　參加(VC)　會議(Na)　時(D)　有(V_2)　提到(VE)　幾(Neu)　個(Nf)　我(Nh)　認為(VE)　蠻(Dfa)　重要(VH)　的(DE)　點(Na)　。(PERIODCATEGORY)
+
+　１不(Nd)　讓(VL)　高職(Nc)　生(VC)　提問(VC)　
+
+　２(Neu)　不(D)　開放(VC)　高(VH)　一(Neu)　到(P)　高三(Na)　以外(Ng)　的(DE)　學生(Na)　入場(VA)　
+
+　３(Neu)　只(Nf)　針對(P)　程序(Na)　正義(Na)　的(DE)　部分(Neqa)　做(VC)　回應(Nv)　，(COMMACATEGORY)
+　忽略(VJ)　課綱(Na)　本身(Nh)　的(DE)　史觀(Na)　問題(Na)　
+
+　對(P)　此(Nep)　，(COMMACATEGORY)
+　中區(Nc)　聯(Na)　的(DE)　學子(Na)　們(Na)　，(COMMACATEGORY)
+　還(D)　能(D)　坐視(VE)　不(D)　管(VE)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　/(FW)　
+
+　這(Nep)　星期五(Nd)　，(COMMACATEGORY)
+　本(Nes)　區(Nc)　((PARENTHESISCATEGORY)　衛曉(Nb)　及(Caa)　中二中(Nb)　)(PARENTHESISCATEGORY)　的(DE)　演講(Na)　於(P)　台(Nc)　中二中(Nb)　舉行(VC)　，(COMMACATEGORY)
+　有(V_2)　時間(Na)　的(DE)　大家(Nh)　都(D)　可(D)　前往(VCL)　，(COMMACATEGORY)
+　了解(VK)　我們(Nh)　正在(D)　做(VC)　些(Dfb)　什麼(Nep)　。(PERIODCATEGORY)

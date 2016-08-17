@@ -1,0 +1,225 @@
+　目前(Nd)　有(V_2)　140(Neu)　幾(Neu)　所(Nf)　高中職(Nc)　出來(VA)　響應(VC)　了(Di)　呦(b)　
+
+　為了(P)　自己(Nh)　的(DE)　未來(Nd)　為了(P)　學弟妹(Na)　們(Na)　#(FW)　自己(Nh)　的(DE)　課綱(Na)　自己(Nh)　救(VC)　#(FW)　反(VC)　黑箱(A)　課綱(Na)　
+
+　整理(VC)　目前(Nd)　學校(Nc)　名單(Na)　如下(VK)　：(COLONCATEGORY)　
+
+
+
+　【(PARENTHESISCATEGORY)　北市(Nc)　】(PARENTHESISCATEGORY)　
+
+　建國(VA)　高中(Nc)　我們(Nh)　反(VC)　黑箱(A)　課綱(Na)　建中(Nc)　學生(Na)　站出來(VA)　
+
+　士林(Nc)　高商(Nc)　反(VC)　黑箱(A)　課綱(Na)　士商(Nc)　學生(Na)　站出來(VA)　
+
+　萬芳(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　萬芳(Nc)　高中(Nc)　.(PERIODCATEGORY)　國中(Nc)　-(DASHCATEGORY)　站出來(VA)
+
+　大安(Nc)　高工(Nc)　反(VC)　黑箱(A)　課綱(Na)　大安(Nc)　高工(Nc)　站出來(VA)　
+
+　景美(Nc)　女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　景美(Nc)　女中(Nc)　站出來(VA)　
+
+　大同(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　市立(A)　大同(Nb)　高中(Nc)　
+
+　北一女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　北一(Nb)　學生(Na)　站出來(VA)　
+
+　政大(Nc)　附中(Nc)　反(VC)　黑箱(A)　課綱(Na)　政附(VC)　學生(Na)　站出來(VA)　
+
+　松山(Nc)　工農(Na)　反(VC)　黑箱(A)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　松山(Nc)　工農(Na)　不(D)　缺席(VH)　
+
+　大直(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　大直(Nc)　學生(Na)　站起來(VA)　
+
+　育成(VG)　高中(Nc)　育成(VG)　高中(Nc)　反(VC)　黑箱(A)　洗腦(Nv)　課綱(Na)　
+
+　華江(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　華江(Nc)　高中(Nc)　站出來(VA)　
+
+　師大附中(Nc)　我(Nh)　是(SHI)　附中人(Na)　，(COMMACATEGORY)
+　我(Nh)　反(VC)　黑箱(A)　課綱(Na)　
+
+　中山(Nb)　工商(Na)　反(VC)　黑箱(A)　課綱(Na)　中山(Nb)　工商(Na)　站出來(VA)　
+
+　淡水(Nc)　商工(Nc)　反(VC)　黑箱(A)　課綱(Na)　淡水(Nc)　商工(Nc)　
+
+　台(Nc)　師大(Nc)　反(VC)　黑箱(A)　課綱(Na)　台(Nc)　師大(Nc)　學生(Na)　不(D)　缺席(VH)　
+
+　東山(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　東山(Nc)　高中(Nc)　站出來(VA)　
+
+　中山(Nb)　女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　中山(Nb)　女(Na)　高(VH)　站出來(VA)　
+
+　【(PARENTHESISCATEGORY)　新北(Nc)　】(PARENTHESISCATEGORY)　
+
+　中和(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　中和(Nc)　高中(Nc)　站出來(VA)　
+
+　三民(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　三民(Nc)　高中(Nc)　站出來(VA)　
+
+　淡江(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　淡江(Nb)　高中(Nc)　不(D)　缺席(VH)　
+
+　板橋(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　板橋(Nc)　高中(Nc)　不(D)　缺席(VH)　
+
+　秀峰(Na)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　秀峰(Na)　高中(Nc)　站出來(VA)　
+
+　徐匯(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　徐匯(Nc)　中學(Nc)　站出來(VA)　
+
+　新(VH)　北(Ncd)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　我(Nh)　是(SHI)　新(VH)　北(Ncd)　高中(Nc)　
+
+　華僑(Na)　高中(Nc)　反(VC)　洗腦(Nv)　黑箱(A)　課綱(Na)　華僑(Na)　高中(Nc)　
+
+　復興(Nc)　高工(Nc)　反(VC)　黑箱(A)　課綱(Na)　復興(VC)　商工(Nc)　站出來(VA)　
+
+　【(PARENTHESISCATEGORY)　桃園(Nc)　】(PARENTHESISCATEGORY)　
+
+　武陵(Nc)　高中(Nc)　昂首闊步(VA)　反(VC)　課綱(Na)　微調(Na)　
+
+　中壢(Nc)　高中(Nc)　做(VC)　一流人(Na)　，(COMMACATEGORY)
+　還(D)　我(Nh)　一流(VH)　書(Na)　我(Nh)　反對(VE)　課綱(Na)　微調(Na)　
+
+　內壢(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　我(Nh)　是(SHI)　內(Ncd)　高人(Na)　
+
+　大溪(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　大溪(Nc)　高中(Nc)　
+
+　【(PARENTHESISCATEGORY)　新竹(Nc)　】(PARENTHESISCATEGORY)　
+
+　新竹(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　竹中(Nc)　學生(Na)　站起來(VA)　
+
+　竹北(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　竹北(Nc)　高中(Nc)　
+
+　竹東(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　竹東(Nc)　高中(Nc)　
+
+　成德(VH)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　成德(VH)　高中(Nc)　
+
+　建功(VA)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　建功(VA)　學生(Na)　站起來(VA)　
+
+　【(PARENTHESISCATEGORY)　苗栗(Nc)　】(PARENTHESISCATEGORY)　
+
+　竹南(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　竹南(Nc)　高中(Nc)　站出來(VA)　
+
+　苗栗(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　苗栗(Nc)　高中(Nc)　
+
+　興華(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　興華(Nb)　高中(Nc)　
+
+　國立(A)　苑裡(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　國苑(Nc)　站出來(VA)　！(EXCLANATIONCATEGORY)
+
+　【(PARENTHESISCATEGORY)　臺中(Nc)　】(PARENTHESISCATEGORY)　
+
+　台中一中(Nc)　蘋果樹(Na)　公社(Nc)　
+
+　臺中(Nc)　二中(Nb)　反(VC)　黑箱(A)　課綱(Na)　台中(Nc)　二中(Nb)　
+
+　西苑(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　台中(Nc)　市立(A)　西苑(Nc)　高中(Nc)　站出來(VA)　
+
+　慈明(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　慈明(Nb)　高中(Nc)　不(D)　缺席(VH)　
+
+　興大(Nc)　附中(Nc)　反(VC)　黑箱(A)　課綱(Na)　興大(Nc)　附中(Nc)　站出來(VA)　
+
+　大里(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　市立(A)　大里(Nc)　高中(Nc)　
+
+　東山(Nc)　高中(Nc)　我(Nh)　是(SHI)　東山(Nc)　人(Na)　我(Nh)　反對(VE)　黑箱(A)　課綱(Na)　
+
+　文華(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　文華(Nb)　高中(Nc)　站出來(VA)　
+
+　東山(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　臺中(Nc)　東山(Nc)　高中(Nc)　
+
+　【(PARENTHESISCATEGORY)　彰化(Nc)　】(PARENTHESISCATEGORY)　
+
+　彰化(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　彰(VH)　中學生(Na)　站出來(VA)　
+
+　溪湖(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　溪湖(Nc)　高中(Nc)　站出來(VA)　
+
+　鹿港(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　鹿高(Nc)　站出來(VA)　
+
+　精誠(Na)　中學(Nc)　反(VC)　黑箱(A)　課綱(Na)　精誠(Na)　中學(Nc)　站出來(VA)　
+
+　文興(Nb)　高中(Nc)　我們(Nh)　反(VC)　黑箱(A)　課綱(Na)　文興(Nb)　學生(Na)　站出來(VA)　
+
+　【(PARENTHESISCATEGORY)　雲林(Nc)　】(PARENTHESISCATEGORY)　
+
+　虎尾(Nc)　高中(Nc)　反(VC)　洗腦(Nv)　課綱(Na)　虎尾(Nc)　高中(Nc)　站出來(VA)　
+
+　斗六(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　斗高讚(Nb)　出來(VA)　
+
+　【(PARENTHESISCATEGORY)　嘉義(Nc)　】(PARENTHESISCATEGORY)　
+
+　嘉義(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　嘉(Nc)　中(Ncd)　不(D)　缺席(VH)　
+
+　東石(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　我(Nh)　在(P)　東石(Nc)　高中(Nc)　
+
+　【(PARENTHESISCATEGORY)　臺南(Nc)　】(PARENTHESISCATEGORY)　
+
+　光華(Na)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　光華(Na)　高中(Nc)　站出來(VA)　
+
+　興(VC)　國高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　我(Nh)　是(SHI)　興國(VA)　人(Na)　我(Nh)　有(V_2)　骨氣(Na)　
+
+　臺(Nc)　南二中(Nc)　反(VC)　黑箱(A)　課綱(Na)　台(Nc)　南二中(Nc)　挺起來(VA)　
+
+　臺南一中(Nc)　我(Nh)　在(P)　竹園(Nc)　岡(b)　我(Nh)　反對(VE)　黑箱(A)　課綱(Na)　
+
+　家齊(VH)　女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　家齊(VH)　女中(Nc)　站出來(VA)　
+
+　台南(Nc)　女中(Nc)　南蠻(Na)　．(PERIODCATEGORY)　記憶(Na)　歷史(Na)
+
+　安康(VH)　高中(Nc)　反(VC)　黑箱課(Na)　缸(Na)　安康(VH)　高中(Nc)　在(P)　＜(FW)　U+9B9F＞＜U+9C(FW)　47(Neu)　＞(FW)　肝(Na)　中(Ng)　
+
+　【(PARENTHESISCATEGORY)　高雄(Nc)　】(PARENTHESISCATEGORY)　
+
+　新莊(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　高雄(Nc)　新莊(Nc)　高中(Nc)　
+
+　楠梓(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　微調(Na)　高雄市(Nc)　楠梓(Nc)　高中(Nc)　
+
+　中正(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　高雄(Nc)　中正(Nb)　高中(Nc)　
+
+　前鎮(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　前鎮(Nc)　高中(Nc)　站出來(VA)　
+
+　高雄(Nc)　女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　雄女(Nc)　站出來(VA)　
+
+　左營(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　高雄(Nc)　左營(Nc)　高中(Nc)　
+
+　高雄(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　雄中(Nc)　站出來(VA)　
+
+　小港(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　小港(Nc)　高中(Nc)　站出來(VA)　
+
+　道明(Nb)　高中(Nc)　道明(Nb)　中學(Nc)　畢業生(Na)　反(VC)　黑箱(A)　課綱(Na)　
+
+　中山(Nb)　附中(Nc)　反(VC)　黑箱(A)　課綱(Na)　中山(Nb)　大(VH)　附中(Nc)　站出來(VA)　
+
+　鳳新(Nb)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　鳳新(Nb)　站出來(VA)　
+
+　高(VH)　師大附中(Nc)　反(VC)　黑箱(A)　課綱(Na)　！(EXCLANATIONCATEGORY)
+　高(VH)　師大附中(Nc)　站出來(VA)　！(EXCLANATIONCATEGORY)
+
+　【(PARENTHESISCATEGORY)　屏東(Nc)　】(PARENTHESISCATEGORY)　
+
+　屏東(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　屏東(Nc)　高中(Nc)　站出來(VA)　
+
+　屏榮(Nc)　高中(Nc)　屏榮(Nc)　高中(Nc)　反(VC)　洗腦(Nv)　課綱(Na)　
+
+　【(PARENTHESISCATEGORY)　宜蘭(Nc)　】(PARENTHESISCATEGORY)　
+
+　宜蘭(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　宜蘭(Nc)　高中(Nc)　站出來(VA)　
+
+　蘭陽(Nc)　女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　蘭陽(Nc)　女中(Nc)　站出來(VA)　
+
+　羅東(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　羅東(Nc)　高中(Nc)　站出來(VA)　
+
+　宜蘭(Nc)　高商(Nc)　反(VC)　黑箱(A)　課綱(Na)　宜蘭(Nc)　高商(Nc)　站出來(VA)　
+
+　羅東(Nc)　高工(Nc)　反(VC)　黑箱(A)　課綱(Na)　羅東(Nc)　高工(Nc)　站出來(VA)　
+
+　蘇澳(Nc)　海事(Na)　反(VC)　黑箱(A)　課綱(Na)　蘇澳(Nc)　海事(Na)　站出來(VA)　
+
+　【(PARENTHESISCATEGORY)　臺東(Nc)　】(PARENTHESISCATEGORY)　
+
+　臺東(Nc)　女中(Nc)　反(VC)　黑箱(A)　課綱(Na)　台東(Nc)　女中(Nc)　站出來(VA)　
+
+　【(PARENTHESISCATEGORY)　澎湖(Nc)　】(PARENTHESISCATEGORY)　
+
+　馬公(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　馬高(Nb)　學生(Na)　站出來(VA)　
+
+　馬公(Nc)　高中(Nc)　反(VC)　黑箱(A)　課綱(Na)　馬公(Nc)　高中(Nc)　
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1334795(Neu)　

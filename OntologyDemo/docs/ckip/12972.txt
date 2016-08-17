@@ -1,0 +1,17 @@
+　【(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　建中(Nc)　發起(VC)　校(Nc)　內(Ncd)　串聯(VC)　】(PARENTHESISCATEGORY)　
+
+　今日(Nd)　多(Neqa)　家(Nf)　媒體(Na)　記者(Na)　來(D)　進行(VC)　採訪(Nv)　，(COMMACATEGORY)
+　希望(VK)　可以(D)　讓(VL)　更多(Neqa)　同學(Na)　可以(D)　關注(VJ)　到(P)　這(Nep)　項(Nf)　議題(Na)　，(COMMACATEGORY)
+　班聯會(Nc)　也(D)　會(D)　在(P)　近日(Nd)　討論(VE)　如何(D)　在校(A)　內(Ncd)　進行(VC)　宣傳(Na)　、(PAUSECATEGORY)　推廣(Nv)　，(COMMACATEGORY)
+　不管(Cbb)　是(SHI)　透過(P)　肥皂箱(Na)　短(VH)　講(VE)　的(DE)　方式(Na)　，(COMMACATEGORY)
+　抑或(Caa)　是(SHI)　擴大(VC)　連署(Nv)　活動(Na)　、(PAUSECATEGORY)　跨(VC)　校(Nc)　印製(VC)　解說(Na)　刊物(Na)　，(COMMACATEGORY)
+　我們(Nh)　希望(VK)　建中(Nc)　學生(Na)　可以(D)　不要(D)　「(PARENTHESISCATEGORY)　為(P)　反對(VE)　而(Cbb)　反對(VE)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　了解(VK)　到底(D)　黑箱(A)　在(P)　哪裡(Ncd)　，(COMMACATEGORY)
+　程序(Na)　哪裡(Ncd)　不(D)　正義(Na)　，(COMMACATEGORY)
+　了解(VK)　後(Ng)　再(D)　來(D)　選擇(VC)　自己(Nh)　的(DE)　立場(Na)　。(PERIODCATEGORY)
+
+　年代(Nd)　壹(Neu)　電視(Na)　新聞(Na)　連結(Nv)　：(COLONCATEGORY)　　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/a2Xxak(FW)　
+
+　公視(Nc)　新聞(Na)　連結(Nv)　：(COLONCATEGORY)　　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.pts.org.tw/detail.php(FW)　?(QUESTIONCATEGORY)
+　NEENO(FW)　=(FW)　298394(Neu)　

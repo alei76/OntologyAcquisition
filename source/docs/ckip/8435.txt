@@ -1,0 +1,59 @@
+　慧燈課綱(Na)　小組(Na)　
+
+　幹部(Na)　名單(Na)　:(COLONCATEGORY)　
+
+　1(Neu)　.(PERIODCATEGORY)　總召(VC)　:(COLONCATEGORY)
+　504(Neu)　高(VH)　崇倫(Nb)　
+
+　2(Neu)　.(PERIODCATEGORY)　副總(Na)　召(VF)　:(COLONCATEGORY)
+　214(Neu)　陳杏容(Nb)　
+
+　3(Neu)　.(PERIODCATEGORY)　實體(Na)　宣傳(VC)　部(Nf)　:(COLONCATEGORY)
+　401(Neu)　胡晉瑋(Nb)　，(COMMACATEGORY)
+　503(Neu)　楊振宇(Nb)　
+
+　4(Neu)　.(PERIODCATEGORY)　網路(Na)　媒體(Na)　宣傳(VC)　部(Nf)　:(COLONCATEGORY)
+　301(Neu)　傅宥東(Nb)　，(COMMACATEGORY)
+　301(Neu)　盧冠霖(Nb)　，(COMMACATEGORY)
+　301(Neu)　黃亭偉(Nb)　
+
+　5(Neu)　.(PERIODCATEGORY)　檔案(Na)　技術部(Nc)　:(COLONCATEGORY)
+　401(Neu)　洪羕(Nb)　＜(FW)　U(FW)　+(FW)　5586(Neu)　＞(FW)　
+
+　6(Neu)　.(PERIODCATEGORY)　公關部(Nc)　:(COLONCATEGORY)
+　401(Neu)　李美慧(Nb)　，(COMMACATEGORY)
+　301(Neu)　傅宥東(Nb)　
+
+　7(Neu)　.(PERIODCATEGORY)　總務(Na)　行政(Na)　:(COLONCATEGORY)
+　501(Neu)　游佳穎(Nb)　
+
+　8(Neu)　.(PERIODCATEGORY)　文書(Na)　處理(VC)　部(Nf)　:(COLONCATEGORY)
+　501(Neu)　陳奕翔(Nb)　
+
+　9(Neu)　.(PERIODCATEGORY)　會議(Na)　紀錄(Na)　:(COLONCATEGORY)
+　406(Neu)　陳品儒(Nb)　
+
+　-(DASHCATEGORY)　
+
+　組織(Na)　將(D)　在(P)　即日(Nd)　起(Ng)　招收(VC)　成員(Na)　至(Caa)　6(Neu)　/(FW)　17(Neu)　星期三(Nd)　截止(VH)　
+
+　報名表(Na)　有線(A)　上(Ncd)　及(Caa)　書面(Na)　格式(Na)　，(COMMACATEGORY)
+　有(V_2)　參加(VC)　意願(Na)　同學(Na)　請(VF)　填妥(VC)　資料(Na)　
+
+　#(FW)　目前(Nd)　急缺(VJ)　美工(Na)　
+
+　#(FW)　目前(Nd)　急缺(VJ)　美工(Na)　
+
+　#(FW)　目前(Nd)　急缺(VJ)　美工(Na)　
+
+　其他(Neqa)　部門(Na)　也(D)　需要(VK)　同學(Na)　們(Na)　的(DE)　幫忙(Nv)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+
+　另外(Cbb)　，(COMMACATEGORY)
+　若(Cbb)　對(P)　課綱(Na)　有(V_2)　任何(Neqa)　其他(Neqa)　問題(Na)　或是(Caa)　意見(Na)　，(COMMACATEGORY)
+　歡迎(VJ)　私訊(Na)　專頁(Na)　，(COMMACATEGORY)
+　或是(Caa)　等到(P)　收假(VH)　後(Ng)　找(VC)　以上(Ng)　人員(Na)　
+
+　最後(Nd)　.....(ETCCATEGORY)　
+
+　加油(VB)　吧(T)　!(EXCLANATIONCATEGORY)

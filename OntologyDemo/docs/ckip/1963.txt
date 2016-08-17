@@ -1,0 +1,14 @@
+　讓(VL)　被(P)　壓迫(Nv)　者(Na)　發展(VC)　自己(Nh)　的(DE)　語言(Na)　詞彙(Na)　去(D)　述說(VE)　世界(Nc)　，(COMMACATEGORY)
+　是(SHI)　解放(VC)　的(DE)　基本(A)　條件(Na)　。(PERIODCATEGORY)
+
+　─(FW)　─(FW)　巴西(Nc)　解放(Nv)　教育(Na)　學家(Na)　佛雷勒(Nb)　（(PARENTHESISCATEGORY)　Paulo(FW)　Freire(FW)　）(PARENTHESISCATEGORY)　
+
+
+
+　雖然(Cbb)　台灣(Nc)　與(Caa)　東南亞(Nc)　比鄰(VJ)　，(COMMACATEGORY)
+　雖然(Cbb)　台灣人(Na)　和(Caa)　東南亞(Nc)　新(VH)　住民(Na)　朝夕(Nd)　相處(VA)　，(COMMACATEGORY)
+　雖然(Cbb)　在(P)　一些(Neqa)　跨國(A)　公司(Nc)　的(DE)　分類(Na)　裡(Ng)　，(COMMACATEGORY)
+　台灣(Nc)　已經(D)　被(P)　劃進(VC)　東南亞區(Nc)　，(COMMACATEGORY)
+　不過(Cbb)　並(D)　不(D)　表示(VE)　我們(Nh)　很(Dfa)　了解(VK)　東南亞(Nc)　。(PERIODCATEGORY)
+　相反(VH)　的(T)　，(COMMACATEGORY)
+　我們(Nh)　很(Dfa)　不(D)　認識(VJ)　東南亞(Nc)　。(PERIODCATEGORY)

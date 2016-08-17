@@ -1,0 +1,26 @@
+　摘(VC)　：(COLONCATEGORY)　　中學生(Na)　反(VC)　黑箱(A)　微調(Na)　課綱(Na)　行動(Na)　有(V_2)　不同(VH)　的(DE)　面貌(Na)　！(EXCLANATIONCATEGORY)
+　《(PARENTHESISCATEGORY)　暗影(Na)　》(PARENTHESISCATEGORY)　小說家(Na)　朱宥勳(Nb)　今晚(Nd)　在(P)　蘋果樹(Na)　公民(Na)　論壇(Na)　開講(VA)　，(COMMACATEGORY)
+　他(Nh)　直指(VE)　高中(Nc)　國文科(Nc)　的(DE)　重重(Neqa)　問題(Na)　，(COMMACATEGORY)
+　國(Nc)　文本(Na)　應(D)　是(SHI)　培養(VC)　學生(Na)　創造力(Na)　的(DE)　學科(Na)　，(COMMACATEGORY)
+　但(Cbb)　一直(D)　以來(Ng)　都(D)　被(P)　浪費(VC)　，(COMMACATEGORY)
+　國文科(Nc)　內容(Na)　和(Caa)　學生(Na)　的(DE)　生活(Na)　是(SHI)　斷裂(VH)　的(T)　，(COMMACATEGORY)
+　例如(P)　修辭學(Na)　在(P)　生活(Na)　中(Ng)　根本(D)　用(P)　不(D)　到(VC)　，(COMMACATEGORY)
+　且(Cbb)　最(Dfa)　嚴重(VH)　的(DE)　是(SHI)　，(COMMACATEGORY)
+　國文(Na)　課本(Na)　教(VC)　的(DE)　世界(Nc)　是(SHI)　衣食(Na)　無虞(VH)　的(DE)　世界(Nc)　，(COMMACATEGORY)
+　看(VC)　不(D)　到(VC)　同志(Na)　文學(Na)　、(PAUSECATEGORY)　女性(Na)　主義(Na)　、(PAUSECATEGORY)　階級(Na)　問題(Na)　等(Cab)　現實(Na)　情況(Na)　，(COMMACATEGORY)
+　使(VL)　學生(Na)　缺少(VJ)　了(Di)　模擬(Nv)　和(Caa)　學習(VC)　未來(Nd)　生活(Na)　中(Ng)　可能(D)　會(D)　面對(VC)　問題(Na)　的(DE)　機會(Na)　。(PERIODCATEGORY)
+
+
+
+　朱宥勳(Nb)　也(D)　反問(VE)　，(COMMACATEGORY)
+　國文(Na)　課本(Na)　教(VC)　的(DE)　作家(Na)　，(COMMACATEGORY)
+　有(V_2)　那些(Neqa)　在(P)　書店(Nc)　裡(Ncd)　還(D)　找(VC)　的(DE)　到(VCL)　？(QUESTIONCATEGORY)
+　他(Nh)　直(D)　批(VC)　，(COMMACATEGORY)
+　課本(Na)　選文(Nb)　少(VH)　了(Di)　背景(Na)　脈絡(Na)　的(DE)　教導(Nv)　，(COMMACATEGORY)
+　更(D)　使(VL)　學生(Na)　所(D)　學習(VC)　的(DE)　內容(Na)　，(COMMACATEGORY)
+　部份(Neqa)　偏離(VJ)　了(Di)　事實(Na)　，(COMMACATEGORY)
+　他(Nh)　舉(VC)　課本(Na)　教(VC)　「(PARENTHESISCATEGORY)　詩擅(Na)　祭酒(VA)　」(PARENTHESISCATEGORY)　余光中(Nb)　為(P)　例(Na)　，(COMMACATEGORY)
+　但(Cbb)　文學界(Nc)　並未(D)　完全(D)　認同(VJ)　，(COMMACATEGORY)
+　主要(D)　是(SHI)　課本(Na)　未(D)　述說(VE)　其(Nep)　背景(Na)　脈絡(Na)　。(PERIODCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1386502(Neu)　

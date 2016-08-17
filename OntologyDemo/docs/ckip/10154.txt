@@ -1,0 +1,19 @@
+　【(PARENTHESISCATEGORY)　見(VE)　微(D)　知(VK)　著(Di)　】(PARENTHESISCATEGORY)　
+
+　現在(Nd)　大家(Nh)　知道(VK)　為什麼(D)　學校(Nc)　裡(Ncd)　要(D)　擺(VC)　教官(Na)　了(T)　嗎(T)　？(QUESTIONCATEGORY)
+
+　　
+
+　絕對(D)　不(D)　是(SHI)　為了(P)　校園(Nc)　安全(VH)　什麼(Nep)　的(DE)　假(VH)　理由(Na)　，(COMMACATEGORY)
+　在(P)　學校(Nc)　裡(Ncd)　放(VC)　教官(Na)　是(SHI)　為了(P)　就近(D)　監視(VC)　是否(D)　有(V_2)　任何(Neqa)　人(Na)　敢(VL)　找(VC)　國家(Na)　機器(Na)　的(DE)　麻煩(Na)　。(PERIODCATEGORY)
+　在(P)　戒嚴(VH)　時期(Na)　，(COMMACATEGORY)
+　教官(Na)　的(DE)　工作(Na)　包括(VK)　思想(Na)　教育(Na)　與(Caa)　政治(Na)　監控(Nv)　，(COMMACATEGORY)
+　更(D)　扯(VC)　的(DE)　是(SHI)　甚至(D)　還(D)　有(V_2)　「(PARENTHESISCATEGORY)　請(VF)　大家(Nh)　加入(VC)　國民黨(Nb)　」(PARENTHESISCATEGORY)　的(DE)　黨務(Na)　工作(Na)　！(EXCLANATIONCATEGORY)
+　解嚴(VA)　之後(Ng)　的(DE)　今日(Nd)　呢(T)　？(QUESTIONCATEGORY)
+　就(D)　不當(VH)　抓(VC)　耙子(Na)　了(T)　嗎(T)　？(QUESTIONCATEGORY)
+
+　　
+
+　2013(Neu)　年(Nf)　立法院(Nc)　作成(VG)　附帶(Nv)　決議(Na)　要求(VF)　教官(Na)　於(P)　2021(Neu)　年(Nf)　退出(VCL)　校園(Nc)　。(PERIODCATEGORY)
+　從(P)　這(Nep)　則(Nf)　新聞(Na)　來(D)　看(VC)　，(COMMACATEGORY)
+　這(Nep)　速度(Na)　會不會(D)　太(Dfa)　慢(VH)　了(T)　？(QUESTIONCATEGORY)

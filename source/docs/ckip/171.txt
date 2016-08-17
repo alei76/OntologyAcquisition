@@ -1,0 +1,18 @@
+　摘(VC)　
+
+　一(Neu)　個(Nf)　連(D)　切實(VH)　切事(VH)　簡述(VE)　「(PARENTHESISCATEGORY)　事實(Na)　」(PARENTHESISCATEGORY)　梗概(Na)　都(D)　做(VC)　不(D)　來(VA)　的(DE)　政府(Na)　，(COMMACATEGORY)
+　能(D)　奢望(VK)　他們(Nh)　有(V_2)　能力(Na)　處理(Nv)　歷史(Na)　教育(Na)　問題(Na)　？(QUESTIONCATEGORY)
+　不(D)　懂(VK)　「(PARENTHESISCATEGORY)　自我(Nh)　批判(VC)　」(PARENTHESISCATEGORY)　為(VG)　何(Nes)　物(Na)　，(COMMACATEGORY)
+　就(D)　只(Da)　能(D)　以(P)　「(PARENTHESISCATEGORY)　錯誤(Na)　示範(Nv)　」(PARENTHESISCATEGORY)　不斷(D)　告訴(VE)　大家(Nh)　，(COMMACATEGORY)
+　他們(Nh)　賴以(VL)　鞏固(VHC)　政權(Na)　的(DE)　「(PARENTHESISCATEGORY)　史觀(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　是(SHI)　建立(VC)　在(P)　「(PARENTHESISCATEGORY)　拆碎七寶(Nb)　樓台(Na)　不(D)　成(VC)　片段(Na)　」(PARENTHESISCATEGORY)　的(DE)　斷章取義(VA)　上(Ng)　。(PERIODCATEGORY)
+
+　德國(Nc)　與(Caa)　法國(Nc)　合寫(VC)　教科書(Na)　，(COMMACATEGORY)
+　基本(A)　精神(Na)　是(SHI)　透過(P)　「(PARENTHESISCATEGORY)　反省(Nv)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　在(P)　「(PARENTHESISCATEGORY)　民主(Na)　多元(A)　」(PARENTHESISCATEGORY)　的(DE)　核心(Na)　價值(Na)　上(Ng)　，(COMMACATEGORY)
+　為(VG)　兩(DM)　國(Na)　更(D)　進一步(D)　的(DE)　轉型(Nv)　正義(Na)　共同(A)　努力(Nv)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　是(SHI)　為了(P)　鼓吹(VE)　國族(Na)　主義(Na)　。(PERIODCATEGORY)
+　我們(Nh)　的(DE)　歷史課(Na)　綱(Na)　卻(D)　刻意(D)　淡化(VHC)　納粹(Na)　與(Caa)　白色恐怖(Nb)　相關(VH)　主題(Na)　，(COMMACATEGORY)
+　此(Nep)　舉(Na)　已(D)　嚴重(VH)　違反(VJ)　聯合國(Nc)　教科文(Nb)　組織(Na)　對(P)　教科書(Na)　編寫(VC)　所(D)　建議(VE)　的(DE)　規範(Na)　。(PERIODCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.appledaily.com.tw/appledaily/article/headline(FW)　/(FW)　20150612(Neu)　/(FW)　36604740(Neu)　/(FW)　

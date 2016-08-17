@@ -1,0 +1,14 @@
+　網路(Na)　新聞(Na)　和(Caa)　今天(Nd)　的(DE)　自由時報(Nb)　國際版(Na)　都(D)　有(V_2)　喔(I)　！(EXCLANATIONCATEGORY)
+
+　小編(Na)　昨天(Nd)　已經(D)　和(P)　台南(Nc)　地區(Nc)　其他(Neqa)　學校(Nc)　開會(VA)　了(Di)　，(COMMACATEGORY)
+　初步(D)　確定(VK)　共識(Na)　、(PAUSECATEGORY)　組織(Na)　名稱(Na)　、(PAUSECATEGORY)　四(Neu)　項(Nf)　訴求(Na)　：(COLONCATEGORY)　
+
+　一(Neu)　、(PAUSECATEGORY)　撤回(VC)　目前(Nd)　新(VH)　課綱(Na)　，(COMMACATEGORY)
+　在(P)　重編(VC)　課綱(Na)　出來(VA)　前(Ng)　沿用(VC)　舊(VH)　課綱(Na)　。(PERIODCATEGORY)
+
+　二(Neu)　、(PAUSECATEGORY)　課綱(Na)　制訂(VC)　需(D)　符合(VJ)　法律(Na)　程序(Na)　與(Caa)　透明化(VHC)　。(PERIODCATEGORY)
+
+　三(Neu)　、(PAUSECATEGORY)　課綱(Na)　應有(A)　民間(Nc)　專業(VH)　人員(Na)　參與(VC)　編輯(Na)　。(PERIODCATEGORY)
+
+　四(Neu)　、(PAUSECATEGORY)　課綱(Na)　制訂(VC)　過程(Na)　需(D)　有(V_2)　公共(A)　參與(VC)　，(COMMACATEGORY)
+　程序(Na)　公開(VHC)　

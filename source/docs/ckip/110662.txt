@@ -1,0 +1,27 @@
+　#(FW)　講座(Na)　#(FW)　陳翠蓮(Nb)　教授(Na)　#(FW)　反(VC)　課綱(Na)　
+
+
+
+　時間(Na)　:(COLONCATEGORY)　　7(Neu)　/(FW)　23日(Nd)　星期四(Nd)　晚間(Nd)　七(Neu)　點(Nf)　半(Neqa)　~(FW)　九(Neu)　點(Nf)　
+
+　地點(Na)　:(COLONCATEGORY)　　忠孝東路(Nc)　一段(Nc)　152(Neu)　號(Nf)　8樓(Nc)　-(DASHCATEGORY)　1(Neu)　
+
+
+
+　主講(VE)　
+
+　台灣(Nc)　大學(Nc)　歷史系(Nc)　教授(Na)　-(DASHCATEGORY)　陳翠蓮(Nb)　教授(Na)　
+
+　與(P)　談(VE)　
+
+　捍衛(VC)　教育(Na)　中學(Nc)　陣線(Na)　召集人(Na)　-(DASHCATEGORY)　林致宇(Nb)　
+
+　反(VC)　洗腦(Nv)　課綱(Na)　學生(Na)　陣線(Na)　召集人(Na)　-(DASHCATEGORY)　侯宗穎(Nb)　
+
+
+
+
+
+　報名(VA)　網址(Nc)　
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/forms/g3vMFvo8nz(FW)　

@@ -1,0 +1,17 @@
+　慰安婦(Na)　在(P)　現行(A)　課綱(Na)　就(D)　有(V_2)　提到(VE)　，(COMMACATEGORY)
+　教育部(Nc)　卻(D)　刻意(D)　將(P)　這(Nep)　個(Nf)　議題(Na)　議題(Na)　丟出(VC)　模糊(VH)　焦點(Na)　。(PERIODCATEGORY)
+
+　有(V_2)　流言(Na)　說(VE)　原課綱(Na)　沒有(D)　提到(VE)　，(COMMACATEGORY)
+　而(Cbb)　事實(Na)　上(Ncd)　有(V_2)　，(COMMACATEGORY)
+　加(D)　被迫(VL)　，(COMMACATEGORY)
+　只是(D)　個(Nf)　假(VH)　議題(Na)　。(PERIODCATEGORY)
+　只要(Cbb)　稍微(D)　動(VAC)　腦(Na)　，(COMMACATEGORY)
+　不(D)　，(COMMACATEGORY)
+　是(SHI)　用(P)　肚臍(Na)　思考(VE)　，(COMMACATEGORY)
+　如果(Cbb)　不(D)　是(SHI)　被(P)　強迫(VF)　或(Caa)　不得已(VH)　，(COMMACATEGORY)
+　哪(Nep)　一(Neu)　位(Nf)　婦女(Na)　願意(VK)　失去(VJ)　性(Na)　自主權(Na)　，(COMMACATEGORY)
+　成為(VG)　慰安婦(Na)　。(PERIODCATEGORY)
+
+　不(D)　信(VK)　者(Na)　請(VF)　參考(VC)　所(D)　附(VC)　連結(Nv)　((PARENTHESISCATEGORY)　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/TsGf8I(FW)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　教育部(Nc)　去年(Nd)　課綱(Na)　微調(Na)　公聽會(Na)　的(DE)　手冊(Na)　，(COMMACATEGORY)
+　第44(Neu)　頁(Nf)　就(D)　能(D)　看到(VE)　現行(A)　課綱(Na)　就(D)　有(V_2)　提到(VE)　慰安婦(Na)　了(T)　。(PERIODCATEGORY)

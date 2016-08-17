@@ -1,0 +1,70 @@
+　在(P)　淡江(Nb)　校(Nc)　內(Ncd)　，(COMMACATEGORY)
+　座落(VJ)　著(Di)　一(Neu)　個(Nf)　「(PARENTHESISCATEGORY)　埔頂(Nc)　二二八(DM)　蒙難(Nv)　紀念碑(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+
+　學校(Nc)　有(V_2)　外賓(Na)　來(VA)　時(Ng)　介紹員(Na)　一定(D)　會(D)　介紹(VE)　這(Nep)　個(Nf)　紀念碑(Na)　、(PAUSECATEGORY)　經過(VCL)　的(DE)　本(Nes)　國(Nc)　外國(Nc)　觀光客(Na)　也(D)　都(D)　喜歡(VK)　和(P)　其(Nep)　合照(VA)　。(PERIODCATEGORY)
+
+　但(Cbb)　這(Nep)　座(Nf)　端莊(VH)　的(DE)　紀念碑(Na)　，(COMMACATEGORY)
+　背後(Nc)　所(D)　隱含(VJ)　的(DE)　是(SHI)　沉重(VH)　且(Caa)　當局(Na)　者(Na)　依然(D)　不(D)　願(VK)　面對(VC)　的(DE)　歷史(Na)　。(PERIODCATEGORY)
+
+
+
+　———(DASHCATEGORY)　———(DASHCATEGORY)　——(DASHCATEGORY)　———(DASHCATEGORY)　———(DASHCATEGORY)　
+
+
+
+　1947年(Nd)　3月(Nd)　10日(Nd)　，(COMMACATEGORY)
+　二二八(DM)　事件(Na)　後(Ng)　的(DE)　第十(Neu)　天(Nf)　。(PERIODCATEGORY)
+
+
+
+　獲得(VJ)　台北(Nc)　援兵(Na)　後(Ng)　的(DE)　沙崙(Nc)　地區(Nc)　的(DE)　國軍(Na)　，(COMMACATEGORY)
+　於(P)　當(VG)　早(D)　衝入(VCL)　淡水街(Na)　上(Ng)　，(COMMACATEGORY)
+　射殺(VC)　許多(Neqa)　淡水(Nc)　居民(Na)　，(COMMACATEGORY)
+
+　而(Cbb)　那時(Nd)　剛好(Da)　有(V_2)　位(Nf)　住(VCL)　校(Nc)　學生(Na)　郭曉鐘(Nb)　正好(Da)　下山(VA)　購物(VA)　，(COMMACATEGORY)
+　被(P)　軍人(Na)　射殺(VC)　而(Cbb)　曝屍(Na)　街頭(Nc)　，(COMMACATEGORY)
+　一直(D)　到(P)　下午(Nd)　陳(Nb)　能(D)　通(VC)　校長(Na)　才(D)　能(D)　下山(VA)　領回(VC)　屍體(Na)　，(COMMACATEGORY)
+　以便(Cbb)　通知(VC)　其(Nep)　台南(Nc)　的(DE)　家長(Na)　。(PERIODCATEGORY)
+
+　翌日(Nd)　清晨(Nd)　五(Neu)　點(Nf)　大批(Neqa)　武裝(Nv)　軍人(Na)　到(VCL)　校園(Nc)　採取(VC)　圍捕(Nv)　行動(Na)　，(COMMACATEGORY)
+　他們(Nh)　到(VCL)　校舍(Nc)　強行(D)　押走(VC)　陳(Nb)　能(D)　通(VC)　校長(Na)　，(COMMACATEGORY)
+　開槍(VA)　射傷(VC)　前來(VCL)　營救(VC)　校長(Na)　的(DE)　理化(Na)　老師(Na)　盧園(Nb)　，(COMMACATEGORY)
+　並(Cbb)　在(P)　女中(Nc)　前面(Ncd)　押走(VC)　體育(Na)　老師(Na)　黃阿統(Nb)　。(PERIODCATEGORY)
+
+
+
+　後來(Nd)　，(COMMACATEGORY)
+　陳(Nb)　校長(Na)　和(Caa)　黃阿統(Nb)　被(P)　帶(VC)　往(P)　沙崙(Nc)　，(COMMACATEGORY)
+　三(Neu)　天(Nf)　後(Ng)　被(P)　軍車(Na)　送往(VC)　基隆(Nc)　。(PERIODCATEGORY)
+
+
+
+　二(Neu)　人(Na)　自此(D)　遇害(VH)　而(Cbb)　屍首(Na)　無(VJ)　尋(VC)　，(COMMACATEGORY)
+　盧園(Nb)　老師(Na)　也(D)　在(P)　八(Nd)　日(Na)　後(Ng)　傷重(VH)　不治(VH)　，(COMMACATEGORY)
+　而(Cbb)　董事長(Na)　林茂生(Nb)　博士(Na)　也(D)　在(P)　台北(Nc)　遇害(VH)　。(PERIODCATEGORY)
+
+
+
+　（(PARENTHESISCATEGORY)　參考(VC)　自(P)　淡江(Nb)　高中(Nc)　校史(Na)　）(PARENTHESISCATEGORY)　
+
+　———(DASHCATEGORY)　———(DASHCATEGORY)　——(DASHCATEGORY)　———(DASHCATEGORY)　———(DASHCATEGORY)　
+
+
+
+　在(P)　那(Nep)　個(Nf)　動亂(VH)　的(DE)　時代(Na)　下(Ng)　，(COMMACATEGORY)
+　作為(VG)　加害(VC)　者(Na)　的(DE)　當局(Na)　者(Na)　或許(D)　也(D)　是(SHI)　受到(VJ)　局勢(Na)　逼迫(VF)　而(Cbb)　犯下(VC)　歷史(Na)　錯誤(Na)　，(COMMACATEGORY)
+
+
+
+　歷史(Na)　可以(D)　被(P)　原諒(VJ)　，(COMMACATEGORY)
+　但(Cbb)　無法(D)　忘記(VK)　。(PERIODCATEGORY)
+
+
+
+　而(Cbb)　教育部(Nc)　的(DE)　新課綱(Na)　就(Da)　是(SHI)　試圖(VF)　淡忘(VK)　二二八(DM)　事件(Na)　及(Caa)　白色恐怖(Nb)　的(DE)　歷史(Na)　。(PERIODCATEGORY)
+
+
+
+　歷史(Na)　是(SHI)　作為(VG)　人類(Na)　的(DE)　借鏡(Na)　而(Cbb)　存在(VA)　，(COMMACATEGORY)
+　如果(Cbb)　當局(Na)　者(Na)　不(D)　願(VK)　正視(VC)　這(Nep)　段(Nf)　歷史(Na)　而(Cbb)　是(SHI)　選擇(VC)　要求(Na)　後人(Na)　漸漸(D)　淡忘(VK)　，(COMMACATEGORY)
+　那(Dk)　我們(Nh)　無法(D)　保證(VE)　當局(Na)　者(Na)　不會(D)　再(D)　犯下(VC)　同樣(VH)　的(DE)　錯誤(Na)　。(PERIODCATEGORY)

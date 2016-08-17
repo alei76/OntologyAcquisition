@@ -1,0 +1,256 @@
+　想(VE)　知道(VK)　公民(Na)　課綱(Na)　被(P)　改(VC)　了(Di)　什麼(Nep)　嗎(T)　？(QUESTIONCATEGORY)
+
+　請(VF)　看(VC)　~(FW)　
+
+
+
+　單元(Na)　一(Neu)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　傳統(VH)　鄉土(Na)　社會(Na)　之(DE)　諸如(P)　成年禮(Na)　等(Cab)　儀式(Na)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　對(P)　長輩(Na)　、(PAUSECATEGORY)　祖先(Na)　等(Cab)　之(DE)　崇敬(Nv)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　自主權(Na)　之(DE)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　對(P)　天賦人權(Na)　等(Cab)　之(DE)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　殖民地(Nc)　對(P)　人民(Na)　之(DE)　迫害(Nv)　，(COMMACATEGORY)
+　及(Caa)　刪去(VC)　白色恐怖(Nb)　、(PAUSECATEGORY)　納粹(Na)　屠殺(VC)　
+
+　((PARENTHESISCATEGORY)　四(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　假(P)　公共(A)　利益(Na)　，(COMMACATEGORY)
+　行(VC)　多數(Neqa)　暴力(Na)　之(DE)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　六(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　討論(Nv)　財團(Na)　之(DE)　投資(Na)　是否(D)　與(P)　公眾(A)　利益(Na)　一致(VH)　，(COMMACATEGORY)
+　及(Caa)　刪去(VC)　新聞(Na)　之(DE)　生產(Nv)　、(PAUSECATEGORY)　包裝(Na)　之後(Ng)　的(DE)　結果(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　多元(A)　理念(Na)　，(COMMACATEGORY)
+　新增(VJ)　臺灣(Nc)　社會(Na)　之(DE)　中華(Nc)　文化(Na)　傳統(VH)　融合(VC)　多元(A)　理念(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　中華(Nc)　文化(Na)　傳統(VH)　
+
+　單元(Na)　二(Neu)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　憲法(Na)　內容(Na)　，(COMMACATEGORY)
+　新增(VJ)　憲法(Na)　精神(Na)　。(PERIODCATEGORY)
+　並(Cbb)　刪去(VC)　國家(Na)　認同(VJ)　之(DE)　看法(Na)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　西方(Ncd)　民主(Na)　理論(Na)　
+
+　((PARENTHESISCATEGORY)　六(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　公民(Na)　投票(VA)　、(PAUSECATEGORY)　創制(VC)　、(PAUSECATEGORY)　複決(VC)　，(COMMACATEGORY)
+　增加(VHC)　議會(Nc)　民主(Na)　與(Caa)　直接(VH)　民主(VH)　之(DE)　比較(Nv)　，(COMMACATEGORY)
+　並(Cbb)　刪除(VC)　公民(Na)　投票(VA)　之(DE)　漏洞(Na)　所在(Na)　
+
+　((PARENTHESISCATEGORY)　七(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　增加(VHC)　聯合國(Nc)　之(DE)　重要(VH)　組織(Na)　與(Caa)　議題(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　臺灣(Nc)　，(COMMACATEGORY)
+　並(Cbb)　以(P)　"(FW)　我國(Nc)　"(FW)　稱(VG)　之(DE)　、(PAUSECATEGORY)　刪去(VC)　中國(Nc)　，(COMMACATEGORY)
+　並(Cbb)　以(P)　"(FW)　大陸(Nc)　"(FW)　稱(VG)　之(DE)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　將(P)　兩岸(Nc)　之(DE)　"(FW)　國際(Nc)　"(FW)　關係(Na)　更改為(VG)　"(FW)　內外(Ncd)　"(FW)　關係(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　臺灣(Nc)　、(PAUSECATEGORY)　中國(Nc)　之(DE)　內部(Ncd)　因素(Na)　對(P)　兩岸(Nc)　關係(Na)　之(DE)　影響(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　外(Ng)　國際(Nc)　國際(Nc)　組織(Na)　對(P)　台海(Nc)　之(DE)　影響(Na)　
+
+　單元(Na)　三(Neu)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　道德(Na)　之(DE)　變遷(Nv)　與(Caa)　多元(A)　觀(VC)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　道德(Na)　之(DE)　變遷(Nv)　-(DASHCATEGORY)　整(Neqa)　段(Nf)　刪除(VC)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　"(FW)　法律(Na)　是(SHI)　最低限(Na)　度(VCL)　之(DE)　道德(Na)　"(FW)　等(Cab)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　大法官(Na)　宣告(VE)　違憲(VA)　之(DE)　意義(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　惡法(Na)　須(D)　以(P)　"(FW)　程序(Na)　"(FW)　修正(Nv)　或(Caa)　廢止(VC)　
+
+　單元(Na)　四(Neu)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　6(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　政府(Na)　之(DE)　干預(Nv)　，(COMMACATEGORY)
+　以及(Caa)　干預(Nv)　後(Ng)　之(DE)　損失(Na)　。(PERIODCATEGORY)
+　並(Cbb)　新增(VJ)　市場(Nc)　失靈(VH)　時(Ng)　政府(Na)　之(DE)　措施(Na)　。(PERIODCATEGORY)
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　國際(Nc)　貿易(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　世界(Nc)　貿易(Na)　組織(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　區域(Na)　自由(VH)　貿易(Na)　協定(Na)　。(PERIODCATEGORY)
+
+　((PARENTHESISCATEGORY)　四(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　"(FW)　經濟(Na)　福祉(Na)　應(D)　將(P)　所得(Na)　的(DE)　成長(Nv)　和(Caa)　分配(Nv)　均(D)　納入(VJ)　考量(Nv)　，(COMMACATEGORY)
+　應(D)　以(P)　均富(VH)　亦即(VG)　求(VC)　平均(VH)　亦(D)　求(VC)　成長為(VG)　目標(Na)　,(COMMACATEGORY)
+　二(Neu)　者(Na)　不可(D)　偏廢(VJ)　。(PERIODCATEGORY)
+　"(FW)　
+
+　((PARENTHESISCATEGORY)　四(Neu)　-(DASHCATEGORY)　4(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　臺灣(Nc)　之(DE)　資源(Na)　有限(VH)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　臺灣(Nc)　之(DE)　綠色(Na)　GDP(FW)　實例(Na)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　外部(Ncd)　效果(Na)　、(PAUSECATEGORY)　臺灣(Nc)　之(DE)　生態(Na)　問題(Na)　以及(Caa)　政府(Na)　之(DE)　對策(Na)　。(PERIODCATEGORY)
+
+　選修(VC)　單元(Na)　一(Neu)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　中小企業(Na)　之(DE)　興起(Nv)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　各(Nes)　國(Nc)　釋憲(Nb)　制度(Na)　之(DE)　類型(Na)　與(Caa)　差異(Na)　
+
+　選修(VC)　單元(Na)　二(Neu)　
+
+　((PARENTHESISCATEGORY)　主題(Na)　)(PARENTHESISCATEGORY)　新增(VJ)　社會(Na)　企業(Na)　與(Caa)　公平(VH)　貿易(Na)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　東南亞(Nc)　國協(Na)　、(PAUSECATEGORY)　歐盟(Nb)　，(COMMACATEGORY)
+　並(Cbb)　刪去(VC)　G(FW)　8(Neu)　等(Cab)　國際(Nc)　會議(Na)　
+
+　((PARENTHESISCATEGORY)　四(Neu)　)(PARENTHESISCATEGORY)　通章(Na)　於(P)　中國(Nc)　後(Ng)　新增(VJ)　"(FW)　大陸(Nc)　"(FW)　之(DE)　稱呼(Na)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　中國(Nc)　之(DE)　政經(Na)　關係(Na)　，(COMMACATEGORY)
+　並(Cbb)　刪去(VC)　臺灣(Nc)　國族(Na)　認同(Nv)　
+
+　((PARENTHESISCATEGORY)　六(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　新興(A)　金融(Na)　工具(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　主題(Na)　)(PARENTHESISCATEGORY)　新增(VJ)　社會(Na)　企業(Na)　與(Caa)　公平(VH)　貿易(Na)　之(DE)　觀念(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　社會(Na)　企業(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　通貨膨脹(VH)　
+
+　單元(Na)　一(Neu)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　殖民地(Nc)　對(P)　人民(Na)　之(DE)　迫害(Nv)　，(COMMACATEGORY)
+　及(Caa)　刪去(VC)　白色恐怖(Nb)　、(PAUSECATEGORY)　納粹(Na)　屠殺(VC)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　多元(A)　理念(Na)　，(COMMACATEGORY)
+　新增(VJ)　臺灣(Nc)　社會(Na)　之(DE)　中華(Nc)　文化(Na)　傳統(VH)　融合(VC)　多元(A)　理念(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　中華(Nc)　文化(Na)　傳統(VH)　
+
+　單元(Na)　二(Neu)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　臺灣(Nc)　，(COMMACATEGORY)
+　並(Cbb)　以(P)　"(FW)　我國(Nc)　"(FW)　稱(VG)　之(DE)　、(PAUSECATEGORY)　刪去(VC)　中國(Nc)　，(COMMACATEGORY)
+　並(Cbb)　以(P)　"(FW)　大陸(Nc)　"(FW)　稱(VG)　之(DE)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　將(P)　兩岸(Nc)　之(DE)　"(FW)　國際(Nc)　"(FW)　關係(Na)　更改為(VG)　"(FW)　內外(Ncd)　"(FW)　關係(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　臺灣(Nc)　、(PAUSECATEGORY)　中國(Nc)　之(DE)　內部(Ncd)　因素(Na)　對(P)　兩岸(Nc)　關係(Na)　之(DE)　影響(Na)　
+
+　單元(Na)　三(Neu)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　大法官(Na)　宣告(VE)　違憲(VA)　之(DE)　意義(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　惡法(Na)　須(D)　以(P)　"(FW)　程序(Na)　"(FW)　修正(Nv)　或(Caa)　廢止(VC)　
+
+　選修(VC)　單元(Na)　一(Neu)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　各(Nes)　國(Nc)　釋憲(Nb)　制度(Na)　之(DE)　類型(Na)　與(Caa)　差異(Na)　
+
+　選修(VC)　單元(Na)　二(Neu)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　中國(Nc)　之(DE)　政經(Na)　關係(Na)　，(COMMACATEGORY)
+　並(Cbb)　刪去(VC)　臺灣(Nc)　國族(Na)　認同(Nv)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　通貨膨脹(VH)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　失業(VH)　問題(Na)　與(Caa)　解決(VC)　
+
+　以下(Ncd)　是(SHI)　將(P)　全文(Na)　簡化(VHC)　版本(Na)　：(COLONCATEGORY)　
+
+　單元(Na)　一(Neu)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　傳統(VH)　鄉土(Na)　社會(Na)　之(DE)　諸如(P)　成年禮(Na)　等(Cab)　儀式(Na)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　對(P)　長輩(Na)　、(PAUSECATEGORY)　祖先(Na)　等(Cab)　之(DE)　崇敬(Nv)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　自主權(Na)　之(DE)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　對(P)　天賦人權(Na)　等(Cab)　之(DE)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　殖民地(Nc)　對(P)　人民(Na)　之(DE)　迫害(Nv)　，(COMMACATEGORY)
+　及(Caa)　刪去(VC)　白色恐怖(Nb)　、(PAUSECATEGORY)　納粹(Na)　屠殺(VC)　
+
+　((PARENTHESISCATEGORY)　四(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　假(P)　公共(A)　利益(Na)　，(COMMACATEGORY)
+　行(VC)　多數(Neqa)　暴力(Na)　之(DE)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　六(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　討論(Nv)　財團(Na)　之(DE)　投資(Na)　是否(D)　與(P)　公眾(A)　利益(Na)　一致(VH)　，(COMMACATEGORY)
+　及(Caa)　刪去(VC)　新聞(Na)　之(DE)　生產(Nv)　、(PAUSECATEGORY)　包裝(Na)　之後(Ng)　的(DE)　結果(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　多元(A)　理念(Na)　，(COMMACATEGORY)
+　新增(VJ)　臺灣(Nc)　社會(Na)　之(DE)　中華(Nc)　文化(Na)　傳統(VH)　融合(VC)　多元(A)　理念(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　中華(Nc)　文化(Na)　傳統(VH)　
+
+　單元(Na)　二(Neu)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　憲法(Na)　內容(Na)　，(COMMACATEGORY)
+　新增(VJ)　憲法(Na)　精神(Na)　。(PERIODCATEGORY)
+　並(Cbb)　刪去(VC)　國家(Na)　認同(VJ)　之(DE)　看法(Na)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　西方(Ncd)　民主(Na)　理論(Na)　
+
+　((PARENTHESISCATEGORY)　六(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　公民(Na)　投票(VA)　、(PAUSECATEGORY)　創制(VC)　、(PAUSECATEGORY)　複決(VC)　，(COMMACATEGORY)
+　增加(VHC)　議會(Nc)　民主(Na)　與(Caa)　直接(VH)　民主(VH)　之(DE)　比較(Nv)　，(COMMACATEGORY)
+　並(Cbb)　刪除(VC)　公民(Na)　投票(VA)　之(DE)　漏洞(Na)　所在(Na)　
+
+　((PARENTHESISCATEGORY)　七(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　增加(VHC)　聯合國(Nc)　之(DE)　重要(VH)　組織(Na)　與(Caa)　議題(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　臺灣(Nc)　，(COMMACATEGORY)
+　並(Cbb)　以(P)　"(FW)　我國(Nc)　"(FW)　稱(VG)　之(DE)　、(PAUSECATEGORY)　刪去(VC)　中國(Nc)　，(COMMACATEGORY)
+　並(Cbb)　以(P)　"(FW)　大陸(Nc)　"(FW)　稱(VG)　之(DE)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　將(P)　兩岸(Nc)　之(DE)　"(FW)　國際(Nc)　"(FW)　關係(Na)　更改為(VG)　"(FW)　內外(Ncd)　"(FW)　關係(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　臺灣(Nc)　、(PAUSECATEGORY)　中國(Nc)　之(DE)　內部(Ncd)　因素(Na)　對(P)　兩岸(Nc)　關係(Na)　之(DE)　影響(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　外(Ng)　國際(Nc)　國際(Nc)　組織(Na)　對(P)　台海(Nc)　之(DE)　影響(Na)　
+
+　單元(Na)　三(Neu)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　道德(Na)　之(DE)　變遷(Nv)　與(Caa)　多元(A)　觀(VC)　
+
+　((PARENTHESISCATEGORY)　一(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　道德(Na)　之(DE)　變遷(Nv)　-(DASHCATEGORY)　整(Neqa)　段(Nf)　刪除(VC)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　"(FW)　法律(Na)　是(SHI)　最低限(Na)　度(VCL)　之(DE)　道德(Na)　"(FW)　等(Cab)　論述(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　大法官(Na)　宣告(VE)　違憲(VA)　之(DE)　意義(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　惡法(Na)　須(D)　以(P)　"(FW)　程序(Na)　"(FW)　修正(Nv)　或(Caa)　廢止(VC)　
+
+　單元(Na)　四(Neu)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　6(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　政府(Na)　之(DE)　干預(Nv)　，(COMMACATEGORY)
+　以及(Caa)　干預(Nv)　後(Ng)　之(DE)　損失(Na)　。(PERIODCATEGORY)
+　並(Cbb)　新增(VJ)　市場(Nc)　失靈(VH)　時(Ng)　政府(Na)　之(DE)　措施(Na)　。(PERIODCATEGORY)
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪除(VC)　國際(Nc)　貿易(Na)　
+
+　((PARENTHESISCATEGORY)　三(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　世界(Nc)　貿易(Na)　組織(Na)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　區域(Na)　自由(VH)　貿易(Na)　協定(Na)　。(PERIODCATEGORY)
+
+　((PARENTHESISCATEGORY)　四(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　"(FW)　經濟(Na)　福祉(Na)　應(D)　將(P)　所得(Na)　的(DE)　成長(Nv)　和(Caa)　分配(Nv)　均(D)　納入(VJ)　考量(Nv)　，(COMMACATEGORY)
+　應(D)　以(P)　均富(VH)　亦即(VG)　求(VC)　平均(VH)　亦(D)　求(VC)　成長為(VG)　目標(Na)　,(COMMACATEGORY)
+　二(Neu)　者(Na)　不可(D)　偏廢(VJ)　。(PERIODCATEGORY)
+　"(FW)　
+
+　((PARENTHESISCATEGORY)　四(Neu)　-(DASHCATEGORY)　4(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　臺灣(Nc)　之(DE)　資源(Na)　有限(VH)　，(COMMACATEGORY)
+　並(Cbb)　新增(VJ)　臺灣(Nc)　之(DE)　綠色(Na)　GDP(FW)　實例(Na)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　外部(Ncd)　效果(Na)　、(PAUSECATEGORY)　臺灣(Nc)　之(DE)　生態(Na)　問題(Na)　以及(Caa)　政府(Na)　之(DE)　對策(Na)　。(PERIODCATEGORY)
+
+　選修(VC)　單元(Na)　一(Neu)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　中小企業(Na)　之(DE)　興起(Nv)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　各(Nes)　國(Nc)　釋憲(Nb)　制度(Na)　之(DE)　類型(Na)　與(Caa)　差異(Na)　
+
+　選修(VC)　單元(Na)　二(Neu)　
+
+　((PARENTHESISCATEGORY)　主題(Na)　)(PARENTHESISCATEGORY)　新增(VJ)　社會(Na)　企業(Na)　與(Caa)　公平(VH)　貿易(Na)　
+
+　((PARENTHESISCATEGORY)　二(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　東南亞(Nc)　國協(Na)　、(PAUSECATEGORY)　歐盟(Nb)　，(COMMACATEGORY)
+　並(Cbb)　刪去(VC)　G(FW)　8(Neu)　等(Cab)　國際(Nc)　會議(Na)　
+
+　((PARENTHESISCATEGORY)　四(Neu)　)(PARENTHESISCATEGORY)　通章(Na)　於(P)　中國(Nc)　後(Ng)　新增(VJ)　"(FW)　大陸(Nc)　"(FW)　之(DE)　稱呼(Na)　
+
+　((PARENTHESISCATEGORY)　五(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　中國(Nc)　之(DE)　政經(Na)　關係(Na)　，(COMMACATEGORY)
+　並(Cbb)　刪去(VC)　臺灣(Nc)　國族(Na)　認同(Nv)　
+
+　((PARENTHESISCATEGORY)　六(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　新興(A)　金融(Na)　工具(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　主題(Na)　)(PARENTHESISCATEGORY)　新增(VJ)　社會(Na)　企業(Na)　與(Caa)　公平(VH)　貿易(Na)　之(DE)　觀念(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　1(Neu)　)(PARENTHESISCATEGORY)　新增(VJ)　社會(Na)　企業(Na)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　2(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　通貨膨脹(VH)　
+
+　((PARENTHESISCATEGORY)　八(Neu)　-(DASHCATEGORY)　3(Neu)　)(PARENTHESISCATEGORY)　刪去(VC)　失業(VH)　問題(Na)　與(Caa)　解決(VC)　

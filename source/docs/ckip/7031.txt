@@ -1,0 +1,71 @@
+　＃(FW)　反(VC)　黑箱(A)　課綱(Na)　
+
+
+
+　台灣(Nc)　孩子(Na)　有(V_2)　憲法(Na)　保障(VC)　的(DE)　受教(Nv)　權利(Na)　，(COMMACATEGORY)
+　台灣(Nc)　國家(Na)　教育(Na)　也(D)　應該(D)　以(P)　本(Nes)　國史(Na)　為(VG)　主體(Na)　，(COMMACATEGORY)
+　台灣(Nc)　孩子(Na)　若(Cbb)　連(Cbb)　台灣(Nc)　本(Nes)　國(Nc)　發展(VC)　歷史(Na)　都(D)　不(D)　知曉(VJ)　，(COMMACATEGORY)
+　如何(D)　能(D)　讓(VL)　國家(Na)　認同(VJ)　繼續(VF)　存在(VA)　！(EXCLANATIONCATEGORY)
+　？(QUESTIONCATEGORY)
+　台灣(Nc)　已(D)　施行(VC)　總統(Na)　直選(Nv)　、(PAUSECATEGORY)　擁有(VJ)　自己(Nh)　立法(Nv)　機構(Na)　立法院(Nc)　，(COMMACATEGORY)
+　教育部(Nc)　此(Nep)　時(Ng)　以(P)　黑箱(A)　課綱(Na)　意圖(Na)　洗腦(Nv)　台灣(Nc)　孩子(Na)　對(P)　國家(Na)　的(DE)　認同感(Na)　，(COMMACATEGORY)
+　才(Da)　是(SHI)　真正(D)　傷害(VC)　台灣(Nc)　主權(Na)　、(PAUSECATEGORY)　打壓(VC)　學生(Na)　受教(Nv)　權益(Na)　罪人(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　後天(Nd)　6(Neu)　/(FW)　13(Neu)　在(P)　師大附中(Nc)　「(PARENTHESISCATEGORY)　中(Ncd)　樂教館(Nc)　」(PARENTHESISCATEGORY)　前(Ng)　，(COMMACATEGORY)
+　有(V_2)　一(Neu)　場(Nf)　由(P)　眾多(VH)　反(VC)　黑箱(A)　課綱(Na)　學生(Na)　團體(Na)　所(D)　發起(VC)　的(DE)　抗議(Nv)　教育部(Nc)　吳思華(Nb)　的(DE)　『(PARENTHESISCATEGORY)　反對(Nv)　洗腦(Nv)　課綱(Na)　殘害(VC)　莘莘學子(Na)　』(PARENTHESISCATEGORY)　活動(Na)　，(COMMACATEGORY)
+　希望(VK)　所有(Neqa)　反對(VE)　這(Nep)　種(Nf)　獨裁式(Na)　、(PAUSECATEGORY)　箝制(VC)　台灣(Nc)　學子(Na)　思想(Na)　的(DE)　學生(Na)　們(Na)　，(COMMACATEGORY)
+　一同(D)　出來(VA)　捍衛(VC)　自己(Nh)　的(DE)　受教權(Na)　，(COMMACATEGORY)
+　捍衛(VC)　台灣(Nc)　國家(Na)　教育(Na)　中立權(Na)　！(EXCLANATIONCATEGORY)
+　要求(VF)　立即(D)　停止(VF)　研擬(VC)　12(Neu)　年(Nf)　國教(Na)　課綱(Na)　，(COMMACATEGORY)
+　莫(D)　讓(VL)　少數(Neqa)　親(Na)　中(Ncd)　政治力(Na)　介入(VC)　國家(Na)　教育(Na)　，(COMMACATEGORY)
+　扼殺(VC)　台灣(Nc)　國家(Na)　尊嚴(Na)　與(Caa)　台灣(Nc)　學子(Na)　權益(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　集合(VAC)　時間(Na)　：(COLONCATEGORY)　　6(Neu)　/(FW)　13(Neu)　((PARENTHESISCATEGORY)　六(Neu)　)(PARENTHESISCATEGORY)　下午(Nd)　15(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　活動(Na)　時間(Na)　：(COLONCATEGORY)　　6(Neu)　/(FW)　13(Neu)　((PARENTHESISCATEGORY)　六(Neu)　)(PARENTHESISCATEGORY)　下午(Nd)　15(Neu)　:(COLONCATEGORY)　　30(Neu)　~(FW)　17(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　活動(Na)　地點(Na)　：(COLONCATEGORY)　　師大附中(Nc)　中(Ncd)　樂教館(Nc)　抗議(VE)　吳思華(Nb)　黑箱(A)　部長(Na)　
+
+　活動(Na)　網頁(Na)　：(COLONCATEGORY)　　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/rStSDh(FW)　
+
+
+
+　主辦(VC)　單位(Na)　:(COLONCATEGORY)　
+
+　反(VC)　洗腦(Nv)　課綱(Na)　學生(Na)　陣線(Na)　
+
+
+
+　協辦(VC)　團體(Na)　:(COLONCATEGORY)　
+
+　捍衛(VC)　學生(Na)　參政(Nv)　權益(Na)　聯盟(Na)　
+
+　青年(Na)　監督(Nv)　改革(Nv)　聯盟(Na)　
+
+　台聯(Nc)　青年軍(Na)　台聯(Nc)　青年網(Na)　((PARENTHESISCATEGORY)　Tsu(FW)　Youth(FW)　)(PARENTHESISCATEGORY)　
+
+　反(VC)　洗腦(Nv)　課綱(Na)　高中職(Nc)　聯盟(Na)　
+
+　青年(Na)　覺醒(Nv)　陣線(Na)　
+
+　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　西松(Nb)　高中(Nc)　站出來(VA)　
+
+　反(VC)　黑箱(A)　課綱(Na)　中(Ng)　科實(VH)　中(Ng)　站出來(VA)　
+
+　育成(VG)　高中(Nc)　反(VC)　黑箱(A)　洗腦(Nv)　課綱(Na)　
+
+　反(VC)　黑箱(A)　課綱(Na)　大直(Nc)　學生(Na)　站起來(VA)　
+
+　延平(Nc)　中學(Nc)　反(VC)　黑箱(A)　課綱(Na)　聯盟(Na)　
+
+　北區(Nc)　高中(Nc)　聯合(A)　攝影社(Nc)　
+
+
+
+　歡迎(VJ)　加入(VC)　填表(VA)　，(COMMACATEGORY)
+　反對(VE)　洗腦(Nv)　課綱(Na)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/0bpOqF(FW)　

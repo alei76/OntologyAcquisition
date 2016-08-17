@@ -1,0 +1,36 @@
+　摘(VC)　：(COLONCATEGORY)　
+
+　黃(Nb)　德宗(Nb)　以(P)　95(Neu)　課綱(Na)　對比(Na)　微調(Na)　課綱(Na)　，(COMMACATEGORY)
+　他(Nh)　表示(VE)　，(COMMACATEGORY)
+　第一(Neu)　次(Nf)　政黨(Na)　輪替(VA)　民進黨(Nb)　執政(VA)　，(COMMACATEGORY)
+　教育部(Nc)　推動(VC)　95(Neu)　課綱(Na)　時(Ng)　，(COMMACATEGORY)
+　在(P)　課綱(Na)　實施(VC)　的(DE)　前(Nes)　一(Neu)　年(Nf)　成立(VC)　學科(Na)　中心(Nc)　，(COMMACATEGORY)
+　並(Cbb)　發(VD)　問卷(Na)　給(VD)　300多(Neu)　校(Nc)　老師(Na)　詢問(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　這樣(VH)　的(DE)　課綱(Na)　內容(Na)　是否(D)　妥適(VH)　？(QUESTIONCATEGORY)
+　如果(Cbb)　不(D)　妥適(VH)　要(D)　怎麼(D)　修改(VC)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　等(Cab)　，(COMMACATEGORY)
+　並(Cbb)　找(VC)　大學(Nc)　教授(Na)　為(VG)　老師(Na)　上課(Nv)　研習(Nv)　、(PAUSECATEGORY)　培訓(Nv)　種子(Na)　老師(Na)　，(COMMACATEGORY)
+　第一(Neu)　年(Nf)　研習(Nv)　台灣史(Na)　、(PAUSECATEGORY)　中國史(Na)　，(COMMACATEGORY)
+　第二(Neu)　年(Nf)　研習(Nv)　世界史(Na)　，(COMMACATEGORY)
+　從(P)　意見(Na)　調查(Nv)　到(Caa)　研習(Nv)　，(COMMACATEGORY)
+　再(D)　作(VC)　意見(Na)　調查(Nv)　、(PAUSECATEGORY)　修改(Nv)　、(PAUSECATEGORY)　再(D)　作(VC)　進一步(D)　研習(VC)　，(COMMACATEGORY)
+　配合(VC)　老師(Na)　的(DE)　需要(Na)　去(D)　研訂(VC)　課綱(Na)　，(COMMACATEGORY)
+　教育部(Nc)　還(D)　要求(VF)　學科(Na)　中心(Nc)　必須(D)　參與(VC)　教科書(Na)　的(DE)　審查(Nv)　，(COMMACATEGORY)
+　提供(VD)　作為(VG)　下(Nes)　次(Nf)　課綱(Na)　修訂(VC)　的(DE)　根據(Na)　。(PERIODCATEGORY)
+
+
+
+　黃德宗(Nb)　表示(VE)　，(COMMACATEGORY)
+　他(Nh)　對(P)　微調(A)　課綱(Na)　搞成(VG)　這樣(VH)　，(COMMACATEGORY)
+　感到(VK)　很(Dfa)　遺憾(VK)　，(COMMACATEGORY)
+　對比(Na)　98(Neu)　課綱(Na)　要求(VF)　學科(Na)　中心(Nc)　老師(Na)　參與(VC)　，(COMMACATEGORY)
+　2013年(Nd)　學科(Na)　中心(Nc)　有(V_2)　老朋友(Na)　跟(P)　他(Nh)　說(VE)　，(COMMACATEGORY)
+　國立(A)　編譯館(Nc)　審訂(VC)　教科書(Na)　排除(VC)　了(Di)　學科(Na)　中心(Nc)　老師(Na)　參與(VC)　，(COMMACATEGORY)
+　黑箱(A)　微調(Na)　課綱(Na)　時(Ng)　，(COMMACATEGORY)
+　歷史(Na)　學科(Na)　中心(Nc)　又(D)　再次(D)　被(P)　排除(VC)　，(COMMACATEGORY)
+　教育部(Nc)　關起(VC)　門(Na)　來(D)　修(VC)　課綱(Na)　，(COMMACATEGORY)
+　取消(VC)　了(Di)　原本(D)　讓(VL)　第一(Neu)　線(Nf)　老師(Na)　參與(VC)　課綱(Na)　修訂(Nv)　、(PAUSECATEGORY)　良好(VH)　做(VC)　事情(Na)　的(DE)　方法(Na)　，(COMMACATEGORY)
+　使(VL)　學科(Na)　中心(Nc)　原本(D)　具有(VJ)　的(DE)　上下(Ncd)　合作(VH)　的(DE)　功能(Na)　因此(Cbb)　消失(VA)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1386563(Neu)　

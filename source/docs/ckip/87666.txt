@@ -1,0 +1,13 @@
+　或許(D)　他們(Nh)　不(D)　希望(VK)　我們(Nh)　有(V_2)　臺灣(Nc)　意識(Na)　
+
+　希望(VK)　我們(Nh)　覺得(VK)　中國(Nc)　好(VH)　棒棒(Neqa)　
+
+　才(Da)　會(D)　用(P)　黑箱(A)　的(DE)　方式(Na)　弄(VC)　這(Nep)　個(Nf)　課綱(Na)　啊(T)　
+
+　你(Nh)　是(SHI)　中國人(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　我(Nh)　不(D)　知道(VK)　
+
+　可是(Cbb)　我(Nh)　是(SHI)　臺灣人(Na)　，(COMMACATEGORY)
+　抗爭(VA)　現在(Nd)　才(Da)　剛(D)　開始(VL)　
+
+　By(FW)　小編(Na)　G(FW)　

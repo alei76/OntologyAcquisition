@@ -1,0 +1,5 @@
+　教育部(Nc)　在(P)　唬爛(VC)　，(COMMACATEGORY)
+　今天(Nd)　下午(Nd)　學校(Nc)　都(D)　還(D)　在場(VA)　佈(VC)　。(PERIODCATEGORY)
+　請(VF)　教育部(Nc)　不要(D)　推卸(VC)　責任(Na)　，(COMMACATEGORY)
+　出來(VA)　面對(VC)　，(COMMACATEGORY)
+　正面(Na)　回應(Nv)　問題(Na)　！(EXCLANATIONCATEGORY)

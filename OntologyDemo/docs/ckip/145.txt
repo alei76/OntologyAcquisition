@@ -1,0 +1,5 @@
+　教育部(Nc)　是(SHI)　想(VE)　以(P)　拖(VC)　待(P)　變(VH)　？(QUESTIONCATEGORY)
+　還是(D)　另(Nes)　有(V_2)　盤算(VE)　？(QUESTIONCATEGORY)
+
+　不(D)　辦(VC)　座談會(Na)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　他們(Nh)　會(D)　做(VC)　些(Dfb)　什麼(Nep)　？(QUESTIONCATEGORY)

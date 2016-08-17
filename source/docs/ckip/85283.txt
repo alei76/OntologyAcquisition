@@ -1,0 +1,5 @@
+　不(D)　知道(VK)　大家(Nh)　有沒有(D)　發現(VE)　最近(Nd)　教育部(Nc)　好(Dfa)　安靜(VH)　？(QUESTIONCATEGORY)
+
+　媒體(Na)　也(D)　鮮少(D)　談(VE)　課綱(Na)　了(T)　？(QUESTIONCATEGORY)
+
+　這(Nep)　是(SHI)　一(Neu)　個(Nf)　警訊(VA)　啊(T)　！(EXCLANATIONCATEGORY)

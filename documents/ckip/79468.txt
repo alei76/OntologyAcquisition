@@ -1,0 +1,12 @@
+　是(SHI)　誰(Nh)　以(P)　黑箱(A)　程序(Na)　強行(D)　通過(VC)　新課綱(Na)　？(QUESTIONCATEGORY)
+　又(D)　是(SHI)　誰(Nh)　臨陣脫逃(VA)　取消(VC)　了(Di)　座談會(Na)　？(QUESTIONCATEGORY)
+
+
+
+　要求(VF)　撤回(VC)　程序(Na)　不(D)　正義(VH)　的(DE)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　求(VC)　的(DE)　不過(Da)　只是(D)　一(Neu)　個(Nf)　讓(VL)　不同(VH)　聲音(Na)　重新(D)　平等(VH)　對話(Na)　的(DE)　機會(Na)　。(PERIODCATEGORY)
+
+
+
+　到底(D)　是(SHI)　誰(Nh)　在(P)　壓抑(VC)　另(Nes)　一(Neu)　方(Nf)　的(DE)　聲音(Na)　？(QUESTIONCATEGORY)
+　濕(VH)　滑(VH)　你(Nh)　倒是(D)　說說(VE)　看(VC)　啊(T)　？(QUESTIONCATEGORY)

@@ -1,0 +1,24 @@
+　公民(Na)　老師(Na)　為什麼(D)　走上(VCL)　街頭(Nc)　？(QUESTIONCATEGORY)
+　高等(A)　行政(Na)　法院(Nc)　為什麼(D)　判定(VE)　教育部(Nc)　敗訴(VH)　？(QUESTIONCATEGORY)
+
+　課綱(Na)　刪除(VC)　228(Neu)　事件(Na)　和(Caa)　白色恐怖(Nb)　，(COMMACATEGORY)
+　有(V_2)　那麼(D)　嚴重(VH)　嗎(T)　？(QUESTIONCATEGORY)
+　課綱(Na)　到底(D)　怎麼(D)　制訂(VC)　出來(VA)　的(T)　，(COMMACATEGORY)
+　課綱(Na)　、(PAUSECATEGORY)　課本(Na)　和(Caa)　考試(Na)　的(DE)　關聯(Nv)　又(D)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+
+
+　如果(Cbb)　您(Nh)　是(SHI)　關心(VK)　教育(Na)　的(DE)　公民(Na)　朋友(Na)　，(COMMACATEGORY)
+　應該(D)　關心(VK)　這些(Neqa)　議題(Na)　。(PERIODCATEGORY)
+　如果(Cbb)　您(Nh)　是(SHI)　學生(Na)　或(Caa)　家長(Na)　，(COMMACATEGORY)
+　更(D)　應該(D)　關心(VK)　這些(Neqa)　議題(Na)　。(PERIODCATEGORY)
+
+
+
+　六月(Nd)　四(Neu)　((PARENTHESISCATEGORY)　四(Neu)　)(PARENTHESISCATEGORY)　晚上(Nd)　七(Neu)　點(Nf)　半(Neqb)　，(COMMACATEGORY)
+　在(P)　晃晃(VA)　二手(A)　書店(Nc)　（(PARENTHESISCATEGORY)　台東市(Nc)　新生路(Nc)　503巷(Nc)　8(Neu)　號(Nf)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　公民(Na)　教師(Na)　行動(Na)　聯盟(Na)　發起人(Na)　，(COMMACATEGORY)
+　台東(Nc)　女中(Nc)　公民(Na)　教師(Na)　周威同(Nb)　所(D)　主持(VC)　的(DE)　課(Na)　綱(Na)　「(PARENTHESISCATEGORY)　違(VJ)　」(PARENTHESISCATEGORY)　調(VC)　座談會(Na)　，(COMMACATEGORY)
+　將(D)　為(P)　您(Nh)　揭穿(VC)　教育部(Nc)　宣稱(VE)　「(PARENTHESISCATEGORY)　合憲(Nb)　，(COMMACATEGORY)
+　合法(VH)　，(COMMACATEGORY)
+　合(VG)　程序(Na)　」(PARENTHESISCATEGORY)　的(DE)　秘密(Na)　！(EXCLANATIONCATEGORY)

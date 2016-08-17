@@ -1,0 +1,10 @@
+　把(P)　一(Neu)　種(Nf)　文明(Na)　硬(VH)　ㄠ(FW)　成(VG)　文化(Na)　甚至(D)　是(SHI)　國族(Na)　來(D)　看待(VC)　，(COMMACATEGORY)
+　是(SHI)　非常(Dfa)　危險(VH)　的(T)　。(PERIODCATEGORY)
+
+　「(PARENTHESISCATEGORY)　日本人(Na)　也(D)　可以(D)　看(VC)　三國演義(Nb)　，(COMMACATEGORY)
+　用(P)　漢字(Na)　，(COMMACATEGORY)
+　但(Cbb)　不見得(D)　要(D)　過(VCL)　端午節(Nd)　，(COMMACATEGORY)
+　香港人(Na)　可以(D)　過(VCL)　聖誕節(Nd)　，(COMMACATEGORY)
+　不見得(D)　過(VCL)　聖誕節(Nd)　就(D)　是(SHI)　基督徒(Na)　，(COMMACATEGORY)
+　就(D)　只是(D)　因為(Cbb)　他們(Nh)　受(VJ)　了(Di)　基督教(Nb)　文明(Na)　影響(Na)　而已(T)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　

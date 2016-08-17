@@ -1,0 +1,16 @@
+　日治(A)　時代(Na)　「(PARENTHESISCATEGORY)　吾(Nh)　台(Nc)　人本(A)　無(VJ)　中學(Nc)　，(COMMACATEGORY)
+　有(V_2)　則(D)　自(P)　本(Nes)　校(Nc)　始(D)　」(PARENTHESISCATEGORY)　
+
+　中(Ncd)　一(Neu)　中(Ncd)　身為(VG)　台灣人(Na)　第一(Neu)　個(Nf)　創辦(VC)　的(DE)　學校(Nc)　，(COMMACATEGORY)
+　果然(D)　很(Dfa)　有(V_2)　骨氣(Na)　
+
+
+
+　以下(Ncd)　還(D)　有(V_2)　三(Neu)　場(Nf)　座談會(Na)　，(COMMACATEGORY)
+　大家(Nh)　可以(D)　挑(VC)　鄰近(VJ)　的(DE)　前往(VCL)　
+
+　6月(Nd)　13日(Nd)　星期六(Nd)　10(Neu)　:(COLONCATEGORY)　　00(Neu)　~(FW)　11(Neu)　:(COLONCATEGORY)　　30(Neu)　台南(Nc)　一(Neu)　中(Ncd)　國際(Nc)　會議廳(Nc)　
+
+　6月(Nd)　13日(Nd)　星期六(Nd)　15(Neu)　:(COLONCATEGORY)　　30(Neu)　~(FW)　17(Neu)　:(COLONCATEGORY)　　00(Neu)　師大附中(Nc)　樂教館(Nc)　
+
+　6月(Nd)　14日(Nd)　星期日(Nd)　10(Neu)　:(COLONCATEGORY)　　00(Neu)　~(FW)　11(Neu)　:(COLONCATEGORY)　　30(Neu)　新竹(Nc)　高中(Nc)　視聽(A)　教育館(Nc)　2樓(Nc)　會議室(Nc)　)(PARENTHESISCATEGORY)　

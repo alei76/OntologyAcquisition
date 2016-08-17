@@ -1,0 +1,9 @@
+　幫(P)　宣傳(Na)　！(EXCLANATIONCATEGORY)
+　台中(Nc)　二中(Nb)　也(D)　建立(VC)　反(VC)　黑箱(A)　課綱(Na)　的(DE)　專頁(Na)　囉(T)　！(EXCLANATIONCATEGORY)
+
+　全(Neqa)　台(Nf)　高中生(Na)　一同(D)　站出來(VA)　反(VC)　黑箱(A)　課綱(Na)　吧(T)　！(EXCLANATIONCATEGORY)
+
+
+
+　（(PARENTHESISCATEGORY)　非常(Dfa)　歡迎(VJ)　各(Nes)　校(Nc)　來(D)　跟(P)　我們(Nh)　分享(VJ)　專頁(Na)　唷(T)　！(EXCLANATIONCATEGORY)
+　我們(Nh)　會(D)　幫忙(VC)　宣傳(Na)　～(FW)　）(PARENTHESISCATEGORY)　

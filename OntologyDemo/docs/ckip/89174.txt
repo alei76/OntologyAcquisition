@@ -1,0 +1,8 @@
+　前鎮(Nc)　高中(Nc)　歷史(Na)　教師(Na)　洪碧霞(Nb)　肯定(VK)　高中生(Na)　的(DE)　勇氣(Na)　，(COMMACATEGORY)
+　她(Nh)　以(P)　「(PARENTHESISCATEGORY)　今天(Nd)　，(COMMACATEGORY)
+　您(Nh)　站出來(VA)　有(V_2)　多(Dfa)　重要(VH)　」(PARENTHESISCATEGORY)　為題(VI)　強調(VE)　，(COMMACATEGORY)
+　原本(D)　教育部(Nc)　完全(D)　不(D)　甩(VC)　歷史(Na)　教授(Na)　、(PAUSECATEGORY)　高中(Nc)　老師(Na)　及(Caa)　社會(Na)　團體(Na)　的(DE)　反映(Nv)　，(COMMACATEGORY)
+　直到(P)　全(Neqa)　國(Nc)　高中生(Na)　網路(Na)　串連(VB)　，(COMMACATEGORY)
+　並(Cbb)　站出來(VA)　發聲(VA)　，(COMMACATEGORY)
+　才(Da)　迫使(VL)　教育部(Nc)　宣布(VE)　新舊(Na)　課綱(Na)　並用(VB)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　這(Nep)　就是(Cbb)　學生(Na)　的(DE)　力量(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)

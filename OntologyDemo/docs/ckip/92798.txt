@@ -1,0 +1,12 @@
+　大家(Nh)　好(VH)　，(COMMACATEGORY)
+　我們(Nh)　竹中(Nc)　今天(Nd)　也(D)　有(V_2)　一(Neu)　位(Nf)　畢業(VH)　學長(Na)　跟(P)　一(Neu)　個(Nf)　明天(Nd)　就(D)　要(VC)　段考(Na)　的(DE)　高(VH)　一(Neu)　學弟(Na)　來(D)　幫忙(VC)　啊(T)　！(EXCLANATIONCATEGORY)
+
+　明天(Nd)　我們(Nh)　的(DE)　活動(Na)　在(P)　竹女(Na)　，(COMMACATEGORY)
+　而(Cbb)　未來(Nd)　我們(Nh)　將(D)　在(P)　更多(Neqa)　地方(Na)　發放(VD)　傳單(Na)　，(COMMACATEGORY)
+　請(VF)　隨時(D)　關注(VJ)　我們(Nh)　的(DE)　粉絲(Na)　專頁(Na)　，(COMMACATEGORY)
+　不論(Cbb)　支持(VC)　或是(Caa)　反對(VE)　我們(Nh)　的(DE)　訴求(Na)　，(COMMACATEGORY)
+　抑或(Caa)　是(SHI)　來不及(D)　關注(VJ)　這(Nep)　個(Nf)　議題(Na)　，(COMMACATEGORY)
+　我們(Nh)　都(D)　希望(VK)　您(Nh)　能(D)　領取(VC)　一(Neu)　份(Nf)　我們(Nh)　的(DE)　傳單(Na)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　一起(D)　來(D)　關心(VK)　這(Nep)　塊(Nf)　我們(Nh)　所(D)　深愛(VJ)　的(DE)　土地(Na)　上(Ng)　，(COMMACATEGORY)
+　需要(VK)　的(DE)　是(SHI)　以(P)　土地(Na)　與(Caa)　學生(Na)　為主(VI)　的(DE)　教育(Na)　，(COMMACATEGORY)
+　還是(D)　讓(VL)　教育(Na)　成為(VG)　政治(Na)　的(DE)　魁儡(Nc)　。(PERIODCATEGORY)

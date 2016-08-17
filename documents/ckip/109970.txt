@@ -1,0 +1,29 @@
+　出現(VH)　在(P)　商周(Nb)　電子報(Na)　惹(VC)　。(PERIODCATEGORY)
+
+
+
+　摘(VC)　：(COLONCATEGORY)　　課綱(Na)　微調(Na)　在(P)　學生(Na)　間(Ng)　引起(VC)　的(DE)　龐大(VH)　憤怒(VH)　並非(D)　憑空(D)　出現(VH)　。(PERIODCATEGORY)
+　早(D)　在(P)　2012年(Nd)　，(COMMACATEGORY)
+　便有(VJ)　教授(Na)　發動(VC)　搶救(Nv)　歷史(Na)　教科書(Na)　的(DE)　聯署(Nv)　，(COMMACATEGORY)
+　到(VCL)　了(Di)　2013年(Nd)　，(COMMACATEGORY)
+　半路(Nc)　殺出(VCL)　的(DE)　檢核(Nv)　小組(Na)　強硬(VH)　地(DE)　進行(VC)　課綱(Na)　「(PARENTHESISCATEGORY)　違(VJ)　」(PARENTHESISCATEGORY)　調(Na)　之後(Ng)　，(COMMACATEGORY)
+　2014年(Nd)　更(D)　有(V_2)　一百多(Neu)　位(Nf)　歷史(Na)　學者(Na)　發表(VC)　反對(Nv)　課綱(Na)　微調(Na)　的(DE)　共同(A)　聲明(Na)　。(PERIODCATEGORY)
+　這(Nep)　波(Nf)　怒火(Na)　早已(D)　流竄(VCL)　於(P)　全(Neqa)　台(Nf)　各界(Na)　，(COMMACATEGORY)
+　如今(Nd)　學生(Na)　站出來(VA)　捍衛(VC)　受教(VI)　之(DE)　權利(Na)　，(COMMACATEGORY)
+　可(D)　說(VE)　是(SHI)　時勢(Na)　之(DE)　必然(Na)　。(PERIODCATEGORY)
+
+
+
+　對於(P)　他們(Nh)　而言(VE)　，(COMMACATEGORY)
+　教育部(Nc)　不單(Da)　在(P)　公聽會(Na)　的(DE)　流程(Na)　上(Ncd)　有(V_2)　極(Dfa)　大(VH)　問題(Na)　，(COMMACATEGORY)
+　因(Cbb)　資訊(Na)　不(D)　公開(VHC)　而(Cbb)　被(P)　高等(A)　行政(Na)　法院(Nc)　一審(Na)　判決(Nv)　違法(Nv)　後(Ng)　，(COMMACATEGORY)
+　仍然(D)　故我(VH)　的(DE)　態度(Na)　也(D)　讓(VL)　他們(Nh)　感到(VK)　不可(D)　置信(VI)　。(PERIODCATEGORY)
+　廖(Nb)　崇倫(Nb)　無奈(VH)　說(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　就算(Cbb)　今天(Nd)　最高法院(Nc)　神乎其技(VH)　的(DE)　判(VE)　你(Nh)　沒有(D)　違法(VA)　好了(T)　，(COMMACATEGORY)
+　那(Nep)　難道(D)　這(Nep)　就是(Cbb)　一(Neu)　個(Nf)　教育(Na)　者(Na)　展現(VC)　的(DE)　格調(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　就是(Cbb)　告訴(VE)　我們(Nh)　非得(D)　死(VH)　到(P)　臨頭(VA)　、(PAUSECATEGORY)　非得(D)　被(P)　判(VE)　違法(VA)　才(Da)　為(P)　你(Nh)　黑箱(A)　作業(Na)　感到(VK)　羞愧(VH)　嗎(T)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.businessweekly.com.tw/KBlogArticle.aspx(FW)　?(QUESTIONCATEGORY)
+　ID(FW)　=(FW)　13054(Neu)　

@@ -1,0 +1,14 @@
+　#(FW)　課綱(Na)　微調(Na)　的(DE)　真相(Na)　
+
+　給(P)　爸媽(Na)　的(DE)　一(Neu)　封(Nf)　信(Na)　
+
+　為了(P)　教育(Na)　，(COMMACATEGORY)
+　還(D)　有(V_2)　我們(Nh)　的(DE)　未來(Nd)　
+
+
+
+　用(P)　真心(VH)　，(COMMACATEGORY)
+　維護(VC)　台灣(Nc)　的(DE)　民主(Na)　；(SEMICOLONCATEGORY)　
+
+　用(P)　信念(Na)　，(COMMACATEGORY)
+　許(VC)　我們(Nh)　一(Neu)　個(Nf)　自由(VH)　的(DE)　未來(Nd)　。(PERIODCATEGORY)

@@ -1,0 +1,62 @@
+　在(P)　昨天(Nd)　以前(Ng)　，(COMMACATEGORY)
+　身(Na)　在(P)　慧燈(Na)　的(DE)　你(Nh)　，(COMMACATEGORY)
+　認識(VJ)　他(Nh)　嗎(T)　?(QUESTIONCATEGORY)
+
+　我(Nh)　很(Dfa)　慚愧(VH)　，(COMMACATEGORY)
+　因為(Cbb)　我(Nh)　只(Da)　聽說(VE)　過(Di)　他(Nh)　的(DE)　名字(Na)　，(COMMACATEGORY)
+　但(Cbb)　並(D)　不(D)　了解(VK)　。(PERIODCATEGORY)
+
+　但(Cbb)　我(Nh)　由衷(D)　的(DE)　敬佩(VJ)　他(Nh)　
+
+　也許(D)　你(Nh)　可以(D)　覺得(VK)　支持(VC)　台灣(Nc)　獨立(VH)　至今(D)　，(COMMACATEGORY)
+　很(Dfa)　傻(VH)　，(COMMACATEGORY)
+　很(Dfa)　無聊(VH)　，(COMMACATEGORY)
+　很(Dfa)　無謂(A)　
+
+　但(Cbb)　我(Nh)　的(DE)　看法(Na)　，(COMMACATEGORY)
+　我(Nh)　認為(VE)　，(COMMACATEGORY)
+　不管(Cbb)　怎麼樣(VH)　，(COMMACATEGORY)
+　他(Nh)　一(D)　個人(Nh)　扛(VC)　起(Di)　台灣(Nc)　這(Nep)　四百(Neu)　年(Nf)　，(COMMACATEGORY)
+　飽受(VJ)　摧殘(Nv)　的(DE)　歷史(Na)　。(PERIODCATEGORY)
+
+　究竟(D)　有(V_2)　多少(Neqa)　事件(Na)　，(COMMACATEGORY)
+　被(P)　徹底(VH)　彌封(VB)　在(P)　黑暗(VH)　的(DE)　深淵(Na)　?(QUESTIONCATEGORY)
+　((PARENTHESISCATEGORY)　請(VF)　看(VC)　專頁(Na)　左(Ncd)　下方(Ncd)　訪客(Na)　發文(VA)　，(COMMACATEGORY)
+　台灣(Nc)　二戰(Na)　時期(Na)　的(DE)　一些(Neqa)　故事(Na)　)(PARENTHESISCATEGORY)　
+
+　不要(D)　說(VE)　現在(Nd)　正在(D)　對(P)　課綱(Na)　強行(D)　去(D)　中國化(VHC)　，(COMMACATEGORY)
+　摧殘(VC)　著(Di)　的(DE)　教育部(Nc)　高層(Na)　，(COMMACATEGORY)
+　在(P)　更(D)　久(VH)　以前(Ng)　，(COMMACATEGORY)
+　民國(Nd)　初年(Nd)　的(DE)　政府(Na)　內部(Ncd)　，(COMMACATEGORY)
+　甚至(D)　追溯(VC)　到(P)　日治(A)　末(Nes)　期(Nf)　，(COMMACATEGORY)
+　皇民化(Nv)　運動(Na)　對(P)　台灣(Nc)　的(DE)　影響(Na)　。(PERIODCATEGORY)
+　這(Nep)　片(Nf)　土地(Na)　的(DE)　歷史(Na)　，(COMMACATEGORY)
+　到底(D)　遭受到(VJ)　多少(Neqa)　人(Na)　的(DE)　踐踏(VC)　掩蓋(VC)　，(COMMACATEGORY)
+　答案(Na)　至今(D)　無解(VH)　。(PERIODCATEGORY)
+
+　史明(Nb)　先生(Na)　九十七(Neu)　歲(Nf)　了(T)　，(COMMACATEGORY)
+　左(Ncd)　眼(Na)　不再(D)　像(VG)　一般人(Na)　這樣(VH)　，(COMMACATEGORY)
+　能(D)　看到(VE)　世間(Nc)　五彩(Na)　的(DE)　風光(Na)　。(PERIODCATEGORY)
+
+　但(Cbb)　他(Nh)　仍(D)　堅決(VH)　的(DE)　拿起(VC)　麥克風(Na)　，(COMMACATEGORY)
+　走上(VCL)　戰場(Na)　，(COMMACATEGORY)
+　為了(P)　保護(VC)　台灣(Nc)　這(Nep)　片(Nf)　土地(Na)　的(DE)　一切(Neqa)　，(COMMACATEGORY)
+　包括(VK)　歷史(Na)　。(PERIODCATEGORY)
+
+　我們(Nh)　現在(Nd)　還(D)　有(V_2)　一(Neu)　大(VH)　片(Nf)　未知(VJ)　的(DE)　未來(Nd)　，(COMMACATEGORY)
+　充滿(VJ)　著(Di)　未知(VJ)　，(COMMACATEGORY)
+　變數(Na)　，(COMMACATEGORY)
+　和(Caa)　希望(VK)　
+
+　這(Nep)　次(Nf)　
+
+　就(D)　一起(D)　站出來(VA)　吧(T)　，(COMMACATEGORY)
+　大聲(VH)　地(DE)　對(P)　教育部(Nc)　說(VE)　我們(Nh)　不(D)　滿意(VK)　，(COMMACATEGORY)
+　我們(Nh)　想要(VE)　有(V_2)　更(D)　好(VH)　的(DE)　歷史(Na)　教育(Na)　，(COMMACATEGORY)
+　想要(VE)　有(V_2)　更(D)　完整(VH)　的(DE)　土地(Na)　文化(Na)　。(PERIODCATEGORY)
+
+　別(D)　再(D)　讓(VL)　史明(Nb)　先生(Na)　孤獨(VH)　
+
+　Su(FW)　Beng(FW)　
+
+　圖源(Na)　:(COLONCATEGORY)　　許耿瑋(Nb)　老師(Na)　

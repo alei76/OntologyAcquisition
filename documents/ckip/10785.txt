@@ -1,0 +1,18 @@
+　[(PARENTHESISCATEGORY)　你們(Nh)　的(DE)　聲音(Na)　我(Nh)　都(D)　聽到(VE)　了(T)　？(QUESTIONCATEGORY)
+　](PARENTHESISCATEGORY)　
+
+
+
+　課綱(Na)　爭議(Na)　延燒(VC)　至今(D)　，(COMMACATEGORY)
+　教育部(Nc)　終於(D)　想到(VE)　一(Neu)　個(Nf)　妙計(Na)　了(T)　喔(T)　，(COMMACATEGORY)
+　那(Dk)　就是(Cbb)　在(P)　北(Ncd)　中(Ncd)　南(Ncd)　各(Nes)　辦(VC)　一(Neu)　場(Nf)　沒有(VJ)　法定(A)　效力(Na)　的(DE)　座談會(Na)　。(PERIODCATEGORY)
+
+
+
+　所謂(VK)　廣納(VC)　意見(Na)　的(DE)　座談會(Na)　，(COMMACATEGORY)
+　是否(D)　會(D)　淪為(VG)　政令(Na)　宣導(Nv)　，(COMMACATEGORY)
+　或是(Caa)　摸(VC)　頭(Nf)　大(VH)　會(D)　？(QUESTIONCATEGORY)
+　我們(Nh)　呼籲(VE)　，(COMMACATEGORY)
+　教育部(Nc)　應(D)　不(D)　預設(VC)　任何(Neqa)　條件(Na)　，(COMMACATEGORY)
+　提供(VD)　平等(VH)　的(DE)　對話(Na)　平台(Na)　，(COMMACATEGORY)
+　將(P)　我們(Nh)　的(DE)　意見(Na)　與(Caa)　訴求(Na)　真實(VH)　的(DE)　反映(VE)　在(P)　政策(Na)　的(DE)　修改(Nv)　上(Ng)　。(PERIODCATEGORY)

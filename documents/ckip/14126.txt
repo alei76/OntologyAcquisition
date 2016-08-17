@@ -1,0 +1,12 @@
+　今天(Nd)　自由時報(Nb)　A(FW)　12(Neu)　生活(Na)　新聞版(Na)　：(COLONCATEGORY)　
+
+　效法(VC)　318(Neu)　學運(Na)　，(COMMACATEGORY)
+　自己(Nh)　課本(Na)　自己(Nh)　救(VC)　
+
+　已(D)　有(V_2)　61(Neu)　高中(Nc)　串連(VB)　，(COMMACATEGORY)
+　擋(VC)　黑箱(A)　課綱(Na)　
+
+
+
+　評論(Na)　：(COLONCATEGORY)　　魯迅(Nb)　《(PARENTHESISCATEGORY)　狂人(Na)　日記(Na)　》(PARENTHESISCATEGORY)　曾(D)　寫到(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　救救(VC)　孩子(Na)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　台灣(Nc)　的(DE)　未來(Nd)　有(V_2)　救(VC)　了(Di)　！(EXCLANATIONCATEGORY)

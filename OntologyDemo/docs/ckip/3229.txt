@@ -1,0 +1,20 @@
+　【(PARENTHESISCATEGORY)　直播(VC)　】(PARENTHESISCATEGORY)　熱血(Na)　教師(Na)　破(VHC)　黑箱(A)　：(COLONCATEGORY)　　揭露(VC)　你(Nh)　所(D)　不(D)　知道(VK)　的(DE)　課(Na)　綱(Na)　微調(Na)　爭議(Na)　
+
+　時間(Na)　：(COLONCATEGORY)　　6月(Nd)　6日(Nd)　((PARENTHESISCATEGORY)　週六(Nd)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　19(Neu)　:(COLONCATEGORY)　　00(Neu)　–(FW)　21(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　地點(Na)　：(COLONCATEGORY)　　後門(Na)　咖啡(Na)　台北市(Nc)　大安區(Nc)　復興南路(Nc)　332(Neu)　號(Nf)　
+
+　與(P)　談(VE)　人(Na)　：(COLONCATEGORY)　
+
+　＜(FW)　U+9EC(FW)　4(Neu)　＞(FW)　益(Na)　中(Ng)　（(PARENTHESISCATEGORY)　大直(Nc)　高中(Nc)　公民(Na)　科教師(Na)　）(PARENTHESISCATEGORY)　
+
+　莊珮柔(Nb)　（(PARENTHESISCATEGORY)　建國(Nv)　中學(Nc)　歷史(Na)　科教師(Na)　）(PARENTHESISCATEGORY)　
+
+　直播(VC)　：(COLONCATEGORY)　　（(PARENTHESISCATEGORY)　公民(Na)　實況(Na)　轉播(VC)　組(Nc)　-(DASHCATEGORY)　文森(Nb)　直播(VC)　-(DASHCATEGORY)　Ex(FW)　）(PARENTHESISCATEGORY)　
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　livestre.am/57NVK(FW)　
+
+
+
+　訊息源(Na)　：(COLONCATEGORY)　　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.facebook.com/events(FW)　/(FW)　852148338193582(Neu)　

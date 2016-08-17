@@ -1,0 +1,7 @@
+　各(Nes)　地(Na)　的(DE)　高中生(Na)　都(D)　站出來(VA)　了(Di)　,(COMMACATEGORY)
+　身為(VG)　彰(Nc)　中(Ncd)　人(Na)　你(Nh)　還(D)　不(D)　站出來(VA)　嗎(T)　？(QUESTIONCATEGORY)
+　？(QUESTIONCATEGORY)
+
+　我(Nh)　是(SHI)　彰(Nc)　中(Ncd)　人(Na)　,(COMMACATEGORY)
+　我(Nh)　反對(VE)　黑箱(A)　課綱(Na)　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)

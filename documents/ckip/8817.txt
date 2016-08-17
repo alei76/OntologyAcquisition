@@ -1,0 +1,64 @@
+　各(Nes)　位(Nf)　好(VH)　，(COMMACATEGORY)
+　關於(P)　外界(Ncd)　對(P)　整體(Na)　學生(Na)　的(DE)　質疑(Nv)　甚至(D)　反駁(VC)　，(COMMACATEGORY)
+　有(V_2)　諸多(Neqa)　種類(Na)　，(COMMACATEGORY)
+　其中(Nep)　有(V_2)　一(Neu)　種(Nf)　質疑(VE)　我(Nh)　希望(VK)　大家(Nh)　不要(D)　中槍(Na)　，(COMMACATEGORY)
+　穿好(VC)　防彈衣(Na)　，(COMMACATEGORY)
+　帶好(VC)　頭盔(Na)　，(COMMACATEGORY)
+　我們(Nh)　可以(D)　繼續(VF)　昂首闊步(VA)　。(PERIODCATEGORY)
+
+
+
+　他們(Nh)　或許(D)　會(D)　說(VE)　：(COLONCATEGORY)　　你們(Nh)　有(V_2)　很多(Neqa)　人(Na)　平常(Nd)　也(D)　沒(D)　在(P)　讀書(VA)　，(COMMACATEGORY)
+　課綱(Na)　怎麼(D)　改(VC)　關(VC)　你(Nh)　什麼(Nep)　事(Na)　？(QUESTIONCATEGORY)
+　前(Nes)　三(Neu)　志願(Na)　也(D)　就(D)　算了(VH)　，(COMMACATEGORY)
+　連(Cbb)　高職(Nc)　這(Nep)　種(Nf)　咖(b)　也(D)　來(D)　反(VC)　課綱(Na)　，(COMMACATEGORY)
+　不然(Cbb)　你(Nh)　說說(VE)　，(COMMACATEGORY)
+　你(Nh)　上(Nes)　次(Nf)　歷史(Na)　考(VC)　幾(Neu)　分(Nf)　？(QUESTIONCATEGORY)
+
+
+
+　這(Nep)　很(Dfa)　兇猛(VH)　吧(T)　？(QUESTIONCATEGORY)
+　被(P)　遇到(VC)　了(Di)　處理(VC)　不(D)　好(VH)　就(D)　會(D)　惱羞(VH)　的(DE)　質疑(Nv)　，(COMMACATEGORY)
+　感覺(VK)　他(Nh)　說(VE)　的(DE)　很(Dfa)　有(V_2)　邏輯(Na)　齁(b)　？(QUESTIONCATEGORY)
+
+
+
+　但是(Cbb)　，(COMMACATEGORY)
+　我們(Nh)　重新(D)　拉出來(VB)　看(VC)　，(COMMACATEGORY)
+　每(Nes)　天(Nf)　新聞(Na)　國內(Nc)　國外(Nc)　這麼多(Neqa)　議題(Na)　，(COMMACATEGORY)
+　閱聽人(Na)　怎麼(D)　可能(D)　對(P)　每(Nes)　個(Nf)　議題(Na)　同時(Nd)　持續(VL)　關注(VJ)　，(COMMACATEGORY)
+　又(D)　怎麼(D)　可能(D)　同時(Nd)　被(P)　每(Nes)　一(Neu)　個(Nf)　議題(Na)　深刻(VH)　影響(Na)　（(PARENTHESISCATEGORY)　深刻(VH)　影響(Na)　大概(D)　指(VG)　認真(VH)　讀(VC)　歷史(Na)　的(DE)　高中生(Na)　被(P)　課綱(Na)　微調(Na)　深刻(VH)　影響(Na)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　認真(VH)　的(DE)　同學(Na)　看似(VG)　就(D)　沒(VJ)　影響(Na)　這麼(Dfa)　大(VH)　）(PARENTHESISCATEGORY)　？(QUESTIONCATEGORY)
+　可是(Cbb)　即使(Cbb)　如此(VH)　，(COMMACATEGORY)
+　閱聽人(Na)　就(D)　失去(VJ)　了(Di)　自己(Nh)　的(DE)　表態(Na)　立場(Na)　的(DE)　正當性(Na)　了(T)　嗎(T)　？(QUESTIONCATEGORY)
+　就(D)　因為(Cbb)　isis(FW)　不關(VJ)　我(Nh)　台灣人(Na)　的(DE)　事(Na)　，(COMMACATEGORY)
+　我(Nh)　就(D)　不會(D)　為(P)　這(Nep)　件(Nf)　事情(Na)　思索(VE)　，(COMMACATEGORY)
+　並(Cbb)　在(P)　網路(Na)　上(Ncd)　與(Caa)　人(Na)　論(VC)　道義(Na)　了(T)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　假設(VE)　我(Nh)　看到(VE)　有(V_2)　人(Na)　虐待(VC)　狗(Na)　，(COMMACATEGORY)
+　其實(D)　不關(VJ)　我(Nh)　的(DE)　事(Na)　，(COMMACATEGORY)
+　我(Nh)　多管閒事(VH)　反而(Cbb)　招引(VC)　麻煩(Na)　。(PERIODCATEGORY)
+
+
+
+　但是(Cbb)　就(D)　因為(Cbb)　那(Nep)　不關(VJ)　我(Nh)　的(DE)　事(Na)　，(COMMACATEGORY)
+　我(Nh)　就(D)　失去(VJ)　了(Di)　表態(VA)　的(DE)　正當性(Na)　了(T)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　這(Nep)　就(D)　如同(P)　我(Nh)　不(D)　讀(VC)　歷史(Na)　，(COMMACATEGORY)
+　歷史課(Na)　綱(Na)　或許(D)　不會(D)　影響(VC)　我(Nh)　，(COMMACATEGORY)
+　但是(Cbb)　我(Nh)　即便(Cbb)　不(D)　是(SHI)　前(Nes)　三(Neu)　志願(Na)　，(COMMACATEGORY)
+　仍然(D)　深刻(VH)　體認到(VK)　下一代(Na)　的(DE)　學子(Na)　意識(Na)　形態(Na)　與(Caa)　歷史(Na)　知識(Na)　將(D)　受到(VJ)　嚴重(VH)　霸凌(Nb)　，(COMMACATEGORY)
+　我(Nh)　要不要(D)　表態(VA)　？(QUESTIONCATEGORY)
+
+
+
+　我們(Nh)　不要(D)　被(P)　他人(Nh)　限定(VK)　了(Di)　自己(Nh)　思考(VE)　判斷(VE)　的(DE)　資格(Na)　。(PERIODCATEGORY)
+　以後(Nd)　不論(Cbb)　什麼(Nep)　議題(Na)　，(COMMACATEGORY)
+　當(P)　這(Nep)　種(Nf)　資格論(Na)　又(D)　如(P)　槍林彈雨(Na)　出現(VH)　時(Ng)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　繼續(VF)　昂首闊步(VA)　朝(P)　我們(Nh)　認為(VE)　正確(VH)　的(DE)　方向(Na)　而(Cbb)　去(VCL)　。(PERIODCATEGORY)
+
+　by(FW)　red(FW)　.(PERIODCATEGORY)

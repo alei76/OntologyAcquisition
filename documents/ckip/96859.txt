@@ -1,0 +1,48 @@
+　看(VC)　著(Di)　大家(Nh)　爭(VC)　執著(Nv)　午餐(Na)　應該(D)　吃(VC)　甚麼(Nep)　，(COMMACATEGORY)
+　你(Nh)　是否(D)　想要(VE)　開始(VL)　表現(VC)　得(DE)　成熟(VH)　點(Dfb)　，(COMMACATEGORY)
+　思考(VE)　一些(Neqa)　真正(D)　重要(VH)　的(DE)　事情(Na)　呢(T)　?(QUESTIONCATEGORY)
+
+　你(Nh)　想(VE)　知道(VK)　在(P)　未來(Nd)　，(COMMACATEGORY)
+　像(P)　你我(Na)　一樣(VH)　的(DE)　學生(Na)　翻開(VC)　課本(Na)　，(COMMACATEGORY)
+　看到(VE)　的(DE)　會(D)　是(SHI)　什麼(Nep)　樣(Nf)　的(DE)　內容(Na)　、(PAUSECATEGORY)　什麼(Nep)　樣(Nf)　的(DE)　教育(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+　即將(D)　邁入(VCL)　成年(VH)　的(DE)　你(Nh)　，(COMMACATEGORY)
+　想(VE)　了解(VK)　身邊(Nc)　這(Nep)　個(Nf)　社會(Na)　正在(D)　發生(VJ)　的(DE)　事件(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+
+
+　由(P)　嘉義(Nc)　高中(Nc)　的(DE)　學生(Na)　們(Na)　自動自發(VH)　舉辦(VC)　的(DE)　「(PARENTHESISCATEGORY)　論課綱(Na)　微調(Na)　講座(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　將(D)　能(D)　滿足(VHC)　你(Nh)　的(DE)　需求(Na)　!(EXCLANATIONCATEGORY)
+
+
+
+　到底(D)　課綱(Na)　做(VC)　了(Di)　哪些(Neqa)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　?(QUESTIONCATEGORY)
+　這些(Neqa)　調整(VC)　在(P)　確定(VK)　執行(VC)　前(Ng)　，(COMMACATEGORY)
+　經過(VCL)　了(Di)　哪些(Neqa)　討論(Nv)　流程(Na)　，(COMMACATEGORY)
+　而(Cbb)　結論(Na)　又(D)　是(SHI)　什麼(Nep)　呢(T)　?(QUESTIONCATEGORY)
+　課綱(Na)　微調(Na)　的(DE)　內容(Na)　，(COMMACATEGORY)
+　對(P)　未來(Nd)　的(DE)　學生會(Na)　帶來(VC)　哪些(Neqa)　影響(Na)　呢(T)　?(QUESTIONCATEGORY)
+
+
+
+　嘉義(Nc)　高中(Nc)　「(PARENTHESISCATEGORY)　論(VC)　課綱(Na)　微調(Na)　講座(Na)　」(PARENTHESISCATEGORY)　將(D)　會(D)　帶(VC)　我們(Nh)　檢視(VC)　課綱(Na)　微調(Na)　的(DE)　始末(Na)　，(COMMACATEGORY)
+　並且(Cbb)　讓(VL)　我們(Nh)　思考(VE)　它(Nh)　背後(Nc)　的(DE)　目的(Na)　，(COMMACATEGORY)
+　以及(Caa)　這(Nep)　個(Nf)　改變(Na)　對(P)　學生(Na)　、(PAUSECATEGORY)　老師(Na)　、(PAUSECATEGORY)　教育(Na)　理念(Na)　、(PAUSECATEGORY)　抑或(Caa)　是(SHI)　整(Neqa)　個(Nf)　社會(Na)　的(DE)　價值觀(Na)　，(COMMACATEGORY)
+　所(D)　帶來(VC)　的(DE)　影響(Na)　。(PERIODCATEGORY)
+
+
+
+　你(Nh)　還(D)　在(P)　等(VC)　甚麼(Nep)　呢(T)　?(QUESTIONCATEGORY)
+　6(Neu)　/(FW)　8(Neu)　星期一(Nd)　上午(Nd)　10點10(Neu)　分(Nf)　至(P)　12(Neu)　點(Nf)　((PARENTHESISCATEGORY)　早上(Nd)　第三(Neu)　、(PAUSECATEGORY)　第四(Neu)　節(Nf)　課(Na)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　趕快(D)　來(VA)　嘉(Nc)　中(Ncd)　史蹟(Na)　文物館(Nc)　，(COMMACATEGORY)
+　將(D)　會(D)　有(V_2)　來自(VJ)　台灣(Nc)　教授(Na)　協會(Nc)　的(DE)　成員(Na)　，(COMMACATEGORY)
+　為(P)　我們(Nh)　一一(D)　解惑(VB)　。(PERIODCATEGORY)
+　不用(D)　請假(VA)　，(COMMACATEGORY)
+　只要(Cbb)　事先(D)　告知(VE)　任課(Nv)　老師(Na)　，(COMMACATEGORY)
+　就(D)　可以(D)　單獨(D)　((PARENTHESISCATEGORY)　或是(Caa)　結伴(D)　)(PARENTHESISCATEGORY)　前來(VCL)　，(COMMACATEGORY)
+　史蹟館(Nc)　會(D)　有(V_2)　公假單(Na)　可以(D)　簽(VC)　。(PERIODCATEGORY)
+
+
+
+　歡迎(VJ)　按(P)　讚(VH)　或(Caa)　分享(VJ)　這(Nep)　則(Nf)　貼文(Nb)　，(COMMACATEGORY)
+　讓(VL)　更多(Neqa)　人(Na)　知道(VK)　嘉義(Nc)　高中(Nc)　「(PARENTHESISCATEGORY)　論課綱(Na)　微調(Na)　講座(Na)　」(PARENTHESISCATEGORY)　的(DE)　訊息(Na)　。(PERIODCATEGORY)

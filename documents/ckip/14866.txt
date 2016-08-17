@@ -1,0 +1,13 @@
+　二二八(DM)　是(SHI)　蔣介石(Nb)　政權(Na)　對(P)　台灣(Nc)　的(DE)　屠殺(Nv)　，(COMMACATEGORY)
+　而(Cbb)　不(D)　是(SHI)　"(FW)　民反(Na)　"(FW)　。(PERIODCATEGORY)
+
+　「(PARENTHESISCATEGORY)　台灣(Nc)　各(Nes)　地(Na)　的(DE)　社會(Na)　菁英(Na)　，(COMMACATEGORY)
+　絕大部分(Neqa)　都(D)　未(D)　涉及(VK)　暴動(Na)　，(COMMACATEGORY)
+　但(Cbb)　卻(D)　無故(D)　遇害(VH)　，(COMMACATEGORY)
+　國軍(Na)　既是(VG)　前來(VCL)　『(PARENTHESISCATEGORY)　平亂(VA)　』(PARENTHESISCATEGORY)　的(DE)　，(COMMACATEGORY)
+　為何(D)　卻(D)　連(D)　沒有(VJ)　『(PARENTHESISCATEGORY)　亂(VH)　』(PARENTHESISCATEGORY)　的(DE)　人(Na)　也(D)　要(D)　『(PARENTHESISCATEGORY)　平(VH)　』(PARENTHESISCATEGORY)　？(QUESTIONCATEGORY)
+　顯然(D)　他們(Nh)　不(D)　是(SHI)　被(P)　誤殺(VC)　的(T)　，(COMMACATEGORY)
+　因為(Cbb)　不可能(D)　在(P)　幾乎(Da)　相同(VH)　的(DE)　時間(Na)　裡(Ng)　，(COMMACATEGORY)
+　有(V_2)　那麼多(Neqa)　社會(Na)　菁英(Na)　人士(Na)　會(D)　如此(VH)　『(PARENTHESISCATEGORY)　巧合(VH)　』(PARENTHESISCATEGORY)　被(P)　誤殺(VC)　，(COMMACATEGORY)
+　那(Nep)　是(SHI)　老蔣(Nb)　安排(VE)　下(Ng)　有(V_2)　計劃(Na)　的(DE)　謀殺(Nv)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　

@@ -1,0 +1,11 @@
+　這(Nep)　是(SHI)　台南(Nc)　的(DE)　聲音(Na)　，(COMMACATEGORY)
+　台南(Nc)　的(DE)　學生(Na)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/focus/paper(FW)　/(FW)　889237(Neu)　
+
+
+
+　臺南(Nc)　中學生(Na)　反(VC)　課綱(Na)　微調(Na)　陣線(Na)　→(FW)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.facebook.com/pages/%E8%87%BA%E5%8D%97%E4%B8%AD%E5%AD%B8%E7%94%9F%E5%8F%8D(FW)　%(Nf)　　E8%AA%B2%E7%B6%B1%E5%BE%AE%E8%AA%BF%E9%99%A3%E7%B7%9A(FW)　/(FW)　1440510086254702(Neu)　?(QUESTIONCATEGORY)
+　fref=nf(FW)　

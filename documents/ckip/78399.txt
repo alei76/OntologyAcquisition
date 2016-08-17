@@ -1,0 +1,15 @@
+　咱們(Nh)　親愛(VH)　的(DE)　吳(Nb)　部長(Na)　說(VE)　:(COLONCATEGORY)　　要求(VF)　退回(VC)　課綱(Na)　不(D)　是(SHI)　壓抑(VC)　另(Nes)　一(Neu)　方(Nf)　的(DE)　聲音(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+
+
+　在(P)　此(Nep)　引用(VC)　不(D)　禮貌(VH)　鄉民團(Na)　的(DE)　比喻(VE)　:(COLONCATEGORY)　
+
+　你(Nh)　偷(VD)　了(Di)　錢(Na)　，(COMMACATEGORY)
+　卻(D)　大喊(VE)　說(VE)　你(Nh)　有(V_2)　花錢(VA)　的(DE)　自由(Na)　
+
+　同理(Dk)　，(COMMACATEGORY)
+　你(Nh)　竄改(VC)　了(Di)　課(Na)　綱(Na)　，(COMMACATEGORY)
+　卻(D)　說(VE)　所謂(VK)　另(Nes)　一(Neu)　方(Nf)　有(V_2)　表達(Nv)　意見(Na)　的(DE)　自由(Na)　，(COMMACATEGORY)
+　這(Nep)　會不會(D)　太(Dfa)　好笑(VH)　了(T)　，(COMMACATEGORY)
+　當(P)　台灣(Nc)　師生(Na)　的(DE)　智商(Na)　有(V_2)　多(Dfa)　低(VH)　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)

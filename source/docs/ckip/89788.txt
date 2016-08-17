@@ -1,0 +1,50 @@
+　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　台(Nc)　南二中(Nc)　挺起來(VA)　！(EXCLANATIONCATEGORY)
+
+
+
+　你(Nh)　知道(VK)　反(VC)　黑箱(A)　課綱(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+　你(Nh)　了解(VK)　「(PARENTHESISCATEGORY)　黑箱(A)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　造成(VG)　後果(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+　你(Nh)　知道(VK)　教育部(Nc)　把(P)　白色恐怖(Nb)　與(Caa)　二二八(DM)　刪除(VC)　嗎(T)　?(QUESTIONCATEGORY)
+
+　你(Nh)　知道(VK)　之後(Ng)　的(DE)　公民(Na)　課本(Na)　都(D)　在(P)　捧(VC)　黨(Na)　嗎(T)　?(QUESTIONCATEGORY)
+
+　你(Nh)　知道(VK)　之後(Ng)　國文(Na)　課本(Na)　一(Neu)　堆(Nf)　文言文(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　我們(Nh)　的(DE)　訴求(Na)　有(V_2)　四(Neu)　，(COMMACATEGORY)
+　很(Dfa)　簡單(VH)　：(COLONCATEGORY)　
+
+　一(Neu)　、(PAUSECATEGORY)　撤回(VC)　目前(Nd)　新課(Na)　綱(Na)　
+
+　二(Neu)　、(PAUSECATEGORY)　符合(VJ)　法律(Na)　程序(Na)　與(Caa)　透明化(VHC)　
+
+　三(Neu)　、(PAUSECATEGORY)　課綱(Na)　應(P)　民間(Nc)　人員(Na)　參與(VC)　
+
+　四(Neu)　、(PAUSECATEGORY)　公共(A)　參與(VC)　，(COMMACATEGORY)
+　程序(Na)　公開(VHC)　
+
+
+
+　教育部(Nc)　說明(VE)　座談會(Na)　
+
+　就(D)　在(P)　這(Nep)　－－(Neu)　【(PARENTHESISCATEGORY)　取消(VC)　延期(VB)　】(PARENTHESISCATEGORY)　－－(Neu)　
+
+　台南(Nc)　一(Neu)　中(Ncd)　$(FW)　＆(FW)　%(Nf)　#(FW)　@(FW)　$(FW)　%(Nf)　＆(FW)　...(ETCCATEGORY)　
+
+　歡迎(VJ)　您(Nh)　一同(D)　參加(VC)　！(EXCLANATIONCATEGORY)
+
+
+
+　【(PARENTHESISCATEGORY)　招募(VC)　】(PARENTHESISCATEGORY)　
+
+　你(Nh)　對(P)　這些(Neqa)　很(Dfa)　感興趣(VI)　嗎(T)　?(QUESTIONCATEGORY)
+
+　你(Nh)　能夠(D)　有(V_2)　能力(Na)　一起(D)　挺起來(VA)　嗎(T)　?(QUESTIONCATEGORY)
+
+　歡迎(VJ)　你(Nh)　的(DE)　加入(VC)　
+
+　請(VF)　私訊(Na)　粉絲團(Na)　

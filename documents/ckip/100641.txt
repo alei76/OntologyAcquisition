@@ -1,0 +1,85 @@
+　那(Dk)　我們(Nh)　呢(T)　？(QUESTIONCATEGORY)
+　台灣(Nc)　的(DE)　年輕人(Na)　是(SHI)　如何(D)　看待(VC)　台灣(Nc)　血腥(VH)　的(DE)　過去(VA)　？(QUESTIONCATEGORY)
+
+　試(VF)　著(Di)　問問(VE)　身邊(Nc)　的(DE)　高中(Nc)　朋友(Na)　，(COMMACATEGORY)
+　還(D)　記得(VK)　白色恐怖(Nb)　什麼(Nep)　？(QUESTIONCATEGORY)
+　還(D)　記得(VK)　二二八(DM)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+
+
+　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　---(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　
+
+
+
+　納粹(Na)　歷史(Na)　對(P)　他們(Nh)　而言(VE)　，(COMMACATEGORY)
+　並(Cbb)　不(D)　是(SHI)　躺(VA)　在(P)　書本(Na)　上(Ncd)　的(DE)　文字(Na)　，(COMMACATEGORY)
+　而是(Cbb)　緊緊(VH)　貼(VC)　在(P)　他們(Nh)　生命(Na)　中(Ng)　的(DE)　標籤(Na)　。(PERIODCATEGORY)
+　作為(VG)　德國人(Na)　，(COMMACATEGORY)
+　他們(Nh)　得(D)　隨時(D)　意識到(VK)　自己(Nh)　所(D)　擁有(VJ)　的(DE)　血液(Na)　，(COMMACATEGORY)
+　曾(D)　背負(VC)　一段(Nc)　血腥(VH)　的(DE)　過去(VA)　。(PERIODCATEGORY)
+　這些(Neqa)　年輕人(Na)　都(D)　是(SHI)　無辜(VH)　的(T)　，(COMMACATEGORY)
+　但(Cbb)　站出來(VA)　解釋(VE)　歷史(Na)　、(PAUSECATEGORY)　為(P)　自己(Nh)　辯白(VE)　，(COMMACATEGORY)
+　並(Cbb)　避免(VE)　讓(VL)　歷史(Na)　再度(D)　發生(VJ)　，(COMMACATEGORY)
+　都(D)　是(SHI)　他們(Nh)　必須(D)　學習(VC)　的(DE)　課題(Na)　。(PERIODCATEGORY)
+
+
+
+　這(Nep)　三(Neu)　個(Nf)　「(PARENTHESISCATEGORY)　在(P)　路上(VC)　」(PARENTHESISCATEGORY)　的(DE)　轉型(Nv)　正義(Na)　，(COMMACATEGORY)
+　凸顯(VJ)　德國(Nc)　政府(Na)　及(Caa)　德國人(Na)　對於(P)　歷史(Na)　的(DE)　態度(Na)　，(COMMACATEGORY)
+　不僅僅(Da)　是(SHI)　政府(Na)　努力(VH)　地(DE)　想(VE)　讓(VL)　大家(Nh)　記住(VK)　歷史(Na)　的(DE)　教訓(Na)　，(COMMACATEGORY)
+　德國人(Na)　自己(Nh)　也(D)　無時無刻(D)　得(D)　面對(VC)　與(Caa)　思考(Nv)　歷史(Na)　留給(VD)　他們(Nh)　的(DE)　難題(Na)　。(PERIODCATEGORY)
+　對於(P)　血腥(VH)　的(DE)　歷史(Na)　，(COMMACATEGORY)
+　他們(Nh)　知道(VK)　的(DE)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+　當(P)　別人(Nh)　問起(VE)　這些(Neqa)　血腥(VH)　的(DE)　歷史(Na)　，(COMMACATEGORY)
+　他們(Nh)　能(D)　解釋(VE)　的(DE)　有(V_2)　什麼(Nep)　？(QUESTIONCATEGORY)
+　當(P)　這些(Neqa)　血腥(VH)　的(DE)　歷史(Na)　成為(VG)　他們(Nh)　生命(Na)　中(Ng)　的(DE)　一(Neu)　部分(Neqa)　，(COMMACATEGORY)
+　他們(Nh)　所(D)　持有(VJ)　的(DE)　立場(Na)　又(D)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+
+
+
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　opinion.cw.com.tw/blog/profile/52/article(FW)　/(FW)　348(Neu)　
+
+
+
+
+
+
+
+　同(Nes)　場(Nf)　加映(VC)　：(COLONCATEGORY)　
+
+　南蠻(Na)　校(Nc)　內(Ncd)　轉型(VH)　正義(Na)　講座(Na)　
+
+　1(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=HYEg1JfgssU(FW)　
+
+　2(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=IsnCCjiWj8s(FW)　
+
+　3(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=BR7PXXQa0ss(FW)　
+
+　4(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=jBJhYtML0Ug(FW)　
+
+　5(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=4oF-xSJ2dUU(FW)　
+
+　6(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=7b4Hrh6z3Vg(FW)　
+
+　7(Neu)　/(FW)　7(Neu)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.youtube.com/watch(FW)　?(QUESTIONCATEGORY)
+　v=SA6jBZ1gXl(FW)　8(Neu)　
+
+
+
+
+
+　歷史(Na)　課本(Na)　的(DE)　228(Neu)　，(COMMACATEGORY)
+　其實(D)　只是(D)　227(Neu)　
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.hi-on.org.tw/bulletins.jsp(FW)　?(QUESTIONCATEGORY)
+　b_ID(FW)　=(FW)　136495(Neu)　

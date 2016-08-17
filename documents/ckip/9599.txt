@@ -1,0 +1,27 @@
+　明天(Nd)　放學(VH)　時間(Na)　17(Neu)　：(COLONCATEGORY)　　10(Neu)　
+
+　我們(Nh)　將(D)　於(P)　北(Ncd)　一(Neu)　門口(Nc)　進行(VC)　第八(Neu)　節(Nf)　突襲(Nv)　計畫(Na)　，(COMMACATEGORY)
+　請(VF)　有(V_2)　興趣(Na)　者(Na)　於(P)　放學(VH)　時間(Na)　至(P)　北(Ncd)　一(D)　參與(VC)　
+
+　行動(Na)　代號(Na)　：(COLONCATEGORY)　　第八(Neu)　節(Nf)　突襲(Nv)　
+
+　行動(Na)　方案(Na)　：(COLONCATEGORY)　　放學(VH)　各(Nes)　校(Nc)　著(VC)　校服(Na)　聚集(VAC)　於(P)　同(Nes)　一(Neu)　校(Nc)　門口(Nc)　
+
+　討論(VE)　內容(Na)　：(COLONCATEGORY)　
+
+　目的(Na)　：(COLONCATEGORY)　　增加(VHC)　校園(Nc)　對(P)　課綱(Na)　議題(Na)　的(DE)　關注(Nv)　程度(Na)　
+
+　方法(Na)　及(Caa)　細節(Na)　：(COLONCATEGORY)　
+
+　選擇(VC)　目標(Na)　學校(Nc)　，(COMMACATEGORY)
+　並(Cbb)　擇日(Nd)　放學(VH)　時間(Na)　((PARENTHESISCATEGORY)　4(Neu)　-(DASHCATEGORY)　6(Neu)　p.m(FW)　.(PERIODCATEGORY)　)(PARENTHESISCATEGORY)　在(P)　該(Nes)　校(Nc)　門口(Nc)　進行(VC)　集結(VAC)　宣傳(Na)　((PARENTHESISCATEGORY)　發放(VD)　文宣(Na)　、(PAUSECATEGORY)　貼紙(Na)　、(PAUSECATEGORY)　即席(D)　演講(VA)　、(PAUSECATEGORY)　活動(Na)　標語(Na)　…(ETCCATEGORY)　等等(Cab)　)(PARENTHESISCATEGORY)
+
+　出席(VC)　人員(Na)　：(COLONCATEGORY)　　由(P)　北區(Nc)　粉絲團(Na)　公布(VE)　，(COMMACATEGORY)
+　各(Nes)　校(Nc)　粉絲團(Na)　自由(Na)　分享(VJ)　，(COMMACATEGORY)
+　自由(VH)　參加(VC)　
+
+　行為(Na)　準則(Na)　：(COLONCATEGORY)　　不(D)　違反(VJ)　法律(Na)　為主(VI)　。(PERIODCATEGORY)
+
+　注意(VK)　事項(Na)　：(COLONCATEGORY)　　請(VF)　帶(VC)　著(Di)　一(Neu)　顆(Nf)　熱血(Na)　的(DE)　心(Na)　
+
+　來(D)　各(Nes)　位(Nf)　我們(Nh)　一起(D)　去(VCL)　吧(T)　

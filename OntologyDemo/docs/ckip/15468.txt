@@ -1,0 +1,26 @@
+　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　後山(Nc)　不(D)　缺席(VH)　！(EXCLANATIONCATEGORY)
+　北(Ncd)　中(Ncd)　南(Ncd)　多(Neqa)　所(Nf)　高中(Nc)　串連(VB)　發聲(VA)　，(COMMACATEGORY)
+　台東(Nc)　女中(Nc)　公民(Na)　教師(Na)　周威同(Nb)　也(D)　將(D)　於(P)　6月(Nd)　4日(Nd)　晚上(Nd)　7時(Nd)　在(P)　晃晃(VA)　二手(A)　書店(Nc)　（(PARENTHESISCATEGORY)　台東市(Nc)　新生路(Nc)　503巷(Nc)　8(Neu)　號(Nf)　）(PARENTHESISCATEGORY)　開講(VA)　，(COMMACATEGORY)
+　希望(VK)　更多(Neqa)　人(Na)　關心(VK)　我們(Nh)　的(DE)　教育(Na)　與(Caa)　下一代(Na)　。(PERIODCATEGORY)
+
+
+
+　公民(Na)　教師(Na)　行動(Na)　聯盟(Na)　發起人(Na)　周威同(Nb)　指出(VE)　，(COMMACATEGORY)
+　教育部(Nc)　微調(A)　課綱(Na)　程序(Na)　不(D)　正義(Na)　，(COMMACATEGORY)
+　就(D)　不可能(D)　會(D)　有(V_2)　實質(Na)　正義(Na)　，(COMMACATEGORY)
+　教育部(Nc)　課綱(Na)　根本(D)　是(SHI)　「(PARENTHESISCATEGORY)　違(VJ)　」(PARENTHESISCATEGORY)　調(Na)　，(COMMACATEGORY)
+　基層(A)　教師(Na)　已(D)　發出(VC)　呼聲(Na)　希望(VK)　與(P)　教育部(Nc)　對話(Na)　，(COMMACATEGORY)
+　但(Cbb)　教育部(Nc)　卻(D)　不(D)　願意(VK)　，(COMMACATEGORY)
+　民主(Na)　社會(Na)　不(D)　擔心(VK)　意見(Na)　不同(VH)　，(COMMACATEGORY)
+　但(Cbb)　如果(Cbb)　沒有(VJ)　對話(Na)　、(PAUSECATEGORY)　就(D)　會(D)　演變成(VG)　對立(VH)　。(PERIODCATEGORY)
+
+
+
+　他(Nh)　表示(VE)　，(COMMACATEGORY)
+　台東縣(Nc)　高中生(Na)　雖然(Cbb)　對(P)　公共(A)　議題(Na)　較(Dfa)　冷漠(VH)　，(COMMACATEGORY)
+　但(Cbb)　還是(D)　有(V_2)　人(Na)　關心(VK)　黑箱(A)　課綱(Na)　議題(Na)　，(COMMACATEGORY)
+　除(P)　6月(Nd)　4日(Nd)　的(DE)　開講(VA)　，(COMMACATEGORY)
+　未來(Nd)　也(D)　計畫(VF)　在(P)　街頭(Nc)　舉辦(VC)　更多(Neqa)　場次(Na)　說明(VE)　，(COMMACATEGORY)
+　讓(VL)　更多(Neqa)　人(Na)　了解(VK)　程序(Na)　正義(Na)　的(DE)　重要(VH)　。(PERIODCATEGORY)
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1332789(Neu)　

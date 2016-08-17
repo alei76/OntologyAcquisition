@@ -1,0 +1,6 @@
+　先前(Nd)　張文隆(Nb)　老師(Na)　受(P)　我們(Nh)　邀請(VC)　，(COMMACATEGORY)
+　在(P)　教育部(Nc)　前(Ncd)　熱情(VH)　聲援(VC)　我們(Nh)　，(COMMACATEGORY)
+　力抗(VA)　黑箱(A)　又(D)　洗腦(VB)　的(DE)　微調(Na)　課綱(Na)　，(COMMACATEGORY)
+　沒想到(D)　居然(D)　有(V_2)　白色恐怖(Nb)　時代(Na)　的(DE)　活化石(Na)　，(COMMACATEGORY)
+　寄(VD)　匿名信(Na)　惡意(Na)　「(PARENTHESISCATEGORY)　抹紅(VC)　」(PARENTHESISCATEGORY)　張老師(Nb)　，(COMMACATEGORY)
+　和(P)　教育部(Nc)　一樣(VH)　敢(VL)　做(VC)　不敢當(VH)　！(EXCLANATIONCATEGORY)

@@ -1,0 +1,7 @@
+　馬(Na)　政府(Na)　到(P)　現在(Nd)　仍(D)　不(D)　願(VK)　收(VC)　手(Na)　，(COMMACATEGORY)
+　這(Nep)　一(Neu)　次(Nf)　參與(VC)　抗爭(Na)　的(DE)　年齡層(Na)　更(D)　下降(VA)　到(P)　未滿(VJ)　18(Neu)　歲(Nf)　的(DE)　高中生(Na)　，(COMMACATEGORY)
+　屆時(D)　抗爭(VA)　規模(Na)　將(D)　會(D)　是(SHI)　我們(Nh)　無法(D)　想像(VK)　的(DE)　！(EXCLANATIONCATEGORY)
+
+　今天(Nd)　下午(Nd)　四(Neu)　點(Nf)　，(COMMACATEGORY)
+　桃園(Nc)　中壢(Nc)　火車站(Nc)　有(V_2)　反(VC)　洗腦(Nv)　課綱(Na)　的(DE)　遊行(Nv)　，(COMMACATEGORY)
+　有空(VH)　的(DE)　朋友(Na)　歡迎(VJ)　一同(D)　前來(VCL)　發聲(VA)　。(PERIODCATEGORY)

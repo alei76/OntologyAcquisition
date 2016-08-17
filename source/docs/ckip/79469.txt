@@ -1,0 +1,7 @@
+　那(Nep)　為什麼(D)　吳思華(Nb)　不(D)　出席(VC)　說明會(Na)　？(QUESTIONCATEGORY)
+　廢(VC)　死(VH)　聯盟(Na)　難道(D)　不用(D)　負責(VL)　嗎(T)　？(QUESTIONCATEGORY)
+　剛(D)　期末考(Na)　完(VH)　給(VD)　大家(Nh)　當(P)　笑話(Na)　看(VC)　一下(Nd)　。(PERIODCATEGORY)
+
+
+
+　呵呵(D)　呵呵(D)　呵呵(D)　呵呵(D)　~(FW)　~(FW)　~(FW)　~(FW)　~(FW)　~(FW)　

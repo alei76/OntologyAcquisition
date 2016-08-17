@@ -1,0 +1,2 @@
+　[(PARENTHESISCATEGORY)　動(VAC)　新聞(Na)　/(FW)　綜合(A)　報導(Na)　](PARENTHESISCATEGORY)　新(VH)　中華(Nc)　兒女(Na)　協會(Nc)　理事長(Na)　王炳忠(Nb)　前天(Nd)　上(Ng)　節目(Na)　，(COMMACATEGORY)
+　竟(D)　讓(VL)　親民黨(Nb)　副秘書長(Na)　劉文雄(Nb)　爆氣(Na)　連(Cbb)　說(VE)　７(Neu)　次(Nf)　「(PARENTHESISCATEGORY)　廢話(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)

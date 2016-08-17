@@ -1,0 +1,11 @@
+　【(PARENTHESISCATEGORY)　不要(D)　玩(VC)　文字(Na)　遊戲(Na)　！(EXCLANATIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+　廢話(Na)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　台灣(Nc)　」(PARENTHESISCATEGORY)　的(DE)　最高峰(Na)　當然(D)　是(SHI)　玉山(Nc)　。(PERIODCATEGORY)
+
+　但(Cbb)　中華民國(Nc)　的(DE)　「(PARENTHESISCATEGORY)　我國(Nc)　」(PARENTHESISCATEGORY)　等於(VG)　台灣(Nc)　嗎(T)　？(QUESTIONCATEGORY)
+　依照(P)　中華民國(Nc)　憲法(Na)　．(PERIODCATEGORY)　中華民國(Nc)　的(DE)　領土(Na)　真的(D)　只有(Cbb)　台灣(Nc)　嗎(T)　？(QUESTIONCATEGORY)
+　憲法(Na)　增修(VC)　條文(Na)　拿出來(VB)　看(VC)　啊(T)　！(EXCLANATIONCATEGORY)
+　裡面(Ncd)　只有(D)　寫(VC)　台灣(Nc)　嗎(T)　？(QUESTIONCATEGORY)
+　大陸(Nc)　地區(Nc)　是(SHI)　怎麼(D)　一(Neu)　回(Nf)　事(Na)　？(QUESTIONCATEGORY)

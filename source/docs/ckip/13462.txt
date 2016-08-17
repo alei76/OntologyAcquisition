@@ -1,0 +1,10 @@
+　黑箱(A)　作業(Na)　改(VC)　了(Di)　課綱(Na)　卻(D)　要求(VF)　學校(Nc)　關切(VJ)　學生(Na)　的(DE)　反(VC)　黑箱(A)　課綱(Na)　行為(Na)　？(QUESTIONCATEGORY)
+
+　只(Da)　許(VC)　州官(Na)　放火(VA)　，(COMMACATEGORY)
+　不許(VF)　百姓(Na)　點燈(VA)　？(QUESTIONCATEGORY)
+
+　既然(Cbb)　如此(VH)　，(COMMACATEGORY)
+　我們(Nh)　也(D)　不會(D)　放棄(VC)　，(COMMACATEGORY)
+
+　我們(Nh)　會(D)　堅持(VK)　到底(VH)　，(COMMACATEGORY)
+　直到(P)　政府(Na)　給(VD)　我們(Nh)　一(Neu)　個(Nf)　交代(VE)　！(EXCLANATIONCATEGORY)

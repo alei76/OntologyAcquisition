@@ -1,0 +1,6 @@
+　『(PARENTHESISCATEGORY)　我們(Nh)　願意(VK)　為(P)　變形(VH)　的(DE)　鐵門(Na)　負責(VL)　，(COMMACATEGORY)
+　你們(Nh)　願意(VK)　為(P)　變形(VH)　的(DE)　教育(Na)　負責(VL)　嗎(T)　？(QUESTIONCATEGORY)
+　我們(Nh)　願意(VK)　承擔(VC)　鐵門(Na)　的(DE)　賠償(Nv)　，(COMMACATEGORY)
+　但(Cbb)　我們(Nh)　的(DE)　教育(Na)　未來(Nd)　，(COMMACATEGORY)
+　你們(Nh)　願意(VK)　承擔(VC)　嗎(T)　？(QUESTIONCATEGORY)
+　』(PARENTHESISCATEGORY)　

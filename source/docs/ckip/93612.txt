@@ -1,0 +1,4 @@
+　學生(Na)　願意(VK)　一(Neu)　邊(Ncd)　吃(VC)　便當(Na)　一(Neu)　邊(Ncd)　聽(VE)　老師(Na)　講解(VE)　，(COMMACATEGORY)
+　我們(Nh)　該(D)　給(VD)　高中生(Na)　更多(Neqa)　鼓勵(Nv)　，(COMMACATEGORY)
+　你們(Nh)　真的(D)　很(Dfa)　棒(VH)　，(COMMACATEGORY)
+　弘文(Nb)　的(DE)　同學(Na)　也(D)　要(D)　加油(VB)　！(EXCLANATIONCATEGORY)

@@ -1,0 +1,86 @@
+　歷史(Na)　教師(Na)　深根(Na)　聯盟(Na)　宣言(Na)　
+
+
+
+　公民(Na)　史學(Na)　宣言(Na)　：(COLONCATEGORY)　　我們(Nh)　反對(VE)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　課(Na)　綱(Na)　的(DE)　理由(Na)　
+
+
+
+　高中(Nc)　是(SHI)　十二(Neu)　年(Nf)　國教(Na)　的(DE)　最後(Nd)　階段(Na)　。(PERIODCATEGORY)
+　學生(Na)　所(D)　接受(VC)　的(DE)　史學(Na)　教育(Na)　，(COMMACATEGORY)
+　也(D)　是(SHI)　她(Nh)　日後(Nd)　成為(VG)　自由(VH)　國度(Na)　公民(Na)　的(DE)　基礎(Na)　。(PERIODCATEGORY)
+　此(Nep)　公民(Na)　史學(Na)　，(COMMACATEGORY)
+　當(P)　有(V_2)　三(Neu)　大(VH)　特色(Na)　，(COMMACATEGORY)
+　一(Neu)　、(PAUSECATEGORY)　與(Caa)　公民(Na)　站(VA)　在一起(VH)　((PARENTHESISCATEGORY)　with(FW)　the(FW)　citizen(FW)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　二(Neu)　、(PAUSECATEGORY)　係(VG)　公民(Na)　所(D)　關切(VJ)　的(DE)　((PARENTHESISCATEGORY)　of(FW)　the(FW)　citizen(FW)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　三(Neu)　、(PAUSECATEGORY)　與(Caa)　公民(Na)　共同(A)　對話(Na)　所(D)　建構(VC)　的(DE)　((PARENTHESISCATEGORY)　by(FW)　the(FW)　citizen(FW)　)(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　很(Dfa)　遺憾(VK)　的(T)　，(COMMACATEGORY)
+　微調(A)　課綱(Na)　恰好(Da)　與(P)　此(Nep)　潮流(Na)　背道而馳(VH)　，(COMMACATEGORY)
+　似乎(D)　還(D)　停留(VA)　在(P)　培養(VC)　帝國(Na)　順民(Na)　的(DE)　大明(Nb)　王朝(Na)　。(PERIODCATEGORY)
+
+
+
+　首先(D)　，(COMMACATEGORY)
+　這(Nep)　份(Nf)　課綱(Na)　是(SHI)　違反(VJ)　程序(Na)　正義(Na)　的(T)　，(COMMACATEGORY)
+　是(SHI)　少數(Neqa)　幾(Neu)　個人(Nh)　，(COMMACATEGORY)
+　而且(Cbb)　是(SHI)　沒有(VJ)　史學(Na)　專業(VH)　的(T)　，(COMMACATEGORY)
+　黑箱(A)　作業(Na)　下(Ng)　完成(VC)　。(PERIODCATEGORY)
+　這(Nep)　是(SHI)　ㄧ份(Nd)　懼怕(VJ)　與(Caa)　公民(Na)　對話(Na)　，(COMMACATEGORY)
+　共同(A)　架構(Na)　過去(Nd)　共同(A)　記憶(Na)　的(DE)　專制(VH)　極權(Na)　課綱(Na)　。(PERIODCATEGORY)
+　只要(Cbb)　是(SHI)　有(V_2)　血性(Na)　的(DE)　自由(Na)　國度(Na)　公民(Na)　，(COMMACATEGORY)
+　台灣(Nc)　不(D)　想(VE)　當(P)　專制(VH)　帝國(Na)　順民(Na)　的(T)　，(COMMACATEGORY)
+　都(D)　不得不(D)　反(VC)　。(PERIODCATEGORY)
+
+
+
+　其次(Cbb)　，(COMMACATEGORY)
+　這(Nep)　份(Nf)　課綱(Na)　所(D)　規劃(VC)　的(DE)　內容(Na)　，(COMMACATEGORY)
+　既(Cbb)　非(VG)　公民(Na)　所(D)　關切(VJ)　，(COMMACATEGORY)
+　也(D)　不足(VH)　以(P)　培養(VC)　台灣(Nc)　新(VH)　時代(Na)　公民(Na)　。(PERIODCATEGORY)
+　今天(Nd)　還(D)　有(V_2)　多少(Neqa)　公民(Na)　會(D)　對(P)　隋(Nd)　唐(Nd)　制度(Na)　租庸調法(Na)　，(COMMACATEGORY)
+　饒富(VJ)　興趣(Na)　呢(T)　？(QUESTIONCATEGORY)
+　課綱(Na)　又(D)　如何(D)　能(D)　說服(VF)　公民(Na)　，(COMMACATEGORY)
+　為什麼(D)　一(Neu)　個(Nf)　高中生(Na)　要(D)　對(P)　唐代(Nd)　租庸調法(Na)　耳熟能詳(VI)　呢(T)　？(QUESTIONCATEGORY)
+　新(VH)　時代(Na)　公民(Na)　關係(Na)　的(DE)　議題(Na)　，(COMMACATEGORY)
+　揆諸(VC)　世界(Nc)　，(COMMACATEGORY)
+　是(SHI)　環境史(Na)　，(COMMACATEGORY)
+　經貿史(Na)　與(Caa)　人權史(Na)　。(PERIODCATEGORY)
+　很(Dfa)　遺憾(VK)　的(T)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　課綱(Na)　還(D)　停留(VA)　在(P)　中國(Nc)　天朝(Nc)　中心(Nc)　主義(Na)　，(COMMACATEGORY)
+　不(D)　知(VK)　今夕(Nd)　何(Nes)　夕(Nd)　？(QUESTIONCATEGORY)
+　只要(Cbb)　是(SHI)　對(P)　台灣(Nc)　未來(Nd)　關切(VJ)　的(DE)　高中(Nc)　歷史(Na)　老師(Na)　，(COMMACATEGORY)
+　懼怕(VJ)　所(D)　培養出來(VB)　的(DE)　學生(Na)　成為(VG)　國際(Nc)　流氓(Na)　的(T)　，(COMMACATEGORY)
+　對(P)　此(Nep)　課綱(Na)　實(D)　不得不(D)　反(VC)　。(PERIODCATEGORY)
+
+
+
+　最後(Nd)　，(COMMACATEGORY)
+　這(Nep)　份(Nf)　課綱(Na)　羞(VH)　與(Caa)　台灣(Nc)　公民(Na)　的(DE)　過去(Nd)　站(VA)　在一起(VH)　，(COMMACATEGORY)
+　反而(Cbb)　希望(VK)　在(P)　大(VH)　中國(Nc)　口號(Na)　宣傳(Na)　中(Ng)　遺忘(VK)　台灣(Nc)　公民(Na)　的(DE)　共同(A)　記憶(Na)　。(PERIODCATEGORY)
+　這(Nep)　份(Nf)　課綱(Na)　所(D)　宣揚(VC)　的(DE)　其實(D)　是(SHI)　台灣人(Na)　所(D)　不可能(D)　享有(VJ)　的(DE)　中國(Nc)　幻想(VE)　而已(T)　。(PERIODCATEGORY)
+　一如(P)　以(P)　中國(Nc)　古典(VH)　形式(Na)　所(D)　建構(VC)　的(DE)　南海(Nc)　學園(Nc)　、(PAUSECATEGORY)　忠烈祠(Nc)　、(PAUSECATEGORY)　圓山(Nc)　飯店(Nc)　和(Caa)　中正(Nb)　紀念堂(Nc)　一般(Ng)　，(COMMACATEGORY)
+　那(Nep)　只是(D)　幻想(VE)　擁有(VJ)　整(Neqa)　個(Nf)　中國(Nc)　的(DE)　、(PAUSECATEGORY)　不切實際(VH)　的(DE)　規劃(Na)　。(PERIODCATEGORY)
+　台灣(Nc)　不(D)　是(SHI)　中國(Nc)　歷代(Nd)　中(Ng)　的(DE)　南朝(Nd)　，(COMMACATEGORY)
+　各(Nes)　城市(Na)　也(D)　絕非(VJ)　北平(Nc)　、(PAUSECATEGORY)　天津(Nc)　、(PAUSECATEGORY)　西藏路(Nc)　星羅棋布(VH)　的(DE)　小(VH)　中國(Nc)　。(PERIODCATEGORY)
+　新(VH)　時代(Na)　台灣(Nc)　公民(Na)　要(D)　對(P)　自己(Nh)　的(DE)　共同(A)　記憶(Na)　尊重(VJ)　。(PERIODCATEGORY)
+　羞(VH)　與(Caa)　台灣(Nc)　公民(Na)　站(VA)　在一起(VH)　，(COMMACATEGORY)
+　不斷(D)　陷入(VCL)　新(VH)　政權(Na)　擁有(VJ)　者(Na)　否定(VC)　前(Nes)　一(Neu)　個(Nf)　的(DE)　過去(Nd)　之(DE)　井(Na)　中(Ng)　的(DE)　課綱(Na)　，(COMMACATEGORY)
+　終(D)　將(D)　在(P)　歷史(Na)　洪爐(Nb)　中(Ng)　化為(VG)　灰燼(Na)　。(PERIODCATEGORY)
+
+
+
+　簡(VH)　之(DE)　，(COMMACATEGORY)
+　這(Nep)　份(Nf)　高中(Nc)　歷史(Na)　微調(Na)　課綱(Na)　，(COMMACATEGORY)
+　不僅(Cbb)　違反(VJ)　程序(Na)　正義(Na)　，(COMMACATEGORY)
+　還(D)　停留(VA)　在(P)　培養(VC)　帝國(Na)　順民(Na)　的(DE)　關懷(Nv)　；(SEMICOLONCATEGORY)　　深陷(VH)　在(P)　不斷(D)　否定(VC)　過去(Nd)　的(DE)　、(PAUSECATEGORY)　成王敗寇(VH)　的(DE)　過去(Nd)　之(DE)　井(Na)　中(Ng)　；(SEMICOLONCATEGORY)　　還(D)　與(P)　新(VH)　時代(Na)　精神(Na)　相(D)　違背(VJ)　，(COMMACATEGORY)
+　讓(VL)　台灣人(Na)　對(P)　環保(Na)　、(PAUSECATEGORY)　經貿(Na)　和(Caa)　人權(Na)　議題(Na)　的(DE)　歷史(Na)　縱深盲昧(Na)　。(PERIODCATEGORY)
+　是(SHI)　可(D)　忍(VJ)　，(COMMACATEGORY)
+　孰(Nh)　不可(D)　忍(VJ)　。(PERIODCATEGORY)
+　台灣人(Na)　鳴鼓而攻(VA)　之(DE)　！(EXCLANATIONCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.ettoday.net/news/20150421/495343.htm(FW)　

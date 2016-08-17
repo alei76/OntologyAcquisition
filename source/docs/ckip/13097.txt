@@ -1,0 +1,39 @@
+　活動(Na)　：(COLONCATEGORY)　　滿心(D)　歡喜(VK)　論課綱(Na)　─(FW)　─(FW)　思辨(Nv)　的(DE)　美好(VH)　時光(Na)　
+
+　時間(Na)　：(COLONCATEGORY)　　6月(Nd)　9日(Nd)　((PARENTHESISCATEGORY)　二(Neu)　)(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　11(Neu)　日(Nf)　((PARENTHESISCATEGORY)　四(Neu)　)(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　15(Neu)　日(Nf)　((PARENTHESISCATEGORY)　一(Neu)　)(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　16(Neu)　日(Nf)　((PARENTHESISCATEGORY)　二(Neu)　)(PARENTHESISCATEGORY)　中午(Nd)　12(Neu)　:(COLONCATEGORY)　　00(Neu)　~(FW)　13(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　地點(Na)　：(COLONCATEGORY)　　武陵(Nc)　高中(Nc)　K(FW)　書(Na)　中心(Nc)　
+
+　內容(Na)　：(COLONCATEGORY)　
+
+　課綱(Na)　微調(Na)　到底(D)　在(P)　爭論(VE)　什麼(Nep)　？(QUESTIONCATEGORY)
+　你(Nh)　對(P)　課綱(Na)　微調(Na)　有(V_2)　甚麼(Nep)　想法(Na)　卻(D)　苦苦(VH)　無法(D)　向(P)　大家(Nh)　分享(VJ)　嗎(T)　？(QUESTIONCATEGORY)
+　你(Nh)　想要(VE)　唸(VC)　的(DE)　是(SHI)　怎麼樣(VH)　的(DE)　教科書(Na)　呢(T)　？(QUESTIONCATEGORY)
+
+
+
+　課綱(Na)　的(DE)　調整(Nv)　關乎(VK)　我們(Nh)　甚至(D)　下(Nes)　個(Nf)　世代(Na)　，(COMMACATEGORY)
+　無論(Cbb)　你(Nh)　是(SHI)　反對(Nv)　或(Caa)　支持(Nv)　，(COMMACATEGORY)
+　歡迎(VJ)　所有(Neqa)　學生(Na)　及(Caa)　校長(Na)　、(PAUSECATEGORY)　老師(Na)　、(PAUSECATEGORY)　教官(Na)　等(Cab)　所有(Neqa)　教職員(Na)　，(COMMACATEGORY)
+　前來(VCL)　論壇(Na)　進行(VC)　意見(Na)　交流(VH)　！(EXCLANATIONCATEGORY)
+
+
+
+　同時(Nd)　，(COMMACATEGORY)
+　現場(Nc)　提供(VD)　「(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　微調(Na)　」(PARENTHESISCATEGORY)　連署書(Na)　，(COMMACATEGORY)
+　歡迎(VJ)　參加(VC)　連署(VC)　喔(T)　！(EXCLANATIONCATEGORY)
+
+
+
+　本(Nes)　活動(Na)　僅(Da)　限(VJ)　校(Nc)　內(Ncd)　學生(Na)　與(Caa)　教職(Na)　人員(Na)　參與(VC)　，(COMMACATEGORY)
+　並(Cbb)　謝絕(VC)　媒體(Na)　前來(VCL)　校(Nc)　內(Ncd)　採訪(VC)　。(PERIODCATEGORY)
+
+
+
+　附註(VE)　：(COLONCATEGORY)　　活動(Na)　現場(Nc)　會(D)　幫(P)　各(Nes)　位(Nf)　請(VF)　公(Na)　假(VH)　喔(T)　！(EXCLANATIONCATEGORY)
+
+
+
+　.(PERIODCATEGORY)
+
+　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.facebook.com/events(FW)　/(FW)　1455503121416066(Neu)　/(FW)　

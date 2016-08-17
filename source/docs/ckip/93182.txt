@@ -1,0 +1,11 @@
+　鄭麗君(Nb)　委員(Na)　提出(VC)　「(PARENTHESISCATEGORY)　四不(Nb)　」(PARENTHESISCATEGORY)　
+
+
+
+　1(Neu)　.(PERIODCATEGORY)　不(D)　施壓(VB)　校方(Na)
+
+　2(Neu)　.(PERIODCATEGORY)　不(D)　施壓(VB)　老師(Na)
+
+　3(Neu)　.(PERIODCATEGORY)　不(D)　對(P)　學生(Na)　秋後(Nd)　算帳(VA)
+
+　4(Neu)　.(PERIODCATEGORY)　不(D)　施壓(VB)　出版社(Nc)

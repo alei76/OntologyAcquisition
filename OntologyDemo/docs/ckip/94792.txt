@@ -1,0 +1,6 @@
+　不(D)　＜(FW)　U+8FC(FW)　7(Neu)　＞(FW)　，(COMMACATEGORY)
+　王(Nb)　＜(FW)　U(FW)　+(FW)　6653(Neu)　＞(FW)　波(Nf)　＜(FW)　U+8BF(FW)　4(Neu)　＞(FW)　，(COMMACATEGORY)
+　依(P)　“(FW)　101(Neu)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　”(FW)　＜(FW)　U+7F16＞＜U(FW)　+(FW)　5199(Neu)　＞(FW)　出(VC)　＜(FW)　U(FW)　+(FW)　6765(Neu)　＞(FW)　的(DE)　＜(FW)　U+603B(FW)　＞(FW)　共(Da)　7(Neu)　＜(FW)　U+4E2A(FW)　＞(FW)　版本(Na)　的(DE)　高中(Nc)　＜(FW)　U(FW)　+(FW)　5386(Neu)　＞(FW)　史(Na)　　、(PAUSECATEGORY)　＜(FW)　U+8BED(FW)　＞(FW)　文(Na)　＜(FW)　U+8BFE(FW)　＞(FW)　本(Na)　，(COMMACATEGORY)
+　竟然(D)　＜(FW)　U+8FD(FW)　8(Neu)　＞(FW)　有(V_2)　很多(Neqa)　＜(FW)　U+8FDD(FW)　＞(FW)　背(Na)　新(VH)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　的(DE)　“(FW)　一(Neu)　中原(Nc)　＜(FW)　U(FW)　+(FW)　5219(Neu)　＞(FW)　”(FW)　。(PERIODCATEGORY)
+　于是(Cbb)　，(COMMACATEGORY)
+　台(Nc)　＜(FW)　U+5F(FW)　53(Neu)　＞(FW)　局后(Na)　＜(FW)　U(FW)　+(FW)　6765(Neu)　＞(FW)　又(D)　要求(VF)　微(A)　＜(FW)　U+8C03＞＜U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　——(DASHCATEGORY)　＜(FW)　U+8FD(FW)　9(Neu)　＞(FW)　就(D)　是(SHI)　＜(FW)　U+90D1＞＜U+4E3D(FW)　＞(FW)　君(Na)　口(Na)　中(Ng)　所(D)　＜(FW)　　U+8BF(FW)　4(Neu)　＞(FW)　的(DE)　“(FW)　＜(FW)　U+5C(FW)　06(Neu)　＞(FW)　造成(VG)　台(Nc)　＜(FW)　U+6E7E(FW)　＞(FW)　教育(Na)　浩劫(Na)　”(FW)　的(DE)　高中(Nc)　＜(FW)　U(FW)　+(FW)　5386(Neu)　＞(FW)　史(Na)　＜(FW)　U+8BFE＞＜U+7EB(FW)　2(Neu)　＞(FW)　微(A)　＜(FW)　U+8C(FW)　03(Neu)　＞(FW)　新(VH)　版本(Na)　。(PERIODCATEGORY)

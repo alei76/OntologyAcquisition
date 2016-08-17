@@ -1,0 +1,21 @@
+　[(PARENTHESISCATEGORY)　課外(A)　的(DE)　歷史課(Na)　](PARENTHESISCATEGORY)　台大(Nc)　歷史(Na)　周婉窈(Nb)　教授(Na)　--(DASHCATEGORY)　解嚴(VA)　後(Ng)　臺灣(Nc)　歷史(Na)　教育(Na)　的(DE)　轉型(Nv)　、(PAUSECATEGORY)　頓挫(Nv)　與(Caa)　展望(Nv)　
+
+　本(Nes)　次(Nf)　在(P)　課(Na)　綱(Na)　議題(Na)　中(Ng)　，(COMMACATEGORY)
+　我們(Nh)　討論(VE)　了(Di)　好多(Neqa)　好多(Neqa)　的(DE)　大(VH)　中國(Nc)　史觀(Na)　跟(P)　程序(Na)　問題(Na)　。(PERIODCATEGORY)
+　但(Cbb)　我們(Nh)　會(D)　觀注(VC)　的(DE)　起源(Na)　應該(D)　不(D)　只是(D)　因為(Cbb)　政府(Na)　的(DE)　蠻橫(VH)　無理(VH)　，(COMMACATEGORY)
+　最(Dfa)　重要(VH)　的(DE)　核心(Na)　問題(Na)　應該(D)　是(SHI)　我們(Nh)　需要(VK)　怎麼樣(VH)　的(DE)　教育(Na)　。(PERIODCATEGORY)
+
+　上(Nes)　一(Neu)　場(Nf)　金仕(Nb)　起(VC)　教授(Na)　為(P)　我們(Nh)　討論(VE)　了(Di)　歷史(Na)　思維(Na)　的(DE)　概念(Na)　，(COMMACATEGORY)
+　本(Nes)　次(Nf)　周(Nb)　婉窈(Nb)　教授(Na)　向(P)　我們(Nh)　介紹(VE)　台灣(Nc)　的(DE)　歷史(Na)　教育(Na)　從(P)　解嚴(VA)　前(Ng)　到(P)　現在(Nd)　的(DE)　轉變(Nv)　，(COMMACATEGORY)
+　更(D)　要(D)　告訴(VE)　我們(Nh)　目前(Nd)　歷史(Na)　教育(Na)　是(SHI)　要(D)　那些(Neqa)　人(Na)　在(P)　主導(VC)　，(COMMACATEGORY)
+　要(D)　灌輸(VD)　我們(Nh)　怎麼樣(VH)　看待(VC)　世界(Nc)　的(DE)　方式(Na)　。(PERIODCATEGORY)
+　最後(Nd)　還是(D)　要(D)　討論(VE)　在(P)　現況(Na)　如此(Dfa)　艱困(VH)　的(DE)　環境(Na)　達到(VJ)　所謂(VK)　理想(VH)　的(DE)　歷史(Na)　教育(Na)　。(PERIODCATEGORY)
+
+　如果(Cbb)　你(Nh)　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　你(Nh)　應該(D)　來(D)　聽(VE)　。(PERIODCATEGORY)
+
+　如果(Cbb)　你(Nh)　想(VE)　知道(VK)　我們(Nh)　的(DE)　歷史課(Na)　是(SHI)　怎麼(D)　形成(VG)　的(T)　，(COMMACATEGORY)
+　更(D)　應該(D)　來(VA)　。(PERIODCATEGORY)
+
+　如果(Cbb)　你(Nh)　關心(VK)　台灣(Nc)　的(DE)　教育(Na)　該(D)　如何(D)　更(D)　理想(VH)　，(COMMACATEGORY)
+　那(Dk)　你(Nh)　一定(D)　要(D)　來(D)　。(PERIODCATEGORY)

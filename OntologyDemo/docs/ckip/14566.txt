@@ -1,0 +1,2 @@
+　所以(Cbb)　說(VE)　嘛(T)　，(COMMACATEGORY)
+　【(PARENTHESISCATEGORY)　台(Nc)　南二中(Nc)　】(PARENTHESISCATEGORY)　的(DE)　同學(Na)　怎麼(D)　可能(D)　會(D)　落於(VJ)　人(Na)　後(Ng)　呢(T)　？(QUESTIONCATEGORY)

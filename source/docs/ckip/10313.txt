@@ -1,0 +1,13 @@
+　報告(Na)　校長(Na)　，(COMMACATEGORY)
+　如果(Cbb)　不(D)　是(SHI)　四(Neu)　任(Nf)　教育部長(Na)　聯手(D)　違反(VJ)　程序(Na)　、(PAUSECATEGORY)　違法(VA)　，(COMMACATEGORY)
+　怎麼(D)　會(D)　逼(VF)　得(DE)　學生(Na)　不得不(D)　站出來(VA)　、(PAUSECATEGORY)　救(VC)　自己(Nh)　的(DE)　課(Na)　綱(Na)　呢(T)　？(QUESTIONCATEGORY)
+
+　而(Cbb)　校長(Na)　箝制(VC)　學生(Na)　表達(VC)　言論(Na)　自由(VH)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　違憲(VA)　的(T)　。(PERIODCATEGORY)
+
+　任何(Neqa)　校園(Nc)　裡(Ncd)　的(DE)　生活(Na)　公約(Na)　規定(Na)　、(PAUSECATEGORY)　校規(Na)　都(D)　不得(D)　違法(VA)　違憲(VA)　，(COMMACATEGORY)
+　不得(D)　箝制(VC)　學生(Na)　言論(Na)　表達(VC)　自由(Na)　，(COMMACATEGORY)
+　也(D)　請(VF)　各(Nes)　校(Nc)　好自為之(VH)　。(PERIODCATEGORY)
+
+　請(VF)　教育部(Nc)　懲處(Nv)　違法(Nv)　校長(Na)　，(COMMACATEGORY)
+　並(Cbb)　要求(VF)　學校(Nc)　不得(D)　箝制(VC)　言論(Na)　自由(VH)　。(PERIODCATEGORY)

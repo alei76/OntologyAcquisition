@@ -1,0 +1,22 @@
+　【(PARENTHESISCATEGORY)　延期(VB)　】(PARENTHESISCATEGORY)　
+
+　明日(Nd)　教育部(Nc)　課綱(Na)　微調(Na)　座談會(Na)　已(D)　延期(VB)　，(COMMACATEGORY)
+　後(Nes)　兩(Neu)　場(Nf)　在(P)　北部(Ncd)　的(DE)　座談會(Na)　也(D)　延期(VB)　，(COMMACATEGORY)
+　實際(VH)　原因(Na)　不明(VH)　。(PERIODCATEGORY)
+　蘋果(Na)　日報(Na)　的(DE)　說法(Na)　是(SHI)　南(Ncd)　一(Neu)　中(Ncd)　因(Cbb)　人力(Na)　吃緊(VH)　，(COMMACATEGORY)
+　且(Cbb)　考慮到(VE)　星期日(Nd)　的(DE)　特色(Na)　招生(VA)　，(COMMACATEGORY)
+　所以(Cbb)　延期(VB)　，(COMMACATEGORY)
+　師大附中(Nc)　和(Caa)　竹中(Nc)　則(D)　是(SHI)　擔心(VK)　校園(Nc)　安全(Nv)　問題(Na)　而(Cbb)　延期(VB)　。(PERIODCATEGORY)
+　教育部(Nc)　並未(D)　公布(VE)　延期(Nv)　日期(Na)　。(PERIODCATEGORY)
+
+
+
+　我(Nh)　花(VC)　一(Neu)　堆(Nf)　錢(Na)　買(VC)　板子(Na)　，(COMMACATEGORY)
+　背(VC)　了(Di)　一(Neu)　整(Neqa)　袋(Nf)　板子(Na)　騎車(VA)　回家(VA)　，(COMMACATEGORY)
+　你(Nh)　跟(P)　我(Nh)　說(VE)　延期(VB)　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)

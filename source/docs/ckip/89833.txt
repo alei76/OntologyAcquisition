@@ -1,0 +1,21 @@
+　我們(Nh)　今日(Nd)　開會(VA)　並(D)　提出(VC)　四(Neu)　大(VH)　訴求(Na)　，(COMMACATEGORY)
+　你(Nh)　還(D)　不(D)　快(VH)　加入(VC)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　一(Neu)　、(PAUSECATEGORY)　撤回(VC)　目前(Nd)　新(VH)　課綱(Na)　，(COMMACATEGORY)
+　在(P)　重編(VC)　課綱(Na)　出來(VA)　前(Ng)　沿用(VC)　舊(VH)　課綱(Na)　。(PERIODCATEGORY)
+
+　二(Neu)　、(PAUSECATEGORY)　課綱(Na)　制訂(VC)　需(D)　符合(VJ)　法律(Na)　程序(Na)　與(Caa)　透明化(VHC)　。(PERIODCATEGORY)
+
+　三(Neu)　、(PAUSECATEGORY)　課綱(Na)　應有(A)　民間(Nc)　專業(VH)　人員(Na)　參與(VC)　編輯(Na)　。(PERIODCATEGORY)
+
+　四(Neu)　、(PAUSECATEGORY)　課綱(Na)　制訂(VC)　過程(Na)　需(D)　有(V_2)　公共(A)　參與(VC)　，(COMMACATEGORY)
+　程序(Na)　公開(VHC)　
+
+
+
+　＊(FW)　目前(Nd)　二中(Nb)　人員(Na)　還(D)　是(SHI)　短缺(VJ)　，(COMMACATEGORY)
+　請(VF)　有(V_2)　意願(Na)　的(DE)　『(PARENTHESISCATEGORY)　在校(A)　』(PARENTHESISCATEGORY)　同學(Na)　盡快(D)　私(D)　訊(VC)　粉絲團(Na)　！(EXCLANATIONCATEGORY)
+　感謝(VK)　！(EXCLANATIONCATEGORY)
+　＊(FW)　

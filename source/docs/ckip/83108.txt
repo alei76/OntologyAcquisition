@@ -1,0 +1,8 @@
+　活動(Na)　開始(VH)　了(T)　
+
+　有空(VH)　的(DE)　同學(Na)　朋友(Na)　可以(D)　來(VA)　喔(T)　!(EXCLANATIONCATEGORY)
+
+　活動(Na)　地點(Na)　改為(VG)　中央(Nc)　公園(Nc)　3(Neu)　號(Nf)　出口(Nc)　對面(Ncd)　
+
+　今天(Nd)　已經(D)　把(P)　校(Nc)　內(Ncd)　的(DE)　連署書(Na)　送到(VCL)　高雄市(Nc)　反(VC)　黑箱(A)　課綱(Na)　高中(Nc)　聯盟(Na)　了(T)　，(COMMACATEGORY)
+　未來(Nd)　將(D)　送到(VCL)　教育部(Nc)　!(EXCLANATIONCATEGORY)

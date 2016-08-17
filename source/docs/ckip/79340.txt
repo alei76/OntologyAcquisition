@@ -1,0 +1,13 @@
+　公開(VHC)　的(DE)　座談會(Na)　被(P)　嗆聲(Na)　，(COMMACATEGORY)
+　現在(Nd)　想要(VE)　黑箱(A)　摸頭(Na)　搞(VC)　分化(Nv)　？(QUESTIONCATEGORY)
+
+　「(PARENTHESISCATEGORY)　北高聯(Nb)　學生(Na)　蕭任佑(Nb)　表示(VE)　，(COMMACATEGORY)
+　他(Nh)　接到(VC)　國教署(Nc)　科長(Na)　電話(Na)　，(COMMACATEGORY)
+　依(P)　署長(Na)　指示(Na)　要(D)　和(P)　北高聯(Nb)　的(DE)　幹部(Na)　座談(Na)　溝通(Nv)　，(COMMACATEGORY)
+　但(Cbb)　學生(Na)　們(Na)　認為(VE)　課綱(Na)　是(SHI)　教育(Na)　議題(Na)　，(COMMACATEGORY)
+　應(D)　受(VJ)　社會(Na)　監督(Nv)　。(PERIODCATEGORY)
+　在(P)　溝通(VC)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+　他們(Nh)　一(Neu)　度(Nf)　退讓(VH)　到(P)　希望(VK)　能(D)　開放(VC)　少數(Neqa)　社會(Na)　團體(Na)　派(VF)　代表(Na)　參與(VC)　，(COMMACATEGORY)
+　但(Cbb)　教育部(Nc)　均(D)　強硬(VH)　拒絕(VF)　，(COMMACATEGORY)
+　甚至(D)　也(D)　拒絕(VF)　所有(Neqa)　媒體(Na)　採訪(Nv)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　

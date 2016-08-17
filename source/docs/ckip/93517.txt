@@ -1,0 +1,11 @@
+　課綱(Na)　微調(Na)　已經(D)　判決(VE)　違法(VA)　，(COMMACATEGORY)
+　台聯(Nc)　將(D)　向(P)　監院(Nc)　舉發(VC)　。(PERIODCATEGORY)
+
+　但(Cbb)　教育部(Nc)　發(VD)　公文(Na)　，(COMMACATEGORY)
+　越過(VCL)　地方(Na)　政府(Na)　施壓(Nv)　高中(Nc)　，(COMMACATEGORY)
+
+　堅持(VK)　要(D)　大家(Nh)　選用(VC)　新(VH)　的(DE)　黑箱版(Na)　教科書(Na)　！(EXCLANATIONCATEGORY)
+
+　新(VH)　北市(Nc)　、(PAUSECATEGORY)　新竹縣(Nc)　、(PAUSECATEGORY)　苗栗縣(Nc)　、(PAUSECATEGORY)　南投縣(Nc)　、(PAUSECATEGORY)　台東縣(Nc)　、(PAUSECATEGORY)　連江縣(Nc)　等(Cab)　...(ETCCATEGORY)　
+
+　國民黨(Nb)　執政(VA)　之(DE)　六(Neu)　個(Nf)　縣市(Nc)　已(D)　確定(VK)　要(D)　使用(VC)　新版(Na)　的(DE)　爭議(Na)　課綱(Na)　。(PERIODCATEGORY)

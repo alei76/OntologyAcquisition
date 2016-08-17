@@ -1,0 +1,18 @@
+　今天(Nd)　在(P)　教育部(Nc)　前(Ncd)　開(VC)　記者會(Na)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　後面(Ncd)　有(V_2)　警察(Na)　在(P)　裝(VC)　蛇籠(Na)　。(PERIODCATEGORY)
+
+　昨晚(Nd)　裝(VC)　鐵門(Na)　、(PAUSECATEGORY)　今天(Nd)　裝(VC)　蛇籠(Na)　，(COMMACATEGORY)
+　不(D)　知道(VK)　居(VCL)　的(DE)　是(SHI)　什麼(Nep)　心(Na)　？(QUESTIONCATEGORY)
+
+　而(Cbb)　這樣(VH)　強硬(VH)　的(DE)　方式(Na)　是(SHI)　擋不了(VC)　學生(Na)　的(T)　。(PERIODCATEGORY)
+
+
+
+　在(P)　課(Na)　綱(Na)　退回(VC)　之前(Ng)　，(COMMACATEGORY)
+　我們(Nh)　不會(D)　罷休(VH)　！(EXCLANATIONCATEGORY)
+
+
+
+　明天(Nd)　，(COMMACATEGORY)
+　請(VF)　和(P)　我們(Nh)　一起(D)　，(COMMACATEGORY)
+　走上(VCL)　街頭(Nc)　！(EXCLANATIONCATEGORY)

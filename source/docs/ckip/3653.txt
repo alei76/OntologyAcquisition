@@ -1,0 +1,27 @@
+　《(PARENTHESISCATEGORY)　高雄市(Nc)　反(VC)　黑箱(A)　課綱(Na)　高中(Nc)　聯盟(Na)　—(DASHCATEGORY)　反(VC)　黑箱(A)　反(VC)　洗腦(VB)　爭(VC)　思考(Nv)　》(PARENTHESISCATEGORY)　
+
+
+
+　各(Nes)　位(Nf)　朋友(Na)　好(VH)　！(EXCLANATIONCATEGORY)
+　我們(Nh)　的(DE)　第一(Neu)　場(Nf)　校(Nc)　外(Ncd)　活動(Na)　來(VA)　啦(T)　！(EXCLANATIONCATEGORY)
+　當天(Nd)　有(V_2)　夥伴(Na)　們(Na)　的(DE)　短(VH)　講(VE)　與(Caa)　精彩(VH)　的(DE)　表演(Na)　，(COMMACATEGORY)
+　想(VE)　了解(VK)　課綱(Na)　微調(Na)　議題(Na)　的(DE)　朋友(Na)　歡迎(VJ)　一同(D)　參與(VC)　！(EXCLANATIONCATEGORY)
+　現場(Nc)　還(D)　有(V_2)　學生(Na)　的(DE)　連署(Nv)　行動(Na)　，(COMMACATEGORY)
+　未來(Nd)　將(D)　會(D)　把(P)　連署書(Na)　送到(VCL)　教育部(Nc)　，(COMMACATEGORY)
+　讓(VL)　教育部(Nc)　看到(VE)　學生(Na)　的(DE)　力量(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　時間(Na)　：(COLONCATEGORY)　　6月(Nd)　13日(Nd)　（(PARENTHESISCATEGORY)　六(Neu)　）(PARENTHESISCATEGORY)　下午(Nd)　4(Neu)　～(FW)　6(Neu)　點(Nf)　
+
+　地點(Na)　：(COLONCATEGORY)　　高雄市(Nc)　捷運(Na)　中央(Nc)　公園(Nc)　站(VA)　1(Neu)　號(Nf)　出口(Nc)　前(Nes)　廣場(Nc)　
+
+
+
+　我們(Nh)　的(DE)　連署(Nv)　訴求(Na)　：(COLONCATEGORY)　
+
+　一(Neu)　、(PAUSECATEGORY)　撤回(VC)　黑箱(A)　反(VC)　專業(VH)　的(DE)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　課(Na)　綱(Na)　。(PERIODCATEGORY)
+
+　二(Neu)　、(PAUSECATEGORY)　立即(D)　公開(VHC)　課綱(Na)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　與(Caa)　制定(Nv)　中(Ng)　的(DE)　十二(Neu)　年(Nf)　國教(Na)　領綱(Na)　相關(VH)　資訊(Na)　。(PERIODCATEGORY)
+
+　三(Neu)　、(PAUSECATEGORY)　建立(VC)　課綱(Na)　審定(VC)　的(DE)　公共(A)　參與(VC)　程序(Na)　。(PERIODCATEGORY)

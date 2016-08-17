@@ -1,0 +1,4 @@
+　１５(Neu)　歲(Nf)　的(DE)　孩子(Na)　都(D)　站出來(VA)　了(Di)　，(COMMACATEGORY)
+　各(Nes)　位(Nf)　學長(Na)　姐(Na)　、(PAUSECATEGORY)　大人(Na)　們(Na)　，(COMMACATEGORY)
+　你們(Nh)　站出來(VA)　了(Di)　嗎(T)　？(QUESTIONCATEGORY)
+　你們(Nh)　為了(P)　我們(Nh)　未來(Nd)　的(DE)　教育(Na)　權益(Na)　去(D)　奮鬥(VA)　了(Di)　嗎(T)　？(QUESTIONCATEGORY)

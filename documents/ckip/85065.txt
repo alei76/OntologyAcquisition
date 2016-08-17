@@ -1,0 +1,16 @@
+　中和(Nc)　高中(Nc)　反(VC)　課綱(Na)　行動(Na)　徵(VC)　招(Na)　
+
+
+
+　你(Nh)　關心(VK)　台灣(Nc)　的(DE)　教育(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+　你(Nh)　反(VC)　黑箱(A)　課綱(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+　我們(Nh)　要(D)　的(DE)　就是(Cbb)　你(Nh)　!(EXCLANATIONCATEGORY)
+
+
+
+　高(VH)　一(Neu)　高二(Na)　的(DE)　中和人(Na)　站出來(VA)　為(P)　教育(Na)　奮鬥(VA)　吧(T)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)
+
+　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　docs.google.com/forms/d/1OhmnjEGdwwxXKZqmZVfLMm_zHBr-xqKv9sxYB1E6_D8/viewform(FW)　

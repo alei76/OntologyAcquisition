@@ -1,0 +1,6 @@
+　今早(Nd)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　昂首闊步(VA)　反(VC)　課綱(Na)　微調(Na)　」(PARENTHESISCATEGORY)　小組(Na)　成員(Na)　與(Caa)　「(PARENTHESISCATEGORY)　桃區(Nb)　高校(Nc)　聯盟(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　北區(Nc)　高校(Nc)　聯盟(Na)　」(PARENTHESISCATEGORY)　等(Cab)　其他(Neqa)　夥伴(Na)　，(COMMACATEGORY)
+　參與(VC)　臺灣(Nc)　教授(Na)　協會(Nc)　辦理(VC)　的(DE)　「(PARENTHESISCATEGORY)　反對(VE)　黑箱(A)　課綱(Na)　捍衛(VC)　學生(Na)　學習權(Na)　」(PARENTHESISCATEGORY)　座談會(Na)　，(COMMACATEGORY)
+　並(Cbb)　在(P)　會(Na)　後(Ng)　餐會(Na)　上(Ng)　，(COMMACATEGORY)
+　進行(VC)　意見(Na)　交流(Nv)　、(PAUSECATEGORY)　經驗(Na)　分享(VJ)　，(COMMACATEGORY)
+　以及(Caa)　對於(P)　未來(Nd)　行動(Na)　大(VH)　方向(Na)　的(DE)　討論(Nv)　。(PERIODCATEGORY)

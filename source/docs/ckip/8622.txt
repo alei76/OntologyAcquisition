@@ -1,0 +1,6 @@
+　國立(A)　花蓮(Nc)　女中(Nc)　昨天(Nd)　下午(Nd)　第三(Neu)　節(Nf)　在(P)　花女(Na)　圖書館(Nc)　舉辦(VC)　花蓮區(Nc)　第一(Neu)　場(Nf)　講座(Na)　，(COMMACATEGORY)
+　擠進(VCL)　一百多(Neu)　名(Nf)　學生(Na)　，(COMMACATEGORY)
+　連(Cbb)　走道(Na)　都(D)　坐滿(VC)　。(PERIODCATEGORY)
+　花女(Na)　歷史(Na)　教師(Na)　吳一晉(Nb)　挺身(VA)　談(VE)　課綱(Na)　產生(VHC)　過程(Na)　，(COMMACATEGORY)
+　強調(VE)　以(P)　「(PARENTHESISCATEGORY)　突襲式(Na)　的(DE)　公聽會(Na)　」(PARENTHESISCATEGORY)　迅速(VH)　通過(VC)　課綱(Na)　，(COMMACATEGORY)
+　程序(Na)　不(D)　合理(VH)　。(PERIODCATEGORY)

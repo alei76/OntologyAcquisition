@@ -1,0 +1,10 @@
+　酸味(Na)　四溢(VH)　
+
+　「(PARENTHESISCATEGORY)　為何(D)　選擇(VC)　在(P)　夜間(Nd)　發動(VC)　抗議(Nv)　行動(Na)　？(QUESTIONCATEGORY)
+　游騰傑痛批(Na)　，(COMMACATEGORY)
+　教育部(Nc)　不僅(Cbb)　強行(D)　通過(VC)　違法(Nv)　課綱(Na)　，(COMMACATEGORY)
+　且(Cbb)　是(SHI)　在(P)　晚間(Nd)　宣布(VE)　，(COMMACATEGORY)
+　課綱(Na)　座談會(Na)　也(D)　是(SHI)　在(P)　晚上(Nd)　宣布(VE)　取消(VC)　，(COMMACATEGORY)
+　他(Nh)　以為(VE)　教育部(Nc)　晚上(Nd)　才(Da)　有(V_2)　人(Na)　上班(VA)　，(COMMACATEGORY)
+　所以(Cbb)　才(Da)　決定(VE)　在(P)　夜間(Nd)　赴(VCL)　教育部(Nc)　抗議(Nv)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　

@@ -1,0 +1,35 @@
+　12(Neu)　歲(Nf)　的(DE)　時候(Na)　改(VC)　從(P)　母姓(Na)　，(COMMACATEGORY)
+　有(V_2)　了(Di)　官方(Na)　的(DE)　原住民(Na)　身分(Na)　，(COMMACATEGORY)
+　那(Nep)　時候(Na)　「(PARENTHESISCATEGORY)　原住民(Na)　」(PARENTHESISCATEGORY)　三(Neu)　個(Nf)　字(Na)　對(P)　我(Nh)　來(D)　說(VE)　好(VH)　虛無(VH)　，(COMMACATEGORY)
+　是(SHI)　一(Neu)　個(Nf)　遙不可及(VH)　的(DE)　、(PAUSECATEGORY)　沒有(VJ)　概念(Na)　的(DE)　三(Neu)　個(Nf)　字(Na)　，(COMMACATEGORY)
+　那(Nep)　個(Nf)　時候(Na)　同學(Na)　友人(Na)　會(D)　問(VE)　我(Nh)　：(COLONCATEGORY)　　你(Nh)　會不會(D)　說(VE)　族語(Na)　。(PERIODCATEGORY)
+　不會(D)　。(PERIODCATEGORY)
+　會不會(D)　打獵(VA)　。(PERIODCATEGORY)
+　不會(D)　。(PERIODCATEGORY)
+　會不會(D)　喝(VC)　小米酒(Na)　。(PERIODCATEGORY)
+　不會(D)　。(PERIODCATEGORY)
+　甚至(D)　會(D)　問(VE)　說(VE)　會不會(D)　騎(VC)　山豬(Na)　。(PERIODCATEGORY)
+　這些(Neqa)　無謂(A)　的(DE)　山林(Nc)　想像(Na)　，(COMMACATEGORY)
+　顯得(VK)　有點(Dfa)　荒謬(VH)　。(PERIODCATEGORY)
+　我(Nh)　的(DE)　腦海(Nc)　是(SHI)　一(Neu)　片(Nf)　空白(Nv)　，(COMMACATEGORY)
+　原初(A)　的(DE)　社會(Na)　已經(D)　離(P)　我(Nh)　多(Dfa)　遙遠(VH)　了(T)　，(COMMACATEGORY)
+　遠到(VCL)　我(Nh)　已經(D)　想像(VK)　不(D)　出來(VA)　，(COMMACATEGORY)
+　甚至(D)　已經(D)　沒有(VJ)　記憶(Na)　，(COMMACATEGORY)
+　不僅僅(Da)　失去(VJ)　身體(Na)　的(DE)　能力(Na)　，(COMMACATEGORY)
+　也(D)　已(D)　失去(VJ)　言語(Na)　的(DE)　能力(Na)　。(PERIODCATEGORY)
+　我(Nh)　也(D)　不可能(D)　再(D)　回到(VCL)　經歷(VJ)　過(Di)　幾(Neu)　個(Nf)　世代(Na)　、(PAUSECATEGORY)　政權(Na)　更替(VC)　的(DE)　那(Nep)　個(Nf)　過去(VA)　了(Di)　。(PERIODCATEGORY)
+
+
+
+　高中(Nc)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　偶然(D)　讀到(VC)　了(Di)　莫那(Nb)　能(D)　的(DE)　詩(Na)　〈(PARENTHESISCATEGORY)　恢復(VHC)　我們(Nh)　的(DE)　姓名(Na)　〉(PARENTHESISCATEGORY)　他(Nh)　不斷(VH)　的(DE)　問(VE)　：(COLONCATEGORY)　
+
+
+
+　我們(Nh)　還(D)　剩下(VJ)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+　是(SHI)　在(P)　平地(Na)　顛沛流離(VH)　的(DE)　足跡(Na)　嗎(T)　？(QUESTIONCATEGORY)
+
+　我們(Nh)　還(D)　剩下(VJ)　什麼(Nep)　？(QUESTIONCATEGORY)
+
+　在(P)　懸崖(Nc)　猶豫(VK)　不定(VH)　的(DE)　壯志(Na)　嗎(T)　？(QUESTIONCATEGORY)

@@ -1,0 +1,12 @@
+　這(Nep)　種(Nf)　事情(Na)　，(COMMACATEGORY)
+　學校(Nc)　都(D)　沒(D)　提(VC)　─(FW)　─(FW)　1945年(Nd)　5月(Nd)　31日(Nd)　，(COMMACATEGORY)
+　臺北(Nc)　大(VH)　空襲(VC)　
+
+
+
+　1945年(Nd)　5月(Nd)　31日(Nd)　，(COMMACATEGORY)
+　剛剛好(Da)　70(Neu)　年(Nf)　前(Ng)　。(PERIODCATEGORY)
+　如果(Cbb)　你(Nh)　的(DE)　阿嬤(Na)　阿公(Na)　阿婆(Na)　超過(VJ)　70(Neu)　歲(Nf)　，(COMMACATEGORY)
+　說不定(D)　也(D)　有(V_2)　走躲(VA)　這(Nep)　場(Nf)　空襲(VC)　的(DE)　記憶(Na)　。(PERIODCATEGORY)
+　不過(Cbb)　如果(Cbb)　問問(VE)　當事人(Na)　們(Na)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　是(SHI)　誰(Nh)　開(VC)　來(Ng)　飛機(Na)　轟炸(VC)　臺灣(Nc)　的(DE)　呢(T)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　說不定(D)　你(Nh)　會(D)　得到(VJ)　很(Dfa)　有趣(VH)　的(DE)　答案(Na)　。(PERIODCATEGORY)

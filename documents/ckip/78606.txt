@@ -1,0 +1,5 @@
+　活動(Na)　時間(Na)　：(COLONCATEGORY)　　7(Neu)　/(FW)　5(Neu)　下午(Nd)　三(Neu)　點(Na)　整(Neqa)　
+
+　活動(Na)　地點(Na)　：(COLONCATEGORY)　　北市(Nc)　國教(Na)　署分屬(A)　（(PARENTHESISCATEGORY)　北市(Nc)　中正區(Nc)　徐州路(Nc)　48(Neu)　-(DASHCATEGORY)　1(Neu)　號(Nf)　）(PARENTHESISCATEGORY)　
+
+　交通(Na)　方式(Na)　：(COLONCATEGORY)　　捷運(Na)　搭乘(VC)　至(P)　藍線(Nb)　善導寺(Nc)　站(VA)　步行(VA)　約(Da)　五(Neu)　分鐘(Nf)　（(PARENTHESISCATEGORY)　臨近(VJ)　國立(A)　臺北(Nc)　商業(Na)　大學(Nc)　）(PARENTHESISCATEGORY)　

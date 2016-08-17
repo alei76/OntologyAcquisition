@@ -1,0 +1,7 @@
+　北高聯(Nb)　共同(A)　發言人(Na)　表示(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　教育部(Nc)　行事(VA)　引發(VC)　爭議(Na)　卻(D)　仍(D)　獨斷(VH)　執行(VC)　，(COMMACATEGORY)
+　引起(VC)　人民(Na)　憤怒(VH)　，(COMMACATEGORY)
+　是(SHI)　為(VG)　對(P)　國家(Na)　不(D)　忠(VI)　；(SEMICOLONCATEGORY)　　失信(VI)　於(P)　學生(Na)　及(Caa)　民眾(Na)　，(COMMACATEGORY)
+　是(SHI)　為(P)　不義(VH)　；(SEMICOLONCATEGORY)　　逃避(VC)　問題(Na)　，(COMMACATEGORY)
+　不肯(Nb)　正視(VC)　嚴重性(Na)　，(COMMACATEGORY)
+　是(SHI)　為(P)　不勇(Nb)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　嚴正(VH)　指責(VC)　教育部(Nc)　昨日(Nd)　之(DE)　不(D)　負責任(VH)　行為(Na)　。(PERIODCATEGORY)

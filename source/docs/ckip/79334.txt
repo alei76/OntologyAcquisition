@@ -1,0 +1,6 @@
+　7(Neu)　/(FW)　5(Neu)　日(Nf)　，(COMMACATEGORY)
+　請(VF)　各(Nes)　位(Nf)　空下來(VB)　。(PERIODCATEGORY)
+
+　當天(Nd)　有(V_2)　多少(Neqa)　人(Na)　上街(VA)　，(COMMACATEGORY)
+　不(D)　是(SHI)　我們(Nh)　能(D)　控制(VC)　的(T)　，(COMMACATEGORY)
+　而是(Cbb)　教育部(Nc)　的(DE)　態度(Na)　來(D)　決定(VE)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　好(VH)　活動(Na)　不(D)　參加(VC)　嗎(T)　?(QUESTIONCATEGORY)
+
+　武陵(Nc)　同學(Na)　們(Na)　在(P)　等(VC)　這(Nep)　個(Nf)　嗎(T)　?(QUESTIONCATEGORY)
+
+　飽食(VC)　知識(Na)　的(DE)　時候(Na)　了(T)　

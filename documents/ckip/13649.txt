@@ -1,0 +1,8 @@
+　「(PARENTHESISCATEGORY)　在(P)　學生(Na)　自發(VH)　建議(Na)　下(Ng)　，(COMMACATEGORY)
+　台南(Nc)　一(Neu)　中(Ncd)　校長(Na)　張添唐(Nb)　決定(VE)　從善如流(VH)　，(COMMACATEGORY)
+　用(P)　午休(VH)　時間(Na)　邀請(VC)　國文(Na)　、(PAUSECATEGORY)　公民(Na)　、(PAUSECATEGORY)　歷史(Na)　等(Cab)　科目(Na)　的(DE)　老師(Na)　為(VG)　學生(Na)　說明(VE)　課綱(Na)　的(DE)　調整(Nv)　項目(Na)　與(Caa)　可能(D)　影響(VC)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.ltn.com.tw/news/focus/paper(FW)　/(FW)　886664(Neu)　

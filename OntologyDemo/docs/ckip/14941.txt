@@ -1,0 +1,4 @@
+　摘(VC)　：(COLONCATEGORY)　　教育部(Nc)　不(D)　思(VE)　檢討(VE)　撤銷(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　卻(D)　公開(VHC)　要求(Na)　維持(VJ)　校園(Nc)　安定(VHC)　，(COMMACATEGORY)
+　私下(D)　要求(VF)　校方(Na)　處理(Nv)　，(COMMACATEGORY)
+　這(Nep)　是(SHI)　教育部(Nc)　還是(Caa)　警備總部(Nc)　？(QUESTIONCATEGORY)

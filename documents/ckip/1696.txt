@@ -1,0 +1,4 @@
+　目前(Nd)　客座(Nc)　短(VH)　講為(VE)　島國(Na)　前進(VA)　-(DASHCATEGORY)　葉洋裴(Nb)　為(P)　我們(Nh)　演說(VA)　！(EXCLANATIONCATEGORY)
+　你(Nh)　還(D)　不(D)　來(VA)　嗎(T)　？(QUESTIONCATEGORY)
+　有(V_2)　興趣(Na)　的(DE)　同學(Na)　、(PAUSECATEGORY)　民眾(Na)　趕快(D)　來(D)　參與(VC)　吧(T)　，(COMMACATEGORY)
+　我們(Nh)　在(P)　中央(Nc)　公園(Nc)　三(Neu)　號(Nf)　出口(Nc)　對面(Ncd)　！(EXCLANATIONCATEGORY)

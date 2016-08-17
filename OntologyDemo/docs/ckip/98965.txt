@@ -1,0 +1,17 @@
+　去年(Nd)　318(Neu)　學運(Na)　，(COMMACATEGORY)
+　主張(VE)　反對(VE)　黑箱(A)　服貿(Na)　
+
+　你(Nh)　說(VE)　：(COLONCATEGORY)　　只有(D)　反對(VE)　程序(Na)　，(COMMACATEGORY)
+　服貿(Na)　沒有(VJ)　問題(Na)　。(PERIODCATEGORY)
+
+
+
+　現在(Nd)　反對(VE)　黑箱(A)　課綱(Na)　
+
+　你(Nh)　說(VE)　：(COLONCATEGORY)　　只(Da)　是(SHI)　程序(Na)　上(Ncd)　問題(Na)　，(COMMACATEGORY)
+　課綱(Na)　並(D)　無(VJ)　不妥(VH)　。(PERIODCATEGORY)
+
+
+
+　我(Nh)　說(VE)　：(COLONCATEGORY)　　你(Nh)　殺人(Na)　不用(D)　刀(Na)　，(COMMACATEGORY)
+　活(VH)　著(Di)　不用(D)　腦(Na)　。(PERIODCATEGORY)

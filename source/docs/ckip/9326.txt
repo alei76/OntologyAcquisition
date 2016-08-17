@@ -1,0 +1,100 @@
+　為什麼(D)　反對(VE)　黑箱(A)　課綱(Na)　呢(T)　？(QUESTIONCATEGORY)
+　請(VF)　看(VC)　過來(VA)　
+
+
+
+　１(Neu)　.(PERIODCATEGORY)　修改(VC)　程序(Na)　不符(VJ)　民主(Na)　與(Caa)　專業(VH)
+
+　在(P)　蔣偉寧(Nb)　部長(Na)　時期(Na)　，(COMMACATEGORY)
+　組成(VG)　檢核(Nv)　小組(Na)　，(COMMACATEGORY)
+　以(P)　更正(VC)　用詞(Na)　為(VG)　名義(Na)　，(COMMACATEGORY)
+　直接(VH)　大幅(D)　改動(VC)　課綱(Na)　內容(Na)　。(PERIODCATEGORY)
+
+　高中(Nc)　課綱(Na)　一直(D)　以來(Ng)　都(D)　是(SHI)　交由(VF)　課綱(Na)　委員會(Nc)　決定(VE)　，(COMMACATEGORY)
+　課綱(Na)　委員(Na)　由(P)　大學(Nc)　教授(Na)　與(Caa)　高中(Nc)　教師(Na)　組成(VG)　。(PERIODCATEGORY)
+
+
+
+　但(Cbb)　這(Nep)　次(Nf)　的(DE)　調整(Nv)　，(COMMACATEGORY)
+　無視於(VJ)　課綱(Na)　委員會(Nc)　的(DE)　決定(Na)　，(COMMACATEGORY)
+　私下(D)　決定(VE)　後(Ng)　頒布(VC)　，(COMMACATEGORY)
+　推翻(VC)　了(Di)　課綱(Na)　委員會(Nc)　的(DE)　共識(Na)　決(VE)　。(PERIODCATEGORY)
+　檢核(Nv)　小組(Na)　成員(Na)　來源(Na)　複雜(VH)　，(COMMACATEGORY)
+　未(D)　具備(VJ)　專業(VH)　。(PERIODCATEGORY)
+　事(Na)　後(Ng)　又(D)　迴避(VC)　將(P)　檢核(Nv)　小組(Na)　的(DE)　完整(VH)　成員(Na)　及(Caa)　會議(Na)　內容(Na)　向(P)　外界(Ncd)　公開(VHC)　，(COMMACATEGORY)
+　會議(Na)　記錄(Na)　裡(Ncd)　全(Neqa)　用(P)　OOO(FW)　代替(VC)　人名(Na)　，(COMMACATEGORY)
+　完全(D)　不(D)　負責任(VH)　。(PERIODCATEGORY)
+
+
+
+　２(Neu)　.(PERIODCATEGORY)　成員(Na)　背景(Na)　爭議(Na)
+
+　課綱(Na)　微調案(Na)　的(DE)　成員(Na)　背景(Na)　引發(VC)　強烈(VH)　爭議(Na)　，(COMMACATEGORY)
+　例如(P)　高中(Nc)　歷史課(Na)　綱(Na)　調整(VC)　的(DE)　提議者(Na)　，(COMMACATEGORY)
+　以及(Caa)　後來(Nd)　擔任(VG)　課綱(Na)　檢核(Nv)　小組(Na)　總召集人(Na)　王曉波(Nb)　為(VG)　現任(A)　「(PARENTHESISCATEGORY)　中國(Nc)　統一(VHC)　聯盟(Na)　」(PARENTHESISCATEGORY)　副主席(Na)　（(PARENTHESISCATEGORY)　其餘(Neqa)　人士(Na)　見(VE)　下(Nes)　圖(Na)　）(PARENTHESISCATEGORY)　
+
+
+
+　朱雲鵬(Nb)　於(P)　「(PARENTHESISCATEGORY)　檢核(Nv)　小組(Na)　會議(Na)　」(PARENTHESISCATEGORY)　中(Ng)　更(D)　提出(VC)　「(PARENTHESISCATEGORY)　臨時(A)　動議(Na)　」(PARENTHESISCATEGORY)　建議(Na)　由(P)　檢核(Nv)　小組(Na)　直接(VH)　微調(Na)　課綱(Na)　，(COMMACATEGORY)
+　獲得(VJ)　檢核(Nv)　小組(Na)　無異議(VH)　通過(VC)　。(PERIODCATEGORY)
+
+
+
+　此(Nep)　次(Nf)　課綱(Na)　內容(Na)　的(DE)　改動(Nv)　引起(VC)　台灣(Nc)　史學界(Nc)　很(Dfa)　大(VH)　的(DE)　反彈(Nv)　，(COMMACATEGORY)
+　因為(Cbb)　課綱(Na)　檢核(Nv)　小組(Na)　成員(Na)　中(Ng)　幾乎(Da)　沒有(D)　以(P)　台灣史(Na)　為(VG)　專業(VH)　的(DE)　研究者(Na)　，(COMMACATEGORY)
+　連(Cbb)　歷史(Na)　學者(Na)　的(DE)　比例(Na)　都(D)　很(Dfa)　小(VH)　，(COMMACATEGORY)
+　卻(D)　大幅(D)　改寫(VC)　了(Di)　先前(Nd)　由(P)　二十餘(Neu)　位(Nf)　專業(VH)　歷史(Na)　學者(Na)　共(Da)　
+
+　同(Nes)　決議(Na)　的(DE)　101(Neu)　課(Na)　綱(Na)　
+
+
+
+　王曉波(Nb)　先前(Nd)　在(P)　專案(Na)　小組(Na)　中(Ng)　提出(VC)　的(DE)　修改(Nv)　意見(Na)　，(COMMACATEGORY)
+　經(P)　其他(Neqa)　歷史學家(Na)　討論(VE)　後(Ng)　，(COMMACATEGORY)
+　在(P)　101(Neu)　課(Na)　綱(Na)　中(Ng)　，(COMMACATEGORY)
+　多數(Neqa)　未(D)　被(P)　接受(VC)　。(PERIODCATEGORY)
+　但(Cbb)　檢核(Nv)　小組(Na)　利用(VC)　修定(VC)　用語(Na)　的(DE)　名義(Na)　，(COMMACATEGORY)
+　將(P)　這些(Neqa)　修定(VC)　內容(Na)　強行(D)　加入(VC)　，(COMMACATEGORY)
+　不(D)　符合(VJ)　台灣(Nc)　歷(Nes)　史學界(Nc)　的(DE)　建議(Na)　方向(Na)　，(COMMACATEGORY)
+　被(P)　認為(VE)　是(SHI)　以(P)　政治(Na)　凌駕(VJ)　專業(VH)　的(DE)　作為(Na)　。(PERIODCATEGORY)
+
+
+
+　３(Neu)　.(PERIODCATEGORY)　政治(Na)　過度(Dfa)　干預(VC)　學術(Na)
+
+
+
+　課綱(Na)　修定(VC)　的(DE)　支持者(Na)　認為(VE)　，(COMMACATEGORY)
+　教育(Na)　的(DE)　內容(Na)　必須(D)　符合(VJ)　中華民國(Nc)　憲法(Na)　，(COMMACATEGORY)
+　避免(VE)　台獨(Na)　。(PERIODCATEGORY)
+
+　課綱(Na)　委員(Na)　吳昆財(Nb)　主張(VE)　，(COMMACATEGORY)
+　教科書(Na)　必定(D)　是(SHI)　要(D)　為(VG)　政治(Na)　服務(Nv)　，(COMMACATEGORY)
+　國家(Na)　民族(Na)　的(DE)　立國(Nv)　精神(Na)　服務(Nv)　。(PERIODCATEGORY)
+　課綱(Na)　修定(VC)　的(DE)　目的(Na)　在於(VK)　避免(VE)　台灣(Nc)　年輕人(Na)　對(P)　國家(Na)　認同(VJ)　混淆(VHC)　，(COMMACATEGORY)
+　主張(VE)　先(D)　教(VC)　中國史(Na)　，(COMMACATEGORY)
+　後(Nes)　台灣史(Na)　，(COMMACATEGORY)
+　最後(Nd)　教授(Na)　世界史(Na)　。(PERIODCATEGORY)
+
+
+
+　４(Neu)　.(PERIODCATEGORY)　課綱(Na)　通過(VC)　過程(Na)　草率(VH)　又(Caa)　黑箱(A)
+
+　教育部(Nc)　宣稱(VE)　他們(Nh)　開(VC)　了(Di)　多(Neqa)　場(Nf)　公聽會(Na)　，(COMMACATEGORY)
+　但(Cbb)　他(Nh)　沒(D)　說(VE)　的(DE)　是(SHI)　，(COMMACATEGORY)
+　他(Nh)　在(P)　兩(Neu)　天(Nf)　之內(Ng)　開完(VC)　了(Di)　北(Ncd)　中(Ncd)　高三(Na)　場(Nc)　公聽會(Na)　，(COMMACATEGORY)
+　很多(Neqa)　學校(Nc)　、(PAUSECATEGORY)　教師(Na)　在(P)　還(D)　沒(D)　收到(VC)　公文(Na)　之前(Ng)　公聽會(Na)　就(D)　開完(VC)　了(Di)　，(COMMACATEGORY)
+　導致(VL)　第一(Neu)　線(Nf)　的(DE)　教育(Na)　人員(Na)　對於(P)　這(Nep)　個(Nf)　課綱(Na)　完全(D)　沒有(D)　出聲(VA)　的(DE)　能力(Na)　，(COMMACATEGORY)
+　這樣(VH)　還(D)　不(D)　黑箱(A)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　反(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　需要(VK)　您(Nh)　的(DE)　協助(Nv)　，(COMMACATEGORY)
+　懇請(VF)　多(D)　分享(VJ)　此(Nep)　文(Na)　，(COMMACATEGORY)
+　讓(VL)　更多(Neqa)　人(Na)　瞭解(VK)　這(Nep)　個(Nf)　問題(Na)　有(V_2)　多麼(Dfa)　嚴重(VH)　！(EXCLANATIONCATEGORY)
+
+
+
+　（(PARENTHESISCATEGORY)　工商(Na)　服務(Nv)　：(COLONCATEGORY)　　工作(Na)　小組(Na)　持續(VL)　招募(VC)　中(Ng)　，(COMMACATEGORY)
+　意者(Na)　內洽(VC)　）(PARENTHESISCATEGORY)　

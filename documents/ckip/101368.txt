@@ -1,0 +1,5 @@
+　繼(P)　台中一中(Nc)　、(PAUSECATEGORY)　新竹(Nc)　高中(Nc)　學生(Na)　公開(VHC)　反(VC)　黑箱(A)　課綱(Na)　後(Ng)　，(COMMACATEGORY)
+　建國(VA)　中學(Nc)　、(PAUSECATEGORY)　新(VH)　北(Ncd)　中和(Nc)　高中(Nc)　、(PAUSECATEGORY)　三民(Nc)　高中(Nc)　、(PAUSECATEGORY)　竹北(Nc)　高中(Nc)　、(PAUSECATEGORY)　雲林(Nc)　虎尾(Nc)　高中(Nc)　、(PAUSECATEGORY)　嘉義(Nc)　高中(Nc)　和(Caa)　高雄(Nc)　新莊(Nc)　高中(Nc)　相繼(D)　響應(VC)　，(COMMACATEGORY)
+　並(Cbb)　在(P)　校園(Nc)　舉辦(VC)　活動(Na)　，(COMMACATEGORY)
+　探討(VE)　黑箱(A)　課綱(Na)　缺失(Na)　，(COMMACATEGORY)
+　正在(D)　全(Neqa)　國高中(Nc)　校園(Nc)　延燒(VC)　。(PERIODCATEGORY)

@@ -1,0 +1,65 @@
+　有(V_2)　個(Nf)　來自(VJ)　一些(Neqa)　同學(Na)　的(DE)　共同(A)　問題(Na)　
+
+
+
+　「(PARENTHESISCATEGORY)　為什麼(D)　其他(Neqa)　學校(Nc)　的(DE)　都(D)　是(SHI)　反(VC)　黑箱(A)　，(COMMACATEGORY)
+　這(Nep)　個(Nf)　是(SHI)　反(D)　去(D)　台灣化(VHC)　？(QUESTIONCATEGORY)
+　我(Nh)　覺得(VK)　好(Dfa)　奇怪(VK)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　黑箱(A)　作業(Na)　是(SHI)　一(Neu)　種(Nf)　手段(Na)　，(COMMACATEGORY)
+　在(P)　民主(Na)　的(DE)　社會(Na)　裡(Ng)　，(COMMACATEGORY)
+　黑箱(A)　作業(Na)　當然(D)　是(SHI)　不(D)　對(VH)　的(T)　。(PERIODCATEGORY)
+　但是(Cbb)　我們(Nh)　要(D)　反(VC)　的(DE)　是(SHI)　，(COMMACATEGORY)
+　黑箱(A)　裡面(Ncd)　裝(VC)　什麼(Nep)　呀(T)　！(EXCLANATIONCATEGORY)
+　裡面(Ncd)　就是(Cbb)　裝(VC)　著(Di)　「(PARENTHESISCATEGORY)　去(D)　台灣化(VHC)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　加深(VHC)　中國化(VHC)　」(PARENTHESISCATEGORY)　的(DE)　內容(Na)　。(PERIODCATEGORY)
+
+
+
+　我們(Nh)　是(SHI)　台灣人(Na)　對(VH)　吧(T)　？(QUESTIONCATEGORY)
+　中華民國(Nc)　是(SHI)　中國(Nc)　，(COMMACATEGORY)
+　中華(Nc)　人民(Na)　共和國(Na)　也(D)　是(SHI)　中國(Nc)　。(PERIODCATEGORY)
+　今天(Nd)　不管(Cbb)　你(Nh)　認(VK)　不(D)　認為(VE)　自己(Nh)　是(SHI)　台灣人(Na)　，(COMMACATEGORY)
+　你(Nh)　都(D)　出生(VA)　在(P)　台灣(Nc)　，(COMMACATEGORY)
+　並且(Cbb)　和(P)　我們(Nh)　一樣(VH)　熱愛(VL)　這(Nep)　塊(Nf)　土地(Na)　。(PERIODCATEGORY)
+
+
+
+　然而(Cbb)　目前(Nd)　的(DE)　執政(Nv)　政府(Na)　，(COMMACATEGORY)
+　卻(D)　要(D)　將(P)　我們(Nh)　稱(VE)　之(Nh)　為(P)　中國(Nc)　。(PERIODCATEGORY)
+
+
+
+　教育部(Nc)　對於(P)　課綱(Na)　的(DE)　調整(Nv)　，(COMMACATEGORY)
+　最(Dfa)　大(VH)　的(DE)　問題(Na)　不(D)　在於(VK)　是否(D)　為(VG)　黑箱(A)　作業(Na)　，(COMMACATEGORY)
+　而是(Cbb)　教育部(Nc)　特別(VH)　強化(VHC)　中國(Nc)　為(P)　中心(Nc)　的(DE)　史觀(Na)　，(COMMACATEGORY)
+　偏頗(VJ)　，(COMMACATEGORY)
+　並且(Cbb)　刻意(D)　去除(VC)　台灣(Nc)　的(DE)　主體性(Na)　。(PERIODCATEGORY)
+
+
+
+　黑箱(A)　作業(Na)　的(DE)　亂(VH)　搞(VC)　跟(P)　光明正大(VH)　的(DE)　亂(VH)　搞(VC)　，(COMMACATEGORY)
+　難道(D)　不(D)　一樣(VH)　嗎(T)　？(QUESTIONCATEGORY)
+　課綱(Na)　調整(Nv)　至(Caa)　如此(VH)　，(COMMACATEGORY)
+　教育部長(Na)　吳思華(Nb)　還(D)　不准(VE)　書商(Na)　編印(VC)　舊(VH)　課綱(Na)　，(COMMACATEGORY)
+　這(Nep)　對(P)　我們(Nh)　而言(VE)　就(D)　是(SHI)　獨裁(VH)　國家(Na)　的(T)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　媒體(Na)　審查(Nv)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　回歸(VCL)　主題(Na)　，(COMMACATEGORY)
+　我們(Nh)　在(P)　讀(VC)　歷史(Na)　，(COMMACATEGORY)
+　是(SHI)　為了(P)　瞭解(VK)　自己(Nh)　，(COMMACATEGORY)
+　自己(Nh)　的(DE)　土地(Na)　，(COMMACATEGORY)
+　人們(Na)　當時(Nd)　的(DE)　生活(Na)　與(Caa)　想法(Na)　。(PERIODCATEGORY)
+　課綱(Na)　就(Da)　是(SHI)　一(Neu)　個(Nf)　大(VH)　範圍(Na)　的(DE)　框框(Na)　，(COMMACATEGORY)
+　課綱(Na)　就(D)　是(SHI)　思想(Na)　。(PERIODCATEGORY)
+　我們(Nh)　在(P)　這(Nep)　個(Nf)　以(P)　自以為是(VH)　中國(Nc)　的(DE)　框框(Na)　裡(Ng)　，(COMMACATEGORY)
+　去(D)　學(VC)　台灣(Nc)　的(DE)　歷史(Na)　，(COMMACATEGORY)
+　這樣子(Dk)　會(D)　正確(VH)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　好好(VH)　想想(VE)　吧(T)　！(EXCLANATIONCATEGORY)

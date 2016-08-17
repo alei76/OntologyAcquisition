@@ -1,0 +1,11 @@
+　「(PARENTHESISCATEGORY)　今天(Nd)　晚上(Nd)　我(Nh)　終於(D)　取得(VC)　教育部(Nc)　提供(VD)　的(DE)　檢核(Nv)　小組(Na)　會議(Na)　紀錄(Na)　，(COMMACATEGORY)
+　清楚(VH)　記載(Na)　成立(VC)　檢核(Nv)　小組(Na)　是(SHI)　為了(P)　檢核(Nv)　教科書(Na)　用詞(Na)　，(COMMACATEGORY)
+　正式(VH)　討論(VE)　的(DE)　提案(Na)　也(D)　是(SHI)　在(P)　處理(VC)　教科書(Na)　檢核(Nv)　，(COMMACATEGORY)
+　卻(D)　突然(D)　有(V_2)　個(Nf)　臨時(A)　動議(Na)　發動(VC)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　會議(Na)　記錄(Na)　證實(VE)　了(Di)　課綱(Na)　微調(A)　的(DE)　發動(Nv)　是(SHI)　未(D)　經(P)　授權(Nv)　且(Caa)　逾越(VJ)　檢核(Nv)　小組(Na)　職權(Na)　的(DE)　違法(Nv)　作為(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　98(Neu)　history.blogspot.tw/2015/03/blog-post_19.html(FW)　?(QUESTIONCATEGORY)
+　m(FW)　=(FW)　1(Neu)　

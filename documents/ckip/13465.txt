@@ -1,0 +1,5 @@
+　北(Ncd)　中(Ncd)　南(Ncd)　各(Nes)　地(Na)　都(D)　已經(D)　有(V_2)　學校(Nc)　加入(VC)　反(VC)　黑箱(A)　課綱(Na)　活動(Na)　，(COMMACATEGORY)
+
+　不能(D)　讓(VL)　臺灣(Nc)　下一代(Na)　的(DE)　教育(Na)　受到(VJ)　洗腦(VB)　，(COMMACATEGORY)
+
+　我們(Nh)　要(D)　一起(D)　終結(VC)　黑箱(A)　課綱(Na)　！(EXCLANATIONCATEGORY)

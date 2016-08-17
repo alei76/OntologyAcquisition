@@ -1,0 +1,29 @@
+　教育部(Nc)　指出(VE)　，(COMMACATEGORY)
+　南(Ncd)　一(Neu)　中(Ncd)　後天(A)　主辦(Nv)　特色(Na)　招生(Nv)　考試(Na)　，(COMMACATEGORY)
+　該(Nes)　校(Nc)　也(D)　是(SHI)　闈場(Nc)　，(COMMACATEGORY)
+　明天(Nd)　下午(Nd)　將(D)　開放(VC)　看(VC)　考場(Nc)　；(SEMICOLONCATEGORY)　　該(Nes)　校(Nc)　評估(VE)　，(COMMACATEGORY)
+　座談會(Na)　參與(VC)　人數(Na)　可能(D)　超過(VJ)　百(Neu)　人(Na)　，(COMMACATEGORY)
+　校方(Na)　人力(Na)　吃緊(VH)　，(COMMACATEGORY)
+　可能(D)　來不及(D)　布置(VC)　考場(Nc)　，(COMMACATEGORY)
+　教育部(Nc)　尊重(VJ)　學校(Nc)　意願(Na)　而(Cbb)　延期(VB)　辦(VC)　座談會(Na)　。(PERIODCATEGORY)
+
+
+
+　至於(P)　台(Nc)　師大附中(Nc)　和(Caa)　竹中場(Nc)　，(COMMACATEGORY)
+　教育部(Nc)　指出(VE)　，(COMMACATEGORY)
+　因(Cbb)　憂心(VH)　有(V_2)　校(Nc)　外(Ncd)　人士(Na)　進入(VCL)　校園(Nc)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　對(P)　其(Nep)　可能(D)　作為(VG)　無法(D)　預知(VE)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　可能(D)　影響(VC)　校園(Nc)　安寧(Nv)　及(Caa)　失去(VJ)　理性(Na)　、(PAUSECATEGORY)　平和(VH)　對話(Na)　的(DE)　原意(Na)　，(COMMACATEGORY)
+　所以(Cbb)　一併(D)　延後(VC)　辦理(VC)　。(PERIODCATEGORY)
+
+
+
+　教育部長(Na)　吳思華(Nb)　今晚(Nd)　說(VE)　，(COMMACATEGORY)
+　他(Nh)　要(D)　對(P)　已(D)　報名(VA)　者(Na)　致歉(VB)　，(COMMACATEGORY)
+　但(Cbb)　下(Nes)　周(Nf)　一(Neu)　晚上(Nd)　7時(Nd)　他(Nh)　會(D)　自己(Nh)　上(VCL)　行政院(Nc)　的(DE)　網路(Na)　直播(VC)　節目(Na)　「(PARENTHESISCATEGORY)　【(PARENTHESISCATEGORY)　內閣(Na)　踹(VC)　共(Nb)　】(PARENTHESISCATEGORY)　『(PARENTHESISCATEGORY)　課(Na)　綱(Na)　微調(Na)　調(VC)　什麼(Nep)　』(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　goo.gl/VhMazU(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　--(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　
+
+　摸(VC)　頭會(Nd)　取消(VC)　了(Di)　
+
+　大家(Nh)　明天(Nd)　睡飽(VH)　一點(Dfb)　下午(Nd)　中央(Nc)　公園(Nc)　見(VE)　

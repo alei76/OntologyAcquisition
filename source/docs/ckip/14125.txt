@@ -1,0 +1,6 @@
+　明天(Nd)　5月(Nd)　31日(Nd)　下午(Nd)　4點30(Neu)　分(Nf)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　奪回(VC)　桃園(Nc)　青年(Na)　陣線(Na)　」(PARENTHESISCATEGORY)　在(P)　中壢(Nc)　車站(Nc)　前(Ncd)　舉行(VC)　桃園(Nc)　反(VC)　洗腦(Nv)　課綱(Na)　遊行(VA)　。(PERIODCATEGORY)
+　在(P)　此(Nep)　呼籲(VE)　學生(Na)　族群(Na)　，(COMMACATEGORY)
+　無論(Cbb)　你們(Nh)　學校(Nc)　是否(D)　成立(VC)　臉書(Na)　專頁(Na)　，(COMMACATEGORY)
+　請(VF)　加入(VC)　我們(Nh)　的(DE)　行列(Na)　，(COMMACATEGORY)
+　為(P)　學弟妹(Na)　乃至於(Cbb)　我們(Nh)　的(DE)　下一代(Na)　的(DE)　教育(Na)　做出(VC)　努力(VH)　。(PERIODCATEGORY)

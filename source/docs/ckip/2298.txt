@@ -1,0 +1,46 @@
+　教育部(Nc)　原訂(VE)　於(P)　今(Nd)　（(PARENTHESISCATEGORY)　6(Neu)　/(FW)　13(Neu)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　明(Nd)　兩(Neu)　天(Nf)　舉辦(VC)　「(PARENTHESISCATEGORY)　課綱(Na)　微調(A)　校園(Nc)　分區(Nc)　座談會(Na)　」(PARENTHESISCATEGORY)　臨時(A)　喊卡(Na)　，(COMMACATEGORY)
+　北區(Nc)　反(VC)　課綱(Na)　高校(Nc)　聯盟(Na)　下午(Nd)　前往(VCL)　教育部(Nc)　抗議(VE)　，(COMMACATEGORY)
+　批(VC)　教育部(Nc)　失信(VI)　、(PAUSECATEGORY)　逃避(VC)　與(Caa)　學生(Na)　當面(D)　對話(VA)　。(PERIODCATEGORY)
+
+
+
+　教育部(Nc)　昨日(Nd)　以(P)　新聞稿(Na)　發佈(VE)　座談(Na)　延期(Nv)　訊息(Na)　，(COMMACATEGORY)
+　理由(Na)　包含(VJ)　座談(Na)　場地(Na)　台南(Nc)　一(Neu)　中(Ncd)　今年(Nd)　預計(VE)　舉辦(VC)　特色(Na)　招生(Nv)　考試(Na)　，(COMMACATEGORY)
+　恐(VK)　影響(VC)　試務(Na)　準備(Nv)　工作(Na)　，(COMMACATEGORY)
+　避免(VE)　影響(VC)　考生(Na)　權益(Na)　；(SEMICOLONCATEGORY)　　以及(Caa)　憂心(VH)　校(Nc)　外(Ncd)　人士(Na)　進入(VCL)　校園(Nc)　，(COMMACATEGORY)
+　做出(VC)　無法(D)　預期(VE)　之(DE)　舉(Na)　，(COMMACATEGORY)
+　破壞(VC)　原先(D)　與(P)　學生(Na)　溝通(VC)　的(DE)　原意(Na)　。(PERIODCATEGORY)
+　北高聯(Nb)　學生(Na)　則(D)　批評(VC)　教育部(Nc)　失信(VI)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　許多(Neqa)　學生(Na)　為了(P)　與(P)　教育部(Nc)　對話(Na)　做(VC)　了(Di)　很(Dfa)　長(VH)　時間(Na)　的(DE)　努力(Nv)　，(COMMACATEGORY)
+　卻(D)　在(P)　最後(Nd)　一(Neu)　刻(Nf)　才(Da)　被(P)　片面(A)　告知(VE)　座談(Na)　取消(VC)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　北高聯(Nb)　表示(VE)　，(COMMACATEGORY)
+　現在(Nd)　的確(D)　是(SHI)　屆臨(VJ)　高中生(Na)　期末考(Na)　時間(Na)　，(COMMACATEGORY)
+　但(Cbb)　全(Neqa)　台灣(Nc)　這麼多(Neqa)　學生(Na)　共同(A)　關心(Nv)　課綱(Na)　微調(Na)　爭議(Na)　，(COMMACATEGORY)
+　教育部(Nc)　若(Cbb)　一再(D)　拖延(VJ)　，(COMMACATEGORY)
+　只(Da)　會(D)　影響(VC)　更多(Neqa)　的(DE)　學生(Na)　權益(Na)　。(PERIODCATEGORY)
+
+
+
+　教育部(Nc)　代表(Na)　現場(Nc)　接過(VC)　學生(Na)　陳情書(Na)　後(Ng)　即(D)　沒有(VJ)　多(Neqa)　作(VC)　具體(VH)　答覆(VE)　，(COMMACATEGORY)
+　學生(Na)　則(D)　強調(VE)　將(D)　會(D)　持續(VL)　發起(VC)　行動(Na)　監督(Nv)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　痛批(Na)　教育部長(Na)　部長(Na)　吳思華(Nb)　「(PARENTHESISCATEGORY)　只(Da)　思(VE)　『(PARENTHESISCATEGORY)　華(Nc)　』(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　不(D)　思(VE)　『(PARENTHESISCATEGORY)　台(Nc)　』(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　記者會(Na)　過程(Na)　中(Ng)　還(D)　有(V_2)　一(Neu)　意外(Na)　插曲(Na)　，(COMMACATEGORY)
+　是(SHI)　一(Neu)　名(Nf)　輔大(Nc)　哲學系(Nc)　博士(Na)　楊冀華(Nb)　自行(D)　印製(VC)　了(Di)　關於(P)　課綱(Na)　微調(Na)　的(DE)　意見(Na)　聲明(Na)　到場(VA)　，(COMMACATEGORY)
+　指(VG)　課綱(Na)　「(PARENTHESISCATEGORY)　不僅(Cbb)　要(VC)　微調(Na)　，(COMMACATEGORY)
+　更(D)　該(Nes)　大調(Na)　特調(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　主張(VE)　去(D)　中國化(VHC)　的(DE)　課綱(Na)　才(Da)　是(SHI)　奴性(Na)　教育(Na)　。(PERIODCATEGORY)
+　楊冀華(Nb)　欲(VK)　向(P)　現場(Nc)　學生(Na)　提問(VC)　對話(Na)　遭(P)　拒(VF)　，(COMMACATEGORY)
+　現場(Nc)　主持(VC)　的(DE)　學生(Na)　先(D)　是(SHI)　說(VE)　「(PARENTHESISCATEGORY)　我們(Nh)　跟(P)　你(Nh)　對(P)　課綱(Na)　看法(Na)　不同(VH)　，(COMMACATEGORY)
+　這裡(Ncd)　不(D)　回應(VC)　你(Nh)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　後來(Nd)　幾(Neu)　個(Nf)　學生(Na)　經過(VCL)　討論(Na)　後(Ng)　表示(VE)　「(PARENTHESISCATEGORY)　今天(Nd)　不(D)　回應(VC)　記者(Na)　以外(Ng)　的(DE)　提問(VC)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　楊冀華(Nb)　批評(VC)　學生(Na)　「(PARENTHESISCATEGORY)　你們(Nh)　說(VE)　教育部(Nc)　逃避(VC)　你們(Nh)　，(COMMACATEGORY)
+　但(Cbb)　你們(Nh)　卻(D)　逃避(VC)　我(Nh)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　學生(Na)　們(Na)　則(D)　眾(A)　口(Na)　一(D)　辭(VC)　地(DE)　答(VE)　以(P)　「(PARENTHESISCATEGORY)　謝謝(VJ)　指教(VA)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　圖(Na)　、(PAUSECATEGORY)　文(Na)　／(FW)　王顥中(Nb)　

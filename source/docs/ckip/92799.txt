@@ -1,0 +1,10 @@
+　大家(Nh)　好(VH)　，(COMMACATEGORY)
+　我們(Nh)　今天(Nd)　高三(Na)　老人(Na)　們(Na)　到(VCL)　了(Di)　建功(VA)　高中(Nc)　來(D)　做(VC)　宣傳(Na)　，(COMMACATEGORY)
+　下(VC)　著(Di)　大雨(Na)　我們(Nh)　竹苗區(Nc)　的(DE)　朋友(Na)　們(Na)　仍然(D)　完成(VC)　了(Di)　這(Nep)　個(Nf)　艱難(VH)　的(DE)　任務(Na)　。(PERIODCATEGORY)
+
+　明天(Nd)　我們(Nh)　的(DE)　活動(Na)　會(D)　在(P)　新竹(Nc)　高商(Nc)　，(COMMACATEGORY)
+　希望(VK)　各(Nes)　位(Nf)　同學(Na)　們(Na)　有(V_2)　上(Nes)　次(Nf)　沒有(D)　拿到(VC)　傳單(Na)　的(DE)　話(Na)　，(COMMACATEGORY)
+　也(D)　可以(D)　順便(D)　路過(VCL)　來(D)　領取(VC)　一下(Nd)　。(PERIODCATEGORY)
+
+　您(Nh)　每(D)　拿(VC)　一(Neu)　張(Nf)　傳單(Na)　，(COMMACATEGORY)
+　都(D)　是(SHI)　給予(VD)　我們(Nh)　最(Dfa)　大(VH)　的(DE)　肯定(Nv)　。(PERIODCATEGORY)

@@ -1,0 +1,21 @@
+　反(VC)　黑箱(A)　課綱(Na)　
+
+　衛(Nc)　教育(Na)　尊嚴(Na)　
+
+　拒(VF)　洗腦(Nv)　教育(Na)　
+
+　爭(VC)　台灣(Nc)　未來(Nd)　
+
+
+
+　我(Nh)　是(SHI)　人(Na)　
+
+　我(Nh)　要(D)　有(V_2)　屬於(VG)　人(Na)　的(DE)　基本(A)　人權(Na)　
+
+　我(Nh)　是(SHI)　學生(Na)　
+
+　我(Nh)　要(D)　有(V_2)　屬於(VG)　學生(Na)　的(DE)　健全(VHC)　教育(Na)　
+
+　我(Nh)　是(SHI)　台灣人(Na)　
+
+　我(Nh)　要(D)　有(V_2)　屬於(VG)　台灣人(Na)　的(DE)　民族(Na)　尊嚴(Na)　

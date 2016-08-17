@@ -1,0 +1,23 @@
+　陳文成(Nb)　，(COMMACATEGORY)
+　ㄧ(Nb)　個(Nf)　被(P)　歷史(Na)　推墜(VC)　的(DE)　名字(Na)　，(COMMACATEGORY)
+　他(Nh)　出生(VA)　在(P)　尚未(D)　解嚴(VA)　的(DE)　台灣(Nc)　，(COMMACATEGORY)
+　而後(D)　就讀(VCL)　台大(Nc)　數學系(Nc)　，(COMMACATEGORY)
+　並(Cbb)　赴(VCL)　美(Nc)　求學(VA)　任教(VA)　，(COMMACATEGORY)
+　在(P)　海外(Nc)　留學(Nv)　期間(Na)　，(COMMACATEGORY)
+　持續(VL)　以(P)　行動(Na)　關心(VK)　台灣(Nc)　民主化(VHC)　發展(Nv)　。(PERIODCATEGORY)
+
+
+
+　一九八(Neu)　ㄧ年(Nd)　，(COMMACATEGORY)
+　他(Nh)　三十一(Neu)　歲(Nf)　，(COMMACATEGORY)
+　回(VCL)　台灣(Nc)　返鄉(Nv)　省親(Nv)　，(COMMACATEGORY)
+　七月(Nd)　二日(Nd)　，(COMMACATEGORY)
+　被(P)　當時(Nd)　的(DE)　警總(Nc)　約談(VC)　。(PERIODCATEGORY)
+　次日(Nd)　早晨(Nd)　，(COMMACATEGORY)
+　他(Nh)　被(P)　發現(VE)　陳屍(VA)　在(P)　研究生(Na)　圖書館(Nc)　的(DE)　草皮(Na)　上(Ncd)　。(PERIODCATEGORY)
+
+
+
+　有(V_2)　人(Na)　說(VE)　他(Nh)　是(SHI)　自己(Nh)　跳樓(VA)　，(COMMACATEGORY)
+　也(D)　有(V_2)　人(Na)　說(VE)　，(COMMACATEGORY)
+　......(ETCCATEGORY)　。(PERIODCATEGORY)

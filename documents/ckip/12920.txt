@@ -1,0 +1,31 @@
+　桃區(Nb)　高校(Nc)　聯盟(Na)　，(COMMACATEGORY)
+　針對(P)　教育部(Nc)　新聞稿(Na)　之(DE)　回應(Nv)　
+
+
+
+　桃區(Nb)　高校(Nc)　聯盟(Na)　（(PARENTHESISCATEGORY)　以下(Ncd)　簡稱(VG)　桃高盟(Na)　）(PARENTHESISCATEGORY)　以(P)　學生(Na)　立場(Na)　來(D)　闡述(VE)　以下(Ncd)　回應(VC)　與(Caa)　看法(Na)　：(COLONCATEGORY)　
+
+
+
+　第一(Neu)　：(COLONCATEGORY)　　再次(D)　重聲(Na)　，(COMMACATEGORY)
+　我們(Nh)　桃(Na)　高(VH)　盟(Na)　要求(VF)　公開(VHC)　微調(A)　課綱(Na)　時(Ng)　的(DE)　相關(VH)　資訊(Na)　，(COMMACATEGORY)
+　包含(VJ)　公布(VE)　錄音檔(Na)　還(D)　有(V_2)　投票(Nv)　白紙(Na)　。(PERIODCATEGORY)
+
+　第二(Neu)　：(COLONCATEGORY)　　我們(Nh)　桃(Na)　高(VH)　盟(Na)　也(D)　同時(Nd)　要求(VF)　，(COMMACATEGORY)
+　對於(P)　之前(Nd)　投票(Nv)　疑義(Na)　之(DE)　事(Na)　，(COMMACATEGORY)
+　教育部(Nc)　應當(D)　立即(D)　回應(VC)　。(PERIODCATEGORY)
+
+
+
+　教育部(Nc)　的(DE)　委任(Nv)　律師(Na)　曾(D)　言(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　主席(Na)　在(P)　委員(Na)　寫(VC)　在(P)　紙(Na)　上(Ng)　決定(VE)　哪些(Neqa)　科目(Na)　要(VC)　微調(Na)　時(Ng)　，(COMMACATEGORY)
+　說(VE)　了(Di)　會(Na)　後(Ng)　再(D)　整理(VC)　意見(Na)　，(COMMACATEGORY)
+　之後(Nd)　再(D)　公布(VE)　結果(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　其(Nep)　程序(Na)　正當性(Na)　值得(VH)　考量(VE)　，(COMMACATEGORY)
+　在(P)　不(D)　公開(VHC)　透明(VH)　的(DE)　情況(Na)　下(Ng)　，(COMMACATEGORY)
+　意見(Na)　結果(Na)　可能(D)　有(V_2)　動手腳(VA)　之(DE)　嫌(Na)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.edu.tw/pages/detail.aspx(FW)　?(QUESTIONCATEGORY)
+　Node=1088＆Page=22571＆wid=ddc91d2b-ace4-4e00-9531-fc7f63364719＆Index(FW)　=(FW)　1(Neu)　

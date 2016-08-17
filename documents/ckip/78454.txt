@@ -1,0 +1,60 @@
+　如果(Cbb)　政府(Na)　願意(VK)　正面(Na)　回應(VC)　我們(Nh)　的(DE)　訴求(Na)　，(COMMACATEGORY)
+　何必(D)　大費周章(VH)　警戒(VA)　？(QUESTIONCATEGORY)
+
+
+
+　內文(Na)　：(COLONCATEGORY)　
+
+　反(VC)　黑箱(A)　課綱(Na)　明北(Nc)　.(PERIODCATEGORY)　中(Ncd)　串聯(VC)　包圍(VC)　國教署(Nc)
+
+
+
+　教育部(Nc)　硬(D)　要(D)　新(VH)　課綱(Na)　在(P)　8月(Nd)　1日(Nd)　正式(VH)　上路(VA)　，(COMMACATEGORY)
+　讓(VL)　反(VC)　黑箱(A)　課綱(Na)　行動(Na)　，(COMMACATEGORY)
+　在(P)　全(Neqa)　台(Nc)　越(D)　演(VC)　越(D)　烈(VH)　，(COMMACATEGORY)
+　下午(Nd)　20多(Neu)　位(Nf)　反(VC)　課綱(Na)　聯盟(Na)　的(DE)　高中生(Na)　，(COMMACATEGORY)
+　在(P)　教育部(Nc)　前(Ncd)　宣布(VE)　，(COMMACATEGORY)
+　5日(Nd)　將(D)　發動(VC)　學生(Na)　，(COMMACATEGORY)
+　分別(D)　在(P)　台北(Nc)　、(PAUSECATEGORY)　台中(Nc)　包圍(VC)　國教署(Nc)　。(PERIODCATEGORY)
+　教育部(Nc)　門口(Nc)　也(D)　已經(D)　加裝(VC)　鐵門(Na)　、(PAUSECATEGORY)　柵欄(Na)　綁上(VC)　鐵絲(Na)　，(COMMACATEGORY)
+　防範(VE)　遭(P)　闖入(VCL)　。(PERIODCATEGORY)
+
+
+
+　舉(VC)　著(Di)　看板(Na)　標語(Na)　，(COMMACATEGORY)
+　呼喊(VC)　口號(Na)　，(COMMACATEGORY)
+　反(VC)　課綱(Na)　聯盟(Na)　的(DE)　高中生(Na)　們(Na)　，(COMMACATEGORY)
+　集結(VAC)　20(Neu)　位(Nf)　成員(Na)　，(COMMACATEGORY)
+　頂(VC)　著(Di)　高溫(Na)　，(COMMACATEGORY)
+　在(P)　教育部(Nc)　門口(Nc)　抗議(VE)　，(COMMACATEGORY)
+　要求(VF)　撤回(VC)　黑箱(A)　課綱(Na)　。(PERIODCATEGORY)
+
+
+
+　教育部(Nc)　大門(Na)　口(Ncd)　，(COMMACATEGORY)
+　不光(Da)　員警(Na)　警戒(VA)　，(COMMACATEGORY)
+　還(D)　有(V_2)　工人(Na)　搬來(VCL)　蛇籠(Na)　，(COMMACATEGORY)
+　周邊(Nc)　圍欄(Na)　也(D)　綁上(VC)　鐵絲(Na)　，(COMMACATEGORY)
+　連(Cbb)　玻璃門(Na)　內部(Ncd)　日前(Nd)　都(D)　先(D)　加裝(VC)　鐵門(Na)　，(COMMACATEGORY)
+　就(D)　怕(VK)　被(P)　闖入(VCL)　。(PERIODCATEGORY)
+　反(VC)　課綱(Na)　聯盟(Na)　不滿(Nv)　，(COMMACATEGORY)
+　教育部(Nc)　強硬(VH)　讓(VL)　黑箱(A)　課綱(Na)　在(P)　8月(Nd)　1日(Nd)　上路(VA)　，(COMMACATEGORY)
+　學生(Na)　多(Neqa)　次(Nf)　請願(VA)　，(COMMACATEGORY)
+　卻(D)　只(Da)　得到(VJ)　教育部(Nc)　，(COMMACATEGORY)
+　「(PARENTHESISCATEGORY)　不(D)　接觸(VC)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　不(D)　妥協(VA)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　不(D)　討論(VE)　」(PARENTHESISCATEGORY)　回應(Nv)　，(COMMACATEGORY)
+　決定(VE)　7月(Nd)　5日(Nd)　在(P)　台北(Nc)　、(PAUSECATEGORY)　台中(Nc)　採取(VC)　公民(Na)　論壇(Na)　，(COMMACATEGORY)
+　包圍(VC)　國教署(Nc)　抗議(Nv)　。(PERIODCATEGORY)
+
+
+
+　其實(D)　高中(Nc)　課綱(Na)　微調(Na)　爭議(Na)　，(COMMACATEGORY)
+　6月(Nd)　初(Ng)　就(D)　開始(VL)　爆發(VJ)　，(COMMACATEGORY)
+　日前(Nd)　又(D)　有(V_2)　學生(Na)　夜(Nd)　闖(VC)　教育部(Nc)　潑漆(VC)　，(COMMACATEGORY)
+　抗爭(Na)　行動(Na)　幾乎(Da)　全(Neqa)　台(Nc)　遍(Neqa)　地(DE)　開花(VH)　，(COMMACATEGORY)
+　學生(Na)　們(Na)　要(D)　用(P)　實際(VH)　行動(Na)　爭取(VC)　權益(Na)　。(PERIODCATEGORY)
+　（(PARENTHESISCATEGORY)　民(Na)　視(P)　新聞(Na)　劉俐(Nb)　均(D)　、(PAUSECATEGORY)　吳培嘉(Nb)　台北(Nc)　報導(Na)　）(PARENTHESISCATEGORY)　
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.ftv.com.tw/newscontent.aspx(FW)　?(QUESTIONCATEGORY)
+　sno=2015704L13M(FW)　1(Neu)　

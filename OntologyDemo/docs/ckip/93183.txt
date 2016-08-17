@@ -1,0 +1,14 @@
+　課綱(Na)　微調(Na)　委員(Na)　吳昆財(Nb)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　歷史(Na)　上下(Ncd)　五千(Neu)　年(Nf)　，(COMMACATEGORY)
+　東西(Na)　十萬(Neu)　年(Nf)　都(D)　一樣(VH)　，(COMMACATEGORY)
+　所有(Neqa)　民族(Na)　為(VG)　求(VC)　生存(VH)　發展(VC)　一樣(VH)　會(D)　使用(VC)　國家力(Na)　，(COMMACATEGORY)
+　國家力(Na)　包括(VK)　政治(Na)　與(Caa)　法律(Na)　，(COMMACATEGORY)
+　這(Nep)　沒有(VJ)　對錯(Na)　。(PERIODCATEGORY)
+
+　全(Neqa)　世界(Nc)　教科書(Na)　都(D)　是(SHI)　為(P)　政治(Na)　而(Caa)　服務(Nv)　，(COMMACATEGORY)
+　沒有(D)　講(VE)　學術(Na)　自由(VH)　的(T)　啦(T)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　委員(Na)　，(COMMACATEGORY)
+　我(Nh)　以為(VE)　你(Nh)　要(D)　說(VE)　全(Neqa)　世界(Nc)　的(DE)　教科書(Na)　都(D)　要(D)　為(P)　中國(Nc)　政治(Na)　服務(Nv)　。(PERIODCATEGORY)

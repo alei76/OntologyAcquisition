@@ -1,0 +1,40 @@
+　「(PARENTHESISCATEGORY)　還(D)　我(Nh)　歷史(Na)　真相(Na)　，(COMMACATEGORY)
+　拒絕(VF)　黑箱(A)　課綱(Na)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　－(FW)　台南(Nc)　女中(Nc)　裝飾(VC)　藝術(Na)　蔣(Nb)　
+
+
+
+　蔣介石(Nb)　的(DE)　歷史(Na)　定位(Na)　至今(D)　仍(D)　有(V_2)　許多(Neqa)　爭議(Na)　，(COMMACATEGORY)
+　及(Caa)　其(Nep)　所(D)　掌控(VC)　的(DE)　黨國(Na)　體制(Na)　更(D)　是(SHI)　壓迫(VC)　了(Di)　以(P)　台灣(Nc)　為(VG)　主體(Na)　的(DE)　史觀(Na)　，(COMMACATEGORY)
+　與(P)　今日(Nd)　的(DE)　課(Na)　綱(Na)　微調(Na)　爭議(Na)　相對照(VJ)　，(COMMACATEGORY)
+　執政(Nv)　者(Na)　以(P)　政治(Na)　手段(Na)　介入(VC)　教育(Na)　，(COMMACATEGORY)
+　不免(D)　有(V_2)　民主(Na)　倒退(VA)　，(COMMACATEGORY)
+　威權(Na)　復辟(VA)　之(DE)　諷(VCL)　。(PERIODCATEGORY)
+
+
+
+　南蠻(Na)　特別(VH)　選(VC)　在(P)　高三(Na)　畢業(VH)　的(DE)　今天(Nd)　，(COMMACATEGORY)
+　為(P)　蔣介石(Nb)　銅像(Na)　套上(VC)　黑箱(A)　，(COMMACATEGORY)
+　在(P)　兩(Neu)　側(Ncd)　懸掛(VC)　「(PARENTHESISCATEGORY)　還(D)　我(Nh)　歷史(Na)　真相(Na)　，(COMMACATEGORY)
+　拒絕(VF)　黑箱(A)　課綱(Na)　」(PARENTHESISCATEGORY)　的(DE)　紅(VH)　布條(Na)　，(COMMACATEGORY)
+　除了(P)　欲(VK)　喚起(VC)　大家(Nh)　對(P)　銅像(Na)　存在(VA)　校園(Nc)　中(Ncd)　的(DE)　思索(VE)　，(COMMACATEGORY)
+　更(D)　是(SHI)　希望(VK)　引起(VC)　師生(Na)　們(Na)　對(P)　課綱(Na)　微調(Na)　的(DE)　正視(Nv)　與(Caa)　討論(Nv)　！(EXCLANATIONCATEGORY)
+
+
+
+　此(Nep)　次(Nf)　行動(Na)　，(COMMACATEGORY)
+　除了(P)　對(P)　銅像(Na)　存在(VA)　校園(Nc)　的(DE)　質疑(Nv)　與(Caa)　挑戰(Na)　，(COMMACATEGORY)
+　更(D)　是(SHI)　反對(VE)　威權(Na)　時代(Na)　所(D)　遺留下(VD)　的(DE)　產物(Na)　以及(Caa)　政治(Na)　黑手(Na)　伸進(VCL)　我們(Nh)　的(DE)　教育(Na)　！(EXCLANATIONCATEGORY)
+　希望(VK)　校方(Na)　可以(D)　透過(P)　校務(Na)　會議(Na)　決議(Na)　銅像(Na)　退出(VCL)　校園(Nc)　，(COMMACATEGORY)
+　落實(VHC)　校園(Nc)　轉型(Nv)　正義(Na)　。(PERIODCATEGORY)
+
+
+
+　「(PARENTHESISCATEGORY)　我們(Nh)　到底(D)　要(VE)　什麼(Nep)　樣(Nf)　的(DE)　教育(Na)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　教育(Na)　的(DE)　價值(Na)　是(SHI)　什麼(Nep)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　是(SHI)　能夠(D)　讓(VL)　我們(Nh)　學習(VC)　如何(D)　做(VC)　一(Neu)　個人(Nh)　；(SEMICOLONCATEGORY)　　抑或(Caa)　是(SHI)　淪為(VG)　執政(Nv)　者(Na)　所(D)　操弄(VC)　的(DE)　工具(Na)　？(QUESTIONCATEGORY)
+
+
+
+　站(VA)　在(P)　銅像(Na)　面前(Nc)　，(COMMACATEGORY)
+　台灣(Nc)　的(DE)　歷史(Na)　與(Caa)　未來(Nd)　正在(D)　向(P)　我們(Nh)　提問(VC)　！(EXCLANATIONCATEGORY)

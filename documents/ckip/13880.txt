@@ -1,0 +1,6 @@
+　如(P)　各(Nes)　位(Nf)　所(D)　料(VE)　，(COMMACATEGORY)
+　教育部(Nc)　大費周章(VH)　開(VC)　臨時(A)　記者會(Na)　，(COMMACATEGORY)
+　還是(D)　說出(VE)　這(Nep)　種(Nf)　激怒(VC)　民眾(Na)　的(DE)　話(Na)　，(COMMACATEGORY)
+　相信(VK)　去年(Nd)　學運(Na)　的(DE)　光景(Na)　將(D)　會(D)　於(P)　教育部(Nc)　重現(VA)　。(PERIODCATEGORY)
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1335494(Neu)　

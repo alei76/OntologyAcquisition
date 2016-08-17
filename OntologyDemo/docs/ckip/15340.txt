@@ -1,0 +1,61 @@
+　【(PARENTHESISCATEGORY)　學生(Na)　談談(VE)　—(DASHCATEGORY)　為什麼(D)　要(D)　反對(VE)　課綱(Na)　微調(Na)　？(QUESTIONCATEGORY)
+　】(PARENTHESISCATEGORY)　
+
+
+
+　國中(Nc)　到(VCL)　高中(Nc)　的(DE)　這(Nep)　段(Nf)　時間(Na)　，(COMMACATEGORY)
+　我(Nh)　對(P)　歷史(Na)　課本(Na)　中(Ng)　的(DE)　字句(Na)　都(D)　深信不疑(VI)　，(COMMACATEGORY)
+　因為(Cbb)　歷史(Na)　就(D)　是(SHI)　過去(Nd)　確實(D)　發生(VJ)　過(Di)　的(DE)　事情(Na)　，(COMMACATEGORY)
+　有(V_2)　甚麼(Nep)　好(Dfa)　懷疑(VK)　的(T)　呢(T)　？(QUESTIONCATEGORY)
+　又(D)　因為(Cbb)　各(Nes)　種(Nf)　升學(Nv)　考試(Na)　，(COMMACATEGORY)
+　那時(Nd)　也(D)　不會(D)　去(D)　深入(VH)　思考(VE)　台灣(Nc)　的(DE)　歷史(Na)　對(P)　我(Nh)　有(V_2)　甚麼(Nep)　意義(Na)　。(PERIODCATEGORY)
+　只是(D)　在意(VK)　是否(D)　背熟(VC)　每(Nes)　個(Nf)　朝代(Na)　？(QUESTIONCATEGORY)
+　選擇題(Na)　的(DE)　四(Neu)　個(Nf)　選項(Na)　，(COMMACATEGORY)
+　哪(Nep)　一(Neu)　個(Nf)　才(Da)　正確(VH)　。(PERIODCATEGORY)
+
+
+
+　直到(P)　大學(Nc)　念(VC)　了(Di)　政治(Na)　學系(Na)　，(COMMACATEGORY)
+　要(D)　開始(VL)　了解(VK)　其他(Neqa)　國家(Na)　的(DE)　政治(Na)　發展(Na)　時(Ng)　，(COMMACATEGORY)
+　都(D)　一定(D)　先(D)　從(P)　了解(VK)　該(Nes)　國(Nc)　的(DE)　歷史(Na)　開始(VH)　。(PERIODCATEGORY)
+　有(V_2)　位(Nf)　教授(Na)　中國(Nc)　政治史(Na)　的(DE)　老師(Na)　這麼(D)　說(VE)　過(Di)　：(COLONCATEGORY)　　歷史(Na)　是(SHI)　根(Na)　，(COMMACATEGORY)
+　而(Cbb)　政治(Na)　是(SHI)　枝(Na)　。(PERIODCATEGORY)
+
+
+
+　此(Nep)　次(Nf)　課綱(Na)　微調(Na)　引起(VC)　學界(Nc)　這麼(Dfa)　大(VH)　的(DE)　反彈(Nv)　，(COMMACATEGORY)
+　就(D)　正(D)　是(SHI)　因為(Cbb)　這(Nep)　過程(Na)　黑箱(A)　，(COMMACATEGORY)
+　內容(Na)　又(D)　忽略(VJ)　長期(Nd)　研究(Nv)　台灣(Nc)　這(Nep)　塊(Nf)　土地(Na)　的(DE)　歷史(Na)　學者(Na)　們(Na)　的(DE)　專業(VH)　。(PERIODCATEGORY)
+　而且(Cbb)　馬(Na)　政府(Na)　從(P)　去年(Nd)　就(D)　不斷(D)　在(P)　強塞服貿(Na)　協議(Na)　要(D)　讓(VL)　台灣(Nc)　更(D)　靠近(VC)　中國(Nc)　，(COMMACATEGORY)
+　這(Nep)　次(Nf)　課綱(Na)　微調(Na)　的(DE)　時機(Na)　敏感(VH)　，(COMMACATEGORY)
+　不免(D)　讓(VL)　人(Na)　懷疑(VK)　是否(D)　馬(Na)　政府(Na)　要(D)　讓(VL)　更多(Neqa)　的(DE)　台灣(Nc)　價值(Na)　整(Neqa)　個(Nf)　抹消(VC)　殆盡(VH)　？(QUESTIONCATEGORY)
+　首先(D)　是(SHI)　經濟(Na)　，(COMMACATEGORY)
+　而後(D)　是(SHI)　認同(VJ)　。(PERIODCATEGORY)
+
+
+
+　如果(Cbb)　這(Nep)　次(Nf)　台灣(Nc)　人民(Na)　又(D)　再一次(D)　放任(VL)　政府(Na)　以(P)　違反(VJ)　程序(Na)　正義(Na)　的(DE)　手段(Na)　，(COMMACATEGORY)
+　暗度陳倉(Na)　、(PAUSECATEGORY)　各(Nes)　種(Nf)　重大(VH)　議題(Na)　不(D)　由(P)　各界(Na)　參與(VC)　討論(VE)　，(COMMACATEGORY)
+　資訊(Na)　又(D)　不(D)　透明(VH)　公開(VHC)　，(COMMACATEGORY)
+　那麼(Dk)　台灣(Nc)　引以為傲(VI)　的(DE)　民主(Na)　、(PAUSECATEGORY)　法治(Na)　的(DE)　精神(Na)　，(COMMACATEGORY)
+　完全(D)　被(P)　這(Nep)　個(Nf)　政府(Na)　用(P)　爛(VH)　了(T)　！(EXCLANATIONCATEGORY)
+
+
+
+　所以(Cbb)　，(COMMACATEGORY)
+　在(P)　此(Nep)　呼籲(VE)　，(COMMACATEGORY)
+　不只(Da)　是(SHI)　此(Nep)　次(Nf)　課綱(Na)　微調(Na)　的(DE)　爭議(Na)　，(COMMACATEGORY)
+　從(P)　馬英九(Nb)　連任(VG)　以來(Ng)　，(COMMACATEGORY)
+　各(Nes)　種(Nf)　政府(Na)　以(P)　公權力(Na)　侵害(Nv)　人民(Na)　財產(Na)　、(PAUSECATEGORY)　侵犯(VC)　人權(Na)　的(DE)　種種(Neqa)　作為(Na)　，(COMMACATEGORY)
+　我們(Nh)　絕對(D)　不能(D)　漠視(VJ)　！(EXCLANATIONCATEGORY)
+
+
+
+　唯有(D)　團結(VHC)　起來(Di)　，(COMMACATEGORY)
+　才(Da)　能(D)　對抗(VC)　這(Nep)　頭(Nf)　巨獸(Na)　（(PARENTHESISCATEGORY)　Leviathan(FW)　）(PARENTHESISCATEGORY)　！(EXCLANATIONCATEGORY)
+
+
+
+　反(VC)　洗腦(Nv)　課綱(Na)　學生(Na)　陣線(Na)　
+
+　政大(Nc)　分(VC)　會長(Na)　政大(Nc)　政治(Na)　學系(Na)　黎信政(Nb)　

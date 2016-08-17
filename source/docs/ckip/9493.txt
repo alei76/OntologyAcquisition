@@ -1,0 +1,70 @@
+　【(PARENTHESISCATEGORY)　課綱(Na)　「(PARENTHESISCATEGORY)　微(A)　」(PARENTHESISCATEGORY)　調(VC)　資訊(Na)　─(FW)　─(FW)　國文科(Nc)　】(PARENTHESISCATEGORY)　
+
+
+
+　98(Neu)　課(Na)　綱(Na)　與(Caa)　103(Neu)　課(Na)　綱(Na)　比較(VC)　，(COMMACATEGORY)
+　台灣(Nc)　相關(VH)　題材(Na)　作品(Na)　由(P)　二成(Neqa)　減少(VHC)　至(P)　一成(Neqa)　，(COMMACATEGORY)
+　文言文(Na)　作品(Na)　比例(Na)　提高(VC)　。(PERIODCATEGORY)
+
+
+
+　根據(P)　朱宥勳(Nb)　的(DE)　說法(Na)　，(COMMACATEGORY)
+　政府(Na)　宣稱(VE)　在(P)　國文課(Na)　綱(Na)　只(Da)　「(PARENTHESISCATEGORY)　微調(Na)　」(PARENTHESISCATEGORY)　了(Di)　兩(Neu)　處(Nf)　，(COMMACATEGORY)
+　但(Cbb)　比較(VC)　98(Neu)　課綱(Na)　與(Caa)　103(Neu)　課綱(Na)　，(COMMACATEGORY)
+　國文課(Na)　綱(Na)　至少(Da)　調整(VC)　了(Di)　五(Neu)　個(Nf)　地方(Na)　：(COLONCATEGORY)　
+
+
+
+　一(Neu)　、(PAUSECATEGORY)　在(P)　舊(VH)　課綱(Na)　當中(Ng)　，(COMMACATEGORY)
+　文言文(Na)　比例(Na)　採(VC)　累進制(Na)　，(COMMACATEGORY)
+　高(VH)　一(Neu)　40(Neu)　%(Nf)　、(PAUSECATEGORY)　高二(Na)　45(Neu)　%(Nf)　、(PAUSECATEGORY)　高三(Na)　50(Neu)　%(Nf)　，(COMMACATEGORY)
+　各(Nes)　家(Nf)　教科書(Na)　可(D)　保留(VC)　正負(A)　5%(b)　增減(VC)　的(DE)　空間(Na)　。(PERIODCATEGORY)
+　新(VH)　課綱(Na)　則(D)　規定(VE)　總體(Na)　文言文(Na)　比例(Na)　是(SHI)　45(Neu)　%(Nf)　-(DASHCATEGORY)　65(Neu)　%(Nf)　，(COMMACATEGORY)
+　沒有(VJ)　另(Nes)　訂(VC)　增減(Nv)　空間(Na)　。(PERIODCATEGORY)
+
+
+
+　二(Neu)　、(PAUSECATEGORY)　在(P)　課綱(Na)　附錄(Na)　中(Ng)　，(COMMACATEGORY)
+　有(V_2)　編選(VC)　考清單(Na)　，(COMMACATEGORY)
+　舊(VH)　課綱(Na)　裡(Ng)　，(COMMACATEGORY)
+　編選(VC)　參考(VC)　清單(Na)　有(V_2)　40(Neu)　篇(Nf)　，(COMMACATEGORY)
+　其中(Nep)　台灣(Nc)　題材(Na)　的(DE)　有(V_2)　8(Neu)　篇(Nf)　；(SEMICOLONCATEGORY)　　而(Cbb)　在(P)　新(VH)　課綱(Na)　裡(Ng)　，(COMMACATEGORY)
+　參考(VC)　清單(Na)　有(V_2)　30(Neu)　篇(Nf)　，(COMMACATEGORY)
+　其中(Nep)　台灣(Nc)　題材(Na)　的(DE)　剩下(VJ)　3(Neu)　篇(Nf)　，(COMMACATEGORY)
+　比例(Na)　從(P)　20(Neu)　%(Nf)　減少到(VH)　10(Neu)　%(Nf)　。(PERIODCATEGORY)
+
+
+
+　三(Neu)　、(PAUSECATEGORY)　舊(VH)　課綱(Na)　中(Ng)　列出(VC)　的(DE)　選修(Nv)　科目(Na)　，(COMMACATEGORY)
+　包括(VK)　區域(Na)　文學(Na)　選讀(VC)　、(PAUSECATEGORY)　小說選(Na)　讀(VC)　、(PAUSECATEGORY)　論孟(Nb)　選讀(VC)　、(PAUSECATEGORY)　語文(Na)　表達(Nv)　及(Caa)　應用(Na)　。(PERIODCATEGORY)
+　新(VH)　課綱(Na)　中(Ng)　，(COMMACATEGORY)
+　則(D)　只(Da)　有(V_2)　中華(Nc)　文化(Na)　基本(A)　教材(Na)　。(PERIODCATEGORY)
+
+
+
+　四(Neu)　、(PAUSECATEGORY)　舊(VH)　課綱(Na)　中(Ng)　，(COMMACATEGORY)
+　列有(VJ)　核心(Na)　能力(Na)　一(Neu)　節(Nf)　，(COMMACATEGORY)
+　用以(D)　評估(VE)　教學(Nv)　成果(Na)　。(PERIODCATEGORY)
+　在(P)　新(VH)　課綱(Na)　中(Ng)　遭(P)　刪除(VC)　。(PERIODCATEGORY)
+
+
+
+　五(Neu)　、(PAUSECATEGORY)　舊(VH)　課綱(Na)　中(Ng)　，(COMMACATEGORY)
+　列出(VC)　選文(Nb)　標準(Na)　為(VG)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　選文(Nb)　應(D)　語言(Na)　曉暢(Nb)　、(PAUSECATEGORY)　具(VJ)　文學性(Na)　，(COMMACATEGORY)
+　並(Cbb)　顧及(VE)　當代(Nd)　議題(Na)　（(PARENTHESISCATEGORY)　如(P)　:(COLONCATEGORY)　　海洋(Na)　文化(Na)　、(PAUSECATEGORY)　性別(Na)　平等(VH)　、(PAUSECATEGORY)　人權(Na)　法治(Na)　、(PAUSECATEGORY)　生命(Na)　教育(Na)　、(PAUSECATEGORY)　環保(Na)　教育(Na)　、(PAUSECATEGORY)　永續(VH)　發展(Na)　、(PAUSECATEGORY)　多元(A)　文化(Na)　等(Cab)　議題(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　在(P)　新(VH)　課綱(Na)　中(Ng)　遭(P)　刪除(VC)　。(PERIODCATEGORY)
+
+
+
+　以上(Ncd)　摘自(VC)　維基(Nb)　百科(Na)　
+
+　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　---(DASHCATEGORY)　-------(DASHCATEGORY)　-------(DASHCATEGORY)　
+
+　用(P)　小編(Na)　的(DE)　話(Na)　來(D)　講(VE)　，(COMMACATEGORY)
+　就是(Cbb)　新課綱(Na)　的(DE)　古文(Na)　比例(Na)　提高(VC)　、(PAUSECATEGORY)　白話文(Na)　減少(VHC)　、(PAUSECATEGORY)　台灣(Nc)　題材(Na)　文章(Na)　減少(VHC)　、(PAUSECATEGORY)　選修(Nv)　科目(Na)　剩下(VJ)　「(PARENTHESISCATEGORY)　中華(Nc)　文化(Na)　基本(A)　教材(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　多元(A)　選文(Nb)　標準(Na)　遭(P)　刪除(VC)　。(PERIODCATEGORY)
+
+
+
+　偷偷(D)　說(VE)　，(COMMACATEGORY)
+　現在(Nd)　的(DE)　課本(Na)　裡(Ncd)　那麼多(Neqa)　古文(Na)　就(D)　快(D)　讀(VC)　不(D)　下去(VA)　了(Di)　，(COMMACATEGORY)
+　更何況(Cbb)　是(SHI)　增加(VHC)　古文(Na)　比例(Na)　？(QUESTIONCATEGORY)

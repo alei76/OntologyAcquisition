@@ -1,0 +1,2 @@
+　【(PARENTHESISCATEGORY)　七月(Nd)　五日(Nd)　台灣(Nc)　上(Ncd)　街頭(Nc)　的(DE)　高中(Nc)　學生(Na)　人數(Na)　，(COMMACATEGORY)
+　由(P)　教育部(Nc)　決定(VE)　】(PARENTHESISCATEGORY)　

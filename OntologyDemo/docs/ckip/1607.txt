@@ -1,0 +1,4 @@
+　教育部(Nc)　自己(Nh)　作(VC)　賊(Na)　喊(VE)　抓(VC)　賊(Na)　、(PAUSECATEGORY)　心虛(VH)　不(D)　敢(VL)　面對(VC)　學生(Na)　，(COMMACATEGORY)
+　現在(Nd)　又(D)　想(VE)　栽贓(VC)　學生(Na)　，(COMMACATEGORY)
+　今天(Nd)　就(D)　讓(VL)　北區(Nc)　的(DE)　師生(Na)　幫(P)　你們(Nh)　複習(VC)　一(Neu)　回(Nf)　禮義廉恥(Na)　!(EXCLANATIONCATEGORY)
+　!(EXCLANATIONCATEGORY)

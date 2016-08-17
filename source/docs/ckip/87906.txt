@@ -1,0 +1,10 @@
+　生長(VH)　在(P)　台灣(Nc)　，(COMMACATEGORY)
+　以(P)　台灣(Nc)　為(VG)　主體(Na)　，(COMMACATEGORY)
+　這(Nep)　有(V_2)　錯(VH)　嗎(T)　?(QUESTIONCATEGORY)
+
+　敬愛(VJ)　的(DE)　中華民國(Nc)　馬(Na)　總統(Na)　底下(Ncd)　的(DE)　教育部(Nc)　吳思華(Nb)　部長(Na)　，(COMMACATEGORY)
+　您(Nh)　的(DE)　思維(Na)　
+
+　是(SHI)　以(P)　中華民國(Nc)　台灣(Nc)　?(QUESTIONCATEGORY)
+　或(Caa)　中國(Nc)　為(VG)　主體(Na)　?(QUESTIONCATEGORY)
+　可以(D)　告訴(VE)　學生(Na)　嗎(T)　?(QUESTIONCATEGORY)

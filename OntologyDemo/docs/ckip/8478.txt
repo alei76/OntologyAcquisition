@@ -1,0 +1,66 @@
+　過去(Nd)　社會(Na)　上(Ncd)　種種(Neqa)　議題(Na)　：(COLONCATEGORY)　
+
+　兩岸(Nc)　服務(Nv)　貿易(Na)　協議(Na)　
+
+　核四(Nc)　存廢(Na)　
+
+　都市(Na)　更新(VC)　造成(VG)　的(DE)　
+
+　大埔(Nc)　
+
+　文林(Nc)　苑(b)　等(Cab)　事件(Na)　
+
+
+
+　每(Nes)　次(Nf)　有(V_2)　學生(Na)　發聲(VA)　
+
+　總是(D)　被(P)　「(PARENTHESISCATEGORY)　大人(Na)　」(PARENTHESISCATEGORY)　駁回(VC)　
+
+　他們(Nh)　認為(VE)　我們(Nh)　學生(Na)　乖乖(VH)　讀書(VA)　就(D)　好(VH)　
+
+　其他(Neqa)　事情(Na)　不用(D)　管(VE)　那麼多(Neqa)　
+
+
+
+　但是(Cbb)　這(Nep)　一(Neu)　次(Nf)　
+
+　「(PARENTHESISCATEGORY)　課(Na)　綱(Na)　微調(Na)　」(PARENTHESISCATEGORY)　
+
+　直接(VH)　牽扯到(VC)　我們(Nh)　高中生(Na)　所(D)　學(VC)　的(DE)　東西(Na)　
+
+　不只(Da)　程序(Na)　黑箱(A)　
+
+　微調(A)　內容(Na)　也(D)　非常(Dfa)　不(D)　客觀(VH)　
+
+
+
+　首當其衝(VH)　面對(VC)　
+
+　「(PARENTHESISCATEGORY)　課(Na)　綱(Na)　微調(Na)　」(PARENTHESISCATEGORY)　的(DE)　我們(Nh)　
+
+　你(Nh)　，(COMMACATEGORY)
+　還(D)　能(D)　漠視(VJ)　不(D)　管(VE)　嗎(T)　？(QUESTIONCATEGORY)
+
+
+
+　6(Neu)　/(FW)　3(Neu)　（(PARENTHESISCATEGORY)　三(Neu)　）(PARENTHESISCATEGORY)　12(Neu)　：(COLONCATEGORY)　　05(Neu)　-(DASHCATEGORY)　12(Neu)　：(COLONCATEGORY)　　35(Neu)　
+
+　育成(VG)　高中(Nc)　地(DE)　下(Nes)　餐廳(Nc)　
+
+　將(D)　舉辦(VC)　創校(VA)　以來(Ng)　第一(Neu)　場(Nf)　學生(Na)　發起(VC)　的(DE)　
+
+　「(PARENTHESISCATEGORY)　課(Na)　綱(Na)　微調(Na)　」(PARENTHESISCATEGORY)　說明會(Na)　
+
+　現場(Nc)　除了(P)　有(V_2)　滷味(Na)　，(COMMACATEGORY)
+　麵食(Na)　，(COMMACATEGORY)
+　便當(Na)　，(COMMACATEGORY)
+　早餐(Na)　外(Ng)　
+
+　還(D)　有(V_2)　特別(VH)　來賓(Na)　
+
+　以及(Caa)　Q＆A(FW)　時間(Na)　
+
+　歡迎(VJ)　所有(Neqa)　同學(Na)　，(COMMACATEGORY)
+　老師(Na)　一同(D)　參與(VC)　
+
+　一(D)　探(VC)　教育部(Nc)　到底(D)　在(P)　搞(VC)　什麼(Nep)　鬼(Na)　

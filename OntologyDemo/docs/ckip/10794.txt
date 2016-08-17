@@ -1,0 +1,7 @@
+　【(PARENTHESISCATEGORY)　滿(Neqa)　】(PARENTHESISCATEGORY)　
+
+
+
+　謝謝(VJ)　各(Nes)　位(Nf)　同學(Na)　、(PAUSECATEGORY)　老師(Na)　今天(Nd)　踴躍(VH)　參與(VC)　講座(Na)　！(EXCLANATIONCATEGORY)
+　明天(Nd)　12(Neu)　:(COLONCATEGORY)　　20(Neu)　在(P)　科教(Na)　地下室(Nc)　還(D)　有(V_2)　一(Neu)　場(Nf)　公民(Na)　科郭復齊(Nb)　老師(Na)　主講(VE)　的(DE)　演講(Na)　，(COMMACATEGORY)
+　歡迎(VJ)　大家(Nh)　準時(VH)　參與(VC)　！(EXCLANATIONCATEGORY)

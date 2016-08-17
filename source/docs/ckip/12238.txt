@@ -1,0 +1,7 @@
+　思華(Nb)　蹺課(VA)　我(Nh)　難過(VK)　，(COMMACATEGORY)
+　清山(Nc)　請假(VA)　我(Nh)　痛心(VK)　。(PERIODCATEGORY)
+　我(Nh)　在(P)　竹中(Nc)　等(Cab)　部長(Na)　！(EXCLANATIONCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1348543(Neu)　

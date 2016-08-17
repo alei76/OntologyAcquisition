@@ -1,0 +1,9 @@
+　請問(VE)　蔡英文(Nb)　女士(Na)　與(Caa)　洪秀柱(Nb)　女士(Na)　，(COMMACATEGORY)
+　您(Nh)　是否(D)　同意(VK)　台灣(Nc)　的(DE)　學生(Na)　使用(VC)　一(Neu)　份(Nf)　「(PARENTHESISCATEGORY)　不(D)　專業(VH)　、(PAUSECATEGORY)　不(D)　多元(VH)　、(PAUSECATEGORY)　違反(VJ)　程序(Na)　正義(Na)　」(PARENTHESISCATEGORY)　的(DE)　課綱(Na)　？(QUESTIONCATEGORY)
+　是否(D)　支持(VC)　課綱(Na)　內涵(Na)　本土化(VHC)　、(PAUSECATEGORY)　修訂(Nv)　法制化(Nv)　？(QUESTIONCATEGORY)
+
+
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.nextmag.com.tw/breaking-news/news(FW)　/(FW)　20150707(Neu)　/(FW)　22323093(Neu)　

@@ -1,0 +1,5 @@
+　【(PARENTHESISCATEGORY)　地點(Na)　更改(VC)　】(PARENTHESISCATEGORY)　
+
+　由於(Cbb)　太陽(Na)　高照(VH)　，(COMMACATEGORY)
+　【(PARENTHESISCATEGORY)　高雄市(Nc)　反(VC)　黑箱(A)　課綱(Na)　高中(Nc)　聯盟(Na)　—(DASHCATEGORY)　反(VC)　黑箱(A)　反(VC)　洗腦(VB)　爭(VC)　思考(Nv)　】(PARENTHESISCATEGORY)　地點(Na)　臨時(Nd)　更改(VC)　於(P)　中央(Nc)　公園(Nc)　３(Neu)　號(Nf)　出口(Nc)　對面(Ncd)　。(PERIODCATEGORY)
+　歡迎(VJ)　各(Nes)　位(Nf)　來(D)　參與(VC)　！(EXCLANATIONCATEGORY)

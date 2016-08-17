@@ -1,0 +1,3 @@
+　教育(Na)　在(P)　台(Nc)　、(PAUSECATEGORY)　港(Nc)　威權式(A)　家庭(Na)　色彩(Na)　濃厚(VH)　的(DE)　社會(Na)　，(COMMACATEGORY)
+　更(D)　是(SHI)　培育(VC)　順民(Na)　、(PAUSECATEGORY)　愚民(A)　的(DE)　重要(VH)　媒介(Na)　。(PERIODCATEGORY)
+　政治(Na)　宰制(VC)　的(DE)　作用(Na)　就(D)　是(SHI)　透過(P)　包括(VK)　教育(Na)　在內(Ng)　各(Nes)　種(Nf)　方式(Na)　去(D)　影響(VC)　他人(Nh)　的(DE)　政治(Na)　判斷(Nv)　、(PAUSECATEGORY)　意圖(Na)　及(Caa)　行為(Na)　。(PERIODCATEGORY)

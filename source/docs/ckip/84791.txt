@@ -1,0 +1,21 @@
+　反(VC)　黑箱(A)　課綱(Na)　吳思華(Nb)　下台(VA)　
+
+　3(Neu)　小時(Na)　·(PERIODCATEGORY)
+
+　馬(Na)　總統(Na)　面對(VC)　學生(Na)　要求(VF)　撤銷(VC)　黑箱(A)　課綱(Na)　，(COMMACATEGORY)
+　竟(D)　回覆(VD)　課綱(Na)　實質(Na)　內容(Na)　佔(VJ)　比例(Na)　超過(VJ)　一半(Neqa)　沒法(D)　實施(VC)　，(COMMACATEGORY)
+　才(Da)　能(VL)　暫緩(VH)　，(COMMACATEGORY)
+　但(Cbb)　事實(Na)　上(Ncd)　沒(VJ)　這麼多(Neqa)　，(COMMACATEGORY)
+　大概(D)　頂多(Da)　100多(Neu)　項(Nf)　，(COMMACATEGORY)
+　因此(Cbb)　拒絕(VF)　撤銷(VC)　。(PERIODCATEGORY)
+
+　鄭麗君(Nb)　表示(VE)　，(COMMACATEGORY)
+　馬(Na)　總統(Na)　身為(VG)　國家(Na)　元首(Na)　，(COMMACATEGORY)
+　終於(D)　坦承(VE)　黑箱(A)　課綱(Na)　有(V_2)　上百(Neu)　項(Nf)　爭議(Na)　問題(Na)　，(COMMACATEGORY)
+　但(Cbb)　竟(D)　以(P)　問題(Na)　內容(Na)　未(D)　過半(VH)　，(COMMACATEGORY)
+　拒絕(VF)　撤銷(VC)　。(PERIODCATEGORY)
+　課綱(Na)　控制(VC)　教科書(Na)　的(DE)　編寫(Nv)　，(COMMACATEGORY)
+　對於(P)　學生(Na)　的(DE)　受教權(Na)　影響(VC)　重大(VH)　，(COMMACATEGORY)
+　有(V_2)　問題(Na)　的(DE)　內容(Na)　，(COMMACATEGORY)
+　一(Neu)　項(Nf)　都(D)　不應該(D)　有(V_2)　，(COMMACATEGORY)
+　何況(Cbb)　是(SHI)　上百(Neu)　項(Nf)　。(PERIODCATEGORY)

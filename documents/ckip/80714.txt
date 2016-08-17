@@ -1,0 +1,11 @@
+　小編(Na)　：(COLONCATEGORY)　　課綱(Na)　有(V_2)　100(Neu)　項(Nf)　問題(Na)　,(COMMACATEGORY)
+　好像(D)　滿多(VH)　的(T)　...(ETCCATEGORY)　?(QUESTIONCATEGORY)
+　且(Cbb)　如果(Cbb)　課綱(Na)　內容(Na)　真的(D)　沒(VJ)　什麼(Nep)　太(Dfa)　大(VH)　的(DE)　問題(Na)　,(COMMACATEGORY)
+　為何(D)　許多(Neqa)　學者(Na)　們(Na)　也(D)　跳出來(VA)　批評(VC)　?(QUESTIONCATEGORY)
+　小編(Na)　好(Dfa)　疑惑(VH)　啊(T)　~(FW)　~(FW)　
+
+
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.thenewslens.com/post(FW)　/(FW)　186706(Neu)　/(FW)　

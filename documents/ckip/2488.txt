@@ -1,0 +1,108 @@
+　6(Neu)　/(FW)　6(Neu)　會議(Na)　紀錄(Na)　時間(Na)　：(COLONCATEGORY)　　1210(Neu)　~(FW)　1410(Neu)　
+
+　簽到(VA)　表(VE)　:(COLONCATEGORY)　
+
+　建中(Nc)　高中(Nc)　
+
+　育成(VG)　高中(Nc)　
+
+　延平(Nc)　中學(Nc)　2(Neu)　
+
+　南山(Nc)　高中(Nc)　2(Neu)　
+
+　中和(Nc)　高中(Nc)　2(Neu)　
+
+　松山(Nc)　工農(Na)　2(Neu)　
+
+　松山(Nc)　高中(Nc)　
+
+　內湖(Nc)　高工(Nc)　2(Neu)　
+
+　復興(VC)　美工(Na)　
+
+　成淵(Nb)　高中(Nc)　
+
+　陽明(Nb)　高中(Nc)　
+
+　中崙(Nc)　高中(Nc)　
+
+　建功(VA)　高中(Nc)　3(Neu)　
+
+　師大附中(Nc)　3(Neu)　
+
+　北一女中(Nc)　
+
+　景美(Nc)　女中(Nc)　
+
+　華江(Nc)　高中(Nc)　
+
+
+
+　討論(Nv)　或(Caa)　發言(VA)　：(COLONCATEGORY)　
+
+　延平(Nc)　表示(VE)　校方(Na)　強力(VH)　打壓(VC)　，(COMMACATEGORY)
+　可能(D)　需要(VK)　外面(Ncd)　的(DE)　協助(Nv)　，(COMMACATEGORY)
+　或是(Caa)　一些(Neqa)　活動(Na)　阻力(Na)　比較(Dfa)　大(VH)　，(COMMACATEGORY)
+　其他(Neqa)　學校(Nc)　表示(VE)　願意(VK)　幫助(VC)　
+
+　建中(Nc)　提出(VC)　聯盟(Na)　內部(Ncd)　資源(Na)　（(PARENTHESISCATEGORY)　人力(Na)　物力(Na)　）(PARENTHESISCATEGORY)　分配(Nv)　等(Cab)　問題(Na)　，(COMMACATEGORY)
+　結論(Na)　：(COLONCATEGORY)　　列為(VG)　之後(Ng)　討論(VE)　之(DE)　一(Neu)　
+
+　提到(VE)　星火燎原(VH)　組織(Na)　，(COMMACATEGORY)
+　（(PARENTHESISCATEGORY)　大家(Nh)　簡短(VH)　討論(VE)　，(COMMACATEGORY)
+　並(Cbb)　無(VJ)　公開(VHC)　正式(VH)　發言(VA)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　大部分(Neqa)　內容(Na)　就(D)　是(SHI)　做(VC)　一些(Neqa)　全(Neqa)　國恩(Nb)　地區(Nc)　的(DE)　比較(Nv)　，(COMMACATEGORY)
+　並(Cbb)　無(VJ)　結論(Na)　
+
+　附中(Nc)　提出(VC)　長期(Nd)　計畫(Na)　，(COMMACATEGORY)
+　譬如(P)　製作(VC)　影片(Na)　((PARENTHESISCATEGORY)　例子(Na)　：(COLONCATEGORY)　　台灣(Nc)　吧(T)　手法(Na)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　暑假(Nd)　讓(VL)　話題(Na)　延續(VJ)　，(COMMACATEGORY)
+　附中(Nc)　校(Nc)　內(Ncd)　小組(Na)　20(Neu)　人(Na)　後續(A)　長期(Nd)　推動(VC)　沖淡(VC)　新課綱(Na)　影響力(Na)　（(PARENTHESISCATEGORY)　以(P)　社團(Na)　立場(Na)　）(PARENTHESISCATEGORY)　但是(Cbb)　另一方面(Cbb)　可能(D)　無法(D)　一直(D)　配合(VC)　聯盟(Na)　的(DE)　行動(Na)　。(PERIODCATEGORY)
+
+　聯署(VC)　沒有(VJ)　效力(Na)　((PARENTHESISCATEGORY)　北區(Nc)　聯盟(Na)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　反(VC)　對方(Nh)　表達(VC)　連署(Nv)　覺得(VK)　是(SHI)　必要(VH)　程序(Na)　，(COMMACATEGORY)
+　至少(Da)　可以(D)　呈現(VJ)　程序(Na)　（(PARENTHESISCATEGORY)　討論(VE)　中斷(VC)　，(COMMACATEGORY)
+　各(Nes)　校(Nc)　自由(Na)　決定(VE)　）(PARENTHESISCATEGORY)　
+
+　自己(Nh)　發起(VC)　而(Cbb)　非(D)　讓(VL)　社運(Na)　團體(Na)　發起(VC)　((PARENTHESISCATEGORY)　會(D)　失焦(Na)　)(PARENTHESISCATEGORY)　決策(Na)　在(P)　我們(Nh)　，(COMMACATEGORY)
+　結論(Na)　：(COLONCATEGORY)　　意識(Na)　形態(Na)　表達(VC)　權要(Na)　堅守(VJ)　
+
+　表決(VE)　：(COLONCATEGORY)　
+
+　建中(Nc)　提議(VE)　各(Nes)　校(Nc)　代表(Na)　投票(VA)　集中(VC)　((PARENTHESISCATEGORY)　激進(VH)　)(PARENTHESISCATEGORY)　or(FW)　分布(Nv)　((PARENTHESISCATEGORY)　維持(VJ)　現狀(Na)　)(PARENTHESISCATEGORY)　附中(Nc)　：(COLONCATEGORY)　　兩(DM)　者(Na)　不(D)　衝突(VH)　可(D)　採取(VC)　漸進式(A)　分工(Nv)　
+
+　投票(VA)　取消(VC)　
+
+　建中(Nc)　提議(VE)　表決(VE)　通過(VC)　之前(Ng)　的(DE)　三(Neu)　大(VH)　訴求(Na)　，(COMMACATEGORY)
+　松山(Nc)　工農(Na)　對於(P)　第三(Neu)　點(Nf)　提出(VC)　將(D)　由(P)　退回(VC)　重審(VC)　改為(VG)　刪除(VC)　，(COMMACATEGORY)
+　理由(Na)　是(SHI)　程序(Na)　問題(Na)　不會(D)　被(P)　解決(VC)　，(COMMACATEGORY)
+　建中(Nc)　表示(VE)　刪除(VC)　或(Caa)　退回(VC)　在(P)　這(Nep)　個(Nf)　情況(Na)　下(Ng)　都(D)　無法(D)　解決(VC)　等(Cab)　…(ETCCATEGORY)　經過(VCL)　充分(VH)　討論(VE)　大家(Nh)　同意(VK)　投票(VA)　後(Ng)　
+
+　訴求(Na)　退回(VC)　：(COLONCATEGORY)　　刪除(VC)　=(FW)　18(Neu)　：(COLONCATEGORY)　　1(Neu)　，(COMMACATEGORY)
+　達成(VC)　訴求(Na)　共識(Na)　
+
+　我們(Nh)　是否(D)　有(V_2)　限度(Na)　的(DE)　尋求(VC)　外界(Ncd)　資源(Na)　？(QUESTIONCATEGORY)
+　贊成(VK)　１５(Neu)　反對(VE)　１(Neu)　通過(VC)　保有(VJ)　意識(Na)　形態(Na)　表達權(Na)　的(DE)　合作(Nv)　
+
+　臨時(Nd)　動議(Na)　：(COLONCATEGORY)　
+
+　6／13(Neqa)　附中(Nc)　座談會(Na)　問題場(Nc)　締約(VA)　能(D)　容納(VJ)　200(Neu)　人(Na)　，(COMMACATEGORY)
+　我們(Nh)　的(DE)　實際(VH)　做法(Na)　?(QUESTIONCATEGORY)
+
+　要求(VF)　讓(VL)　北聯(Nc)　學生(Na)　代表(Na)　可以(D)　保障(VC)　提問權(Na)　，(COMMACATEGORY)
+　結論(Na)　：(COLONCATEGORY)　　不一定(D)　但(Cbb)　盡力(VH)　爭取(VC)　
+
+　製作(VC)　自己(Nh)　的(DE)　攝影(Na)　成果(Na)　，(COMMACATEGORY)
+　自己(Nh)　剪接出(VC)　報導(Na)　
+
+　分工(VA)　
+
+　攝影(Na)　：(COLONCATEGORY)　　延平(Nc)　張巍騰(Nb)　華江(Nc)　林穎莛(Nb)　內工(Na)　成玠翔(Nb)　育成(VG)　林子(Na)　＜(FW)　U+5F3A(FW)　＞(FW)　
+
+　紀錄(Na)　：(COLONCATEGORY)　　中崙(Nc)　鄒米妮(Nb)　師大附中(Nc)　黃玟嵐(Nb)　建中(Nc)　游博祥(Nb)　
+
+　下(Nes)　次(Nf)　開會(Nv)　時間(Na)　:(COLONCATEGORY)　　6(Neu)　/(FW)　13(Neu)　17(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　下(Nes)　次(Nf)　主席(Na)　：(COLONCATEGORY)　　附中(Nc)　11(Neu)　票(Nf)　育成(VG)　4(Neu)　建中(Nc)　1(Neu)　成(VG)　淵(Na)　
+
+　散會(VH)　

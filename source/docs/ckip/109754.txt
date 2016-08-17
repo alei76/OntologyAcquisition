@@ -1,0 +1,15 @@
+　節錄(VC)　：(COLONCATEGORY)　
+
+　高中生(Na)　反(VC)　課綱(Na)　微調(Na)　論壇(Na)　將(D)　從(P)　今晚(Nd)　起(Ng)　延燒到(VCL)　8月(Nd)　1日(Nd)　課綱(Na)　正式(VH)　上路(VA)　，(COMMACATEGORY)
+　今晚(Nd)　中(Ng)　一(Neu)　中學生(Na)　組成(VG)　的(DE)　蘋果樹(Na)　公社(Nc)　在(P)　教育部(Nc)　門(Na)　前(Ng)　舉辦(VC)　「(PARENTHESISCATEGORY)　蘋果樹(Na)　公民(Na)　論壇(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　還(D)　邀請(VC)　中央(Nc)　研究院(Nc)　副研究員(Na)　吳叡(Nb)　人(Na)　到場(VA)　演講(VA)　整整(Da)　1(Neu)　小時(Na)　，(COMMACATEGORY)
+　現場(Nc)　氣氛(Na)　平和(VH)　，(COMMACATEGORY)
+　沒有(D)　爆發(VJ)　衝突(Na)　，(COMMACATEGORY)
+　明晚(VH)　有(V_2)　其他(Neqa)　中研院(Nc)　學者(Na)　、(PAUSECATEGORY)　建中(Nc)　老師(Na)　等(Cab)　到場(VA)　開講(VA)　。(PERIODCATEGORY)
+
+
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.udn.com/xhtml/HistoryArt(FW)　?(QUESTIONCATEGORY)
+　articleid(FW)　=(FW)　4403157(Neu)　

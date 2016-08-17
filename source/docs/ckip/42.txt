@@ -1,0 +1,17 @@
+　我(Nh)　是(SHI)　慧燈人(Na)　，(COMMACATEGORY)
+　我(Nh)　反(VC)　黑箱(A)　課綱(Na)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　宜蘭(Nc)　慧燈(Na)　中學(Nc)　陳杏容(Nb)　、(PAUSECATEGORY)　高崇倫(Nb)　等(Cab)　十五(Neu)　名(Nf)　學生(Na)　組成(VG)　慧燈(Na)　反(VC)　課綱(Na)　小組(Na)　，(COMMACATEGORY)
+　今天(Nd)　在(P)　校園(Nc)　內(Ncd)　發起(VC)　「(PARENTHESISCATEGORY)　反(VC)　黑箱(A)　課綱(Na)　」(PARENTHESISCATEGORY)　行動(Na)　，(COMMACATEGORY)
+　以(P)　演講(Na)　的(DE)　方式(Na)　號召(VF)　到(P)　三百(Neu)　名(Nf)　學生(Na)　參與(VC)　，(COMMACATEGORY)
+　校長(Na)　吳松溪(Nb)　也(D)　到場(VA)　支持(VC)　學生(Na)　的(DE)　行動(Na)　。(PERIODCATEGORY)
+
+
+
+　架(VC)　粉絲(Na)　專頁(Na)　、(PAUSECATEGORY)　發(VD)　傳單(Na)　、(PAUSECATEGORY)　與(Caa)　校長(Na)　對談(VA)　。(PERIODCATEGORY)
+　慧燈(Na)　反(VC)　課綱(Na)　小組(Na)　成員(Na)　從(P)　這(Nep)　周三(Nb)　開始(VL)　利用(VC)　晚自習(VA)　的(DE)　時間(Na)　，(COMMACATEGORY)
+　挨家挨戶(D)　到(VCL)　國中部(Nc)　、(PAUSECATEGORY)　高中部(Nc)　各(Nes)　班級(Na)　發放(VD)　傳單(Na)　並(D)　傳達(VD)　反(VC)　黑箱(A)　課綱(Na)　的(DE)　訴求(Na)　，(COMMACATEGORY)
+　邀請(VC)　全(Neqa)　校(Nc)　學生(Na)　今天(Nd)　中午(Nd)　到(P)　圓形(Na)　廣場(Nc)　關心(VK)　反(VC)　黑箱(A)　課綱(Na)　議題(Na)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　m.ltn.com.tw/news/life/breakingnews(FW)　/(FW)　1347485(Neu)　

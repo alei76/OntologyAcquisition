@@ -1,0 +1,2 @@
+　【(PARENTHESISCATEGORY)　會(D)　打(VC)　老師(Na)　小(VH)　報告(Na)　的(DE)　教官(Na)　算(VG)　不(D)　算(VG)　政治力(Na)　？(QUESTIONCATEGORY)
+　】(PARENTHESISCATEGORY)　

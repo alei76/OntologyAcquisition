@@ -1,0 +1,13 @@
+　就是(Cbb)　現在(Nd)　
+
+　直播(VC)　】(PARENTHESISCATEGORY)　柔性(Na)　課綱(Na)　與(Caa)　歷史(Na)　教育(Na)　多元(A)　視野(Na)　
+
+　時間(Na)　：(COLONCATEGORY)　　6月(Nd)　5日(Nd)　((PARENTHESISCATEGORY)　週五(Nd)　)(PARENTHESISCATEGORY)　下午(Nd)　6(Neu)　:(COLONCATEGORY)　　30(Neu)　～(FW)　下午(Nd)　9(Neu)　:(COLONCATEGORY)　　00(Neu)　
+
+　直播(VC)　：(COLONCATEGORY)　　飛魚(Na)　直播(VC)　FlyFish(FW)　
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　livestre.am/57LJa(FW)　
+
+　地點(Na)　：(COLONCATEGORY)　　國立(A)　臺中(Nc)　第一(Neu)　高級(VH)　中學(Nc)　
+
+　資訊(Na)　：(COLONCATEGORY)　　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.facebook.com/events(FW)　/(FW)　398157930388976(Neu)　

@@ -1,0 +1,33 @@
+　【(PARENTHESISCATEGORY)　拒絕(VF)　密室(Na)　晤談(VA)　，(COMMACATEGORY)
+　持續(VL)　通緝(VC)　吳思華(Nb)　】(PARENTHESISCATEGORY)　
+
+　當(P)　沒(VJ)　人(Na)　願意(VK)　替(P)　你(Nh)　爭取(VC)　正義(Na)　，(COMMACATEGORY)
+　我們(Nh)　就(D)　只(Da)　能(D)　自己(Nh)　爭取(VC)　
+
+　《(PARENTHESISCATEGORY)　紙(Na)　飛機(Na)　傳聲(VA)　》(PARENTHESISCATEGORY)　
+
+　自(P)　去年(Nd)　年初(Nd)　起(Ng)　，(COMMACATEGORY)
+　反(VC)　黑箱(A)　課綱(Na)　就(D)　開始(VL)　放出(VC)　聲音(Na)　。(PERIODCATEGORY)
+　但是(Cbb)　教育部(Nc)　一直(D)　不(D)　願(VK)　回應(VC)　，(COMMACATEGORY)
+　採(VC)　著(Di)　不(D)　妥協(VA)　、(PAUSECATEGORY)　不(D)　談話(VA)　、(PAUSECATEGORY)　不(D)　退回(VC)　的(DE)　太多(VH)　忽視(VJ)　各界(Na)　聲音(Na)　。(PERIODCATEGORY)
+　又(D)　聽聞(VE)　部長(Na)　將要(D)　出國(VA)　，(COMMACATEGORY)
+　棄(VC)　廣大(VH)　抗議(Nv)　聲浪(Na)　不顧(VJ)　。(PERIODCATEGORY)
+
+　我們(Nh)　寫(VC)　了(Di)　一(Neu)　份(Nf)　給(VD)　部長(Na)　的(DE)　信(Na)　，(COMMACATEGORY)
+　也(D)　希望(VK)　大家(Nh)　當日(Nd)　能(D)　至(P)　「(PARENTHESISCATEGORY)　服務台(Nc)　」(PARENTHESISCATEGORY)　拿取(VC)　這(Nep)　封(Nf)　信(Na)　，(COMMACATEGORY)
+　在(P)　信(Na)　的(DE)　背後(Nc)　寫上(VC)　自己(Nh)　的(DE)　聲音(Na)　、(PAUSECATEGORY)　自己(Nh)　的(DE)　訴求(Na)　以及(Caa)　對(P)　退回(VC)　課綱(Na)　的(DE)　堅持(Nv)　。(PERIODCATEGORY)
+　摺成(VG)　紙(Na)　飛機(Na)　，(COMMACATEGORY)
+　我們(Nh)　用(P)　自己(Nh)　的(DE)　手(Na)　將(P)　自己(Nh)　的(DE)　期望(Na)　射入(VC)　天際(Nc)　。(PERIODCATEGORY)
+
+　考量(VE)　到(P)　有(V_2)　些(Nf)　人(Na)　無法(D)　待到(P)　最後(Nd)　遊行(VA)　至(P)　教育部(Nc)　，(COMMACATEGORY)
+　我們(Nh)　將(D)　在(P)　服務台(Nc)　設置(VC)　飛機箱(Na)　，(COMMACATEGORY)
+　讓(VL)　各(Nes)　位(Nf)　將(P)　自己(Nh)　的(DE)　心聲(Na)　投入(VC)　，(COMMACATEGORY)
+　最後(Nd)　由(P)　工作(Na)　人員(Na)　將(P)　他(Nh)　射入(VC)　教育部(Nc)　，(COMMACATEGORY)
+　讓(VL)　教育部(Nc)　的(DE)　官員(Na)　們(Na)　知道(VK)　我們(Nh)　在乎(VK)　。(PERIODCATEGORY)
+　但(Cbb)　也(D)　再次(D)　呼籲(VE)　，(COMMACATEGORY)
+　自己(Nh)　的(DE)　心聲(Na)　，(COMMACATEGORY)
+　自己(Nh)　傳達(VD)　。(PERIODCATEGORY)
+
+
+
+　*(FW)　圖(Na)　源自(VJ)　網路(Na)　

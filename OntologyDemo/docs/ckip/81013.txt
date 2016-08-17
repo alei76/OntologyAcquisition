@@ -1,0 +1,3 @@
+　難道(D)　遞(VD)　陳情書(Na)　要求(VF)　清楚(VH)　回應(VC)　
+
+　就(D)　要(D)　被(P)　警方(Na)　依(P)　違法(VA)　來(D)　擋住(VC)　嗎(T)　？(QUESTIONCATEGORY)

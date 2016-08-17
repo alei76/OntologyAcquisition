@@ -1,0 +1,6 @@
+　教育部(Nc)　依舊(D)　強調(VE)　微調(A)　內容(Na)　符合(VJ)　史實(Na)　，(COMMACATEGORY)
+　程序(Na)　合法(VH)　，(COMMACATEGORY)
+　並且(Cbb)　不斷(D)　迴避(VC)　同學(Na)　們(Na)　犀利(VH)　切要(VH)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+
+　部長(Na)　在(P)　這(Nep)　場(Nf)　座談會(Na)　中(Ng)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　失望(VH)　透(Dfb)　了(T)　！(EXCLANATIONCATEGORY)

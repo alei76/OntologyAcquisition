@@ -1,0 +1,61 @@
+　撤銷(VC)　黑箱(A)　課綱(Na)　反對(Nv)　洗腦(Nv)　教育(Na)　
+
+　公開(VHC)　黑箱(A)　程序(Na)　還(D)　我(Nh)　教育(Na)　尊嚴(Na)　
+
+
+
+　反(VC)　課綱(Na)　高校(Nc)　聯盟(Na)　學生(Na)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　我們(Nh)　花(VC)　了(Di)　非常(Dfa)　久(VH)　的(DE)　時間(Na)　準備(VC)　教育部(Nc)　舉辦(VC)　的(DE)　座談會(Na)　，(COMMACATEGORY)
+　但是(Cbb)　教育部(Nc)　卻(D)　在(P)　座談會(Na)　的(DE)　前(Nes)　一(Neu)　天(Nf)　晚上(Nd)　八(Neu)　、(PAUSECATEGORY)　九(Neu)　點(Nf)　的(DE)　時候(Na)　，(COMMACATEGORY)
+　臨時(Nd)　決定(VE)　取消(VC)　。(PERIODCATEGORY)
+　我們(Nh)　今天(Nd)　站(VA)　在(P)　這裡(Ncd)　，(COMMACATEGORY)
+　我們(Nh)　衝撞(VC)　警察(Na)　，(COMMACATEGORY)
+　我們(Nh)　讓(VL)　鐵門(Na)　變形(VH)　，(COMMACATEGORY)
+　但是(Cbb)　我(Nh)　真的(D)　不(D)　知道(VK)　，(COMMACATEGORY)
+　學生(Na)　我們(Nh)　到底(D)　要(D)　怎麼(D)　挽救(VC)　回(VCL)　我們(Nh)　已經(D)　變形(VH)　的(DE)　教育(Na)　。(PERIODCATEGORY)
+　今天(Nd)　是(SHI)　教育(Na)　變形(VH)　了(T)　，(COMMACATEGORY)
+　那(Dk)　明天(Nd)　呢(T)　，(COMMACATEGORY)
+　會不會(D)　是(SHI)　台灣(Nc)　的(DE)　未來(Nd)　？(QUESTIONCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　在(P)　警方(Na)　協調(VC)　下(Ng)　，(COMMACATEGORY)
+　國教署(Nc)　副組長(Na)　韓春樹(Nb)　出面(VA)　，(COMMACATEGORY)
+　將(D)　衝入(VCL)　署(Nc)　內(Ncd)　的(DE)　13(Neu)　名(Nf)　學生(Na)　帶出來(VC)　進行(VC)　溝通(Nv)　。(PERIODCATEGORY)
+
+
+
+　國教署(Nc)　高中職(Nc)　教育組(Nc)　副組長(Na)　韓春樹(Nb)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　針對(P)　新舊(Na)　課綱(Na)　有(V_2)　比較(Dfa)　不同(VH)　的(DE)　地方(Na)　，(COMMACATEGORY)
+　我們(Nh)　會(D)　來(D)　請(VF)　老師(Na)　在(P)　課堂(Nc)　上(Ncd)　跟(P)　學生(Na)　好好(VH)　的(DE)　溝通(Nv)　，(COMMACATEGORY)
+　好好(VH)　的(DE)　講解(Nv)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　北市(Nc)　警局(Nc)　中正(Nb)　一(Neu)　分局(Nc)　副局長(Na)　李權哲(Nb)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　學生(Na)　他們(Nh)　就坐(VA)　在(P)　那(Nep)　個(Nf)　電梯(Na)　以外(Ng)　的(DE)　迴廊(Na)　，(COMMACATEGORY)
+　就坐(VA)　在(P)　那(Nep)　個(Nf)　地方(Na)　，(COMMACATEGORY)
+　學生(Na)　也(D)　非常(Dfa)　理性(VH)　。(PERIODCATEGORY)
+　((PARENTHESISCATEGORY)　那(Dk)　我們(Nh)　警方(Na)　有(V_2)　怎麼樣(VH)　嗎(T)　?(QUESTIONCATEGORY)
+　)(PARENTHESISCATEGORY)　警方(Na)　只有(D)　在(P)　旁邊(Ncd)　戒護(VC)　而已(T)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　反(VC)　課綱(Na)　高校(Nc)　聯盟(Na)　學生(Na)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　如果(Cbb)　我們(Nh)　今天(Nd)　不(D)　站出來(VA)　的(DE)　話(Na)　，(COMMACATEGORY)
+　我們(Nh)　受到(VJ)　的(DE)　荼毒(Nv)　是(SHI)　更(D)　長遠(VH)　的(T)　，(COMMACATEGORY)
+　我們(Nh)　今天(Nd)　不(D)　站出來(VA)　，(COMMACATEGORY)
+　明天(Nd)　我們(Nh)　就(D)　站(VA)　不(D)　出來(VA)　了(Di)　。(PERIODCATEGORY)
+　」(PARENTHESISCATEGORY)　
+
+
+
+　抗議(VE)　學生(Na)　在(P)　喊(VE)　完(VH)　口號(Na)　後(Ng)　，(COMMACATEGORY)
+　陸續(D)　離去(VA)　，(COMMACATEGORY)
+　他們(Nh)　表示(VE)　，(COMMACATEGORY)
+　國教署(Nc)　雖(Cbb)　出面(VA)　回應(VC)　，(COMMACATEGORY)
+　但(Cbb)　因(Cbb)　說法(Na)　與(Caa)　之前(Nd)　相同(VH)　，(COMMACATEGORY)
+　揚言(VE)　不(D)　排除(VC)　再(D)　升級(VH)　抗議(VE)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.ntdtv.com.tw/b5/20150713/video/152435.html(FW)　

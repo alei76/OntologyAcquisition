@@ -1,0 +1,12 @@
+　小編(Na)　發現(VE)　好像(D)　沒(VJ)　什麼(Nep)　人(Na)　關注(VJ)　地理(Na)　課綱(Na)　微調(Na)　，(COMMACATEGORY)
+　但(Cbb)　地理(Na)　課綱(Na)　裡面(Ncd)　有(V_2)　兩(Neu)　個(Nf)　大(VH)　問題(Na)　。(PERIODCATEGORY)
+
+　1(Neu)　.(PERIODCATEGORY)　種族(Na)　歧視(Nv)　問題(Na)　：(COLONCATEGORY)
+　菲傭(Na)　，(COMMACATEGORY)
+　印傭(Na)　等(Cab)　歧視性(Na)　用詞(Na)　。(PERIODCATEGORY)
+
+　2(Neu)　.(PERIODCATEGORY)　國家(Na)　認同(Nv)　問題(Na)　：(COLONCATEGORY)
+　在(P)　臺灣(Nc)　地理(Na)　中(Ng)　刻意(D)　強調(VE)　中華民國(Nc)　。(PERIODCATEGORY)
+
+　稍後(D)　，(COMMACATEGORY)
+　小編(Na)　將(D)　發佈(VE)　相關(VH)　資料(Na)　。(PERIODCATEGORY)

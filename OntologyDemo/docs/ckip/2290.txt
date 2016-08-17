@@ -1,0 +1,13 @@
+　抱歉(VK)　先前(Nd)　聲明稿(Na)　不(D)　夠(Dfa)　精準(VH)　闡述(VE)　我們(Nh)　的(DE)　意思(Na)　
+
+　因此(Cbb)　以(P)　此(Nep)　篇(Nf)　更正(VC)　：(COLONCATEGORY)　
+
+　北區(Nc)　反(VC)　課綱(Na)　高校(Nc)　聯盟(Na)　不(D)　排除(VC)　用(P)　各(Nes)　種(Nf)　行動(Na)　抗爭(VA)　。(PERIODCATEGORY)
+
+　只是(Cbb)　目前(Nd)　各(Nes)　地(DE)　組織(Na)　仍(D)　在(P)　積極(VH)　串聯(VC)　、(PAUSECATEGORY)　討論(VE)　，(COMMACATEGORY)
+　尋求(VC)　行動(Na)　共識(Na)　。(PERIODCATEGORY)
+
+　因此(Cbb)　短期(Nd)　內(Ng)　未(D)　有(V_2)　行動(Na)　的(DE)　打算(Nv)　。(PERIODCATEGORY)
+
+　目前(Nd)　的(DE)　行動(Na)　，(COMMACATEGORY)
+　仍(D)　規畫(VC)　在(P)　七月(Nd)　時(Ng)　發動(VC)　。(PERIODCATEGORY)

@@ -1,0 +1,12 @@
+　「(PARENTHESISCATEGORY)　對(P)　學生(Na)　所(D)　為(VG)　行政(Na)　處分(Na)　或(Caa)　其他(Neqa)　公權力(Na)　措施(Na)　，(COMMACATEGORY)
+　如(P)　侵害(VC)　學生(Na)　受(P)　教育權(Na)　或(Caa)　其他(Neqa)　基本(A)　權利(Na)　，(COMMACATEGORY)
+　即使(Cbb)　非(D)　屬(VG)　退學(Nv)　或(Caa)　類此(VH)　之(DE)　處分(Na)　，(COMMACATEGORY)
+　本於(VJ)　《(PARENTHESISCATEGORY)　憲法(Na)　》(PARENTHESISCATEGORY)　第十六(Neu)　條(Nf)　有(V_2)　權利(Na)　即(D)　有(V_2)　救濟(VC)　之(DE)　意旨(Na)　，(COMMACATEGORY)
+　仍(D)　應許(VE)　權利(Na)　受(P)　侵害(VC)　之(DE)　學生(Na)　提起(VE)　行政(Na)　爭訟(Nv)　，(COMMACATEGORY)
+　無(VJ)　特別(VH)　限制(Na)　之(DE)　必要(Na)　。(PERIODCATEGORY)
+　在(P)　此(Nep)　範圍(Na)　內(Ng)　，(COMMACATEGORY)
+　本(Nes)　院(Nc)　釋字(Na)　第三八二號(Nd)　解釋(VE)　應(D)　予(D)　變更(VC)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　talk.ltn.com.tw/article/breakingnews(FW)　/(FW)　1336088(Neu)　

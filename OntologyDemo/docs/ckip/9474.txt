@@ -1,0 +1,6 @@
+　歡迎(VJ)　曾文(Nb)　家商(Nc)　的(DE)　加入(VC)　！(EXCLANATIONCATEGORY)
+
+　可能(D)　有(V_2)　些(Nf)　職部(Nc)　的(DE)　同學(Na)　認為(VE)　修訂(VC)　課綱(Na)　與(Caa)　職部(Nc)　學生(Na)　無關(VH)　，(COMMACATEGORY)
+　但(Cbb)　實則(D)　不然(VH)　，(COMMACATEGORY)
+　因為(Cbb)　課綱(Na)　有(V_2)　可能(D)　影響到(VJ)　的(DE)　是(SHI)　所有(Neqa)　學子(Na)　，(COMMACATEGORY)
+　包含(VJ)　你(Nh)　的(DE)　朋友(Na)　、(PAUSECATEGORY)　弟妹(Na)　、(PAUSECATEGORY)　甚至(D)　是(SHI)　你(Nh)　未來(Nd)　的(DE)　孩子(Na)　。(PERIODCATEGORY)

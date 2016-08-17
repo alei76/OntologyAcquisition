@@ -1,0 +1,22 @@
+　〔(PARENTHESISCATEGORY)　記者(Na)　林良昇(Nb)　、(PAUSECATEGORY)　蘇孟娟(Nb)　、(PAUSECATEGORY)　林曉雲／(Nb)　綜合(A)　報導(Na)　〕(PARENTHESISCATEGORY)　本(D)　想(VE)　摸頭(Na)　，(COMMACATEGORY)
+　最後(Nd)　卻(D)　是(SHI)　教長(Na)　落跑(VA)　！(EXCLANATIONCATEGORY)
+
+
+
+　高中(Nc)　校園(Nc)　反(VC)　黑箱(A)　課綱(Na)　的(DE)　熱潮(Na)　已(D)　延燒(VC)　全(Neqa)　國(Na)　，(COMMACATEGORY)
+　教育部長(Na)　吳思華(Nb)　九(Neu)　日(Nf)　晚(VH)　親(VJ)　上火線(Na)　，(COMMACATEGORY)
+　到(P)　開出(VC)　第一(Neu)　槍(Nf)　的(DE)　台中一中(Nc)　開(VC)　座談會(Na)　，(COMMACATEGORY)
+　意圖(VF)　滅火(VA)　，(COMMACATEGORY)
+　但(Cbb)　吳思華(Nb)　卻(D)　從(P)　進場(VA)　就(D)　採取(VC)　迂迴(VH)　策略(Na)　，(COMMACATEGORY)
+　不(D)　敢(VL)　直接(VH)　面對(VC)　學生(Na)　，(COMMACATEGORY)
+　先(D)　是(SHI)　從中(D)　一(Neu)　中(Ncd)　側門(Nc)　入校(VA)　，(COMMACATEGORY)
+　避開(VC)　場(Nc)　外(Ncd)　持(VC)　標語(Na)　等候(VK)　的(DE)　學生(Na)　；(SEMICOLONCATEGORY)　　座談會(Na)　時(Ng)　避重就輕(VA)　，(COMMACATEGORY)
+　未(D)　正面(D)　回應(VC)　學生(Na)　問題(Na)　；(SEMICOLONCATEGORY)　　兩(Neu)　小時(Na)　一(D)　到(VCL)　就(D)　快(D)　閃(VC)　離場(VA)　，(COMMACATEGORY)
+　座車(Na)　卻(D)　被(P)　學生(Na)　激動(VH)　包圍(VC)　，(COMMACATEGORY)
+　學生(Na)　並(D)　高呼(VE)　：(COLONCATEGORY)　　「(PARENTHESISCATEGORY)　部長(Na)　道歉(VB)　！(EXCLANATIONCATEGORY)
+　退回(VC)　課綱(Na)　！(EXCLANATIONCATEGORY)
+　」(PARENTHESISCATEGORY)　吳思華(Nb)　最後(Nd)　只(Da)　能(D)　狼狽(VH)　離去(VA)　。(PERIODCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　news.ltn.com.tw/news/focus/paper(FW)　/(FW)　888044(Neu)　

@@ -1,0 +1,19 @@
+　2008(Neu)　-(DASHCATEGORY)　01(Neu)　-(DASHCATEGORY)　23(Neu)　
+
+		
+
+　李(Nb)　禎祥(Na)　
+
+　白色恐怖(Nb)　的(DE)　輪廓(Na)　：(COLONCATEGORY)　　三萬(Neu)　件(Nf)　軍審(Na)　，(COMMACATEGORY)
+　十二萬(Neu)　人(Na)　失蹤(VH)　
+
+
+
+　對於(P)　研究(VE)　白色恐怖(Nb)　的(DE)　人(Na)　來(D)　說(VE)　，(COMMACATEGORY)
+　有(V_2)　一(Neu)　個(Nf)　終極(VH)　的(DE)　「(PARENTHESISCATEGORY)　大(VH)　哉(T)　問(VE)　」(PARENTHESISCATEGORY)　：(COLONCATEGORY)　　白色恐怖(Nb)　究竟(D)　有(V_2)　多少(Neqa)　受難者(Na)　？(QUESTIONCATEGORY)
+　這(Nep)　原本(D)　是(SHI)　一(Neu)　個(Nf)　ABC(FW)　的(DE)　問題(Na)　，(COMMACATEGORY)
+　但(Cbb)　因為(Cbb)　檔案(Na)　長期(Nd)　封鎖(VC)　或(Caa)　凐滅(VC)　，(COMMACATEGORY)
+　許多(Neqa)　受難者(Na)　又(D)　已(D)　不(D)　在(P)　人間(Nc)　，(COMMACATEGORY)
+　因此(Cbb)　難(VH)　有(V_2)　答案(Na)　。(PERIODCATEGORY)
+　但(Cbb)　我們(Nh)　可(D)　透過(P)　一些(Neqa)　脈絡(Na)　旁敲側擊(VA)　，(COMMACATEGORY)
+　試圖(VF)　勾勒(VC)　一些(Neqa)　輪廓(Na)　出來(VA)　。(PERIODCATEGORY)

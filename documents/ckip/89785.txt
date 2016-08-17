@@ -1,0 +1,34 @@
+　【(PARENTHESISCATEGORY)　緊急(VH)　通知(VC)　。(PERIODCATEGORY)
+　延期(VB)　】(PARENTHESISCATEGORY)　
+
+　【(PARENTHESISCATEGORY)　請(VF)　立刻(D)　告知(VE)　您(Nh)　身旁(Nc)　的(DE)　朋友(Na)　也(D)　請(VF)　幫忙(VC)　轉貼(VC)　】(PARENTHESISCATEGORY)　
+
+　教育部(Nc)　剛剛(D)　宣布(VE)　明日(Nd)　在(P)　台南(Nc)　一(Neu)　中(Ncd)　的(DE)　說明(Na)　座談會(Na)　延期(VB)　。(PERIODCATEGORY)
+
+
+
+　延期(VB)　。(PERIODCATEGORY)
+　延期(VB)　。(PERIODCATEGORY)
+
+
+
+　對(VH)　，(COMMACATEGORY)
+　就是(Cbb)　……(ETCCATEGORY)　的(DE)　延期(Nv)　。(PERIODCATEGORY)
+
+
+
+　原因(Na)　是(SHI)　要(D)　讓(VL)　考生(Na)　去(D)　看(VC)　考場(Nc)　
+
+
+
+　這(Nep)　是(SHI)　真的(D)　原因(Na)　嗎(T)　？(QUESTIONCATEGORY)
+　還是(D)　臨陣脫逃(VA)　？(QUESTIONCATEGORY)
+
+
+
+　教育部長(Na)　，(COMMACATEGORY)
+　請問(VE)　是(SHI)　什麼(Nep)　原因(Na)　？(QUESTIONCATEGORY)
+
+
+
+　http(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　www.appledaily.com.tw/realtimenews/article/new(FW)　/(FW)　20150612(Neu)　/(FW)　628123(Neu)　/(FW)　

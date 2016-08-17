@@ -1,0 +1,12 @@
+　景美(Nc)　女中(Nc)　的(DE)　各(Nes)　位(Nf)　同學(Na)　與(Caa)　校友(Na)　大家(Nh)　好(VH)　，(COMMACATEGORY)
+
+　請(VF)　大家(Nh)　協助(VC)　我們(Nh)　完成(VC)　此(Nep)　問卷(Na)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　能夠(D)　了解(VK)　景美(Nc)　女中(Nc)　對於(P)　此(Nep)　議題(Na)　的(DE)　態度(Na)　，(COMMACATEGORY)
+　謝謝(VJ)　大家(Nh)　!(EXCLANATIONCATEGORY)
+
+　若(Cbb)　有(V_2)　意願(Na)　成為(VG)　志工(Na)　者(Na)　，(COMMACATEGORY)
+　也(D)　歡迎(VJ)　私訊(Na)　粉絲(Na)　專頁(Na)　，(COMMACATEGORY)
+　讓(VL)　我們(Nh)　一起(D)　努力(VH)　!(EXCLANATIONCATEGORY)
+
+　https(FW)　:(COLONCATEGORY)　　/(FW)　/(FW)　docs.google.com/forms/d/1FnuEM98XEAN4mWQehwecB8jT7inUmnwXZx9Ka_8G-ac/viewform(FW)　?(QUESTIONCATEGORY)
+　usp=send_form(FW)　

@@ -1,0 +1,7 @@
+　反(VC)　黑箱(A)　課綱(Na)　,(COMMACATEGORY)
+　德光(Nd)　也(D)　在(P)　其中(Nep)　！(EXCLANATIONCATEGORY)
+
+　德光(Nd)　學生(Na)　一起(D)　站出來(VA)　,(COMMACATEGORY)
+　幫(P)　我們(Nh)　跟(P)　同學(Na)　宣傳(Na)　反(VC)　課綱(Na)　微調(Na)　
+
+　明天(Nd)　有(V_2)　大(VH)　事件(Na)　公布(VE)　
