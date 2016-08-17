@@ -118,3 +118,4 @@
 * [JExcel](http://jexcelapi.sourceforge.net/)
 * [JSoup](https://jsoup.org/)
 * [CKIP Service](http://ckipsvr.iis.sinica.edu.tw/)
+* [EHowNet](http://ehownet.iis.sinica.edu.tw/index.php)
