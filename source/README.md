@@ -97,9 +97,18 @@
 * `oa.getDocFreq("教育")`: return an integer, which is the document frequency of `教育`
 
 
+###### Save the Ontology
+* `oa.dump()`: save the Ontology into a new sheet in `result.xls`
+
+
+###### UI Version
+* `new UIFrame()`
+
+
 #### **Compile and Run the Sample Project**
 * `OntologyDemo` is an Eclipse sameple project of EHowNet, CKIP-Converter and Ontology Acquisition
 * For Eclipse:
+    * Open the project in workspace
     * `Properties-JavaBuildPath-Libraries`: add all the JAR files in `libs`
     * `Windows-Perferences-General-Workspace`: set the text file encoding to `UTF-8`
 * For Shell:
