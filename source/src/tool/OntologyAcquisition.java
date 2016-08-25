@@ -39,10 +39,7 @@ public class OntologyAcquisition {
 		tc = new TextController( EHowNetTree.getInstance(eHowNetPath) );
 		tfdf = new TfDf(tc);
 		oc = new OntologyController( rootConcept, tfdf, EHowNetTree.getInstance(eHowNetPath) );
-		File folder = new File(dirPath);
-		File[] listOfFiles = folder.listFiles();
-		for(File file : listOfFiles)
-			if ( file.isFile() )	tc.read( dirPath + file.getName() );
+		this.readDir(dirPath);
 		tfdf.analyze();
 		oc.build();
 		return oc.getRoot();
@@ -70,5 +67,13 @@ public class OntologyAcquisition {
 		if(tfdf == null)	return 0;
 		return tfdf.getDF(_text);
 	}
-	
+
+	// read the file in the directory
+	private void readDir(String _dirPath) {
+		File folder = new File(_dirPath);
+		File[] listOfFiles = folder.listFiles();
+		for(File file : listOfFiles)
+			if ( file.isFile() )	tc.read( _dirPath + file.getName() );
+			else if( file.isDirectory() )	this.readDir( _dirPath + file.getName() + "/" );
+	}
 }

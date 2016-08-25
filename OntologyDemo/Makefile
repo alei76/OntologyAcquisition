@@ -1,4 +1,3 @@
-SHELL=C:/Windows/System32/cmd.exe
 JC = javac
 SRCPATH = src
 BINPATH = bin

@@ -6,11 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.LinkedList;
@@ -175,69 +171,51 @@ public class UIPanel extends JPanel implements ActionListener, ItemListener {
 	@Override
 	public void actionPerformed(ActionEvent ae) {
 		if(ae.getSource() == btnStart) {
-			try {
-				System.setErr( new PrintStream("log.txt") );
-				// start the process
-				long timeStart = System.currentTimeMillis();
-				oa = new OntologyAcquisition( textConcept.getText(), textDir.getText(), textEHowNet.getText() );
-				OntologyNode root = oa.start();
-				long timeEnd = System.currentTimeMillis();
-				BufferedReader br = new BufferedReader( new FileReader("log.txt") );
-				String tmp = br.readLine();
-				String status = new String("");
-				while(tmp != null)	{
-					status += (tmp + "\n");
-					tmp = br.readLine();
+			// start the process
+			long timeStart = System.currentTimeMillis();
+			oa = new OntologyAcquisition( textConcept.getText(), textDir.getText(), textEHowNet.getText() );
+			OntologyNode root = oa.start();
+			long timeEnd = System.currentTimeMillis();
+			labelWarning.setVisible(true);
+			labelWarning.setText("Process Completed Successfully in " + (timeEnd - timeStart) + " ms");
+			// build the JTree
+			DefaultMutableTreeNode uiRoot = new DefaultMutableTreeNode( root.getConcept() );
+			Queue<OntologyNode> queue = new LinkedList<OntologyNode>();
+			Queue<DefaultMutableTreeNode> queueUI = new LinkedList<DefaultMutableTreeNode>();
+			queue.add(root);
+			queueUI.add(uiRoot);
+			while(queue.isEmpty() == false) {
+				OntologyNode curNode = queue.poll();
+				DefaultMutableTreeNode curUINode = queueUI.poll();
+				DefaultMutableTreeNode attrNode = new DefaultMutableTreeNode("Attributes");
+				if(curNode.getAttr().size() > 0)	curUINode.add(attrNode);
+				for( String s : curNode.getAttr() )	attrNode.add( new DefaultMutableTreeNode(s) );
+				for( OntologyNode n : curNode.getCategories() ) {
+					DefaultMutableTreeNode newUINode = new DefaultMutableTreeNode( n.getConcept() );
+					curUINode.add(newUINode);
+					queue.add(n);
+					queueUI.add(newUINode);
 				}
-				br.close();
-				labelWarning.setVisible(true);
-				if( !status.contains("Exception") )	labelWarning.setText("Process Completed Successfully in " + (timeEnd - timeStart) + " ms");
-				else {
-					labelWarning.setText("Process Failed due to Some Errors");
-					return;
-				}
-				// build the JTree
-				DefaultMutableTreeNode uiRoot = new DefaultMutableTreeNode( root.getConcept() );
-				Queue<OntologyNode> queue = new LinkedList<OntologyNode>();
-				Queue<DefaultMutableTreeNode> queueUI = new LinkedList<DefaultMutableTreeNode>();
-				queue.add(root);
-				queueUI.add(uiRoot);
-				while(queue.isEmpty() == false) {
-					OntologyNode curNode = queue.poll();
-					DefaultMutableTreeNode curUINode = queueUI.poll();
-					DefaultMutableTreeNode attrNode = new DefaultMutableTreeNode("Attributes");
-					if(curNode.getAttr().size() > 0)	curUINode.add(attrNode);
-					for( String s : curNode.getAttr() )	attrNode.add( new DefaultMutableTreeNode(s) );
-					for( OntologyNode n : curNode.getCategories() ) {
-						DefaultMutableTreeNode newUINode = new DefaultMutableTreeNode( n.getConcept() );
-						curUINode.add(newUINode);
-						queue.add(n);
-						queueUI.add(newUINode);
-					}
-				}
-				// reset the scroll panel and set bounds
-				if(scPane != null)	remove(scPane);
-				tree = new JTree(uiRoot);
-				tree.getSelectionModel().addTreeSelectionListener(new TreeSelectionListener() {
-					@Override
-					public void valueChanged(TreeSelectionEvent e) {
-						String concept = ( (DefaultMutableTreeNode)tree.getLastSelectedPathComponent() ).getUserObject().toString();
-						List<EHowNetNode> results = EHowNetTree.getInstance( textEHowNet.getText() ).searchWord(concept);
-						String buffer = e.getPath().toString() + "\n";
-						buffer += ("TF = " + oa.getTermFreq(concept) + ", ");
-						buffer += ("DF = " + oa.getDocFreq(concept) + "\n");
-						for(EHowNetNode r : results)	buffer += (r.getEhownet() + " " + r.getPos()  + "\n");
-						taInfo.setText(buffer);
-					}
-				});
-				scPane.add(tree);
-				scPane = new JScrollPane(tree);
-				add(scPane);
-				scPane.setBounds(350, 50, 400, 500);
 			}
-			catch (IOException ioe)	{
-				ioe.printStackTrace();
-			}
+			// reset the scroll panel and set bounds
+			if(scPane != null)	remove(scPane);
+			tree = new JTree(uiRoot);
+			tree.getSelectionModel().addTreeSelectionListener(new TreeSelectionListener() {
+				@Override
+				public void valueChanged(TreeSelectionEvent e) {
+					String concept = ( (DefaultMutableTreeNode)tree.getLastSelectedPathComponent() ).getUserObject().toString();
+					List<EHowNetNode> results = EHowNetTree.getInstance( textEHowNet.getText() ).searchWord(concept);
+					String buffer = e.getPath().toString() + "\n";
+					buffer += ("TF = " + oa.getTermFreq(concept) + ", ");
+					buffer += ("DF = " + oa.getDocFreq(concept) + "\n");
+					for(EHowNetNode r : results)	buffer += (r.getEhownet() + " " + r.getPos()  + "\n");
+					taInfo.setText(buffer);
+				}
+			});
+			scPane.add(tree);
+			scPane = new JScrollPane(tree);
+			add(scPane);
+			scPane.setBounds(350, 50, 400, 500);
 		}
 		if(ae.getSource() == btnCancel)	System.exit(0);
 		if(ae.getSource() == btnDump) {

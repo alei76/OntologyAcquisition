@@ -1,4 +1,4 @@
-## **Ontology Java Library API**
+## **Java - Chinese Ontology Library API**
 #### **Prerequisite**
 * JavaSE-1.7
 * UTF-8 File Encoding
@@ -64,12 +64,12 @@
 * Initialize and start with root concept, CKIP-documents and EHowNet
 
 	```java
-    OntologyAcquisition oa = new OntologyAcquisition("教育", "./docs/ckip", "./docs/ehownet_ontology.txt");
+    OntologyAcquisition oa = new OntologyAcquisition("課綱", "./docs/ckip", "./docs/ehownet_ontology.txt");
     oa.start();
     ```
 
 
-###### Search for a specific concept
+###### Search for a Specific Concept
 * For example, we search for 「會議」
 
 	```java
@@ -104,9 +104,32 @@
 ###### UI Version
 * `new UIFrame()`
 
+![Imgur](http://i.imgur.com/x7W2MpI.jpg)
+
+
+#### **Ontology Doc2Vec**
+###### Load the Tools and Build the Model
+* Add `ontologyAcquisition.jar` to classpath
+* Build the model with domain concept, CKIP-documents, EHowNet and dimension of the output vector
+
+    ```java
+    Doc2Vec d2v = new Doc2Vec("課綱", "./docs/ckip", "./docs/ehownet_ontology.txt", 5);
+    VectorModel model = d2v.build();
+    ```
+
+
+###### Features and Valid Dimension
+* `model.getFeatures()`: return a `List<String>` instance, denoting the features extraced by the model. An empty list will be returned if the process fails
+* `model.getDimension()`: return an integer equal to the valid dimension
+
+
+###### Vectors
+* `model.getDocVectors()`: return a `Map< String, List<Double> >` instance containing all the document vectors. `key` is the absolute path of a document while `value` is the vector
+* `model.getDocVector("docs/ckip/97815.txt")`: return a `List<Double>` instance denoting the vector of the document with path `docs/ckip/97815.txt`. Both path and absolute path are acceptable for the parameter
+
 
 #### **Compile and Run the Sample Project**
-* `OntologyDemo` is an Eclipse sameple project of EHowNet, CKIP-Converter and Ontology Acquisition
+* `OntologyDemo` is an Eclipse sample project of EHowNet, CKIP-Converter, Ontology Acquisition and Doc2Vec
 * For Eclipse:
     * Open the project in workspace
     * `Properties-JavaBuildPath-Libraries`: add all the JAR files in `libs`
@@ -114,9 +137,9 @@
 * For Shell:
     * `Makefile` is available
         * `OntologyDemo$ make` to compile, `OntologyDemo$ make run` to run
-    * Command to Compile and Run
+    * Commands to Compile and Run
 
-        ```java
+        ```
         OntologyDemo$ javac -d bin -sourcepath src -encoding utf8 -cp libs/jsoup-1.9.2.jar;libs/jxl.jar;libs/ontologyAcquisition.jar src/Main.java
         
         OntologyDemo$ java -Dfile.encoding=UTF-8 -cp bin;libs/jsoup-1.9.2.jar;libs/jxl.jar;libs/ontologyAcquisition.jar Main

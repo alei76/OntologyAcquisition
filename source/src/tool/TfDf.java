@@ -3,6 +3,7 @@ package tool;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 
 import tool.TextController.Sentence;
 import tool.TextController.TextFile;
@@ -37,9 +38,9 @@ public class TfDf {
 		ArrayList<TextFile> files = tc.getTextFiles();
 		for(TextFile f : files) {
 			HashSet<String> fileSet = new HashSet<String>(); 
-			ArrayList<Sentence> sentences = f.getSentences();
+			List<Sentence> sentences = f.getSentences();
 			for(Sentence s : sentences) {
-				ArrayList<Word> words = s.getWords();
+				List<Word> words = s.getWords();
 				for(Word w : words) {
 					TextData td = data.get( w.getText() );
 					if(td == null)	td = new TextData();

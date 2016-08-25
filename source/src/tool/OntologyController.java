@@ -70,7 +70,7 @@ public class OntologyController {
 			}
 			for(String s : newCategories) {
 				if(s.length() < 2 || tfdf.getDF(s) < 2)	continue;
-				if( !existConcepts.contains(s) && tfdf.getDF(s) < tfdf.getDF( curNode.getConcept() ) ) {
+				if(!existConcepts.contains(s) && tfdf.getDF(s) < tfdf.getDF( curNode.getConcept() ) && tfdf.getDF(s) > tfdf.getDF( curNode.getConcept() ) / 5) {
 					OntologyNode newNode = new OntologyNode(s);
 					curNode.addCategory(newNode);
 					existConcepts.add(s);
@@ -157,7 +157,6 @@ public class OntologyController {
 			else	workbook = Workbook.createWorkbook(new File("result2.xls"), oldbook);
 			WritableSheet sheet = workbook.createSheet( root.getConcept(), workbook.getNumberOfSheets() );
 			WritableCellFormat format = new WritableCellFormat( new WritableFont(WritableFont.createFont("Microsoft JhengHei UI"), 10) );
-			sheet.addCell( new Label(1, 2, root.getConcept(), format) );
 			row = 0;
 			this.printNode(root, 0, sheet, format);
 			workbook.write();

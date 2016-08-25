@@ -1,6 +1,7 @@
 package tool;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -53,13 +54,13 @@ public class TextController {
 			return words.add(_word);
 		}
 		
-		public ArrayList<Word> getWords() {
+		public List<Word> getWords() {
 			return words;
 		}
 		
 	}
 	
-	class TextFile {
+	public class TextFile {
 		
 		private ArrayList<Sentence> sentences;
 		private String filename; 
@@ -74,7 +75,7 @@ public class TextController {
 			filename = _filename;
 		}
 		
-		public ArrayList<Sentence> getSentences() {
+		public List<Sentence> getSentences() {
 			return sentences;
 		}
 		
@@ -101,7 +102,7 @@ public class TextController {
 	public void read(String _filename) {
 		try {
 			BufferedReader br = new BufferedReader( new FileReader(_filename) );
-			TextFile curTextFile = new TextFile(_filename);
+			TextFile curTextFile = new TextFile( new File(_filename).getCanonicalPath() );
 			Sentence curSentence = new Sentence();
 			String line = null;
 			while( ( line = br.readLine() ) != null ) {
