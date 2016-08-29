@@ -46,37 +46,39 @@ public class OntologyController {
 		existConcepts.add( root.getConcept() );
 		queue.add(root);
 		while(queue.isEmpty() == false) {
-			OntologyNode curNode = queue.poll();
-			word2Node.put(curNode.getConcept(), curNode);
-			List<EHowNetNode> results = eHowNetTree.searchWord( curNode.getConcept() );
+			OntologyNode currentNode = queue.poll();
+			word2Node.put(currentNode.getConcept(), currentNode);
+			List<EHowNetNode> results = eHowNetTree.searchWord( currentNode.getConcept() );
 			for(EHowNetNode r : results) {
 				List<EHowNetNode> children = r.getHyponymList();
 				for(EHowNetNode c : children) {
 					if( tfdf.getDF( c.getNodeName() ) < 2 || existConcepts.contains( c.getNodeName() ) || c.getNodeName().length() < 2 )	continue;
 					OntologyNode newNode = new OntologyNode( c.getNodeName() );
-					curNode.addCategory(newNode);
+					currentNode.addCategory(newNode);
 					existConcepts.add( c.getNodeName() );
 					queue.add(newNode);
 				}
 			}
-			List<Sentence> sentences = tfdf.getSentences( curNode.getConcept() );
+			List<Sentence> sentences = tfdf.getSentences( currentNode.getConcept() );
 			Set<String> newCategories = new HashSet<String>();
 			for(Sentence s : sentences) {
 				List<Word> words = s.getWords();
 				for(int idx = words.size() - 1 ; idx >= 0 ; idx--) {
 					Word curWord = words.get(idx);
-					if( curWord.getText().equals( curNode.getConcept() ) ) this.checkRules(words, idx, newCategories);
+					if( curWord.getText().equals( currentNode.getConcept() ) ) this.checkRules(words, idx, newCategories);
 				}
 			}
 			for(String s : newCategories) {
 				if(s.length() < 2 || tfdf.getDF(s) < 2)	continue;
-				if(!existConcepts.contains(s) && tfdf.getDF(s) < tfdf.getDF( curNode.getConcept() ) && tfdf.getDF(s) > tfdf.getDF( curNode.getConcept() ) / 5) {
+				if(!existConcepts.contains(s)	// concept has not been added yet 
+						&& tfdf.getDF(s) < tfdf.getDF( currentNode.getConcept() )	// child's DF is not higher than parent's
+						&& tfdf.getDF(s) > tfdf.getDF( currentNode.getConcept() ) / 5) {	// child's DF is high enough
 					OntologyNode newNode = new OntologyNode(s);
-					curNode.addCategory(newNode);
+					currentNode.addCategory(newNode);
 					existConcepts.add(s);
 					queue.add(newNode);
 				}
-				else	curNode.addAttr(s);
+				else	currentNode.addAttr(s);
 			}
 		}
 	}

@@ -113,7 +113,8 @@ public class TextController {
 					if( sSplit.length < 2 || sSplit[1].endsWith("CATEGORY") )	continue;
 					List<EHowNetNode> results = tree.searchWord(sSplit[0]);
 					for(EHowNetNode r : results)
-						if(r.getPos().startsWith(sSplit[1]) && r.getHypernym().getHyponymList().size() < 20)
+						if(r.getPos().startsWith(sSplit[1])	// same POS tag
+								&& r.getHypernym().getHyponymList().size() < 20)	// parent is not a big concept
 							sSplit[0] = r.getHypernym().getNodeName();
 					curSentence.add( new Word(sSplit[0], sSplit[1]) );
 				}
