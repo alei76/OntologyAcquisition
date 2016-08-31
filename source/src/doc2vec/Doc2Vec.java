@@ -41,6 +41,25 @@ public class Doc2Vec {
 		if(dirPath.endsWith("\\") == false && dirPath.endsWith("/") == false)	dirPath = dirPath + "/";
 	}
 	
+	// build the model with specific concepts
+	public VectorModel build(List<String> _concepts) {
+		tc = new TextController( EHowNetTree.getInstance(eHowNetPath) );
+		tfdf = new TfDf(tc);
+		oc = new OntologyController( rootConcept, tfdf, EHowNetTree.getInstance(eHowNetPath) );
+		this.readDir(dirPath);
+		tfdf.analyze();
+		oc.build();
+		concepts = new ArrayList<OntologyNode>();
+		for(String s : _concepts) {
+			OntologyNode node = oc.getNode(s);
+			if(node != null)	concepts.add(node);
+		}
+		this.extractKeywords();
+		model = new VectorModel(concepts);
+		for( TextFile f : tc.getTextFiles() )	this.analyzeDoc(f);
+		return model;
+	}
+	
 	// build the model
 	public VectorModel build() {
 		tc = new TextController( EHowNetTree.getInstance(eHowNetPath) );
